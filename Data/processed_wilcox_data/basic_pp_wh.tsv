@@ -1,0 +1,201 @@
+condition	tokens	criticalwords	grammaticality
+s_ab	I know who with gusto our uncle grabbed the food in front of _ at the holiday party _	at,the,holiday,party	True
+s_xb	I know that with gusto our uncle grabbed the food in front of _ at the holiday party _	at,the,holiday,party	False
+s_ax	I know who with gusto our uncle grabbed the food in front of _ the guests _ at the holiday party	the,guests	False
+s_xx	I know that with gusto our uncle grabbed the food in front of _ the guests _ at the holiday party	the,guests	True
+s_ab	My neighbor told me who with skill the dog caught the mouse for _ yesterday _	yesterday	True
+s_xb	My neighbor told me that with skill the dog caught the mouse for _ yesterday _	yesterday	False
+s_ax	My neighbor told me who with skill the dog caught the mouse for _ his neighbors _ yesterday	his,neighbors	False
+s_xx	My neighbor told me that with skill the dog caught the mouse for _ his neighbors _ yesterday	his,neighbors	True
+s_ab	I know who with passion the committee delivered the report to _ by the deadline _	by,the,deadline	True
+s_xb	I know that with passion the committee delivered the report to _ by the deadline _	by,the,deadline	False
+s_ax	I know who with passion the committee delivered the report to _ the president _ by the deadline	the,president	False
+s_xx	I know that with passion the committee delivered the report to _ the president _ by the deadline	the,president	True
+s_ab	You remember who without thinking the businessman showed the presentation to _ after lunch _	after,lunch	True
+s_xb	You remember that without thinking the businessman showed the presentation to _ after lunch _	after,lunch	False
+s_ax	You remember who without thinking the businessman showed the presentation to _ the visitors _ after lunch	the,visitors	False
+s_xx	You remember that without thinking the businessman showed the presentation to _ the visitors _ after lunch	the,visitors	True
+s_ab	She told me who secretly the star student stole answers to the test from _ last year _	last,year	True
+s_xb	She told me that secretly the star student stole answers to the test from _ last year _	last,year	False
+s_ax	She told me who secretly the star student stole answers to the test from _ the teacher _ last year	the,teacher	False
+s_xx	She told me that secretly the star student stole answers to the test from _ the teacher _ last year	the,teacher	True
+s_ab	She knows what with skill the collector forged the painting with _ a short while ago _	a,short,while,ago	True
+s_xb	She knows that with skill the collector forged the painting with _ a short while ago _	a,short,while,ago	False
+s_ax	She knows what with skill the collector forged the painting with _ a brush _ a short while ago	a,brush	False
+s_xx	She knows that with skill the collector forged the painting with _ a brush _ a short while ago	a,brush	True
+s_ab	We all remember what illegally the convict brought a gun into _ two weeks ago _	two,weeks,ago	True
+s_xb	We all remember that illegally the convict brought a gun into _ two weeks ago _	two,weeks,ago	False
+s_ax	We all remember what illegally the convict brought a gun into _ the prison _ two weeks ago	the,prison	False
+s_xx	We all remember that illegally the convict brought a gun into _ the prison _ two weeks ago	the,prison	True
+s_ab	My friend reported who illegally the company sold multiple assets to _ last quarter _	last,quarter	True
+s_xb	My friend reported that illegally the company sold multiple assets to _ last quarter _	last,quarter	False
+s_ax	My friend reported who illegally the company sold multiple assets to _ stock holders _ last quarter	stock,holders	False
+s_xx	My friend reported that illegally the company sold multiple assets to _ stock holders _ last quarter	stock,holders	True
+s_ab	I do not know what with malice her rival derailed the performance with _ last week _	last,week	True
+s_xb	I do not know that with malice her rival derailed the performance with _ last week _	last,week	False
+s_ax	I do not know what with malice her rival derailed the performance with _ a cruel plan _ last week	a,cruel,plan	False
+s_xx	I do not know that with malice her rival derailed the performance with _ a cruel plan _ last week	a,cruel,plan	True
+s_ab	She can guess what with much fanfare the movie star received a prize for _ during the award ceremony _	during,the,award,ceremony	True
+s_xb	She can guess that with much fanfare the movie star received a prize for _ during the award ceremony _	during,the,award,ceremony	False
+s_ax	She can guess what with much fanfare the movie star received a prize for _ her hard work _ during the award ceremony	her,hard,work	False
+s_xx	She can guess that with much fanfare the movie star received a prize for _ her hard work _ during the award ceremony	her,hard,work	True
+s_ab	The newspaper reported what brutally the suspect killed the witness with _ in the middle of the night _	in,the,middle,of,the,night	True
+s_xb	The newspaper reported that brutally the suspect killed the witness with _ in the middle of the night _	in,the,middle,of,the,night	False
+s_ax	The newspaper reported what brutally the suspect killed the witness with _ a gun _ in the middle of the night	a,gun	False
+s_xx	The newspaper reported that brutally the suspect killed the witness with _ a gun _ in the middle of the night	a,gun	True
+s_ab	We recall what clumsily the man placed a delicate plate next to _ over an hour ago _	over,an,hour,ago	True
+s_xb	We recall that clumsily the man placed a delicate plate next to _ over an hour ago _	over,an,hour,ago	False
+s_ax	We recall what clumsily the man placed a delicate plate next to _ the oven _ over an hour ago	the,oven	False
+s_xx	We recall that clumsily the man placed a delicate plate next to _ the oven _ over an hour ago	the,oven	True
+s_ab	I remember who with skill the nurse administered the new medicine to _ without any delay _	without,any,delay	True
+s_xb	I remember that with skill the nurse administered the new medicine to _ without any delay _	without,any,delay	False
+s_ax	I remember who with skill the nurse administered the new medicine to _ the patient _ without any delay	the,patient	False
+s_xx	I remember that with skill the nurse administered the new medicine to _ the patient _ without any delay	the,patient	True
+s_ab	Our friend knew who without tact the gossip column revealed family secrets to _ yesterday _	yesterday	True
+s_xb	Our friend knew that without tact the gossip column revealed family secrets to _ yesterday _	yesterday	False
+s_ax	Our friend knew who without tact the gossip column revealed family secrets to _ the public _ yesterday	the,public	False
+s_xx	Our friend knew that without tact the gossip column revealed family secrets to _ the public _ yesterday	the,public	True
+s_ab	The mayor told me what with public funds the workers repaired the bridge for _ over the summer _	over,the,summer	True
+s_xb	The mayor told me that with public funds the workers repaired the bridge for _ over the summer _	over,the,summer	False
+s_ax	The mayor told me what with public funds the workers repaired the bridge for _ the town _ over the summer	the,town	False
+s_xx	The mayor told me that with public funds the workers repaired the bridge for _ the town _ over the summer	the,town	True
+s_ab	My friend remembers what secretly the government collected sensitive data about _ using illegal methods _	using,illegal,methods	True
+s_xb	My friend remembers that secretly the government collected sensitive data about _ using illegal methods _	using,illegal,methods	False
+s_ax	My friend remembers what secretly the government collected sensitive data about _ foreign threats _ using illegal methods	foreign,threats	False
+s_xx	My friend remembers that secretly the government collected sensitive data about _ foreign threats _ using illegal methods	foreign,threats	True
+s_ab	The newspaper said who secretly the neighbors sold a convertible to _ last month _	last,month	True
+s_xb	The newspaper said that secretly the neighbors sold a convertible to _ last month _	last,month	False
+s_ax	The newspaper said who secretly the neighbors sold a convertible to _ the new couple _ last month	the,new,couple	False
+s_xx	The newspaper said that secretly the neighbors sold a convertible to _ the new couple _ last month	the,new,couple	True
+s_ab	Our neighbor said who we believe the student sent a package to _ over a week ago _	over,a,week,ago	True
+s_xb	Our neighbor said that we believe the student sent a package to _ over a week ago _	over,a,week,ago	False
+s_ax	Our neighbor said who we believe the student sent a package to _ her mother _ over a week ago	her,mother	False
+s_xx	Our neighbor said that we believe the student sent a package to _ her mother _ over a week ago	her,mother	True
+s_ab	My friend told me what recently the university hired a new administrator to help with _ for the following year _	for,the,following,year	True
+s_xb	My friend told me that recently the university hired a new administrator to help with _ for the following year _	for,the,following,year	False
+s_ax	My friend told me what recently the university hired a new administrator to help with _ increased enrollment _ for the following year	increased,enrollment	False
+s_xx	My friend told me that recently the university hired a new administrator to help with _ increased enrollment _ for the following year	increased,enrollment	True
+s_ab	She can not believe what recently my friend stole a candy bar from _ when he was young _	when,he,was,young	True
+s_xb	She can not believe that recently my friend stole a candy bar from _ when he was young _	when,he,was,young	False
+s_ax	She can not believe what recently my friend stole a candy bar from _ the store _ when he was young	the,store	False
+s_xx	She can not believe that recently my friend stole a candy bar from _ the store _ when he was young	the,store	True
+s_ab	Our neighbor reminded us what with effort the truck dragged the car out of _ last spring _	last,spring	True
+s_xb	Our neighbor reminded us that with effort the truck dragged the car out of _ last spring _	last,spring	False
+s_ax	Our neighbor reminded us what with effort the truck dragged the car out of _ the swamp _ last spring	the,swamp	False
+s_xx	Our neighbor reminded us that with effort the truck dragged the car out of _ the swamp _ last spring	the,swamp	True
+s_ab	The shop owner told me who with care the chef prepared a great meal for _ yesterday evening _	yesterday,evening	True
+s_xb	The shop owner told me that with care the chef prepared a great meal for _ yesterday evening _	yesterday,evening	False
+s_ax	The shop owner told me who with care the chef prepared a great meal for _ the guests _ yesterday evening	the,guests	False
+s_xx	The shop owner told me that with care the chef prepared a great meal for _ the guests _ yesterday evening	the,guests	True
+s_ab	My sister told me who we believe the newspaper published a long story about _ last month _	last,month	True
+s_xb	My sister told me that we believe the newspaper published a long story about _ last month _	last,month	False
+s_ax	My sister told me who we believe the newspaper published a long story about _ the mayor _ last month	the,mayor	False
+s_xx	My sister told me that we believe the newspaper published a long story about _ the mayor _ last month	the,mayor	True
+s_ab	We remember what warmly our new friend brought a large present to _ last weekend _	last,weekend	True
+s_xb	We remember that warmly our new friend brought a large present to _ last weekend _	last,weekend	False
+s_ax	We remember what warmly our new friend brought a large present to _ the birthday party _ last weekend	the,birthday,party	False
+s_xx	We remember that warmly our new friend brought a large present to _ the birthday party _ last weekend	the,birthday,party	True
+s_ab	I know who warmly the teacher congratulated the couple in front of _ at school _	at,school	True
+s_xb	I know that warmly the teacher congratulated the couple in front of _ at school _	at,school	False
+s_ax	I know who warmly the teacher congratulated the couple in front of _ the children _ at school	the,children	False
+s_xx	I know that warmly the teacher congratulated the couple in front of _ the children _ at school	the,children	True
+s_ab	You know who graciously the journalist introduced her friend to _ last year _	last,year	True
+s_xb	You know that graciously the journalist introduced her friend to _ last year _	last,year	False
+s_ax	You know who graciously the journalist introduced her friend to _ her family _ last year	her,family	False
+s_xx	You know that graciously the journalist introduced her friend to _ her family _ last year	her,family	True
+s_ab	She knows what warmly the young man waited for his date next to _ last night _	last,night	True
+s_xb	She knows that warmly the young man waited for his date next to _ last night _	last,night	False
+s_ax	She knows what warmly the young man waited for his date next to _ the theater _ last night	the,theater	False
+s_xx	She knows that warmly the young man waited for his date next to _ the theater _ last night	the,theater	True
+s_ab	He knows what carefully the lawyer interrogated the spy with _ yesterday _	yesterday	True
+s_xb	He knows that carefully the lawyer interrogated the spy with _ yesterday _	yesterday	False
+s_ax	He knows what carefully the lawyer interrogated the spy with _ bright lights _ yesterday	bright,lights	False
+s_xx	He knows that carefully the lawyer interrogated the spy with _ bright lights _ yesterday	bright,lights	True
+s_ab	They recall what warmly the woman thanked the waitress with _ last week _	last,week	True
+s_xb	They recall that warmly the woman thanked the waitress with _ last week _	last,week	False
+s_ax	They recall what warmly the woman thanked the waitress with _ a big tip _ last week	a,big,tip	False
+s_xx	They recall that warmly the woman thanked the waitress with _ a big tip _ last week	a,big,tip	True
+s_ab	He remembers who skillfully the family reassured the old woman about _ yesterday evening _	yesterday,evening	True
+s_xb	He remembers that skillfully the family reassured the old woman about _ yesterday evening _	yesterday,evening	False
+s_ax	He remembers who skillfully the family reassured the old woman about _ her daughter _ yesterday evening	her,daughter	False
+s_xx	He remembers that skillfully the family reassured the old woman about _ her daughter _ yesterday evening	her,daughter	True
+s_ab	You said who unkindly the young man abandoned his partner with _ last evening _	last,evening	True
+s_xb	You said that unkindly the young man abandoned his partner with _ last evening _	last,evening	False
+s_ax	You said who unkindly the young man abandoned his partner with _ mounting debts _ last evening	mounting,debts	False
+s_xx	You said that unkindly the young man abandoned his partner with _ mounting debts _ last evening	mounting,debts	True
+s_ab	We recall who hesitantly the student delivered the paper to _ over the summer _	over,the,summer	True
+s_xb	We recall that hesitantly the student delivered the paper to _ over the summer _	over,the,summer	False
+s_ax	We recall who hesitantly the student delivered the paper to _ the professor _ over the summer	the,professor	False
+s_xx	We recall that hesitantly the student delivered the paper to _ the professor _ over the summer	the,professor	True
+s_ab	He said who hesitantly the company collected information about _ last night _	last,night	True
+s_xb	He said that hesitantly the company collected information about _ last night _	last,night	False
+s_ax	He said who hesitantly the company collected information about _ their rivals _ last night	their,rivals	False
+s_xx	He said that hesitantly the company collected information about _ their rivals _ last night	their,rivals	True
+s_ab	They know what rudely the couple frightened the children with _ last night _	last,night	True
+s_xb	They know that rudely the couple frightened the children with _ last night _	last,night	False
+s_ax	They know what rudely the couple frightened the children with _ threats _ last night	threats	False
+s_xx	They know that rudely the couple frightened the children with _ threats _ last night	threats	True
+s_ab	He knows what with skill the spy assassinated the politician with _ last year _	last,year	True
+s_xb	He knows that with skill the spy assassinated the politician with _ last year _	last,year	False
+s_ax	He knows what with skill the spy assassinated the politician with _ a gun _ last year	a,gun	False
+s_xx	He knows that with skill the spy assassinated the politician with _ a gun _ last year	a,gun	True
+s_ab	I know what warmly the lawyer greeted the man with _ over lunch _	over,lunch	True
+s_xb	I know that warmly the lawyer greeted the man with _ over lunch _	over,lunch	False
+s_ax	I know what warmly the lawyer greeted the man with _ a smile _ over lunch	a,smile	False
+s_xx	I know that warmly the lawyer greeted the man with _ a smile _ over lunch	a,smile	True
+s_ab	You know what skillfully the maid collected water from _ last year _	last,year	True
+s_xb	You know that skillfully the maid collected water from _ last year _	last,year	False
+s_ax	You know what skillfully the maid collected water from _ the brook _ last year	the,brook	False
+s_xx	You know that skillfully the maid collected water from _ the brook _ last year	the,brook	True
+s_ab	She knows who cooly the woman congratulated the athletes with _ last summer _	last,summer	True
+s_xb	She knows that cooly the woman congratulated the athletes with _ last summer _	last,summer	False
+s_ax	She knows who cooly the woman congratulated the athletes with _ her husband _ last summer	her,husband	False
+s_xx	She knows that cooly the woman congratulated the athletes with _ her husband _ last summer	her,husband	True
+s_ab	He knows who cheerfully the hunter introduced the athletes to _ last winter _	last,winter	True
+s_xb	He knows that cheerfully the hunter introduced the athletes to _ last winter _	last,winter	False
+s_ax	He knows who cheerfully the hunter introduced his friends to _ his family _ last winter	his,family	False
+s_xx	He knows that cheerfully the hunter introduced his friends to _ his family _ last winter	his,family	True
+s_ab	They recall what with sadness the man waited for her friend in _ last night _	last,night	True
+s_xb	They recall that with sadness the man waited for her friend in _ last night _	last,night	False
+s_ax	They recall what with sadness the man waited for her friend in _ the rain _ last night	the,rain	False
+s_xx	They recall that with sadness the man waited for her friend in _ the rain _ last night	the,rain	True
+s_ab	He remembers what brutally the detective interrogated the criminal in _ yesterday _	yesterday	True
+s_xb	He remembers that brutally the detective interrogated the criminal in _ yesterday _	yesterday	False
+s_ax	He remembers what brutally the detective interrogated the criminal in _ his cell _ yesterday	his,cell	False
+s_xx	He remembers that brutally the detective interrogated the criminal in _ his cell _ yesterday	his,cell	True
+s_ab	You said what skillfully the theif stole a painting from _ last night _	last,night	True
+s_xb	You said that skillfully the theif stole a painting from _ last night _	last,night	False
+s_ax	You said what skillfully the theif stole a painting from _ the museum _ last night	the,museum	False
+s_xx	You said that skillfully the theif stole a painting from _ the museum _ last night	the,museum	True
+s_ab	We recall who sadly the doctor administered medicine to _ yesterday _	yesterday	True
+s_xb	We recall that sadly the doctor administered medicine to _ yesterday _	yesterday	False
+s_ax	We recall who sadly the doctor administered medicine to _ the old woman _ yesterday	the,old,woman	False
+s_xx	We recall that sadly the doctor administered medicine to _ the old woman _ yesterday	the,old,woman	True
+s_ab	He said what anxiously the motehr waited for her daughter in _ over the winter _	over,the,winter	True
+s_xb	He said that anxiously the mother waited for her daughter in _ over the winter _	over,the,winter	False
+s_ax	He said what anxiously the mother waited for her daughter in _ the car _ over the winter	the,car	False
+s_xx	He said that anxiously the mother waited for her daughter in _ the car _ over the winter	the,car	True
+s_ab	They know what suddenly the woman chased the intruder with _ yesterday morning _	yesterday,morning	True
+s_xb	They know that suddenly the woman chased the intruder with _ yesterday morning _	yesterday,morning	False
+s_ax	They know what suddenly the woman chased the intruder with _ a broom _ yesterday morning	a,broom	False
+s_xx	They know that suddenly the woman chased the intruder with _ a broom _ yesterday morning	a,broom	True
+s_ab	He knows what quickly the scientists delivered the article to _ last night _	last,night	True
+s_xb	He knows that quickly the scientists delivered the article to _ last night _	last,night	False
+s_ax	He knows what quickly the scientists delivered the article to _ the journal _ last night	the,journal	False
+s_xx	He knows that quickly the scientists delivered the article to _ the journal _ last night	the,journal	True
+s_ab	I know what brutally the police frightened the protesters with _ last night _	last,night	True
+s_xb	I know that brutally the police frightened the protesters with _ last night _	last,night	False
+s_ax	I know what brutally the police frightened the protesters with _ their guns _ last night	their,guns	False
+s_xx	I know that brutally the police frightened the protesters with _ their guns _ last night	their,guns	True
+s_ab	You know what with skill the radical assassinated the politician with _ yesterday _	yesterday	True
+s_xb	You know that with skill the radical assassinated the politician with _ yesterday _	yesterday	False
+s_ax	You know what with skill the radical assassinated the politician with _ a bomb _ yesterday	a,bomb	False
+s_xx	You know that with skill the radical assassinated the politician with _ a bomb _ yesterday	a,bomb	True
+s_ab	She knows what cheerfully the mechanic greeted the teacher with _ yesterday _	yesterday	True
+s_xb	She knows that cheerfully the mechanic greeted the teacher with _ yesterday _	yesterday	False
+s_ax	She knows what cheerfully the mechanic greeted the teacher with _ a wave _ yesterday	a,wave	False
+s_xx	She knows that cheerfully the mechanic greeted the teacher with _ a wave _ yesterday	a,wave	True
+s_ab	He knows what kindly the students reassured the principal with _ last night _	last,night	True
+s_xb	He knows that kindly the students reassured the principal with _ last night _	last,night	False
+s_ax	He knows what kindly the students reassured the principal with _ kind words _ last night	kind,words	False
+s_xx	He knows that kindly the students reassured the principal with _ kind words _ last night	kind,words	True
