@@ -5,3 +5,6 @@
 - c is related to Howitt's evaluation set. Howitt's Eval set had: 486 clefting, 486 topicalization with intro, 161 topicalization without intro, and 243 tough movement. Files with c have x4 these numbers. 
 - i seems to contain all the unused sentences. 
 - c and i do not share items.
+
+*processed_wilcox_data*:
+- contains wilcox's WH-movement data, with Howitt's preprocessing. 
