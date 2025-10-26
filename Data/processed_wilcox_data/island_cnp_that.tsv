@@ -1,0 +1,113 @@
+condition	tokens	criticalwords	grammaticality
+s_ab	I know who the family saw a painting that depicted _ last year _	last,year	True
+s_xb	I know that the family saw a painting that depicted _ last year _	last,year	True
+s_ax	I know who the family saw a painting that depicted _ the general _ last year	the,general	True
+s_xx	I know that the family saw a painting that depicted _ the general _ last year	the,general	True
+s_ab	I remember what the woman bought a gift that included _ yesterday _	yesterday	True
+s_xb	I remember that the woman bought a gift that included _ yesterday _	yesterday	True
+s_ax	I remember what the woman bought a gift that included _ a gift card _ yesterday	a,gift,card	True
+s_xx	I remember that the woman bought a gift that included _ a gift card _ yesterday	a,gift,card	True
+s_ab	The newspaper reported who the man liked the movie that featured _ recently _	recently	True
+s_xb	The newspaper reported that the man liked the movie that featured _ recently _	recently	True
+s_ax	The newspaper reported who the man liked the movie that featured _ the actress _ recently	the,actress	True
+s_xx	The newspaper reported that the man liked the movie that featured _ the actress _ recently	the,actress	True
+s_ab	She told me what the executive discovered the business plan that included _ last quarter _	last,quarter	True
+s_xb	She told me that the executive discovered the business plan that included _ last quarter _	last,quarter	True
+s_ax	She told me what the executive discovered the business plan that included _ illegal activity _ last quarter	illegal,activity	True
+s_xx	She told me that the executive discovered the business plan that included _ illegal activity _ last quarter	illegal,activity	True
+s_ab	He knows who the lawyer believed the witness that saw _ last month _	last,month	True
+s_xb	He knows that the lawyer believed the witness that saw _ last month _	last,month	True
+s_ax	He knows who the lawyer believed the witness that saw _ the defendant _ last month	the,defendant	True
+s_xx	He knows that the lawyer believed the witness that saw _ the defendant _ last month	the,defendant	True
+s_ab	You remember what the president promised a plan that proposed _ recently _	recently	True
+s_xb	You remember that the president promised a plan that proposed _ recently _	recently	True
+s_ax	You remember what the president promised a plan that proposed _ improvements _ recently	improvements	True
+s_xx	You remember that the president promised a plan that proposed _ improvements _ recently	improvements	True
+s_ab	The newspaper reported who the policeman knew the mayor that bribed _ for a long time _	for,a,long,time	True
+s_xb	The newspaper reported that the policeman knew the mayor that bribed _ for a long time _	for,a,long,time	True
+s_ax	The newspaper reported who the policeman knew the mayor that bribed _ the judge _ for a long time	the,judge	True
+s_xx	The newspaper reported that the policeman knew the mayor that bribed _ the judge _ for a long time	the,judge	True
+s_ab	what the accountant saw the documents that outlined _ last week _	last,week	True
+s_xb	that the accountant saw the documents that outlined _ last week _	last,week	True
+s_ax	what the accountant saw the documents that outlined _ the plans _ last week	the,plans	True
+s_xx	that the accountant saw the documents that outlined _ the plans _ last week	the,plans	True
+s_ab	They recall who the nurse helped the doctor that liked _ last night _	last,night	True
+s_xb	They recall that the nurse helped the doctor that liked _ last night _	last,night	True
+s_ax	They recall who the nurse helped the doctor that liked _ the surgeon _ last night	the,surgeon	True
+s_xx	They recall that the nurse helped the doctor that liked _ the surgeon _ last night	the,surgeon	True
+s_ab	He told me what the family criticized the television show that mocked _ frequently _	frequently	True
+s_xb	He told me that the family criticized the television show that mocked _ frequently _	frequently	True
+s_ax	He told me what the family criticized the television show that mocked _ the government _ frequently	the,government	True
+s_xx	He told me that the family criticized the television show that mocked _ the government _ frequently	the,government	True
+s_ab	She told me who the politician disliked the congressman that criticized _ last year _	last,year	True
+s_xb	She told me that the politician disliked the congressman that criticized _ last year _	last,year	True
+s_ax	She told me who the politician disliked the congressman that criticized _ the president _ last year	the,president	True
+s_xx	She told me that the politician disliked the congressman that criticized _ the president _ last year	the,president	True
+s_ab	He knows what the janitor cleaned the room that housed _ for a long time _	for,a,long,time	True
+s_xb	He knows that the janitor cleaned the room that housed _ for a long time _	for,a,long,time	True
+s_ax	He knows what the janitor cleaned the room that housed _ the computers _ for a long time	the,computers	True
+s_xx	He knows that the janitor cleaned the room that housed _ the computers _ for a long time	the,computers	True
+s_ab	He said what the mailman feared the dog that disliked _ when he was young _	when,he,was,young	True
+s_xb	He said that the mailman feared the dog that disliked _ when he was young _	when,he,was,young	True
+s_ax	He said what the mailman feared the dog that disliked _ thunderstorms _ when he was young	thunderstorms	True
+s_xx	He said that the mailman feared the dog that disliked _ thunderstorms _ when he was young	thunderstorms	True
+s_ab	The newspaper reported who the lawyer defended the criminal that murdered _ last year _	last,year	True
+s_xb	The newspaper reported that the lawyer defended the criminal that murdered _ last year _	last,year	True
+s_ax	The newspaper reported who the lawyer defended the criminal that murdered _ his friend _ last year	his,friend	True
+s_xx	The newspaper reported that the lawyer defended the criminal that murdered _ his friend _ last year	his,friend	True
+s_ab	You remember what the boy chased the cat that hunted _ recently _	recently	True
+s_xb	You remember that the boy chased the cat that hunted _ recently _	recently	True
+s_ax	You remember what the boy chased the cat that hunted _ mice _ recently	mice	True
+s_xx	You remember that the boy chased the cat that hunted _ mice _ recently	mice	True
+s_ab	He told me what the girl loved the horses that ate _ last summer _	last,summer	True
+s_xb	He told me that the girl loved the horses that ate _ last summer _	last,summer	True
+s_ax	He told me what the girl loved the horses that ate _ apples _ last summer	apples	True
+s_xx	He told me that the girl loved the horses that ate _ apples _ last summer	apples	True
+s_ab	He knows who the neighbor rebuked the mayor that appointed _ last year _	last,year	True
+s_xb	He knows that the neighbor rebuked the mayor that appointed _ last year _	last,year	True
+s_ax	He knows who the neighbor rebuked the mayor that appointed _ the planner _ last year	the,planner	True
+s_xx	He knows that the neighbor rebuked the mayor that appointed _ the planner _ last year	the,planner	True
+s_ab	They recall who the lady admired the count that loved _ last week _	last,week	True
+s_xb	They recall that the lady admired the count that loved _ last week _	last,week	True
+s_ax	They recall who the lady admired the count that loved _ the princess _ last week	the,princess	True
+s_xx	They recall that the lady admired the count that loved _ the princess _ last week	the,princess	True
+s_ab	The newspaper reported who the prince believed the advisor that avoided _ last winter _	last,winter	True
+s_xb	The newspaper reported that the prince believed the advisor that avoided _ last winter _	last,winter	True
+s_ax	The newspaper reported who the prince believed the advisor that avoided _ the queen _ last winter	the,queen	True
+s_xx	The newspaper reported that the prince believed the advisor that avoided _ the queen _ last winter	the,queen	True
+s_ab	You remember what the knight saw the dragon that guarded _ last night _	last,night	True
+s_xb	You remember that the knight saw the dragon that guarded _ last night _	last,night	True
+s_ax	You remember what the knight saw the dragon that guarded _ the treasure _ last night	the,treasure	True
+s_xx	You remember that the knight saw the dragon that guarded _ the treasure _ last night	the,treasure	True
+s_ab	She told me who the banker met the executive that trusted _ recently _	recently	True
+s_xb	She told me that the banker met the executive that trusted _ recently _	recently	True
+s_ax	She told me who the banker met the executive that trusted _ the investor _ recently	the,investor	True
+s_xx	She told me that the banker met the executive that trusted _ the investor _ recently	the,investor	True
+s_ab	He knows who the waitress thanked the customers that knew _ after the meal _	after,the,meal	True
+s_xb	He knows that the waitress thanked the customers that knew _ after the meal _	after,the,meal	True
+s_ax	He knows who the waitress thanked the customers that knew _ the manager _ after the meal	the,manager	True
+s_xx	He knows that the waitress thanked the customers that knew _ the manager _ after the meal	the,manager	True
+s_ab	I know who the priest congratulated the couple that admired _ during the ceremony _	during,the,ceremony	True
+s_xb	I know that the priest congratulated the couple that admired _ during the ceremony _	during,the,ceremony	True
+s_ax	I know who the priest congratulated the couple that admired _ the alter boy _ during the ceremony	the,alter,boy	True
+s_xx	I know that the priest congratulated the couple that admired _ the alter boy _ during the ceremony	the,alter,boy	True
+s_ab	She knows who the detective reassured the man that found _ last night _	last,night	True
+s_xb	She knows that the detective reassured the man that found _ last night _	last,night	True
+s_ax	She knows who the detective reassured the man that found _ the boy _ last night	the,boy	True
+s_xx	She knows that the detective reassured the man that found _ the boy _ last night	the,boy	True
+s_ab	I know who the spy informed the politician that supported _ about an attack _	about,an,attack	True
+s_xb	I know that the spy informed the politician that supported _ about an attack _	about,an,attack	True
+s_ax	I know who the spy informed the politician that supported _ the dictator _ about an attack	the,dictator	True
+s_xx	I know that the spy informed the politician that supported _ the dictator _ about an attack	the,dictator	True
+s_ab	They know what the metal grate blocked the alley that connects _ downtown _	downtown	True
+s_xb	They know that the metal grate blocked the alley that connects _ downtown _	downtown	True
+s_ax	They know what the metal grate blocked the alley that connects _ the streets _ downtown	the,streets	True
+s_xx	They know that the metal grate blocked the alley that connects _ the streets _ downtown	the,streets	True
+s_ab	He knows what the cheetah pursued the gazelle that avoided _ this morning _	this,morning	True
+s_xb	He knows that the cheetah pursued the gazelle that avoided _ this morning _	this,morning	True
+s_ax	He knows what the cheetah pursued the gazelle that avoided _ the hunters _ this morning	the,hunters	True
+s_xx	He knows that the cheetah pursued the gazelle that avoided _ the hunters _ this morning	the,hunters	True
+s_ab	He said what the scientist cured the disease that caused _ last year _	last,year	True
+s_xb	He said that the scientist cured the disease that caused _ last year _	last,year	True
+s_ax	He said what the scientist cured the disease that caused _ cancer _ last year	cancer	True
+s_xx	He said that the scientist cured the disease that caused _ cancer _ last year	cancer	True
