@@ -1,0 +1,1945 @@
+condition	tokens	criticalwords	grammaticality
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is these snacks that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is these snacks that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is these snacks that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is these snacks that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is these snacks that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is these snacks that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is these snacks that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is these snacks that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is those boots that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is those boots that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is those boots that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is those boots that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is those boots that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is those boots that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is those boots that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is those boots that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is those boots that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is those boots that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is those boots that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is apparent that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is apparent that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is apparent that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is apparent that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is apparent that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is apparent that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is apparent that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is apparent that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is apparent that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is apparent that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is apparent that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is apparent that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is apparent that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is apparent that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is clear that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is clear that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is clear that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is clear that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is clear that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is clear that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is clear that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is clear that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is clear that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is clear that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is clear that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is clear that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is clear that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is clear that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is clear that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is clear that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is clear that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is clear that Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary bought _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary bought _ yesterday _	yesterday	False
+s_ax	It is her books that Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary bought _ recently _	recently	True
+s_xb	It is disappointing that Mary bought _ recently _	recently	False
+s_ax	It is her books that Mary bought _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary bought _ earlier _	earlier	True
+s_xb	It is disappointing that Mary bought _ earlier _	earlier	False
+s_ax	It is her books that Mary bought _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary bought _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary saw _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary saw _ yesterday _	yesterday	False
+s_ax	It is her books that Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary saw _ recently _	recently	True
+s_xb	It is disappointing that Mary saw _ recently _	recently	False
+s_ax	It is her books that Mary saw _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary saw _ earlier _	earlier	True
+s_xb	It is disappointing that Mary saw _ earlier _	earlier	False
+s_ax	It is her books that Mary saw _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary saw _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ recently	your,hat	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Mary forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Mary forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Mary forgot _ recently _	recently	True
+s_xb	It is disappointing that Mary forgot _ recently _	recently	False
+s_ax	It is her books that Mary forgot _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ recently	our,keys	True
+s_ab	It is her books that Mary forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Mary forgot _ earlier _	earlier	False
+s_ax	It is her books that Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer bought _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer bought _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer bought _ recently _	recently	True
+s_xb	It is disappointing that Jennifer bought _ recently _	recently	False
+s_ax	It is her books that Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer bought _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer bought _ earlier _	earlier	False
+s_ax	It is her books that Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer saw _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer saw _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer saw _ recently _	recently	True
+s_xb	It is disappointing that Jennifer saw _ recently _	recently	False
+s_ax	It is her books that Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer saw _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer saw _ earlier _	earlier	False
+s_ax	It is her books that Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	It is disappointing that Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	It is disappointing that Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	It is her books that Jennifer forgot _ yesterday _	yesterday	True
+s_xb	It is disappointing that Jennifer forgot _ yesterday _	yesterday	False
+s_ax	It is her books that Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	It is her books that Jennifer forgot _ recently _	recently	True
+s_xb	It is disappointing that Jennifer forgot _ recently _	recently	False
+s_ax	It is her books that Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	It is her books that Jennifer forgot _ earlier _	earlier	True
+s_xb	It is disappointing that Jennifer forgot _ earlier _	earlier	False
+s_ax	It is her books that Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	It is disappointing that Jennifer forgot _ our keys _ earlier	our,keys	True
