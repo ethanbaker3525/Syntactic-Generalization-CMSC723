@@ -13,3 +13,5 @@
 
 *processed_wilcox_data*:
 - contains wilcox's WH-movement data, with Howitt's preprocessing. 
+
+*note* "_" represent theoretical gaps, and should not be used as tokens in model inputs/outputs
