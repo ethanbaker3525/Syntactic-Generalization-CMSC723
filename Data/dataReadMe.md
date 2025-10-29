@@ -7,7 +7,7 @@
 - the remaning files are evalutation files.
 	- *c* files contain simple constructions
 	- *i* files contain island constructions 
-	- each eval item has 8 parts (ab, ax, xb, xx, abi, axi, xbi, xxi). These items are currently split between *i* and *c* files.
+	- each eval item has 8 parts (ab, ax, xb, xx, i_ab, i_ax, i_xb, i_xx). These items are currently split between *i* and *c* files.
 	- the criticalwords feild indicates words at which to evaluate model suprisal.
 	- these files match up with Howitt's evaluation set: 486 clefting, 486 topicalization with intro, 161 topicalization without intro, and 243 tough movement. But, they are missing (or are separated from) their island counterparts
 - conditions: a/x refers to the presence/absence of a filler, b/x refers to the presence/absence of a gap.
