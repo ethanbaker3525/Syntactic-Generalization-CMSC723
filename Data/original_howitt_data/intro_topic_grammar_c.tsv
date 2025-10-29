@@ -1,0 +1,1945 @@
+condition	tokens	criticalwords	grammaticality
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ your hat _ recently	your,hat	False
+s_xx	of course, Mary bought _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ our keys _ recently	our,keys	False
+s_xx	of course, Mary bought _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ your hat _ recently	your,hat	False
+s_xx	of course, Mary saw _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ our keys _ recently	our,keys	False
+s_xx	of course, Mary saw _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	these snacks, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	these snacks, Mary bought _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	these snacks, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	these snacks, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	these snacks, Mary saw _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	these snacks, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	these snacks, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	these snacks, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	these snacks, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	these snacks, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	these snacks, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	these snacks, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	these snacks, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	these snacks, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	these snacks, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	these snacks, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	these snacks, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ your hat _ recently	your,hat	False
+s_xx	of course, Mary bought _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ our keys _ recently	our,keys	False
+s_xx	of course, Mary bought _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ your hat _ recently	your,hat	False
+s_xx	of course, Mary saw _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ our keys _ recently	our,keys	False
+s_xx	of course, Mary saw _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	those boots, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	those boots, Mary bought _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	those boots, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	those boots, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	those boots, Mary saw _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	those boots, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	those boots, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	those boots, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	those boots, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	those boots, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	those boots, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	those boots, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	those boots, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	those boots, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	those boots, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	those boots, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	those boots, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	those boots, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	those boots, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	those boots, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ recently	your,hat	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	in fact, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	in fact, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ recently	our,keys	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	in fact, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ recently	your,hat	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	in fact, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	in fact, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ recently	our,keys	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	in fact, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	in fact, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	in fact, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	in fact, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	in fact, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	in fact, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	in fact, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	in fact, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	in fact, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	in fact, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	in fact, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	in fact, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	in fact, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	in fact, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	in fact, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	in fact, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ your hat _ recently	your,hat	False
+s_xx	of course, Mary bought _ your hat _ recently	your,hat	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	of course, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	of course, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ our keys _ recently	our,keys	False
+s_xx	of course, Mary bought _ our keys _ recently	our,keys	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	of course, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ your hat _ recently	your,hat	False
+s_xx	of course, Mary saw _ your hat _ recently	your,hat	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	of course, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	of course, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ our keys _ recently	our,keys	False
+s_xx	of course, Mary saw _ our keys _ recently	our,keys	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	of course, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	of course, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	of course, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	of course, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	of course, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	of course, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	of course, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	of course, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	of course, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	of course, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	of course, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	of course, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	of course, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	of course, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	of course, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	of course, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	of course, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	of course, Jennifer forgot _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary bought _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ recently	your,hat	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary bought _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary bought _ yesterday _	yesterday	True
+s_xb	clearly, Mary bought _ yesterday _	yesterday	False
+s_ax	her books, Mary bought _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary bought _ recently _	recently	True
+s_xb	clearly, Mary bought _ recently _	recently	False
+s_ax	her books, Mary bought _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ recently	our,keys	True
+s_ab	her books, Mary bought _ earlier _	earlier	True
+s_xb	clearly, Mary bought _ earlier _	earlier	False
+s_ax	her books, Mary bought _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary bought _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary saw _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ recently	your,hat	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary saw _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary saw _ yesterday _	yesterday	True
+s_xb	clearly, Mary saw _ yesterday _	yesterday	False
+s_ax	her books, Mary saw _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary saw _ recently _	recently	True
+s_xb	clearly, Mary saw _ recently _	recently	False
+s_ax	her books, Mary saw _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ recently	our,keys	True
+s_ab	her books, Mary saw _ earlier _	earlier	True
+s_xb	clearly, Mary saw _ earlier _	earlier	False
+s_ax	her books, Mary saw _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary saw _ our keys _ earlier	our,keys	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ recently	the,cheese	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Mary forgot _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ yesterday	your,hat	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ your hat _ recently	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ recently	your,hat	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ your hat _ earlier	your,hat	False
+s_xx	clearly, Mary forgot _ your hat _ earlier	your,hat	True
+s_ab	her books, Mary forgot _ yesterday _	yesterday	True
+s_xb	clearly, Mary forgot _ yesterday _	yesterday	False
+s_ax	her books, Mary forgot _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ yesterday	our,keys	True
+s_ab	her books, Mary forgot _ recently _	recently	True
+s_xb	clearly, Mary forgot _ recently _	recently	False
+s_ax	her books, Mary forgot _ our keys _ recently	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ recently	our,keys	True
+s_ab	her books, Mary forgot _ earlier _	earlier	True
+s_xb	clearly, Mary forgot _ earlier _	earlier	False
+s_ax	her books, Mary forgot _ our keys _ earlier	our,keys	False
+s_xx	clearly, Mary forgot _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer bought _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer bought _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer bought _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer bought _ yesterday _	yesterday	False
+s_ax	her books, Jennifer bought _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer bought _ recently _	recently	True
+s_xb	clearly, Jennifer bought _ recently _	recently	False
+s_ax	her books, Jennifer bought _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer bought _ earlier _	earlier	True
+s_xb	clearly, Jennifer bought _ earlier _	earlier	False
+s_ax	her books, Jennifer bought _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer bought _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer saw _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer saw _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer saw _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer saw _ yesterday _	yesterday	False
+s_ax	her books, Jennifer saw _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer saw _ recently _	recently	True
+s_xb	clearly, Jennifer saw _ recently _	recently	False
+s_ax	her books, Jennifer saw _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer saw _ earlier _	earlier	True
+s_xb	clearly, Jennifer saw _ earlier _	earlier	False
+s_ax	her books, Jennifer saw _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer saw _ our keys _ earlier	our,keys	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ the cheese _ yesterday	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ yesterday	the,cheese	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ the cheese _ recently	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ recently	the,cheese	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ the cheese _ earlier	the,cheese	False
+s_xx	clearly, Jennifer forgot _ the cheese _ earlier	the,cheese	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ your hat _ yesterday	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ yesterday	your,hat	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ your hat _ recently	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ recently	your,hat	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ your hat _ earlier	your,hat	False
+s_xx	clearly, Jennifer forgot _ your hat _ earlier	your,hat	True
+s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True
+s_xb	clearly, Jennifer forgot _ yesterday _	yesterday	False
+s_ax	her books, Jennifer forgot _ our keys _ yesterday	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ yesterday	our,keys	True
+s_ab	her books, Jennifer forgot _ recently _	recently	True
+s_xb	clearly, Jennifer forgot _ recently _	recently	False
+s_ax	her books, Jennifer forgot _ our keys _ recently	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ recently	our,keys	True
+s_ab	her books, Jennifer forgot _ earlier _	earlier	True
+s_xb	clearly, Jennifer forgot _ earlier _	earlier	False
+s_ax	her books, Jennifer forgot _ our keys _ earlier	our,keys	False
+s_xx	clearly, Jennifer forgot _ our keys _ earlier	our,keys	True
