@@ -1,0 +1,973 @@
+group	condition	tokens	grammaticality
+0	s_ab	It is these pizzas that Susan lifted carefully	True
+0	s_xx	It is obvious that Susan lifted your jacket carefully	True
+1	s_ab	It is these pizzas that Susan lifted without falling	True
+1	s_xx	It is obvious that Susan lifted your jacket without falling	True
+2	s_ab	It is these pizzas that Susan lifted quickly	True
+2	s_xx	It is obvious that Susan lifted your jacket quickly	True
+3	s_ab	It is these pizzas that Susan lifted carefully	True
+3	s_xx	It is obvious that Susan lifted a phone carefully	True
+4	s_ab	It is these pizzas that Susan lifted without falling	True
+4	s_xx	It is obvious that Susan lifted a phone without falling	True
+5	s_ab	It is these pizzas that Susan lifted quickly	True
+5	s_xx	It is obvious that Susan lifted a phone quickly	True
+6	s_ab	It is these pizzas that Susan lifted carefully	True
+6	s_xx	It is obvious that Susan lifted the paperwork carefully	True
+7	s_ab	It is these pizzas that Susan lifted without falling	True
+7	s_xx	It is obvious that Susan lifted the paperwork without falling	True
+8	s_ab	It is these pizzas that Susan lifted quickly	True
+8	s_xx	It is obvious that Susan lifted the paperwork quickly	True
+9	s_ab	It is these pizzas that Susan stole carefully	True
+9	s_xx	It is obvious that Susan stole your jacket carefully	True
+10	s_ab	It is these pizzas that Susan stole without falling	True
+10	s_xx	It is obvious that Susan stole your jacket without falling	True
+11	s_ab	It is these pizzas that Susan stole quickly	True
+11	s_xx	It is obvious that Susan stole your jacket quickly	True
+12	s_ab	It is these pizzas that Susan stole carefully	True
+12	s_xx	It is obvious that Susan stole a phone carefully	True
+13	s_ab	It is these pizzas that Susan stole without falling	True
+13	s_xx	It is obvious that Susan stole a phone without falling	True
+14	s_ab	It is these pizzas that Susan stole quickly	True
+14	s_xx	It is obvious that Susan stole a phone quickly	True
+15	s_ab	It is these pizzas that Susan stole carefully	True
+15	s_xx	It is obvious that Susan stole the paperwork carefully	True
+16	s_ab	It is these pizzas that Susan stole without falling	True
+16	s_xx	It is obvious that Susan stole the paperwork without falling	True
+17	s_ab	It is these pizzas that Susan stole quickly	True
+17	s_xx	It is obvious that Susan stole the paperwork quickly	True
+18	s_ab	It is these pizzas that Susan threw carefully	True
+18	s_xx	It is obvious that Susan threw your jacket carefully	True
+19	s_ab	It is these pizzas that Susan threw without falling	True
+19	s_xx	It is obvious that Susan threw your jacket without falling	True
+20	s_ab	It is these pizzas that Susan threw quickly	True
+20	s_xx	It is obvious that Susan threw your jacket quickly	True
+21	s_ab	It is these pizzas that Susan threw carefully	True
+21	s_xx	It is obvious that Susan threw a phone carefully	True
+22	s_ab	It is these pizzas that Susan threw without falling	True
+22	s_xx	It is obvious that Susan threw a phone without falling	True
+23	s_ab	It is these pizzas that Susan threw quickly	True
+23	s_xx	It is obvious that Susan threw a phone quickly	True
+24	s_ab	It is these pizzas that Susan threw carefully	True
+24	s_xx	It is obvious that Susan threw the paperwork carefully	True
+25	s_ab	It is these pizzas that Susan threw without falling	True
+25	s_xx	It is obvious that Susan threw the paperwork without falling	True
+26	s_ab	It is these pizzas that Susan threw quickly	True
+26	s_xx	It is obvious that Susan threw the paperwork quickly	True
+27	s_ab	It is these pizzas that Michelle lifted carefully	True
+27	s_xx	It is obvious that Michelle lifted your jacket carefully	True
+28	s_ab	It is these pizzas that Michelle lifted without falling	True
+28	s_xx	It is obvious that Michelle lifted your jacket without falling	True
+29	s_ab	It is these pizzas that Michelle lifted quickly	True
+29	s_xx	It is obvious that Michelle lifted your jacket quickly	True
+30	s_ab	It is these pizzas that Michelle lifted carefully	True
+30	s_xx	It is obvious that Michelle lifted a phone carefully	True
+31	s_ab	It is these pizzas that Michelle lifted without falling	True
+31	s_xx	It is obvious that Michelle lifted a phone without falling	True
+32	s_ab	It is these pizzas that Michelle lifted quickly	True
+32	s_xx	It is obvious that Michelle lifted a phone quickly	True
+33	s_ab	It is these pizzas that Michelle lifted carefully	True
+33	s_xx	It is obvious that Michelle lifted the paperwork carefully	True
+34	s_ab	It is these pizzas that Michelle lifted without falling	True
+34	s_xx	It is obvious that Michelle lifted the paperwork without falling	True
+35	s_ab	It is these pizzas that Michelle lifted quickly	True
+35	s_xx	It is obvious that Michelle lifted the paperwork quickly	True
+36	s_ab	It is these pizzas that Michelle stole carefully	True
+36	s_xx	It is obvious that Michelle stole your jacket carefully	True
+37	s_ab	It is these pizzas that Michelle stole without falling	True
+37	s_xx	It is obvious that Michelle stole your jacket without falling	True
+38	s_ab	It is these pizzas that Michelle stole quickly	True
+38	s_xx	It is obvious that Michelle stole your jacket quickly	True
+39	s_ab	It is these pizzas that Michelle stole carefully	True
+39	s_xx	It is obvious that Michelle stole a phone carefully	True
+40	s_ab	It is these pizzas that Michelle stole without falling	True
+40	s_xx	It is obvious that Michelle stole a phone without falling	True
+41	s_ab	It is these pizzas that Michelle stole quickly	True
+41	s_xx	It is obvious that Michelle stole a phone quickly	True
+42	s_ab	It is these pizzas that Michelle stole carefully	True
+42	s_xx	It is obvious that Michelle stole the paperwork carefully	True
+43	s_ab	It is these pizzas that Michelle stole without falling	True
+43	s_xx	It is obvious that Michelle stole the paperwork without falling	True
+44	s_ab	It is these pizzas that Michelle stole quickly	True
+44	s_xx	It is obvious that Michelle stole the paperwork quickly	True
+45	s_ab	It is these pizzas that Michelle threw carefully	True
+45	s_xx	It is obvious that Michelle threw your jacket carefully	True
+46	s_ab	It is these pizzas that Michelle threw without falling	True
+46	s_xx	It is obvious that Michelle threw your jacket without falling	True
+47	s_ab	It is these pizzas that Michelle threw quickly	True
+47	s_xx	It is obvious that Michelle threw your jacket quickly	True
+48	s_ab	It is these pizzas that Michelle threw carefully	True
+48	s_xx	It is obvious that Michelle threw a phone carefully	True
+49	s_ab	It is these pizzas that Michelle threw without falling	True
+49	s_xx	It is obvious that Michelle threw a phone without falling	True
+50	s_ab	It is these pizzas that Michelle threw quickly	True
+50	s_xx	It is obvious that Michelle threw a phone quickly	True
+51	s_ab	It is these pizzas that Michelle threw carefully	True
+51	s_xx	It is obvious that Michelle threw the paperwork carefully	True
+52	s_ab	It is these pizzas that Michelle threw without falling	True
+52	s_xx	It is obvious that Michelle threw the paperwork without falling	True
+53	s_ab	It is these pizzas that Michelle threw quickly	True
+53	s_xx	It is obvious that Michelle threw the paperwork quickly	True
+54	s_ab	It is these pizzas that Susan lifted carefully	True
+54	s_xx	It is surprising that Susan lifted your jacket carefully	True
+55	s_ab	It is these pizzas that Susan lifted without falling	True
+55	s_xx	It is surprising that Susan lifted your jacket without falling	True
+56	s_ab	It is these pizzas that Susan lifted quickly	True
+56	s_xx	It is surprising that Susan lifted your jacket quickly	True
+57	s_ab	It is these pizzas that Susan lifted carefully	True
+57	s_xx	It is surprising that Susan lifted a phone carefully	True
+58	s_ab	It is these pizzas that Susan lifted without falling	True
+58	s_xx	It is surprising that Susan lifted a phone without falling	True
+59	s_ab	It is these pizzas that Susan lifted quickly	True
+59	s_xx	It is surprising that Susan lifted a phone quickly	True
+60	s_ab	It is these pizzas that Susan lifted carefully	True
+60	s_xx	It is surprising that Susan lifted the paperwork carefully	True
+61	s_ab	It is these pizzas that Susan lifted without falling	True
+61	s_xx	It is surprising that Susan lifted the paperwork without falling	True
+62	s_ab	It is these pizzas that Susan lifted quickly	True
+62	s_xx	It is surprising that Susan lifted the paperwork quickly	True
+63	s_ab	It is these pizzas that Susan stole carefully	True
+63	s_xx	It is surprising that Susan stole your jacket carefully	True
+64	s_ab	It is these pizzas that Susan stole without falling	True
+64	s_xx	It is surprising that Susan stole your jacket without falling	True
+65	s_ab	It is these pizzas that Susan stole quickly	True
+65	s_xx	It is surprising that Susan stole your jacket quickly	True
+66	s_ab	It is these pizzas that Susan stole carefully	True
+66	s_xx	It is surprising that Susan stole a phone carefully	True
+67	s_ab	It is these pizzas that Susan stole without falling	True
+67	s_xx	It is surprising that Susan stole a phone without falling	True
+68	s_ab	It is these pizzas that Susan stole quickly	True
+68	s_xx	It is surprising that Susan stole a phone quickly	True
+69	s_ab	It is these pizzas that Susan stole carefully	True
+69	s_xx	It is surprising that Susan stole the paperwork carefully	True
+70	s_ab	It is these pizzas that Susan stole without falling	True
+70	s_xx	It is surprising that Susan stole the paperwork without falling	True
+71	s_ab	It is these pizzas that Susan stole quickly	True
+71	s_xx	It is surprising that Susan stole the paperwork quickly	True
+72	s_ab	It is these pizzas that Susan threw carefully	True
+72	s_xx	It is surprising that Susan threw your jacket carefully	True
+73	s_ab	It is these pizzas that Susan threw without falling	True
+73	s_xx	It is surprising that Susan threw your jacket without falling	True
+74	s_ab	It is these pizzas that Susan threw quickly	True
+74	s_xx	It is surprising that Susan threw your jacket quickly	True
+75	s_ab	It is these pizzas that Susan threw carefully	True
+75	s_xx	It is surprising that Susan threw a phone carefully	True
+76	s_ab	It is these pizzas that Susan threw without falling	True
+76	s_xx	It is surprising that Susan threw a phone without falling	True
+77	s_ab	It is these pizzas that Susan threw quickly	True
+77	s_xx	It is surprising that Susan threw a phone quickly	True
+78	s_ab	It is these pizzas that Susan threw carefully	True
+78	s_xx	It is surprising that Susan threw the paperwork carefully	True
+79	s_ab	It is these pizzas that Susan threw without falling	True
+79	s_xx	It is surprising that Susan threw the paperwork without falling	True
+80	s_ab	It is these pizzas that Susan threw quickly	True
+80	s_xx	It is surprising that Susan threw the paperwork quickly	True
+81	s_ab	It is these pizzas that Michelle lifted carefully	True
+81	s_xx	It is surprising that Michelle lifted your jacket carefully	True
+82	s_ab	It is these pizzas that Michelle lifted without falling	True
+82	s_xx	It is surprising that Michelle lifted your jacket without falling	True
+83	s_ab	It is these pizzas that Michelle lifted quickly	True
+83	s_xx	It is surprising that Michelle lifted your jacket quickly	True
+84	s_ab	It is these pizzas that Michelle lifted carefully	True
+84	s_xx	It is surprising that Michelle lifted a phone carefully	True
+85	s_ab	It is these pizzas that Michelle lifted without falling	True
+85	s_xx	It is surprising that Michelle lifted a phone without falling	True
+86	s_ab	It is these pizzas that Michelle lifted quickly	True
+86	s_xx	It is surprising that Michelle lifted a phone quickly	True
+87	s_ab	It is these pizzas that Michelle lifted carefully	True
+87	s_xx	It is surprising that Michelle lifted the paperwork carefully	True
+88	s_ab	It is these pizzas that Michelle lifted without falling	True
+88	s_xx	It is surprising that Michelle lifted the paperwork without falling	True
+89	s_ab	It is these pizzas that Michelle lifted quickly	True
+89	s_xx	It is surprising that Michelle lifted the paperwork quickly	True
+90	s_ab	It is these pizzas that Michelle stole carefully	True
+90	s_xx	It is surprising that Michelle stole your jacket carefully	True
+91	s_ab	It is these pizzas that Michelle stole without falling	True
+91	s_xx	It is surprising that Michelle stole your jacket without falling	True
+92	s_ab	It is these pizzas that Michelle stole quickly	True
+92	s_xx	It is surprising that Michelle stole your jacket quickly	True
+93	s_ab	It is these pizzas that Michelle stole carefully	True
+93	s_xx	It is surprising that Michelle stole a phone carefully	True
+94	s_ab	It is these pizzas that Michelle stole without falling	True
+94	s_xx	It is surprising that Michelle stole a phone without falling	True
+95	s_ab	It is these pizzas that Michelle stole quickly	True
+95	s_xx	It is surprising that Michelle stole a phone quickly	True
+96	s_ab	It is these pizzas that Michelle stole carefully	True
+96	s_xx	It is surprising that Michelle stole the paperwork carefully	True
+97	s_ab	It is these pizzas that Michelle stole without falling	True
+97	s_xx	It is surprising that Michelle stole the paperwork without falling	True
+98	s_ab	It is these pizzas that Michelle stole quickly	True
+98	s_xx	It is surprising that Michelle stole the paperwork quickly	True
+99	s_ab	It is these pizzas that Michelle threw carefully	True
+99	s_xx	It is surprising that Michelle threw your jacket carefully	True
+100	s_ab	It is these pizzas that Michelle threw without falling	True
+100	s_xx	It is surprising that Michelle threw your jacket without falling	True
+101	s_ab	It is these pizzas that Michelle threw quickly	True
+101	s_xx	It is surprising that Michelle threw your jacket quickly	True
+102	s_ab	It is these pizzas that Michelle threw carefully	True
+102	s_xx	It is surprising that Michelle threw a phone carefully	True
+103	s_ab	It is these pizzas that Michelle threw without falling	True
+103	s_xx	It is surprising that Michelle threw a phone without falling	True
+104	s_ab	It is these pizzas that Michelle threw quickly	True
+104	s_xx	It is surprising that Michelle threw a phone quickly	True
+105	s_ab	It is these pizzas that Michelle threw carefully	True
+105	s_xx	It is surprising that Michelle threw the paperwork carefully	True
+106	s_ab	It is these pizzas that Michelle threw without falling	True
+106	s_xx	It is surprising that Michelle threw the paperwork without falling	True
+107	s_ab	It is these pizzas that Michelle threw quickly	True
+107	s_xx	It is surprising that Michelle threw the paperwork quickly	True
+108	s_ab	It is these pizzas that Susan lifted carefully	True
+108	s_xx	It is annoying that Susan lifted your jacket carefully	True
+109	s_ab	It is these pizzas that Susan lifted without falling	True
+109	s_xx	It is annoying that Susan lifted your jacket without falling	True
+110	s_ab	It is these pizzas that Susan lifted quickly	True
+110	s_xx	It is annoying that Susan lifted your jacket quickly	True
+111	s_ab	It is these pizzas that Susan lifted carefully	True
+111	s_xx	It is annoying that Susan lifted a phone carefully	True
+112	s_ab	It is these pizzas that Susan lifted without falling	True
+112	s_xx	It is annoying that Susan lifted a phone without falling	True
+113	s_ab	It is these pizzas that Susan lifted quickly	True
+113	s_xx	It is annoying that Susan lifted a phone quickly	True
+114	s_ab	It is these pizzas that Susan lifted carefully	True
+114	s_xx	It is annoying that Susan lifted the paperwork carefully	True
+115	s_ab	It is these pizzas that Susan lifted without falling	True
+115	s_xx	It is annoying that Susan lifted the paperwork without falling	True
+116	s_ab	It is these pizzas that Susan lifted quickly	True
+116	s_xx	It is annoying that Susan lifted the paperwork quickly	True
+117	s_ab	It is these pizzas that Susan stole carefully	True
+117	s_xx	It is annoying that Susan stole your jacket carefully	True
+118	s_ab	It is these pizzas that Susan stole without falling	True
+118	s_xx	It is annoying that Susan stole your jacket without falling	True
+119	s_ab	It is these pizzas that Susan stole quickly	True
+119	s_xx	It is annoying that Susan stole your jacket quickly	True
+120	s_ab	It is these pizzas that Susan stole carefully	True
+120	s_xx	It is annoying that Susan stole a phone carefully	True
+121	s_ab	It is these pizzas that Susan stole without falling	True
+121	s_xx	It is annoying that Susan stole a phone without falling	True
+122	s_ab	It is these pizzas that Susan stole quickly	True
+122	s_xx	It is annoying that Susan stole a phone quickly	True
+123	s_ab	It is these pizzas that Susan stole carefully	True
+123	s_xx	It is annoying that Susan stole the paperwork carefully	True
+124	s_ab	It is these pizzas that Susan stole without falling	True
+124	s_xx	It is annoying that Susan stole the paperwork without falling	True
+125	s_ab	It is these pizzas that Susan stole quickly	True
+125	s_xx	It is annoying that Susan stole the paperwork quickly	True
+126	s_ab	It is these pizzas that Susan threw carefully	True
+126	s_xx	It is annoying that Susan threw your jacket carefully	True
+127	s_ab	It is these pizzas that Susan threw without falling	True
+127	s_xx	It is annoying that Susan threw your jacket without falling	True
+128	s_ab	It is these pizzas that Susan threw quickly	True
+128	s_xx	It is annoying that Susan threw your jacket quickly	True
+129	s_ab	It is these pizzas that Susan threw carefully	True
+129	s_xx	It is annoying that Susan threw a phone carefully	True
+130	s_ab	It is these pizzas that Susan threw without falling	True
+130	s_xx	It is annoying that Susan threw a phone without falling	True
+131	s_ab	It is these pizzas that Susan threw quickly	True
+131	s_xx	It is annoying that Susan threw a phone quickly	True
+132	s_ab	It is these pizzas that Susan threw carefully	True
+132	s_xx	It is annoying that Susan threw the paperwork carefully	True
+133	s_ab	It is these pizzas that Susan threw without falling	True
+133	s_xx	It is annoying that Susan threw the paperwork without falling	True
+134	s_ab	It is these pizzas that Susan threw quickly	True
+134	s_xx	It is annoying that Susan threw the paperwork quickly	True
+135	s_ab	It is these pizzas that Michelle lifted carefully	True
+135	s_xx	It is annoying that Michelle lifted your jacket carefully	True
+136	s_ab	It is these pizzas that Michelle lifted without falling	True
+136	s_xx	It is annoying that Michelle lifted your jacket without falling	True
+137	s_ab	It is these pizzas that Michelle lifted quickly	True
+137	s_xx	It is annoying that Michelle lifted your jacket quickly	True
+138	s_ab	It is these pizzas that Michelle lifted carefully	True
+138	s_xx	It is annoying that Michelle lifted a phone carefully	True
+139	s_ab	It is these pizzas that Michelle lifted without falling	True
+139	s_xx	It is annoying that Michelle lifted a phone without falling	True
+140	s_ab	It is these pizzas that Michelle lifted quickly	True
+140	s_xx	It is annoying that Michelle lifted a phone quickly	True
+141	s_ab	It is these pizzas that Michelle lifted carefully	True
+141	s_xx	It is annoying that Michelle lifted the paperwork carefully	True
+142	s_ab	It is these pizzas that Michelle lifted without falling	True
+142	s_xx	It is annoying that Michelle lifted the paperwork without falling	True
+143	s_ab	It is these pizzas that Michelle lifted quickly	True
+143	s_xx	It is annoying that Michelle lifted the paperwork quickly	True
+144	s_ab	It is these pizzas that Michelle stole carefully	True
+144	s_xx	It is annoying that Michelle stole your jacket carefully	True
+145	s_ab	It is these pizzas that Michelle stole without falling	True
+145	s_xx	It is annoying that Michelle stole your jacket without falling	True
+146	s_ab	It is these pizzas that Michelle stole quickly	True
+146	s_xx	It is annoying that Michelle stole your jacket quickly	True
+147	s_ab	It is these pizzas that Michelle stole carefully	True
+147	s_xx	It is annoying that Michelle stole a phone carefully	True
+148	s_ab	It is these pizzas that Michelle stole without falling	True
+148	s_xx	It is annoying that Michelle stole a phone without falling	True
+149	s_ab	It is these pizzas that Michelle stole quickly	True
+149	s_xx	It is annoying that Michelle stole a phone quickly	True
+150	s_ab	It is these pizzas that Michelle stole carefully	True
+150	s_xx	It is annoying that Michelle stole the paperwork carefully	True
+151	s_ab	It is these pizzas that Michelle stole without falling	True
+151	s_xx	It is annoying that Michelle stole the paperwork without falling	True
+152	s_ab	It is these pizzas that Michelle stole quickly	True
+152	s_xx	It is annoying that Michelle stole the paperwork quickly	True
+153	s_ab	It is these pizzas that Michelle threw carefully	True
+153	s_xx	It is annoying that Michelle threw your jacket carefully	True
+154	s_ab	It is these pizzas that Michelle threw without falling	True
+154	s_xx	It is annoying that Michelle threw your jacket without falling	True
+155	s_ab	It is these pizzas that Michelle threw quickly	True
+155	s_xx	It is annoying that Michelle threw your jacket quickly	True
+156	s_ab	It is these pizzas that Michelle threw carefully	True
+156	s_xx	It is annoying that Michelle threw a phone carefully	True
+157	s_ab	It is these pizzas that Michelle threw without falling	True
+157	s_xx	It is annoying that Michelle threw a phone without falling	True
+158	s_ab	It is these pizzas that Michelle threw quickly	True
+158	s_xx	It is annoying that Michelle threw a phone quickly	True
+159	s_ab	It is these pizzas that Michelle threw carefully	True
+159	s_xx	It is annoying that Michelle threw the paperwork carefully	True
+160	s_ab	It is these pizzas that Michelle threw without falling	True
+160	s_xx	It is annoying that Michelle threw the paperwork without falling	True
+161	s_ab	It is these pizzas that Michelle threw quickly	True
+161	s_xx	It is annoying that Michelle threw the paperwork quickly	True
+162	s_ab	It is those balls that Susan lifted carefully	True
+162	s_xx	It is obvious that Susan lifted your jacket carefully	True
+163	s_ab	It is those balls that Susan lifted without falling	True
+163	s_xx	It is obvious that Susan lifted your jacket without falling	True
+164	s_ab	It is those balls that Susan lifted quickly	True
+164	s_xx	It is obvious that Susan lifted your jacket quickly	True
+165	s_ab	It is those balls that Susan lifted carefully	True
+165	s_xx	It is obvious that Susan lifted a phone carefully	True
+166	s_ab	It is those balls that Susan lifted without falling	True
+166	s_xx	It is obvious that Susan lifted a phone without falling	True
+167	s_ab	It is those balls that Susan lifted quickly	True
+167	s_xx	It is obvious that Susan lifted a phone quickly	True
+168	s_ab	It is those balls that Susan lifted carefully	True
+168	s_xx	It is obvious that Susan lifted the paperwork carefully	True
+169	s_ab	It is those balls that Susan lifted without falling	True
+169	s_xx	It is obvious that Susan lifted the paperwork without falling	True
+170	s_ab	It is those balls that Susan lifted quickly	True
+170	s_xx	It is obvious that Susan lifted the paperwork quickly	True
+171	s_ab	It is those balls that Susan stole carefully	True
+171	s_xx	It is obvious that Susan stole your jacket carefully	True
+172	s_ab	It is those balls that Susan stole without falling	True
+172	s_xx	It is obvious that Susan stole your jacket without falling	True
+173	s_ab	It is those balls that Susan stole quickly	True
+173	s_xx	It is obvious that Susan stole your jacket quickly	True
+174	s_ab	It is those balls that Susan stole carefully	True
+174	s_xx	It is obvious that Susan stole a phone carefully	True
+175	s_ab	It is those balls that Susan stole without falling	True
+175	s_xx	It is obvious that Susan stole a phone without falling	True
+176	s_ab	It is those balls that Susan stole quickly	True
+176	s_xx	It is obvious that Susan stole a phone quickly	True
+177	s_ab	It is those balls that Susan stole carefully	True
+177	s_xx	It is obvious that Susan stole the paperwork carefully	True
+178	s_ab	It is those balls that Susan stole without falling	True
+178	s_xx	It is obvious that Susan stole the paperwork without falling	True
+179	s_ab	It is those balls that Susan stole quickly	True
+179	s_xx	It is obvious that Susan stole the paperwork quickly	True
+180	s_ab	It is those balls that Susan threw carefully	True
+180	s_xx	It is obvious that Susan threw your jacket carefully	True
+181	s_ab	It is those balls that Susan threw without falling	True
+181	s_xx	It is obvious that Susan threw your jacket without falling	True
+182	s_ab	It is those balls that Susan threw quickly	True
+182	s_xx	It is obvious that Susan threw your jacket quickly	True
+183	s_ab	It is those balls that Susan threw carefully	True
+183	s_xx	It is obvious that Susan threw a phone carefully	True
+184	s_ab	It is those balls that Susan threw without falling	True
+184	s_xx	It is obvious that Susan threw a phone without falling	True
+185	s_ab	It is those balls that Susan threw quickly	True
+185	s_xx	It is obvious that Susan threw a phone quickly	True
+186	s_ab	It is those balls that Susan threw carefully	True
+186	s_xx	It is obvious that Susan threw the paperwork carefully	True
+187	s_ab	It is those balls that Susan threw without falling	True
+187	s_xx	It is obvious that Susan threw the paperwork without falling	True
+188	s_ab	It is those balls that Susan threw quickly	True
+188	s_xx	It is obvious that Susan threw the paperwork quickly	True
+189	s_ab	It is those balls that Michelle lifted carefully	True
+189	s_xx	It is obvious that Michelle lifted your jacket carefully	True
+190	s_ab	It is those balls that Michelle lifted without falling	True
+190	s_xx	It is obvious that Michelle lifted your jacket without falling	True
+191	s_ab	It is those balls that Michelle lifted quickly	True
+191	s_xx	It is obvious that Michelle lifted your jacket quickly	True
+192	s_ab	It is those balls that Michelle lifted carefully	True
+192	s_xx	It is obvious that Michelle lifted a phone carefully	True
+193	s_ab	It is those balls that Michelle lifted without falling	True
+193	s_xx	It is obvious that Michelle lifted a phone without falling	True
+194	s_ab	It is those balls that Michelle lifted quickly	True
+194	s_xx	It is obvious that Michelle lifted a phone quickly	True
+195	s_ab	It is those balls that Michelle lifted carefully	True
+195	s_xx	It is obvious that Michelle lifted the paperwork carefully	True
+196	s_ab	It is those balls that Michelle lifted without falling	True
+196	s_xx	It is obvious that Michelle lifted the paperwork without falling	True
+197	s_ab	It is those balls that Michelle lifted quickly	True
+197	s_xx	It is obvious that Michelle lifted the paperwork quickly	True
+198	s_ab	It is those balls that Michelle stole carefully	True
+198	s_xx	It is obvious that Michelle stole your jacket carefully	True
+199	s_ab	It is those balls that Michelle stole without falling	True
+199	s_xx	It is obvious that Michelle stole your jacket without falling	True
+200	s_ab	It is those balls that Michelle stole quickly	True
+200	s_xx	It is obvious that Michelle stole your jacket quickly	True
+201	s_ab	It is those balls that Michelle stole carefully	True
+201	s_xx	It is obvious that Michelle stole a phone carefully	True
+202	s_ab	It is those balls that Michelle stole without falling	True
+202	s_xx	It is obvious that Michelle stole a phone without falling	True
+203	s_ab	It is those balls that Michelle stole quickly	True
+203	s_xx	It is obvious that Michelle stole a phone quickly	True
+204	s_ab	It is those balls that Michelle stole carefully	True
+204	s_xx	It is obvious that Michelle stole the paperwork carefully	True
+205	s_ab	It is those balls that Michelle stole without falling	True
+205	s_xx	It is obvious that Michelle stole the paperwork without falling	True
+206	s_ab	It is those balls that Michelle stole quickly	True
+206	s_xx	It is obvious that Michelle stole the paperwork quickly	True
+207	s_ab	It is those balls that Michelle threw carefully	True
+207	s_xx	It is obvious that Michelle threw your jacket carefully	True
+208	s_ab	It is those balls that Michelle threw without falling	True
+208	s_xx	It is obvious that Michelle threw your jacket without falling	True
+209	s_ab	It is those balls that Michelle threw quickly	True
+209	s_xx	It is obvious that Michelle threw your jacket quickly	True
+210	s_ab	It is those balls that Michelle threw carefully	True
+210	s_xx	It is obvious that Michelle threw a phone carefully	True
+211	s_ab	It is those balls that Michelle threw without falling	True
+211	s_xx	It is obvious that Michelle threw a phone without falling	True
+212	s_ab	It is those balls that Michelle threw quickly	True
+212	s_xx	It is obvious that Michelle threw a phone quickly	True
+213	s_ab	It is those balls that Michelle threw carefully	True
+213	s_xx	It is obvious that Michelle threw the paperwork carefully	True
+214	s_ab	It is those balls that Michelle threw without falling	True
+214	s_xx	It is obvious that Michelle threw the paperwork without falling	True
+215	s_ab	It is those balls that Michelle threw quickly	True
+215	s_xx	It is obvious that Michelle threw the paperwork quickly	True
+216	s_ab	It is those balls that Susan lifted carefully	True
+216	s_xx	It is surprising that Susan lifted your jacket carefully	True
+217	s_ab	It is those balls that Susan lifted without falling	True
+217	s_xx	It is surprising that Susan lifted your jacket without falling	True
+218	s_ab	It is those balls that Susan lifted quickly	True
+218	s_xx	It is surprising that Susan lifted your jacket quickly	True
+219	s_ab	It is those balls that Susan lifted carefully	True
+219	s_xx	It is surprising that Susan lifted a phone carefully	True
+220	s_ab	It is those balls that Susan lifted without falling	True
+220	s_xx	It is surprising that Susan lifted a phone without falling	True
+221	s_ab	It is those balls that Susan lifted quickly	True
+221	s_xx	It is surprising that Susan lifted a phone quickly	True
+222	s_ab	It is those balls that Susan lifted carefully	True
+222	s_xx	It is surprising that Susan lifted the paperwork carefully	True
+223	s_ab	It is those balls that Susan lifted without falling	True
+223	s_xx	It is surprising that Susan lifted the paperwork without falling	True
+224	s_ab	It is those balls that Susan lifted quickly	True
+224	s_xx	It is surprising that Susan lifted the paperwork quickly	True
+225	s_ab	It is those balls that Susan stole carefully	True
+225	s_xx	It is surprising that Susan stole your jacket carefully	True
+226	s_ab	It is those balls that Susan stole without falling	True
+226	s_xx	It is surprising that Susan stole your jacket without falling	True
+227	s_ab	It is those balls that Susan stole quickly	True
+227	s_xx	It is surprising that Susan stole your jacket quickly	True
+228	s_ab	It is those balls that Susan stole carefully	True
+228	s_xx	It is surprising that Susan stole a phone carefully	True
+229	s_ab	It is those balls that Susan stole without falling	True
+229	s_xx	It is surprising that Susan stole a phone without falling	True
+230	s_ab	It is those balls that Susan stole quickly	True
+230	s_xx	It is surprising that Susan stole a phone quickly	True
+231	s_ab	It is those balls that Susan stole carefully	True
+231	s_xx	It is surprising that Susan stole the paperwork carefully	True
+232	s_ab	It is those balls that Susan stole without falling	True
+232	s_xx	It is surprising that Susan stole the paperwork without falling	True
+233	s_ab	It is those balls that Susan stole quickly	True
+233	s_xx	It is surprising that Susan stole the paperwork quickly	True
+234	s_ab	It is those balls that Susan threw carefully	True
+234	s_xx	It is surprising that Susan threw your jacket carefully	True
+235	s_ab	It is those balls that Susan threw without falling	True
+235	s_xx	It is surprising that Susan threw your jacket without falling	True
+236	s_ab	It is those balls that Susan threw quickly	True
+236	s_xx	It is surprising that Susan threw your jacket quickly	True
+237	s_ab	It is those balls that Susan threw carefully	True
+237	s_xx	It is surprising that Susan threw a phone carefully	True
+238	s_ab	It is those balls that Susan threw without falling	True
+238	s_xx	It is surprising that Susan threw a phone without falling	True
+239	s_ab	It is those balls that Susan threw quickly	True
+239	s_xx	It is surprising that Susan threw a phone quickly	True
+240	s_ab	It is those balls that Susan threw carefully	True
+240	s_xx	It is surprising that Susan threw the paperwork carefully	True
+241	s_ab	It is those balls that Susan threw without falling	True
+241	s_xx	It is surprising that Susan threw the paperwork without falling	True
+242	s_ab	It is those balls that Susan threw quickly	True
+242	s_xx	It is surprising that Susan threw the paperwork quickly	True
+243	s_ab	It is those balls that Michelle lifted carefully	True
+243	s_xx	It is surprising that Michelle lifted your jacket carefully	True
+244	s_ab	It is those balls that Michelle lifted without falling	True
+244	s_xx	It is surprising that Michelle lifted your jacket without falling	True
+245	s_ab	It is those balls that Michelle lifted quickly	True
+245	s_xx	It is surprising that Michelle lifted your jacket quickly	True
+246	s_ab	It is those balls that Michelle lifted carefully	True
+246	s_xx	It is surprising that Michelle lifted a phone carefully	True
+247	s_ab	It is those balls that Michelle lifted without falling	True
+247	s_xx	It is surprising that Michelle lifted a phone without falling	True
+248	s_ab	It is those balls that Michelle lifted quickly	True
+248	s_xx	It is surprising that Michelle lifted a phone quickly	True
+249	s_ab	It is those balls that Michelle lifted carefully	True
+249	s_xx	It is surprising that Michelle lifted the paperwork carefully	True
+250	s_ab	It is those balls that Michelle lifted without falling	True
+250	s_xx	It is surprising that Michelle lifted the paperwork without falling	True
+251	s_ab	It is those balls that Michelle lifted quickly	True
+251	s_xx	It is surprising that Michelle lifted the paperwork quickly	True
+252	s_ab	It is those balls that Michelle stole carefully	True
+252	s_xx	It is surprising that Michelle stole your jacket carefully	True
+253	s_ab	It is those balls that Michelle stole without falling	True
+253	s_xx	It is surprising that Michelle stole your jacket without falling	True
+254	s_ab	It is those balls that Michelle stole quickly	True
+254	s_xx	It is surprising that Michelle stole your jacket quickly	True
+255	s_ab	It is those balls that Michelle stole carefully	True
+255	s_xx	It is surprising that Michelle stole a phone carefully	True
+256	s_ab	It is those balls that Michelle stole without falling	True
+256	s_xx	It is surprising that Michelle stole a phone without falling	True
+257	s_ab	It is those balls that Michelle stole quickly	True
+257	s_xx	It is surprising that Michelle stole a phone quickly	True
+258	s_ab	It is those balls that Michelle stole carefully	True
+258	s_xx	It is surprising that Michelle stole the paperwork carefully	True
+259	s_ab	It is those balls that Michelle stole without falling	True
+259	s_xx	It is surprising that Michelle stole the paperwork without falling	True
+260	s_ab	It is those balls that Michelle stole quickly	True
+260	s_xx	It is surprising that Michelle stole the paperwork quickly	True
+261	s_ab	It is those balls that Michelle threw carefully	True
+261	s_xx	It is surprising that Michelle threw your jacket carefully	True
+262	s_ab	It is those balls that Michelle threw without falling	True
+262	s_xx	It is surprising that Michelle threw your jacket without falling	True
+263	s_ab	It is those balls that Michelle threw quickly	True
+263	s_xx	It is surprising that Michelle threw your jacket quickly	True
+264	s_ab	It is those balls that Michelle threw carefully	True
+264	s_xx	It is surprising that Michelle threw a phone carefully	True
+265	s_ab	It is those balls that Michelle threw without falling	True
+265	s_xx	It is surprising that Michelle threw a phone without falling	True
+266	s_ab	It is those balls that Michelle threw quickly	True
+266	s_xx	It is surprising that Michelle threw a phone quickly	True
+267	s_ab	It is those balls that Michelle threw carefully	True
+267	s_xx	It is surprising that Michelle threw the paperwork carefully	True
+268	s_ab	It is those balls that Michelle threw without falling	True
+268	s_xx	It is surprising that Michelle threw the paperwork without falling	True
+269	s_ab	It is those balls that Michelle threw quickly	True
+269	s_xx	It is surprising that Michelle threw the paperwork quickly	True
+270	s_ab	It is those balls that Susan lifted carefully	True
+270	s_xx	It is annoying that Susan lifted your jacket carefully	True
+271	s_ab	It is those balls that Susan lifted without falling	True
+271	s_xx	It is annoying that Susan lifted your jacket without falling	True
+272	s_ab	It is those balls that Susan lifted quickly	True
+272	s_xx	It is annoying that Susan lifted your jacket quickly	True
+273	s_ab	It is those balls that Susan lifted carefully	True
+273	s_xx	It is annoying that Susan lifted a phone carefully	True
+274	s_ab	It is those balls that Susan lifted without falling	True
+274	s_xx	It is annoying that Susan lifted a phone without falling	True
+275	s_ab	It is those balls that Susan lifted quickly	True
+275	s_xx	It is annoying that Susan lifted a phone quickly	True
+276	s_ab	It is those balls that Susan lifted carefully	True
+276	s_xx	It is annoying that Susan lifted the paperwork carefully	True
+277	s_ab	It is those balls that Susan lifted without falling	True
+277	s_xx	It is annoying that Susan lifted the paperwork without falling	True
+278	s_ab	It is those balls that Susan lifted quickly	True
+278	s_xx	It is annoying that Susan lifted the paperwork quickly	True
+279	s_ab	It is those balls that Susan stole carefully	True
+279	s_xx	It is annoying that Susan stole your jacket carefully	True
+280	s_ab	It is those balls that Susan stole without falling	True
+280	s_xx	It is annoying that Susan stole your jacket without falling	True
+281	s_ab	It is those balls that Susan stole quickly	True
+281	s_xx	It is annoying that Susan stole your jacket quickly	True
+282	s_ab	It is those balls that Susan stole carefully	True
+282	s_xx	It is annoying that Susan stole a phone carefully	True
+283	s_ab	It is those balls that Susan stole without falling	True
+283	s_xx	It is annoying that Susan stole a phone without falling	True
+284	s_ab	It is those balls that Susan stole quickly	True
+284	s_xx	It is annoying that Susan stole a phone quickly	True
+285	s_ab	It is those balls that Susan stole carefully	True
+285	s_xx	It is annoying that Susan stole the paperwork carefully	True
+286	s_ab	It is those balls that Susan stole without falling	True
+286	s_xx	It is annoying that Susan stole the paperwork without falling	True
+287	s_ab	It is those balls that Susan stole quickly	True
+287	s_xx	It is annoying that Susan stole the paperwork quickly	True
+288	s_ab	It is those balls that Susan threw carefully	True
+288	s_xx	It is annoying that Susan threw your jacket carefully	True
+289	s_ab	It is those balls that Susan threw without falling	True
+289	s_xx	It is annoying that Susan threw your jacket without falling	True
+290	s_ab	It is those balls that Susan threw quickly	True
+290	s_xx	It is annoying that Susan threw your jacket quickly	True
+291	s_ab	It is those balls that Susan threw carefully	True
+291	s_xx	It is annoying that Susan threw a phone carefully	True
+292	s_ab	It is those balls that Susan threw without falling	True
+292	s_xx	It is annoying that Susan threw a phone without falling	True
+293	s_ab	It is those balls that Susan threw quickly	True
+293	s_xx	It is annoying that Susan threw a phone quickly	True
+294	s_ab	It is those balls that Susan threw carefully	True
+294	s_xx	It is annoying that Susan threw the paperwork carefully	True
+295	s_ab	It is those balls that Susan threw without falling	True
+295	s_xx	It is annoying that Susan threw the paperwork without falling	True
+296	s_ab	It is those balls that Susan threw quickly	True
+296	s_xx	It is annoying that Susan threw the paperwork quickly	True
+297	s_ab	It is those balls that Michelle lifted carefully	True
+297	s_xx	It is annoying that Michelle lifted your jacket carefully	True
+298	s_ab	It is those balls that Michelle lifted without falling	True
+298	s_xx	It is annoying that Michelle lifted your jacket without falling	True
+299	s_ab	It is those balls that Michelle lifted quickly	True
+299	s_xx	It is annoying that Michelle lifted your jacket quickly	True
+300	s_ab	It is those balls that Michelle lifted carefully	True
+300	s_xx	It is annoying that Michelle lifted a phone carefully	True
+301	s_ab	It is those balls that Michelle lifted without falling	True
+301	s_xx	It is annoying that Michelle lifted a phone without falling	True
+302	s_ab	It is those balls that Michelle lifted quickly	True
+302	s_xx	It is annoying that Michelle lifted a phone quickly	True
+303	s_ab	It is those balls that Michelle lifted carefully	True
+303	s_xx	It is annoying that Michelle lifted the paperwork carefully	True
+304	s_ab	It is those balls that Michelle lifted without falling	True
+304	s_xx	It is annoying that Michelle lifted the paperwork without falling	True
+305	s_ab	It is those balls that Michelle lifted quickly	True
+305	s_xx	It is annoying that Michelle lifted the paperwork quickly	True
+306	s_ab	It is those balls that Michelle stole carefully	True
+306	s_xx	It is annoying that Michelle stole your jacket carefully	True
+307	s_ab	It is those balls that Michelle stole without falling	True
+307	s_xx	It is annoying that Michelle stole your jacket without falling	True
+308	s_ab	It is those balls that Michelle stole quickly	True
+308	s_xx	It is annoying that Michelle stole your jacket quickly	True
+309	s_ab	It is those balls that Michelle stole carefully	True
+309	s_xx	It is annoying that Michelle stole a phone carefully	True
+310	s_ab	It is those balls that Michelle stole without falling	True
+310	s_xx	It is annoying that Michelle stole a phone without falling	True
+311	s_ab	It is those balls that Michelle stole quickly	True
+311	s_xx	It is annoying that Michelle stole a phone quickly	True
+312	s_ab	It is those balls that Michelle stole carefully	True
+312	s_xx	It is annoying that Michelle stole the paperwork carefully	True
+313	s_ab	It is those balls that Michelle stole without falling	True
+313	s_xx	It is annoying that Michelle stole the paperwork without falling	True
+314	s_ab	It is those balls that Michelle stole quickly	True
+314	s_xx	It is annoying that Michelle stole the paperwork quickly	True
+315	s_ab	It is those balls that Michelle threw carefully	True
+315	s_xx	It is annoying that Michelle threw your jacket carefully	True
+316	s_ab	It is those balls that Michelle threw without falling	True
+316	s_xx	It is annoying that Michelle threw your jacket without falling	True
+317	s_ab	It is those balls that Michelle threw quickly	True
+317	s_xx	It is annoying that Michelle threw your jacket quickly	True
+318	s_ab	It is those balls that Michelle threw carefully	True
+318	s_xx	It is annoying that Michelle threw a phone carefully	True
+319	s_ab	It is those balls that Michelle threw without falling	True
+319	s_xx	It is annoying that Michelle threw a phone without falling	True
+320	s_ab	It is those balls that Michelle threw quickly	True
+320	s_xx	It is annoying that Michelle threw a phone quickly	True
+321	s_ab	It is those balls that Michelle threw carefully	True
+321	s_xx	It is annoying that Michelle threw the paperwork carefully	True
+322	s_ab	It is those balls that Michelle threw without falling	True
+322	s_xx	It is annoying that Michelle threw the paperwork without falling	True
+323	s_ab	It is those balls that Michelle threw quickly	True
+323	s_xx	It is annoying that Michelle threw the paperwork quickly	True
+324	s_ab	It is her gloves that Susan lifted carefully	True
+324	s_xx	It is obvious that Susan lifted your jacket carefully	True
+325	s_ab	It is her gloves that Susan lifted without falling	True
+325	s_xx	It is obvious that Susan lifted your jacket without falling	True
+326	s_ab	It is her gloves that Susan lifted quickly	True
+326	s_xx	It is obvious that Susan lifted your jacket quickly	True
+327	s_ab	It is her gloves that Susan lifted carefully	True
+327	s_xx	It is obvious that Susan lifted a phone carefully	True
+328	s_ab	It is her gloves that Susan lifted without falling	True
+328	s_xx	It is obvious that Susan lifted a phone without falling	True
+329	s_ab	It is her gloves that Susan lifted quickly	True
+329	s_xx	It is obvious that Susan lifted a phone quickly	True
+330	s_ab	It is her gloves that Susan lifted carefully	True
+330	s_xx	It is obvious that Susan lifted the paperwork carefully	True
+331	s_ab	It is her gloves that Susan lifted without falling	True
+331	s_xx	It is obvious that Susan lifted the paperwork without falling	True
+332	s_ab	It is her gloves that Susan lifted quickly	True
+332	s_xx	It is obvious that Susan lifted the paperwork quickly	True
+333	s_ab	It is her gloves that Susan stole carefully	True
+333	s_xx	It is obvious that Susan stole your jacket carefully	True
+334	s_ab	It is her gloves that Susan stole without falling	True
+334	s_xx	It is obvious that Susan stole your jacket without falling	True
+335	s_ab	It is her gloves that Susan stole quickly	True
+335	s_xx	It is obvious that Susan stole your jacket quickly	True
+336	s_ab	It is her gloves that Susan stole carefully	True
+336	s_xx	It is obvious that Susan stole a phone carefully	True
+337	s_ab	It is her gloves that Susan stole without falling	True
+337	s_xx	It is obvious that Susan stole a phone without falling	True
+338	s_ab	It is her gloves that Susan stole quickly	True
+338	s_xx	It is obvious that Susan stole a phone quickly	True
+339	s_ab	It is her gloves that Susan stole carefully	True
+339	s_xx	It is obvious that Susan stole the paperwork carefully	True
+340	s_ab	It is her gloves that Susan stole without falling	True
+340	s_xx	It is obvious that Susan stole the paperwork without falling	True
+341	s_ab	It is her gloves that Susan stole quickly	True
+341	s_xx	It is obvious that Susan stole the paperwork quickly	True
+342	s_ab	It is her gloves that Susan threw carefully	True
+342	s_xx	It is obvious that Susan threw your jacket carefully	True
+343	s_ab	It is her gloves that Susan threw without falling	True
+343	s_xx	It is obvious that Susan threw your jacket without falling	True
+344	s_ab	It is her gloves that Susan threw quickly	True
+344	s_xx	It is obvious that Susan threw your jacket quickly	True
+345	s_ab	It is her gloves that Susan threw carefully	True
+345	s_xx	It is obvious that Susan threw a phone carefully	True
+346	s_ab	It is her gloves that Susan threw without falling	True
+346	s_xx	It is obvious that Susan threw a phone without falling	True
+347	s_ab	It is her gloves that Susan threw quickly	True
+347	s_xx	It is obvious that Susan threw a phone quickly	True
+348	s_ab	It is her gloves that Susan threw carefully	True
+348	s_xx	It is obvious that Susan threw the paperwork carefully	True
+349	s_ab	It is her gloves that Susan threw without falling	True
+349	s_xx	It is obvious that Susan threw the paperwork without falling	True
+350	s_ab	It is her gloves that Susan threw quickly	True
+350	s_xx	It is obvious that Susan threw the paperwork quickly	True
+351	s_ab	It is her gloves that Michelle lifted carefully	True
+351	s_xx	It is obvious that Michelle lifted your jacket carefully	True
+352	s_ab	It is her gloves that Michelle lifted without falling	True
+352	s_xx	It is obvious that Michelle lifted your jacket without falling	True
+353	s_ab	It is her gloves that Michelle lifted quickly	True
+353	s_xx	It is obvious that Michelle lifted your jacket quickly	True
+354	s_ab	It is her gloves that Michelle lifted carefully	True
+354	s_xx	It is obvious that Michelle lifted a phone carefully	True
+355	s_ab	It is her gloves that Michelle lifted without falling	True
+355	s_xx	It is obvious that Michelle lifted a phone without falling	True
+356	s_ab	It is her gloves that Michelle lifted quickly	True
+356	s_xx	It is obvious that Michelle lifted a phone quickly	True
+357	s_ab	It is her gloves that Michelle lifted carefully	True
+357	s_xx	It is obvious that Michelle lifted the paperwork carefully	True
+358	s_ab	It is her gloves that Michelle lifted without falling	True
+358	s_xx	It is obvious that Michelle lifted the paperwork without falling	True
+359	s_ab	It is her gloves that Michelle lifted quickly	True
+359	s_xx	It is obvious that Michelle lifted the paperwork quickly	True
+360	s_ab	It is her gloves that Michelle stole carefully	True
+360	s_xx	It is obvious that Michelle stole your jacket carefully	True
+361	s_ab	It is her gloves that Michelle stole without falling	True
+361	s_xx	It is obvious that Michelle stole your jacket without falling	True
+362	s_ab	It is her gloves that Michelle stole quickly	True
+362	s_xx	It is obvious that Michelle stole your jacket quickly	True
+363	s_ab	It is her gloves that Michelle stole carefully	True
+363	s_xx	It is obvious that Michelle stole a phone carefully	True
+364	s_ab	It is her gloves that Michelle stole without falling	True
+364	s_xx	It is obvious that Michelle stole a phone without falling	True
+365	s_ab	It is her gloves that Michelle stole quickly	True
+365	s_xx	It is obvious that Michelle stole a phone quickly	True
+366	s_ab	It is her gloves that Michelle stole carefully	True
+366	s_xx	It is obvious that Michelle stole the paperwork carefully	True
+367	s_ab	It is her gloves that Michelle stole without falling	True
+367	s_xx	It is obvious that Michelle stole the paperwork without falling	True
+368	s_ab	It is her gloves that Michelle stole quickly	True
+368	s_xx	It is obvious that Michelle stole the paperwork quickly	True
+369	s_ab	It is her gloves that Michelle threw carefully	True
+369	s_xx	It is obvious that Michelle threw your jacket carefully	True
+370	s_ab	It is her gloves that Michelle threw without falling	True
+370	s_xx	It is obvious that Michelle threw your jacket without falling	True
+371	s_ab	It is her gloves that Michelle threw quickly	True
+371	s_xx	It is obvious that Michelle threw your jacket quickly	True
+372	s_ab	It is her gloves that Michelle threw carefully	True
+372	s_xx	It is obvious that Michelle threw a phone carefully	True
+373	s_ab	It is her gloves that Michelle threw without falling	True
+373	s_xx	It is obvious that Michelle threw a phone without falling	True
+374	s_ab	It is her gloves that Michelle threw quickly	True
+374	s_xx	It is obvious that Michelle threw a phone quickly	True
+375	s_ab	It is her gloves that Michelle threw carefully	True
+375	s_xx	It is obvious that Michelle threw the paperwork carefully	True
+376	s_ab	It is her gloves that Michelle threw without falling	True
+376	s_xx	It is obvious that Michelle threw the paperwork without falling	True
+377	s_ab	It is her gloves that Michelle threw quickly	True
+377	s_xx	It is obvious that Michelle threw the paperwork quickly	True
+378	s_ab	It is her gloves that Susan lifted carefully	True
+378	s_xx	It is surprising that Susan lifted your jacket carefully	True
+379	s_ab	It is her gloves that Susan lifted without falling	True
+379	s_xx	It is surprising that Susan lifted your jacket without falling	True
+380	s_ab	It is her gloves that Susan lifted quickly	True
+380	s_xx	It is surprising that Susan lifted your jacket quickly	True
+381	s_ab	It is her gloves that Susan lifted carefully	True
+381	s_xx	It is surprising that Susan lifted a phone carefully	True
+382	s_ab	It is her gloves that Susan lifted without falling	True
+382	s_xx	It is surprising that Susan lifted a phone without falling	True
+383	s_ab	It is her gloves that Susan lifted quickly	True
+383	s_xx	It is surprising that Susan lifted a phone quickly	True
+384	s_ab	It is her gloves that Susan lifted carefully	True
+384	s_xx	It is surprising that Susan lifted the paperwork carefully	True
+385	s_ab	It is her gloves that Susan lifted without falling	True
+385	s_xx	It is surprising that Susan lifted the paperwork without falling	True
+386	s_ab	It is her gloves that Susan lifted quickly	True
+386	s_xx	It is surprising that Susan lifted the paperwork quickly	True
+387	s_ab	It is her gloves that Susan stole carefully	True
+387	s_xx	It is surprising that Susan stole your jacket carefully	True
+388	s_ab	It is her gloves that Susan stole without falling	True
+388	s_xx	It is surprising that Susan stole your jacket without falling	True
+389	s_ab	It is her gloves that Susan stole quickly	True
+389	s_xx	It is surprising that Susan stole your jacket quickly	True
+390	s_ab	It is her gloves that Susan stole carefully	True
+390	s_xx	It is surprising that Susan stole a phone carefully	True
+391	s_ab	It is her gloves that Susan stole without falling	True
+391	s_xx	It is surprising that Susan stole a phone without falling	True
+392	s_ab	It is her gloves that Susan stole quickly	True
+392	s_xx	It is surprising that Susan stole a phone quickly	True
+393	s_ab	It is her gloves that Susan stole carefully	True
+393	s_xx	It is surprising that Susan stole the paperwork carefully	True
+394	s_ab	It is her gloves that Susan stole without falling	True
+394	s_xx	It is surprising that Susan stole the paperwork without falling	True
+395	s_ab	It is her gloves that Susan stole quickly	True
+395	s_xx	It is surprising that Susan stole the paperwork quickly	True
+396	s_ab	It is her gloves that Susan threw carefully	True
+396	s_xx	It is surprising that Susan threw your jacket carefully	True
+397	s_ab	It is her gloves that Susan threw without falling	True
+397	s_xx	It is surprising that Susan threw your jacket without falling	True
+398	s_ab	It is her gloves that Susan threw quickly	True
+398	s_xx	It is surprising that Susan threw your jacket quickly	True
+399	s_ab	It is her gloves that Susan threw carefully	True
+399	s_xx	It is surprising that Susan threw a phone carefully	True
+400	s_ab	It is her gloves that Susan threw without falling	True
+400	s_xx	It is surprising that Susan threw a phone without falling	True
+401	s_ab	It is her gloves that Susan threw quickly	True
+401	s_xx	It is surprising that Susan threw a phone quickly	True
+402	s_ab	It is her gloves that Susan threw carefully	True
+402	s_xx	It is surprising that Susan threw the paperwork carefully	True
+403	s_ab	It is her gloves that Susan threw without falling	True
+403	s_xx	It is surprising that Susan threw the paperwork without falling	True
+404	s_ab	It is her gloves that Susan threw quickly	True
+404	s_xx	It is surprising that Susan threw the paperwork quickly	True
+405	s_ab	It is her gloves that Michelle lifted carefully	True
+405	s_xx	It is surprising that Michelle lifted your jacket carefully	True
+406	s_ab	It is her gloves that Michelle lifted without falling	True
+406	s_xx	It is surprising that Michelle lifted your jacket without falling	True
+407	s_ab	It is her gloves that Michelle lifted quickly	True
+407	s_xx	It is surprising that Michelle lifted your jacket quickly	True
+408	s_ab	It is her gloves that Michelle lifted carefully	True
+408	s_xx	It is surprising that Michelle lifted a phone carefully	True
+409	s_ab	It is her gloves that Michelle lifted without falling	True
+409	s_xx	It is surprising that Michelle lifted a phone without falling	True
+410	s_ab	It is her gloves that Michelle lifted quickly	True
+410	s_xx	It is surprising that Michelle lifted a phone quickly	True
+411	s_ab	It is her gloves that Michelle lifted carefully	True
+411	s_xx	It is surprising that Michelle lifted the paperwork carefully	True
+412	s_ab	It is her gloves that Michelle lifted without falling	True
+412	s_xx	It is surprising that Michelle lifted the paperwork without falling	True
+413	s_ab	It is her gloves that Michelle lifted quickly	True
+413	s_xx	It is surprising that Michelle lifted the paperwork quickly	True
+414	s_ab	It is her gloves that Michelle stole carefully	True
+414	s_xx	It is surprising that Michelle stole your jacket carefully	True
+415	s_ab	It is her gloves that Michelle stole without falling	True
+415	s_xx	It is surprising that Michelle stole your jacket without falling	True
+416	s_ab	It is her gloves that Michelle stole quickly	True
+416	s_xx	It is surprising that Michelle stole your jacket quickly	True
+417	s_ab	It is her gloves that Michelle stole carefully	True
+417	s_xx	It is surprising that Michelle stole a phone carefully	True
+418	s_ab	It is her gloves that Michelle stole without falling	True
+418	s_xx	It is surprising that Michelle stole a phone without falling	True
+419	s_ab	It is her gloves that Michelle stole quickly	True
+419	s_xx	It is surprising that Michelle stole a phone quickly	True
+420	s_ab	It is her gloves that Michelle stole carefully	True
+420	s_xx	It is surprising that Michelle stole the paperwork carefully	True
+421	s_ab	It is her gloves that Michelle stole without falling	True
+421	s_xx	It is surprising that Michelle stole the paperwork without falling	True
+422	s_ab	It is her gloves that Michelle stole quickly	True
+422	s_xx	It is surprising that Michelle stole the paperwork quickly	True
+423	s_ab	It is her gloves that Michelle threw carefully	True
+423	s_xx	It is surprising that Michelle threw your jacket carefully	True
+424	s_ab	It is her gloves that Michelle threw without falling	True
+424	s_xx	It is surprising that Michelle threw your jacket without falling	True
+425	s_ab	It is her gloves that Michelle threw quickly	True
+425	s_xx	It is surprising that Michelle threw your jacket quickly	True
+426	s_ab	It is her gloves that Michelle threw carefully	True
+426	s_xx	It is surprising that Michelle threw a phone carefully	True
+427	s_ab	It is her gloves that Michelle threw without falling	True
+427	s_xx	It is surprising that Michelle threw a phone without falling	True
+428	s_ab	It is her gloves that Michelle threw quickly	True
+428	s_xx	It is surprising that Michelle threw a phone quickly	True
+429	s_ab	It is her gloves that Michelle threw carefully	True
+429	s_xx	It is surprising that Michelle threw the paperwork carefully	True
+430	s_ab	It is her gloves that Michelle threw without falling	True
+430	s_xx	It is surprising that Michelle threw the paperwork without falling	True
+431	s_ab	It is her gloves that Michelle threw quickly	True
+431	s_xx	It is surprising that Michelle threw the paperwork quickly	True
+432	s_ab	It is her gloves that Susan lifted carefully	True
+432	s_xx	It is annoying that Susan lifted your jacket carefully	True
+433	s_ab	It is her gloves that Susan lifted without falling	True
+433	s_xx	It is annoying that Susan lifted your jacket without falling	True
+434	s_ab	It is her gloves that Susan lifted quickly	True
+434	s_xx	It is annoying that Susan lifted your jacket quickly	True
+435	s_ab	It is her gloves that Susan lifted carefully	True
+435	s_xx	It is annoying that Susan lifted a phone carefully	True
+436	s_ab	It is her gloves that Susan lifted without falling	True
+436	s_xx	It is annoying that Susan lifted a phone without falling	True
+437	s_ab	It is her gloves that Susan lifted quickly	True
+437	s_xx	It is annoying that Susan lifted a phone quickly	True
+438	s_ab	It is her gloves that Susan lifted carefully	True
+438	s_xx	It is annoying that Susan lifted the paperwork carefully	True
+439	s_ab	It is her gloves that Susan lifted without falling	True
+439	s_xx	It is annoying that Susan lifted the paperwork without falling	True
+440	s_ab	It is her gloves that Susan lifted quickly	True
+440	s_xx	It is annoying that Susan lifted the paperwork quickly	True
+441	s_ab	It is her gloves that Susan stole carefully	True
+441	s_xx	It is annoying that Susan stole your jacket carefully	True
+442	s_ab	It is her gloves that Susan stole without falling	True
+442	s_xx	It is annoying that Susan stole your jacket without falling	True
+443	s_ab	It is her gloves that Susan stole quickly	True
+443	s_xx	It is annoying that Susan stole your jacket quickly	True
+444	s_ab	It is her gloves that Susan stole carefully	True
+444	s_xx	It is annoying that Susan stole a phone carefully	True
+445	s_ab	It is her gloves that Susan stole without falling	True
+445	s_xx	It is annoying that Susan stole a phone without falling	True
+446	s_ab	It is her gloves that Susan stole quickly	True
+446	s_xx	It is annoying that Susan stole a phone quickly	True
+447	s_ab	It is her gloves that Susan stole carefully	True
+447	s_xx	It is annoying that Susan stole the paperwork carefully	True
+448	s_ab	It is her gloves that Susan stole without falling	True
+448	s_xx	It is annoying that Susan stole the paperwork without falling	True
+449	s_ab	It is her gloves that Susan stole quickly	True
+449	s_xx	It is annoying that Susan stole the paperwork quickly	True
+450	s_ab	It is her gloves that Susan threw carefully	True
+450	s_xx	It is annoying that Susan threw your jacket carefully	True
+451	s_ab	It is her gloves that Susan threw without falling	True
+451	s_xx	It is annoying that Susan threw your jacket without falling	True
+452	s_ab	It is her gloves that Susan threw quickly	True
+452	s_xx	It is annoying that Susan threw your jacket quickly	True
+453	s_ab	It is her gloves that Susan threw carefully	True
+453	s_xx	It is annoying that Susan threw a phone carefully	True
+454	s_ab	It is her gloves that Susan threw without falling	True
+454	s_xx	It is annoying that Susan threw a phone without falling	True
+455	s_ab	It is her gloves that Susan threw quickly	True
+455	s_xx	It is annoying that Susan threw a phone quickly	True
+456	s_ab	It is her gloves that Susan threw carefully	True
+456	s_xx	It is annoying that Susan threw the paperwork carefully	True
+457	s_ab	It is her gloves that Susan threw without falling	True
+457	s_xx	It is annoying that Susan threw the paperwork without falling	True
+458	s_ab	It is her gloves that Susan threw quickly	True
+458	s_xx	It is annoying that Susan threw the paperwork quickly	True
+459	s_ab	It is her gloves that Michelle lifted carefully	True
+459	s_xx	It is annoying that Michelle lifted your jacket carefully	True
+460	s_ab	It is her gloves that Michelle lifted without falling	True
+460	s_xx	It is annoying that Michelle lifted your jacket without falling	True
+461	s_ab	It is her gloves that Michelle lifted quickly	True
+461	s_xx	It is annoying that Michelle lifted your jacket quickly	True
+462	s_ab	It is her gloves that Michelle lifted carefully	True
+462	s_xx	It is annoying that Michelle lifted a phone carefully	True
+463	s_ab	It is her gloves that Michelle lifted without falling	True
+463	s_xx	It is annoying that Michelle lifted a phone without falling	True
+464	s_ab	It is her gloves that Michelle lifted quickly	True
+464	s_xx	It is annoying that Michelle lifted a phone quickly	True
+465	s_ab	It is her gloves that Michelle lifted carefully	True
+465	s_xx	It is annoying that Michelle lifted the paperwork carefully	True
+466	s_ab	It is her gloves that Michelle lifted without falling	True
+466	s_xx	It is annoying that Michelle lifted the paperwork without falling	True
+467	s_ab	It is her gloves that Michelle lifted quickly	True
+467	s_xx	It is annoying that Michelle lifted the paperwork quickly	True
+468	s_ab	It is her gloves that Michelle stole carefully	True
+468	s_xx	It is annoying that Michelle stole your jacket carefully	True
+469	s_ab	It is her gloves that Michelle stole without falling	True
+469	s_xx	It is annoying that Michelle stole your jacket without falling	True
+470	s_ab	It is her gloves that Michelle stole quickly	True
+470	s_xx	It is annoying that Michelle stole your jacket quickly	True
+471	s_ab	It is her gloves that Michelle stole carefully	True
+471	s_xx	It is annoying that Michelle stole a phone carefully	True
+472	s_ab	It is her gloves that Michelle stole without falling	True
+472	s_xx	It is annoying that Michelle stole a phone without falling	True
+473	s_ab	It is her gloves that Michelle stole quickly	True
+473	s_xx	It is annoying that Michelle stole a phone quickly	True
+474	s_ab	It is her gloves that Michelle stole carefully	True
+474	s_xx	It is annoying that Michelle stole the paperwork carefully	True
+475	s_ab	It is her gloves that Michelle stole without falling	True
+475	s_xx	It is annoying that Michelle stole the paperwork without falling	True
+476	s_ab	It is her gloves that Michelle stole quickly	True
+476	s_xx	It is annoying that Michelle stole the paperwork quickly	True
+477	s_ab	It is her gloves that Michelle threw carefully	True
+477	s_xx	It is annoying that Michelle threw your jacket carefully	True
+478	s_ab	It is her gloves that Michelle threw without falling	True
+478	s_xx	It is annoying that Michelle threw your jacket without falling	True
+479	s_ab	It is her gloves that Michelle threw quickly	True
+479	s_xx	It is annoying that Michelle threw your jacket quickly	True
+480	s_ab	It is her gloves that Michelle threw carefully	True
+480	s_xx	It is annoying that Michelle threw a phone carefully	True
+481	s_ab	It is her gloves that Michelle threw without falling	True
+481	s_xx	It is annoying that Michelle threw a phone without falling	True
+482	s_ab	It is her gloves that Michelle threw quickly	True
+482	s_xx	It is annoying that Michelle threw a phone quickly	True
+483	s_ab	It is her gloves that Michelle threw carefully	True
+483	s_xx	It is annoying that Michelle threw the paperwork carefully	True
+484	s_ab	It is her gloves that Michelle threw without falling	True
+484	s_xx	It is annoying that Michelle threw the paperwork without falling	True
+485	s_ab	It is her gloves that Michelle threw quickly	True
+485	s_xx	It is annoying that Michelle threw the paperwork quickly	True

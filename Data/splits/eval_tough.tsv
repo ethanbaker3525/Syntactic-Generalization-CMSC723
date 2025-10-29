@@ -1,0 +1,1945 @@
+condition	tokens	criticalwords	grammaticality
+0	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True
+0	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+0	s_ax	this snack is impossible to find _ the cheese _ with a friend	the,cheese	False
+0	s_xx	it is impossible to find _ the cheese _ with a friend	the,cheese	True
+0	s_i_ab	this snack is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+0	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+0	s_i_ax	this snack is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+0	s_i_xx	it is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+1	s_ab	this snack is impossible to find _ in the park _	in,the,park	True
+1	s_xb	it is impossible to find _ in the park _	in,the,park	False
+1	s_ax	this snack is impossible to find _ the cheese _ in the park	the,cheese	False
+1	s_xx	it is impossible to find _ the cheese _ in the park	the,cheese	True
+1	s_i_ab	this snack is impossible to find the bag that carried _ in the park _	in,the,park	False
+1	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+1	s_i_ax	this snack is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	False
+1	s_i_xx	it is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	True
+2	s_ab	this snack is impossible to find _ on Saturdays _	on,Saturdays	True
+2	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+2	s_ax	this snack is impossible to find _ the cheese _ on Saturdays	the,cheese	False
+2	s_xx	it is impossible to find _ the cheese _ on Saturdays	the,cheese	True
+2	s_i_ab	this snack is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+2	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+2	s_i_ax	this snack is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+2	s_i_xx	it is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+3	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True
+3	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+3	s_ax	this snack is impossible to find _ your hat _ with a friend	your,hat	False
+3	s_xx	it is impossible to find _ your hat _ with a friend	your,hat	True
+3	s_i_ab	this snack is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+3	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+3	s_i_ax	this snack is impossible to find the bag that carried _ your hat _ with a friend	your,hat	False
+3	s_i_xx	it is impossible to find the bag that carried _ your hat _ with a friend	your,hat	True
+4	s_ab	this snack is impossible to find _ in the park _	in,the,park	True
+4	s_xb	it is impossible to find _ in the park _	in,the,park	False
+4	s_ax	this snack is impossible to find _ your hat _ in the park	your,hat	False
+4	s_xx	it is impossible to find _ your hat _ in the park	your,hat	True
+4	s_i_ab	this snack is impossible to find the bag that carried _ in the park _	in,the,park	False
+4	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+4	s_i_ax	this snack is impossible to find the bag that carried _ your hat _ in the park	your,hat	False
+4	s_i_xx	it is impossible to find the bag that carried _ your hat _ in the park	your,hat	True
+5	s_ab	this snack is impossible to find _ on Saturdays _	on,Saturdays	True
+5	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+5	s_ax	this snack is impossible to find _ your hat _ on Saturdays	your,hat	False
+5	s_xx	it is impossible to find _ your hat _ on Saturdays	your,hat	True
+5	s_i_ab	this snack is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+5	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+5	s_i_ax	this snack is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+5	s_i_xx	it is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+6	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True
+6	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+6	s_ax	this snack is impossible to find _ our keys _ with a friend	our,keys	False
+6	s_xx	it is impossible to find _ our keys _ with a friend	our,keys	True
+6	s_i_ab	this snack is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+6	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+6	s_i_ax	this snack is impossible to find the bag that carried _ our keys _ with a friend	our,keys	False
+6	s_i_xx	it is impossible to find the bag that carried _ our keys _ with a friend	our,keys	True
+7	s_ab	this snack is impossible to find _ in the park _	in,the,park	True
+7	s_xb	it is impossible to find _ in the park _	in,the,park	False
+7	s_ax	this snack is impossible to find _ our keys _ in the park	our,keys	False
+7	s_xx	it is impossible to find _ our keys _ in the park	our,keys	True
+7	s_i_ab	this snack is impossible to find the bag that carried _ in the park _	in,the,park	False
+7	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+7	s_i_ax	this snack is impossible to find the bag that carried _ our keys _ in the park	our,keys	False
+7	s_i_xx	it is impossible to find the bag that carried _ our keys _ in the park	our,keys	True
+8	s_ab	this snack is impossible to find _ on Saturdays _	on,Saturdays	True
+8	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+8	s_ax	this snack is impossible to find _ our keys _ on Saturdays	our,keys	False
+8	s_xx	it is impossible to find _ our keys _ on Saturdays	our,keys	True
+8	s_i_ab	this snack is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+8	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+8	s_i_ax	this snack is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+8	s_i_xx	it is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+9	s_ab	this snack is impossible to see _ with a friend _	with,a,friend	True
+9	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+9	s_ax	this snack is impossible to see _ the cheese _ with a friend	the,cheese	False
+9	s_xx	it is impossible to see _ the cheese _ with a friend	the,cheese	True
+9	s_i_ab	this snack is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+9	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+9	s_i_ax	this snack is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+9	s_i_xx	it is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+10	s_ab	this snack is impossible to see _ in the park _	in,the,park	True
+10	s_xb	it is impossible to see _ in the park _	in,the,park	False
+10	s_ax	this snack is impossible to see _ the cheese _ in the park	the,cheese	False
+10	s_xx	it is impossible to see _ the cheese _ in the park	the,cheese	True
+10	s_i_ab	this snack is impossible to see the bag that carried _ in the park _	in,the,park	False
+10	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+10	s_i_ax	this snack is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	False
+10	s_i_xx	it is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	True
+11	s_ab	this snack is impossible to see _ on Saturdays _	on,Saturdays	True
+11	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+11	s_ax	this snack is impossible to see _ the cheese _ on Saturdays	the,cheese	False
+11	s_xx	it is impossible to see _ the cheese _ on Saturdays	the,cheese	True
+11	s_i_ab	this snack is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+11	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+11	s_i_ax	this snack is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+11	s_i_xx	it is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+12	s_ab	this snack is impossible to see _ with a friend _	with,a,friend	True
+12	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+12	s_ax	this snack is impossible to see _ your hat _ with a friend	your,hat	False
+12	s_xx	it is impossible to see _ your hat _ with a friend	your,hat	True
+12	s_i_ab	this snack is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+12	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+12	s_i_ax	this snack is impossible to see the bag that carried _ your hat _ with a friend	your,hat	False
+12	s_i_xx	it is impossible to see the bag that carried _ your hat _ with a friend	your,hat	True
+13	s_ab	this snack is impossible to see _ in the park _	in,the,park	True
+13	s_xb	it is impossible to see _ in the park _	in,the,park	False
+13	s_ax	this snack is impossible to see _ your hat _ in the park	your,hat	False
+13	s_xx	it is impossible to see _ your hat _ in the park	your,hat	True
+13	s_i_ab	this snack is impossible to see the bag that carried _ in the park _	in,the,park	False
+13	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+13	s_i_ax	this snack is impossible to see the bag that carried _ your hat _ in the park	your,hat	False
+13	s_i_xx	it is impossible to see the bag that carried _ your hat _ in the park	your,hat	True
+14	s_ab	this snack is impossible to see _ on Saturdays _	on,Saturdays	True
+14	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+14	s_ax	this snack is impossible to see _ your hat _ on Saturdays	your,hat	False
+14	s_xx	it is impossible to see _ your hat _ on Saturdays	your,hat	True
+14	s_i_ab	this snack is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+14	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+14	s_i_ax	this snack is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+14	s_i_xx	it is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+15	s_ab	this snack is impossible to see _ with a friend _	with,a,friend	True
+15	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+15	s_ax	this snack is impossible to see _ our keys _ with a friend	our,keys	False
+15	s_xx	it is impossible to see _ our keys _ with a friend	our,keys	True
+15	s_i_ab	this snack is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+15	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+15	s_i_ax	this snack is impossible to see the bag that carried _ our keys _ with a friend	our,keys	False
+15	s_i_xx	it is impossible to see the bag that carried _ our keys _ with a friend	our,keys	True
+16	s_ab	this snack is impossible to see _ in the park _	in,the,park	True
+16	s_xb	it is impossible to see _ in the park _	in,the,park	False
+16	s_ax	this snack is impossible to see _ our keys _ in the park	our,keys	False
+16	s_xx	it is impossible to see _ our keys _ in the park	our,keys	True
+16	s_i_ab	this snack is impossible to see the bag that carried _ in the park _	in,the,park	False
+16	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+16	s_i_ax	this snack is impossible to see the bag that carried _ our keys _ in the park	our,keys	False
+16	s_i_xx	it is impossible to see the bag that carried _ our keys _ in the park	our,keys	True
+17	s_ab	this snack is impossible to see _ on Saturdays _	on,Saturdays	True
+17	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+17	s_ax	this snack is impossible to see _ our keys _ on Saturdays	our,keys	False
+17	s_xx	it is impossible to see _ our keys _ on Saturdays	our,keys	True
+17	s_i_ab	this snack is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+17	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+17	s_i_ax	this snack is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+17	s_i_xx	it is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+18	s_ab	this snack is impossible to lose _ with a friend _	with,a,friend	True
+18	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+18	s_ax	this snack is impossible to lose _ the cheese _ with a friend	the,cheese	False
+18	s_xx	it is impossible to lose _ the cheese _ with a friend	the,cheese	True
+18	s_i_ab	this snack is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+18	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+18	s_i_ax	this snack is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+18	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+19	s_ab	this snack is impossible to lose _ in the park _	in,the,park	True
+19	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+19	s_ax	this snack is impossible to lose _ the cheese _ in the park	the,cheese	False
+19	s_xx	it is impossible to lose _ the cheese _ in the park	the,cheese	True
+19	s_i_ab	this snack is impossible to lose the bag that carried _ in the park _	in,the,park	False
+19	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+19	s_i_ax	this snack is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+19	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+20	s_ab	this snack is impossible to lose _ on Saturdays _	on,Saturdays	True
+20	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+20	s_ax	this snack is impossible to lose _ the cheese _ on Saturdays	the,cheese	False
+20	s_xx	it is impossible to lose _ the cheese _ on Saturdays	the,cheese	True
+20	s_i_ab	this snack is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+20	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+20	s_i_ax	this snack is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+20	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+21	s_ab	this snack is impossible to lose _ with a friend _	with,a,friend	True
+21	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+21	s_ax	this snack is impossible to lose _ your hat _ with a friend	your,hat	False
+21	s_xx	it is impossible to lose _ your hat _ with a friend	your,hat	True
+21	s_i_ab	this snack is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+21	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+21	s_i_ax	this snack is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	False
+21	s_i_xx	it is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	True
+22	s_ab	this snack is impossible to lose _ in the park _	in,the,park	True
+22	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+22	s_ax	this snack is impossible to lose _ your hat _ in the park	your,hat	False
+22	s_xx	it is impossible to lose _ your hat _ in the park	your,hat	True
+22	s_i_ab	this snack is impossible to lose the bag that carried _ in the park _	in,the,park	False
+22	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+22	s_i_ax	this snack is impossible to lose the bag that carried _ your hat _ in the park	your,hat	False
+22	s_i_xx	it is impossible to lose the bag that carried _ your hat _ in the park	your,hat	True
+23	s_ab	this snack is impossible to lose _ on Saturdays _	on,Saturdays	True
+23	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+23	s_ax	this snack is impossible to lose _ your hat _ on Saturdays	your,hat	False
+23	s_xx	it is impossible to lose _ your hat _ on Saturdays	your,hat	True
+23	s_i_ab	this snack is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+23	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+23	s_i_ax	this snack is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+23	s_i_xx	it is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+24	s_ab	this snack is impossible to lose _ with a friend _	with,a,friend	True
+24	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+24	s_ax	this snack is impossible to lose _ our keys _ with a friend	our,keys	False
+24	s_xx	it is impossible to lose _ our keys _ with a friend	our,keys	True
+24	s_i_ab	this snack is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+24	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+24	s_i_ax	this snack is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	False
+24	s_i_xx	it is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	True
+25	s_ab	this snack is impossible to lose _ in the park _	in,the,park	True
+25	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+25	s_ax	this snack is impossible to lose _ our keys _ in the park	our,keys	False
+25	s_xx	it is impossible to lose _ our keys _ in the park	our,keys	True
+25	s_i_ab	this snack is impossible to lose the bag that carried _ in the park _	in,the,park	False
+25	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+25	s_i_ax	this snack is impossible to lose the bag that carried _ our keys _ in the park	our,keys	False
+25	s_i_xx	it is impossible to lose the bag that carried _ our keys _ in the park	our,keys	True
+26	s_ab	this snack is impossible to lose _ on Saturdays _	on,Saturdays	True
+26	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+26	s_ax	this snack is impossible to lose _ our keys _ on Saturdays	our,keys	False
+26	s_xx	it is impossible to lose _ our keys _ on Saturdays	our,keys	True
+26	s_i_ab	this snack is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+26	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+26	s_i_ax	this snack is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+26	s_i_xx	it is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+27	s_ab	this snack is easy to find _ with a friend _	with,a,friend	True
+27	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+27	s_ax	this snack is easy to find _ the cheese _ with a friend	the,cheese	False
+27	s_xx	it is easy to find _ the cheese _ with a friend	the,cheese	True
+27	s_i_ab	this snack is easy to find the bag that carried _ with a friend _	with,a,friend	False
+27	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+27	s_i_ax	this snack is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+27	s_i_xx	it is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+28	s_ab	this snack is easy to find _ in the park _	in,the,park	True
+28	s_xb	it is easy to find _ in the park _	in,the,park	False
+28	s_ax	this snack is easy to find _ the cheese _ in the park	the,cheese	False
+28	s_xx	it is easy to find _ the cheese _ in the park	the,cheese	True
+28	s_i_ab	this snack is easy to find the bag that carried _ in the park _	in,the,park	False
+28	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+28	s_i_ax	this snack is easy to find the bag that carried _ the cheese _ in the park	the,cheese	False
+28	s_i_xx	it is easy to find the bag that carried _ the cheese _ in the park	the,cheese	True
+29	s_ab	this snack is easy to find _ on Saturdays _	on,Saturdays	True
+29	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+29	s_ax	this snack is easy to find _ the cheese _ on Saturdays	the,cheese	False
+29	s_xx	it is easy to find _ the cheese _ on Saturdays	the,cheese	True
+29	s_i_ab	this snack is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+29	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+29	s_i_ax	this snack is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+29	s_i_xx	it is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+30	s_ab	this snack is easy to find _ with a friend _	with,a,friend	True
+30	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+30	s_ax	this snack is easy to find _ your hat _ with a friend	your,hat	False
+30	s_xx	it is easy to find _ your hat _ with a friend	your,hat	True
+30	s_i_ab	this snack is easy to find the bag that carried _ with a friend _	with,a,friend	False
+30	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+30	s_i_ax	this snack is easy to find the bag that carried _ your hat _ with a friend	your,hat	False
+30	s_i_xx	it is easy to find the bag that carried _ your hat _ with a friend	your,hat	True
+31	s_ab	this snack is easy to find _ in the park _	in,the,park	True
+31	s_xb	it is easy to find _ in the park _	in,the,park	False
+31	s_ax	this snack is easy to find _ your hat _ in the park	your,hat	False
+31	s_xx	it is easy to find _ your hat _ in the park	your,hat	True
+31	s_i_ab	this snack is easy to find the bag that carried _ in the park _	in,the,park	False
+31	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+31	s_i_ax	this snack is easy to find the bag that carried _ your hat _ in the park	your,hat	False
+31	s_i_xx	it is easy to find the bag that carried _ your hat _ in the park	your,hat	True
+32	s_ab	this snack is easy to find _ on Saturdays _	on,Saturdays	True
+32	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+32	s_ax	this snack is easy to find _ your hat _ on Saturdays	your,hat	False
+32	s_xx	it is easy to find _ your hat _ on Saturdays	your,hat	True
+32	s_i_ab	this snack is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+32	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+32	s_i_ax	this snack is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+32	s_i_xx	it is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+33	s_ab	this snack is easy to find _ with a friend _	with,a,friend	True
+33	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+33	s_ax	this snack is easy to find _ our keys _ with a friend	our,keys	False
+33	s_xx	it is easy to find _ our keys _ with a friend	our,keys	True
+33	s_i_ab	this snack is easy to find the bag that carried _ with a friend _	with,a,friend	False
+33	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+33	s_i_ax	this snack is easy to find the bag that carried _ our keys _ with a friend	our,keys	False
+33	s_i_xx	it is easy to find the bag that carried _ our keys _ with a friend	our,keys	True
+34	s_ab	this snack is easy to find _ in the park _	in,the,park	True
+34	s_xb	it is easy to find _ in the park _	in,the,park	False
+34	s_ax	this snack is easy to find _ our keys _ in the park	our,keys	False
+34	s_xx	it is easy to find _ our keys _ in the park	our,keys	True
+34	s_i_ab	this snack is easy to find the bag that carried _ in the park _	in,the,park	False
+34	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+34	s_i_ax	this snack is easy to find the bag that carried _ our keys _ in the park	our,keys	False
+34	s_i_xx	it is easy to find the bag that carried _ our keys _ in the park	our,keys	True
+35	s_ab	this snack is easy to find _ on Saturdays _	on,Saturdays	True
+35	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+35	s_ax	this snack is easy to find _ our keys _ on Saturdays	our,keys	False
+35	s_xx	it is easy to find _ our keys _ on Saturdays	our,keys	True
+35	s_i_ab	this snack is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+35	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+35	s_i_ax	this snack is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+35	s_i_xx	it is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+36	s_ab	this snack is easy to see _ with a friend _	with,a,friend	True
+36	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+36	s_ax	this snack is easy to see _ the cheese _ with a friend	the,cheese	False
+36	s_xx	it is easy to see _ the cheese _ with a friend	the,cheese	True
+36	s_i_ab	this snack is easy to see the bag that carried _ with a friend _	with,a,friend	False
+36	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+36	s_i_ax	this snack is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+36	s_i_xx	it is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+37	s_ab	this snack is easy to see _ in the park _	in,the,park	True
+37	s_xb	it is easy to see _ in the park _	in,the,park	False
+37	s_ax	this snack is easy to see _ the cheese _ in the park	the,cheese	False
+37	s_xx	it is easy to see _ the cheese _ in the park	the,cheese	True
+37	s_i_ab	this snack is easy to see the bag that carried _ in the park _	in,the,park	False
+37	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+37	s_i_ax	this snack is easy to see the bag that carried _ the cheese _ in the park	the,cheese	False
+37	s_i_xx	it is easy to see the bag that carried _ the cheese _ in the park	the,cheese	True
+38	s_ab	this snack is easy to see _ on Saturdays _	on,Saturdays	True
+38	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+38	s_ax	this snack is easy to see _ the cheese _ on Saturdays	the,cheese	False
+38	s_xx	it is easy to see _ the cheese _ on Saturdays	the,cheese	True
+38	s_i_ab	this snack is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+38	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+38	s_i_ax	this snack is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+38	s_i_xx	it is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+39	s_ab	this snack is easy to see _ with a friend _	with,a,friend	True
+39	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+39	s_ax	this snack is easy to see _ your hat _ with a friend	your,hat	False
+39	s_xx	it is easy to see _ your hat _ with a friend	your,hat	True
+39	s_i_ab	this snack is easy to see the bag that carried _ with a friend _	with,a,friend	False
+39	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+39	s_i_ax	this snack is easy to see the bag that carried _ your hat _ with a friend	your,hat	False
+39	s_i_xx	it is easy to see the bag that carried _ your hat _ with a friend	your,hat	True
+40	s_ab	this snack is easy to see _ in the park _	in,the,park	True
+40	s_xb	it is easy to see _ in the park _	in,the,park	False
+40	s_ax	this snack is easy to see _ your hat _ in the park	your,hat	False
+40	s_xx	it is easy to see _ your hat _ in the park	your,hat	True
+40	s_i_ab	this snack is easy to see the bag that carried _ in the park _	in,the,park	False
+40	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+40	s_i_ax	this snack is easy to see the bag that carried _ your hat _ in the park	your,hat	False
+40	s_i_xx	it is easy to see the bag that carried _ your hat _ in the park	your,hat	True
+41	s_ab	this snack is easy to see _ on Saturdays _	on,Saturdays	True
+41	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+41	s_ax	this snack is easy to see _ your hat _ on Saturdays	your,hat	False
+41	s_xx	it is easy to see _ your hat _ on Saturdays	your,hat	True
+41	s_i_ab	this snack is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+41	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+41	s_i_ax	this snack is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+41	s_i_xx	it is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+42	s_ab	this snack is easy to see _ with a friend _	with,a,friend	True
+42	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+42	s_ax	this snack is easy to see _ our keys _ with a friend	our,keys	False
+42	s_xx	it is easy to see _ our keys _ with a friend	our,keys	True
+42	s_i_ab	this snack is easy to see the bag that carried _ with a friend _	with,a,friend	False
+42	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+42	s_i_ax	this snack is easy to see the bag that carried _ our keys _ with a friend	our,keys	False
+42	s_i_xx	it is easy to see the bag that carried _ our keys _ with a friend	our,keys	True
+43	s_ab	this snack is easy to see _ in the park _	in,the,park	True
+43	s_xb	it is easy to see _ in the park _	in,the,park	False
+43	s_ax	this snack is easy to see _ our keys _ in the park	our,keys	False
+43	s_xx	it is easy to see _ our keys _ in the park	our,keys	True
+43	s_i_ab	this snack is easy to see the bag that carried _ in the park _	in,the,park	False
+43	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+43	s_i_ax	this snack is easy to see the bag that carried _ our keys _ in the park	our,keys	False
+43	s_i_xx	it is easy to see the bag that carried _ our keys _ in the park	our,keys	True
+44	s_ab	this snack is easy to see _ on Saturdays _	on,Saturdays	True
+44	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+44	s_ax	this snack is easy to see _ our keys _ on Saturdays	our,keys	False
+44	s_xx	it is easy to see _ our keys _ on Saturdays	our,keys	True
+44	s_i_ab	this snack is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+44	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+44	s_i_ax	this snack is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+44	s_i_xx	it is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+45	s_ab	this snack is easy to lose _ with a friend _	with,a,friend	True
+45	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+45	s_ax	this snack is easy to lose _ the cheese _ with a friend	the,cheese	False
+45	s_xx	it is easy to lose _ the cheese _ with a friend	the,cheese	True
+45	s_i_ab	this snack is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+45	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+45	s_i_ax	this snack is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+45	s_i_xx	it is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+46	s_ab	this snack is easy to lose _ in the park _	in,the,park	True
+46	s_xb	it is easy to lose _ in the park _	in,the,park	False
+46	s_ax	this snack is easy to lose _ the cheese _ in the park	the,cheese	False
+46	s_xx	it is easy to lose _ the cheese _ in the park	the,cheese	True
+46	s_i_ab	this snack is easy to lose the bag that carried _ in the park _	in,the,park	False
+46	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+46	s_i_ax	this snack is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+46	s_i_xx	it is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+47	s_ab	this snack is easy to lose _ on Saturdays _	on,Saturdays	True
+47	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+47	s_ax	this snack is easy to lose _ the cheese _ on Saturdays	the,cheese	False
+47	s_xx	it is easy to lose _ the cheese _ on Saturdays	the,cheese	True
+47	s_i_ab	this snack is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+47	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+47	s_i_ax	this snack is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+47	s_i_xx	it is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+48	s_ab	this snack is easy to lose _ with a friend _	with,a,friend	True
+48	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+48	s_ax	this snack is easy to lose _ your hat _ with a friend	your,hat	False
+48	s_xx	it is easy to lose _ your hat _ with a friend	your,hat	True
+48	s_i_ab	this snack is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+48	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+48	s_i_ax	this snack is easy to lose the bag that carried _ your hat _ with a friend	your,hat	False
+48	s_i_xx	it is easy to lose the bag that carried _ your hat _ with a friend	your,hat	True
+49	s_ab	this snack is easy to lose _ in the park _	in,the,park	True
+49	s_xb	it is easy to lose _ in the park _	in,the,park	False
+49	s_ax	this snack is easy to lose _ your hat _ in the park	your,hat	False
+49	s_xx	it is easy to lose _ your hat _ in the park	your,hat	True
+49	s_i_ab	this snack is easy to lose the bag that carried _ in the park _	in,the,park	False
+49	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+49	s_i_ax	this snack is easy to lose the bag that carried _ your hat _ in the park	your,hat	False
+49	s_i_xx	it is easy to lose the bag that carried _ your hat _ in the park	your,hat	True
+50	s_ab	this snack is easy to lose _ on Saturdays _	on,Saturdays	True
+50	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+50	s_ax	this snack is easy to lose _ your hat _ on Saturdays	your,hat	False
+50	s_xx	it is easy to lose _ your hat _ on Saturdays	your,hat	True
+50	s_i_ab	this snack is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+50	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+50	s_i_ax	this snack is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+50	s_i_xx	it is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+51	s_ab	this snack is easy to lose _ with a friend _	with,a,friend	True
+51	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+51	s_ax	this snack is easy to lose _ our keys _ with a friend	our,keys	False
+51	s_xx	it is easy to lose _ our keys _ with a friend	our,keys	True
+51	s_i_ab	this snack is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+51	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+51	s_i_ax	this snack is easy to lose the bag that carried _ our keys _ with a friend	our,keys	False
+51	s_i_xx	it is easy to lose the bag that carried _ our keys _ with a friend	our,keys	True
+52	s_ab	this snack is easy to lose _ in the park _	in,the,park	True
+52	s_xb	it is easy to lose _ in the park _	in,the,park	False
+52	s_ax	this snack is easy to lose _ our keys _ in the park	our,keys	False
+52	s_xx	it is easy to lose _ our keys _ in the park	our,keys	True
+52	s_i_ab	this snack is easy to lose the bag that carried _ in the park _	in,the,park	False
+52	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+52	s_i_ax	this snack is easy to lose the bag that carried _ our keys _ in the park	our,keys	False
+52	s_i_xx	it is easy to lose the bag that carried _ our keys _ in the park	our,keys	True
+53	s_ab	this snack is easy to lose _ on Saturdays _	on,Saturdays	True
+53	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+53	s_ax	this snack is easy to lose _ our keys _ on Saturdays	our,keys	False
+53	s_xx	it is easy to lose _ our keys _ on Saturdays	our,keys	True
+53	s_i_ab	this snack is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+53	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+53	s_i_ax	this snack is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+53	s_i_xx	it is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+54	s_ab	this snack is difficult to find _ with a friend _	with,a,friend	True
+54	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+54	s_ax	this snack is difficult to find _ the cheese _ with a friend	the,cheese	False
+54	s_xx	it is difficult to find _ the cheese _ with a friend	the,cheese	True
+54	s_i_ab	this snack is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+54	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+54	s_i_ax	this snack is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+54	s_i_xx	it is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+55	s_ab	this snack is difficult to find _ in the park _	in,the,park	True
+55	s_xb	it is difficult to find _ in the park _	in,the,park	False
+55	s_ax	this snack is difficult to find _ the cheese _ in the park	the,cheese	False
+55	s_xx	it is difficult to find _ the cheese _ in the park	the,cheese	True
+55	s_i_ab	this snack is difficult to find the bag that carried _ in the park _	in,the,park	False
+55	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+55	s_i_ax	this snack is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	False
+55	s_i_xx	it is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	True
+56	s_ab	this snack is difficult to find _ on Saturdays _	on,Saturdays	True
+56	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+56	s_ax	this snack is difficult to find _ the cheese _ on Saturdays	the,cheese	False
+56	s_xx	it is difficult to find _ the cheese _ on Saturdays	the,cheese	True
+56	s_i_ab	this snack is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+56	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+56	s_i_ax	this snack is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+56	s_i_xx	it is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+57	s_ab	this snack is difficult to find _ with a friend _	with,a,friend	True
+57	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+57	s_ax	this snack is difficult to find _ your hat _ with a friend	your,hat	False
+57	s_xx	it is difficult to find _ your hat _ with a friend	your,hat	True
+57	s_i_ab	this snack is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+57	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+57	s_i_ax	this snack is difficult to find the bag that carried _ your hat _ with a friend	your,hat	False
+57	s_i_xx	it is difficult to find the bag that carried _ your hat _ with a friend	your,hat	True
+58	s_ab	this snack is difficult to find _ in the park _	in,the,park	True
+58	s_xb	it is difficult to find _ in the park _	in,the,park	False
+58	s_ax	this snack is difficult to find _ your hat _ in the park	your,hat	False
+58	s_xx	it is difficult to find _ your hat _ in the park	your,hat	True
+58	s_i_ab	this snack is difficult to find the bag that carried _ in the park _	in,the,park	False
+58	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+58	s_i_ax	this snack is difficult to find the bag that carried _ your hat _ in the park	your,hat	False
+58	s_i_xx	it is difficult to find the bag that carried _ your hat _ in the park	your,hat	True
+59	s_ab	this snack is difficult to find _ on Saturdays _	on,Saturdays	True
+59	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+59	s_ax	this snack is difficult to find _ your hat _ on Saturdays	your,hat	False
+59	s_xx	it is difficult to find _ your hat _ on Saturdays	your,hat	True
+59	s_i_ab	this snack is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+59	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+59	s_i_ax	this snack is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+59	s_i_xx	it is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+60	s_ab	this snack is difficult to find _ with a friend _	with,a,friend	True
+60	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+60	s_ax	this snack is difficult to find _ our keys _ with a friend	our,keys	False
+60	s_xx	it is difficult to find _ our keys _ with a friend	our,keys	True
+60	s_i_ab	this snack is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+60	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+60	s_i_ax	this snack is difficult to find the bag that carried _ our keys _ with a friend	our,keys	False
+60	s_i_xx	it is difficult to find the bag that carried _ our keys _ with a friend	our,keys	True
+61	s_ab	this snack is difficult to find _ in the park _	in,the,park	True
+61	s_xb	it is difficult to find _ in the park _	in,the,park	False
+61	s_ax	this snack is difficult to find _ our keys _ in the park	our,keys	False
+61	s_xx	it is difficult to find _ our keys _ in the park	our,keys	True
+61	s_i_ab	this snack is difficult to find the bag that carried _ in the park _	in,the,park	False
+61	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+61	s_i_ax	this snack is difficult to find the bag that carried _ our keys _ in the park	our,keys	False
+61	s_i_xx	it is difficult to find the bag that carried _ our keys _ in the park	our,keys	True
+62	s_ab	this snack is difficult to find _ on Saturdays _	on,Saturdays	True
+62	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+62	s_ax	this snack is difficult to find _ our keys _ on Saturdays	our,keys	False
+62	s_xx	it is difficult to find _ our keys _ on Saturdays	our,keys	True
+62	s_i_ab	this snack is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+62	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+62	s_i_ax	this snack is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+62	s_i_xx	it is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+63	s_ab	this snack is difficult to see _ with a friend _	with,a,friend	True
+63	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+63	s_ax	this snack is difficult to see _ the cheese _ with a friend	the,cheese	False
+63	s_xx	it is difficult to see _ the cheese _ with a friend	the,cheese	True
+63	s_i_ab	this snack is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+63	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+63	s_i_ax	this snack is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+63	s_i_xx	it is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+64	s_ab	this snack is difficult to see _ in the park _	in,the,park	True
+64	s_xb	it is difficult to see _ in the park _	in,the,park	False
+64	s_ax	this snack is difficult to see _ the cheese _ in the park	the,cheese	False
+64	s_xx	it is difficult to see _ the cheese _ in the park	the,cheese	True
+64	s_i_ab	this snack is difficult to see the bag that carried _ in the park _	in,the,park	False
+64	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+64	s_i_ax	this snack is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	False
+64	s_i_xx	it is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	True
+65	s_ab	this snack is difficult to see _ on Saturdays _	on,Saturdays	True
+65	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+65	s_ax	this snack is difficult to see _ the cheese _ on Saturdays	the,cheese	False
+65	s_xx	it is difficult to see _ the cheese _ on Saturdays	the,cheese	True
+65	s_i_ab	this snack is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+65	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+65	s_i_ax	this snack is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+65	s_i_xx	it is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+66	s_ab	this snack is difficult to see _ with a friend _	with,a,friend	True
+66	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+66	s_ax	this snack is difficult to see _ your hat _ with a friend	your,hat	False
+66	s_xx	it is difficult to see _ your hat _ with a friend	your,hat	True
+66	s_i_ab	this snack is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+66	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+66	s_i_ax	this snack is difficult to see the bag that carried _ your hat _ with a friend	your,hat	False
+66	s_i_xx	it is difficult to see the bag that carried _ your hat _ with a friend	your,hat	True
+67	s_ab	this snack is difficult to see _ in the park _	in,the,park	True
+67	s_xb	it is difficult to see _ in the park _	in,the,park	False
+67	s_ax	this snack is difficult to see _ your hat _ in the park	your,hat	False
+67	s_xx	it is difficult to see _ your hat _ in the park	your,hat	True
+67	s_i_ab	this snack is difficult to see the bag that carried _ in the park _	in,the,park	False
+67	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+67	s_i_ax	this snack is difficult to see the bag that carried _ your hat _ in the park	your,hat	False
+67	s_i_xx	it is difficult to see the bag that carried _ your hat _ in the park	your,hat	True
+68	s_ab	this snack is difficult to see _ on Saturdays _	on,Saturdays	True
+68	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+68	s_ax	this snack is difficult to see _ your hat _ on Saturdays	your,hat	False
+68	s_xx	it is difficult to see _ your hat _ on Saturdays	your,hat	True
+68	s_i_ab	this snack is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+68	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+68	s_i_ax	this snack is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+68	s_i_xx	it is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+69	s_ab	this snack is difficult to see _ with a friend _	with,a,friend	True
+69	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+69	s_ax	this snack is difficult to see _ our keys _ with a friend	our,keys	False
+69	s_xx	it is difficult to see _ our keys _ with a friend	our,keys	True
+69	s_i_ab	this snack is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+69	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+69	s_i_ax	this snack is difficult to see the bag that carried _ our keys _ with a friend	our,keys	False
+69	s_i_xx	it is difficult to see the bag that carried _ our keys _ with a friend	our,keys	True
+70	s_ab	this snack is difficult to see _ in the park _	in,the,park	True
+70	s_xb	it is difficult to see _ in the park _	in,the,park	False
+70	s_ax	this snack is difficult to see _ our keys _ in the park	our,keys	False
+70	s_xx	it is difficult to see _ our keys _ in the park	our,keys	True
+70	s_i_ab	this snack is difficult to see the bag that carried _ in the park _	in,the,park	False
+70	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+70	s_i_ax	this snack is difficult to see the bag that carried _ our keys _ in the park	our,keys	False
+70	s_i_xx	it is difficult to see the bag that carried _ our keys _ in the park	our,keys	True
+71	s_ab	this snack is difficult to see _ on Saturdays _	on,Saturdays	True
+71	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+71	s_ax	this snack is difficult to see _ our keys _ on Saturdays	our,keys	False
+71	s_xx	it is difficult to see _ our keys _ on Saturdays	our,keys	True
+71	s_i_ab	this snack is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+71	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+71	s_i_ax	this snack is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+71	s_i_xx	it is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+72	s_ab	this snack is difficult to lose _ with a friend _	with,a,friend	True
+72	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+72	s_ax	this snack is difficult to lose _ the cheese _ with a friend	the,cheese	False
+72	s_xx	it is difficult to lose _ the cheese _ with a friend	the,cheese	True
+72	s_i_ab	this snack is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+72	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+72	s_i_ax	this snack is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+72	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+73	s_ab	this snack is difficult to lose _ in the park _	in,the,park	True
+73	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+73	s_ax	this snack is difficult to lose _ the cheese _ in the park	the,cheese	False
+73	s_xx	it is difficult to lose _ the cheese _ in the park	the,cheese	True
+73	s_i_ab	this snack is difficult to lose the bag that carried _ in the park _	in,the,park	False
+73	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+73	s_i_ax	this snack is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+73	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+74	s_ab	this snack is difficult to lose _ on Saturdays _	on,Saturdays	True
+74	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+74	s_ax	this snack is difficult to lose _ the cheese _ on Saturdays	the,cheese	False
+74	s_xx	it is difficult to lose _ the cheese _ on Saturdays	the,cheese	True
+74	s_i_ab	this snack is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+74	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+74	s_i_ax	this snack is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+74	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+75	s_ab	this snack is difficult to lose _ with a friend _	with,a,friend	True
+75	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+75	s_ax	this snack is difficult to lose _ your hat _ with a friend	your,hat	False
+75	s_xx	it is difficult to lose _ your hat _ with a friend	your,hat	True
+75	s_i_ab	this snack is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+75	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+75	s_i_ax	this snack is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	False
+75	s_i_xx	it is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	True
+76	s_ab	this snack is difficult to lose _ in the park _	in,the,park	True
+76	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+76	s_ax	this snack is difficult to lose _ your hat _ in the park	your,hat	False
+76	s_xx	it is difficult to lose _ your hat _ in the park	your,hat	True
+76	s_i_ab	this snack is difficult to lose the bag that carried _ in the park _	in,the,park	False
+76	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+76	s_i_ax	this snack is difficult to lose the bag that carried _ your hat _ in the park	your,hat	False
+76	s_i_xx	it is difficult to lose the bag that carried _ your hat _ in the park	your,hat	True
+77	s_ab	this snack is difficult to lose _ on Saturdays _	on,Saturdays	True
+77	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+77	s_ax	this snack is difficult to lose _ your hat _ on Saturdays	your,hat	False
+77	s_xx	it is difficult to lose _ your hat _ on Saturdays	your,hat	True
+77	s_i_ab	this snack is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+77	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+77	s_i_ax	this snack is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+77	s_i_xx	it is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+78	s_ab	this snack is difficult to lose _ with a friend _	with,a,friend	True
+78	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+78	s_ax	this snack is difficult to lose _ our keys _ with a friend	our,keys	False
+78	s_xx	it is difficult to lose _ our keys _ with a friend	our,keys	True
+78	s_i_ab	this snack is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+78	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+78	s_i_ax	this snack is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	False
+78	s_i_xx	it is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	True
+79	s_ab	this snack is difficult to lose _ in the park _	in,the,park	True
+79	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+79	s_ax	this snack is difficult to lose _ our keys _ in the park	our,keys	False
+79	s_xx	it is difficult to lose _ our keys _ in the park	our,keys	True
+79	s_i_ab	this snack is difficult to lose the bag that carried _ in the park _	in,the,park	False
+79	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+79	s_i_ax	this snack is difficult to lose the bag that carried _ our keys _ in the park	our,keys	False
+79	s_i_xx	it is difficult to lose the bag that carried _ our keys _ in the park	our,keys	True
+80	s_ab	this snack is difficult to lose _ on Saturdays _	on,Saturdays	True
+80	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+80	s_ax	this snack is difficult to lose _ our keys _ on Saturdays	our,keys	False
+80	s_xx	it is difficult to lose _ our keys _ on Saturdays	our,keys	True
+80	s_i_ab	this snack is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+80	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+80	s_i_ax	this snack is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+80	s_i_xx	it is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+81	s_ab	the shoe is impossible to find _ with a friend _	with,a,friend	True
+81	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+81	s_ax	the shoe is impossible to find _ the cheese _ with a friend	the,cheese	False
+81	s_xx	it is impossible to find _ the cheese _ with a friend	the,cheese	True
+81	s_i_ab	the shoe is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+81	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+81	s_i_ax	the shoe is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+81	s_i_xx	it is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+82	s_ab	the shoe is impossible to find _ in the park _	in,the,park	True
+82	s_xb	it is impossible to find _ in the park _	in,the,park	False
+82	s_ax	the shoe is impossible to find _ the cheese _ in the park	the,cheese	False
+82	s_xx	it is impossible to find _ the cheese _ in the park	the,cheese	True
+82	s_i_ab	the shoe is impossible to find the bag that carried _ in the park _	in,the,park	False
+82	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+82	s_i_ax	the shoe is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	False
+82	s_i_xx	it is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	True
+83	s_ab	the shoe is impossible to find _ on Saturdays _	on,Saturdays	True
+83	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+83	s_ax	the shoe is impossible to find _ the cheese _ on Saturdays	the,cheese	False
+83	s_xx	it is impossible to find _ the cheese _ on Saturdays	the,cheese	True
+83	s_i_ab	the shoe is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+83	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+83	s_i_ax	the shoe is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+83	s_i_xx	it is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+84	s_ab	the shoe is impossible to find _ with a friend _	with,a,friend	True
+84	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+84	s_ax	the shoe is impossible to find _ your hat _ with a friend	your,hat	False
+84	s_xx	it is impossible to find _ your hat _ with a friend	your,hat	True
+84	s_i_ab	the shoe is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+84	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+84	s_i_ax	the shoe is impossible to find the bag that carried _ your hat _ with a friend	your,hat	False
+84	s_i_xx	it is impossible to find the bag that carried _ your hat _ with a friend	your,hat	True
+85	s_ab	the shoe is impossible to find _ in the park _	in,the,park	True
+85	s_xb	it is impossible to find _ in the park _	in,the,park	False
+85	s_ax	the shoe is impossible to find _ your hat _ in the park	your,hat	False
+85	s_xx	it is impossible to find _ your hat _ in the park	your,hat	True
+85	s_i_ab	the shoe is impossible to find the bag that carried _ in the park _	in,the,park	False
+85	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+85	s_i_ax	the shoe is impossible to find the bag that carried _ your hat _ in the park	your,hat	False
+85	s_i_xx	it is impossible to find the bag that carried _ your hat _ in the park	your,hat	True
+86	s_ab	the shoe is impossible to find _ on Saturdays _	on,Saturdays	True
+86	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+86	s_ax	the shoe is impossible to find _ your hat _ on Saturdays	your,hat	False
+86	s_xx	it is impossible to find _ your hat _ on Saturdays	your,hat	True
+86	s_i_ab	the shoe is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+86	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+86	s_i_ax	the shoe is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+86	s_i_xx	it is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+87	s_ab	the shoe is impossible to find _ with a friend _	with,a,friend	True
+87	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+87	s_ax	the shoe is impossible to find _ our keys _ with a friend	our,keys	False
+87	s_xx	it is impossible to find _ our keys _ with a friend	our,keys	True
+87	s_i_ab	the shoe is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+87	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+87	s_i_ax	the shoe is impossible to find the bag that carried _ our keys _ with a friend	our,keys	False
+87	s_i_xx	it is impossible to find the bag that carried _ our keys _ with a friend	our,keys	True
+88	s_ab	the shoe is impossible to find _ in the park _	in,the,park	True
+88	s_xb	it is impossible to find _ in the park _	in,the,park	False
+88	s_ax	the shoe is impossible to find _ our keys _ in the park	our,keys	False
+88	s_xx	it is impossible to find _ our keys _ in the park	our,keys	True
+88	s_i_ab	the shoe is impossible to find the bag that carried _ in the park _	in,the,park	False
+88	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+88	s_i_ax	the shoe is impossible to find the bag that carried _ our keys _ in the park	our,keys	False
+88	s_i_xx	it is impossible to find the bag that carried _ our keys _ in the park	our,keys	True
+89	s_ab	the shoe is impossible to find _ on Saturdays _	on,Saturdays	True
+89	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+89	s_ax	the shoe is impossible to find _ our keys _ on Saturdays	our,keys	False
+89	s_xx	it is impossible to find _ our keys _ on Saturdays	our,keys	True
+89	s_i_ab	the shoe is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+89	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+89	s_i_ax	the shoe is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+89	s_i_xx	it is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+90	s_ab	the shoe is impossible to see _ with a friend _	with,a,friend	True
+90	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+90	s_ax	the shoe is impossible to see _ the cheese _ with a friend	the,cheese	False
+90	s_xx	it is impossible to see _ the cheese _ with a friend	the,cheese	True
+90	s_i_ab	the shoe is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+90	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+90	s_i_ax	the shoe is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+90	s_i_xx	it is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+91	s_ab	the shoe is impossible to see _ in the park _	in,the,park	True
+91	s_xb	it is impossible to see _ in the park _	in,the,park	False
+91	s_ax	the shoe is impossible to see _ the cheese _ in the park	the,cheese	False
+91	s_xx	it is impossible to see _ the cheese _ in the park	the,cheese	True
+91	s_i_ab	the shoe is impossible to see the bag that carried _ in the park _	in,the,park	False
+91	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+91	s_i_ax	the shoe is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	False
+91	s_i_xx	it is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	True
+92	s_ab	the shoe is impossible to see _ on Saturdays _	on,Saturdays	True
+92	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+92	s_ax	the shoe is impossible to see _ the cheese _ on Saturdays	the,cheese	False
+92	s_xx	it is impossible to see _ the cheese _ on Saturdays	the,cheese	True
+92	s_i_ab	the shoe is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+92	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+92	s_i_ax	the shoe is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+92	s_i_xx	it is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+93	s_ab	the shoe is impossible to see _ with a friend _	with,a,friend	True
+93	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+93	s_ax	the shoe is impossible to see _ your hat _ with a friend	your,hat	False
+93	s_xx	it is impossible to see _ your hat _ with a friend	your,hat	True
+93	s_i_ab	the shoe is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+93	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+93	s_i_ax	the shoe is impossible to see the bag that carried _ your hat _ with a friend	your,hat	False
+93	s_i_xx	it is impossible to see the bag that carried _ your hat _ with a friend	your,hat	True
+94	s_ab	the shoe is impossible to see _ in the park _	in,the,park	True
+94	s_xb	it is impossible to see _ in the park _	in,the,park	False
+94	s_ax	the shoe is impossible to see _ your hat _ in the park	your,hat	False
+94	s_xx	it is impossible to see _ your hat _ in the park	your,hat	True
+94	s_i_ab	the shoe is impossible to see the bag that carried _ in the park _	in,the,park	False
+94	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+94	s_i_ax	the shoe is impossible to see the bag that carried _ your hat _ in the park	your,hat	False
+94	s_i_xx	it is impossible to see the bag that carried _ your hat _ in the park	your,hat	True
+95	s_ab	the shoe is impossible to see _ on Saturdays _	on,Saturdays	True
+95	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+95	s_ax	the shoe is impossible to see _ your hat _ on Saturdays	your,hat	False
+95	s_xx	it is impossible to see _ your hat _ on Saturdays	your,hat	True
+95	s_i_ab	the shoe is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+95	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+95	s_i_ax	the shoe is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+95	s_i_xx	it is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+96	s_ab	the shoe is impossible to see _ with a friend _	with,a,friend	True
+96	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+96	s_ax	the shoe is impossible to see _ our keys _ with a friend	our,keys	False
+96	s_xx	it is impossible to see _ our keys _ with a friend	our,keys	True
+96	s_i_ab	the shoe is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+96	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+96	s_i_ax	the shoe is impossible to see the bag that carried _ our keys _ with a friend	our,keys	False
+96	s_i_xx	it is impossible to see the bag that carried _ our keys _ with a friend	our,keys	True
+97	s_ab	the shoe is impossible to see _ in the park _	in,the,park	True
+97	s_xb	it is impossible to see _ in the park _	in,the,park	False
+97	s_ax	the shoe is impossible to see _ our keys _ in the park	our,keys	False
+97	s_xx	it is impossible to see _ our keys _ in the park	our,keys	True
+97	s_i_ab	the shoe is impossible to see the bag that carried _ in the park _	in,the,park	False
+97	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+97	s_i_ax	the shoe is impossible to see the bag that carried _ our keys _ in the park	our,keys	False
+97	s_i_xx	it is impossible to see the bag that carried _ our keys _ in the park	our,keys	True
+98	s_ab	the shoe is impossible to see _ on Saturdays _	on,Saturdays	True
+98	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+98	s_ax	the shoe is impossible to see _ our keys _ on Saturdays	our,keys	False
+98	s_xx	it is impossible to see _ our keys _ on Saturdays	our,keys	True
+98	s_i_ab	the shoe is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+98	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+98	s_i_ax	the shoe is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+98	s_i_xx	it is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+99	s_ab	the shoe is impossible to lose _ with a friend _	with,a,friend	True
+99	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+99	s_ax	the shoe is impossible to lose _ the cheese _ with a friend	the,cheese	False
+99	s_xx	it is impossible to lose _ the cheese _ with a friend	the,cheese	True
+99	s_i_ab	the shoe is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+99	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+99	s_i_ax	the shoe is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+99	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+100	s_ab	the shoe is impossible to lose _ in the park _	in,the,park	True
+100	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+100	s_ax	the shoe is impossible to lose _ the cheese _ in the park	the,cheese	False
+100	s_xx	it is impossible to lose _ the cheese _ in the park	the,cheese	True
+100	s_i_ab	the shoe is impossible to lose the bag that carried _ in the park _	in,the,park	False
+100	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+100	s_i_ax	the shoe is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+100	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+101	s_ab	the shoe is impossible to lose _ on Saturdays _	on,Saturdays	True
+101	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+101	s_ax	the shoe is impossible to lose _ the cheese _ on Saturdays	the,cheese	False
+101	s_xx	it is impossible to lose _ the cheese _ on Saturdays	the,cheese	True
+101	s_i_ab	the shoe is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+101	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+101	s_i_ax	the shoe is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+101	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+102	s_ab	the shoe is impossible to lose _ with a friend _	with,a,friend	True
+102	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+102	s_ax	the shoe is impossible to lose _ your hat _ with a friend	your,hat	False
+102	s_xx	it is impossible to lose _ your hat _ with a friend	your,hat	True
+102	s_i_ab	the shoe is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+102	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+102	s_i_ax	the shoe is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	False
+102	s_i_xx	it is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	True
+103	s_ab	the shoe is impossible to lose _ in the park _	in,the,park	True
+103	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+103	s_ax	the shoe is impossible to lose _ your hat _ in the park	your,hat	False
+103	s_xx	it is impossible to lose _ your hat _ in the park	your,hat	True
+103	s_i_ab	the shoe is impossible to lose the bag that carried _ in the park _	in,the,park	False
+103	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+103	s_i_ax	the shoe is impossible to lose the bag that carried _ your hat _ in the park	your,hat	False
+103	s_i_xx	it is impossible to lose the bag that carried _ your hat _ in the park	your,hat	True
+104	s_ab	the shoe is impossible to lose _ on Saturdays _	on,Saturdays	True
+104	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+104	s_ax	the shoe is impossible to lose _ your hat _ on Saturdays	your,hat	False
+104	s_xx	it is impossible to lose _ your hat _ on Saturdays	your,hat	True
+104	s_i_ab	the shoe is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+104	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+104	s_i_ax	the shoe is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+104	s_i_xx	it is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+105	s_ab	the shoe is impossible to lose _ with a friend _	with,a,friend	True
+105	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+105	s_ax	the shoe is impossible to lose _ our keys _ with a friend	our,keys	False
+105	s_xx	it is impossible to lose _ our keys _ with a friend	our,keys	True
+105	s_i_ab	the shoe is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+105	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+105	s_i_ax	the shoe is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	False
+105	s_i_xx	it is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	True
+106	s_ab	the shoe is impossible to lose _ in the park _	in,the,park	True
+106	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+106	s_ax	the shoe is impossible to lose _ our keys _ in the park	our,keys	False
+106	s_xx	it is impossible to lose _ our keys _ in the park	our,keys	True
+106	s_i_ab	the shoe is impossible to lose the bag that carried _ in the park _	in,the,park	False
+106	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+106	s_i_ax	the shoe is impossible to lose the bag that carried _ our keys _ in the park	our,keys	False
+106	s_i_xx	it is impossible to lose the bag that carried _ our keys _ in the park	our,keys	True
+107	s_ab	the shoe is impossible to lose _ on Saturdays _	on,Saturdays	True
+107	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+107	s_ax	the shoe is impossible to lose _ our keys _ on Saturdays	our,keys	False
+107	s_xx	it is impossible to lose _ our keys _ on Saturdays	our,keys	True
+107	s_i_ab	the shoe is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+107	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+107	s_i_ax	the shoe is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+107	s_i_xx	it is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+108	s_ab	the shoe is easy to find _ with a friend _	with,a,friend	True
+108	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+108	s_ax	the shoe is easy to find _ the cheese _ with a friend	the,cheese	False
+108	s_xx	it is easy to find _ the cheese _ with a friend	the,cheese	True
+108	s_i_ab	the shoe is easy to find the bag that carried _ with a friend _	with,a,friend	False
+108	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+108	s_i_ax	the shoe is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+108	s_i_xx	it is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+109	s_ab	the shoe is easy to find _ in the park _	in,the,park	True
+109	s_xb	it is easy to find _ in the park _	in,the,park	False
+109	s_ax	the shoe is easy to find _ the cheese _ in the park	the,cheese	False
+109	s_xx	it is easy to find _ the cheese _ in the park	the,cheese	True
+109	s_i_ab	the shoe is easy to find the bag that carried _ in the park _	in,the,park	False
+109	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+109	s_i_ax	the shoe is easy to find the bag that carried _ the cheese _ in the park	the,cheese	False
+109	s_i_xx	it is easy to find the bag that carried _ the cheese _ in the park	the,cheese	True
+110	s_ab	the shoe is easy to find _ on Saturdays _	on,Saturdays	True
+110	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+110	s_ax	the shoe is easy to find _ the cheese _ on Saturdays	the,cheese	False
+110	s_xx	it is easy to find _ the cheese _ on Saturdays	the,cheese	True
+110	s_i_ab	the shoe is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+110	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+110	s_i_ax	the shoe is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+110	s_i_xx	it is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+111	s_ab	the shoe is easy to find _ with a friend _	with,a,friend	True
+111	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+111	s_ax	the shoe is easy to find _ your hat _ with a friend	your,hat	False
+111	s_xx	it is easy to find _ your hat _ with a friend	your,hat	True
+111	s_i_ab	the shoe is easy to find the bag that carried _ with a friend _	with,a,friend	False
+111	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+111	s_i_ax	the shoe is easy to find the bag that carried _ your hat _ with a friend	your,hat	False
+111	s_i_xx	it is easy to find the bag that carried _ your hat _ with a friend	your,hat	True
+112	s_ab	the shoe is easy to find _ in the park _	in,the,park	True
+112	s_xb	it is easy to find _ in the park _	in,the,park	False
+112	s_ax	the shoe is easy to find _ your hat _ in the park	your,hat	False
+112	s_xx	it is easy to find _ your hat _ in the park	your,hat	True
+112	s_i_ab	the shoe is easy to find the bag that carried _ in the park _	in,the,park	False
+112	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+112	s_i_ax	the shoe is easy to find the bag that carried _ your hat _ in the park	your,hat	False
+112	s_i_xx	it is easy to find the bag that carried _ your hat _ in the park	your,hat	True
+113	s_ab	the shoe is easy to find _ on Saturdays _	on,Saturdays	True
+113	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+113	s_ax	the shoe is easy to find _ your hat _ on Saturdays	your,hat	False
+113	s_xx	it is easy to find _ your hat _ on Saturdays	your,hat	True
+113	s_i_ab	the shoe is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+113	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+113	s_i_ax	the shoe is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+113	s_i_xx	it is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+114	s_ab	the shoe is easy to find _ with a friend _	with,a,friend	True
+114	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+114	s_ax	the shoe is easy to find _ our keys _ with a friend	our,keys	False
+114	s_xx	it is easy to find _ our keys _ with a friend	our,keys	True
+114	s_i_ab	the shoe is easy to find the bag that carried _ with a friend _	with,a,friend	False
+114	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+114	s_i_ax	the shoe is easy to find the bag that carried _ our keys _ with a friend	our,keys	False
+114	s_i_xx	it is easy to find the bag that carried _ our keys _ with a friend	our,keys	True
+115	s_ab	the shoe is easy to find _ in the park _	in,the,park	True
+115	s_xb	it is easy to find _ in the park _	in,the,park	False
+115	s_ax	the shoe is easy to find _ our keys _ in the park	our,keys	False
+115	s_xx	it is easy to find _ our keys _ in the park	our,keys	True
+115	s_i_ab	the shoe is easy to find the bag that carried _ in the park _	in,the,park	False
+115	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+115	s_i_ax	the shoe is easy to find the bag that carried _ our keys _ in the park	our,keys	False
+115	s_i_xx	it is easy to find the bag that carried _ our keys _ in the park	our,keys	True
+116	s_ab	the shoe is easy to find _ on Saturdays _	on,Saturdays	True
+116	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+116	s_ax	the shoe is easy to find _ our keys _ on Saturdays	our,keys	False
+116	s_xx	it is easy to find _ our keys _ on Saturdays	our,keys	True
+116	s_i_ab	the shoe is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+116	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+116	s_i_ax	the shoe is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+116	s_i_xx	it is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+117	s_ab	the shoe is easy to see _ with a friend _	with,a,friend	True
+117	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+117	s_ax	the shoe is easy to see _ the cheese _ with a friend	the,cheese	False
+117	s_xx	it is easy to see _ the cheese _ with a friend	the,cheese	True
+117	s_i_ab	the shoe is easy to see the bag that carried _ with a friend _	with,a,friend	False
+117	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+117	s_i_ax	the shoe is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+117	s_i_xx	it is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+118	s_ab	the shoe is easy to see _ in the park _	in,the,park	True
+118	s_xb	it is easy to see _ in the park _	in,the,park	False
+118	s_ax	the shoe is easy to see _ the cheese _ in the park	the,cheese	False
+118	s_xx	it is easy to see _ the cheese _ in the park	the,cheese	True
+118	s_i_ab	the shoe is easy to see the bag that carried _ in the park _	in,the,park	False
+118	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+118	s_i_ax	the shoe is easy to see the bag that carried _ the cheese _ in the park	the,cheese	False
+118	s_i_xx	it is easy to see the bag that carried _ the cheese _ in the park	the,cheese	True
+119	s_ab	the shoe is easy to see _ on Saturdays _	on,Saturdays	True
+119	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+119	s_ax	the shoe is easy to see _ the cheese _ on Saturdays	the,cheese	False
+119	s_xx	it is easy to see _ the cheese _ on Saturdays	the,cheese	True
+119	s_i_ab	the shoe is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+119	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+119	s_i_ax	the shoe is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+119	s_i_xx	it is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+120	s_ab	the shoe is easy to see _ with a friend _	with,a,friend	True
+120	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+120	s_ax	the shoe is easy to see _ your hat _ with a friend	your,hat	False
+120	s_xx	it is easy to see _ your hat _ with a friend	your,hat	True
+120	s_i_ab	the shoe is easy to see the bag that carried _ with a friend _	with,a,friend	False
+120	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+120	s_i_ax	the shoe is easy to see the bag that carried _ your hat _ with a friend	your,hat	False
+120	s_i_xx	it is easy to see the bag that carried _ your hat _ with a friend	your,hat	True
+121	s_ab	the shoe is easy to see _ in the park _	in,the,park	True
+121	s_xb	it is easy to see _ in the park _	in,the,park	False
+121	s_ax	the shoe is easy to see _ your hat _ in the park	your,hat	False
+121	s_xx	it is easy to see _ your hat _ in the park	your,hat	True
+121	s_i_ab	the shoe is easy to see the bag that carried _ in the park _	in,the,park	False
+121	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+121	s_i_ax	the shoe is easy to see the bag that carried _ your hat _ in the park	your,hat	False
+121	s_i_xx	it is easy to see the bag that carried _ your hat _ in the park	your,hat	True
+122	s_ab	the shoe is easy to see _ on Saturdays _	on,Saturdays	True
+122	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+122	s_ax	the shoe is easy to see _ your hat _ on Saturdays	your,hat	False
+122	s_xx	it is easy to see _ your hat _ on Saturdays	your,hat	True
+122	s_i_ab	the shoe is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+122	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+122	s_i_ax	the shoe is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+122	s_i_xx	it is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+123	s_ab	the shoe is easy to see _ with a friend _	with,a,friend	True
+123	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+123	s_ax	the shoe is easy to see _ our keys _ with a friend	our,keys	False
+123	s_xx	it is easy to see _ our keys _ with a friend	our,keys	True
+123	s_i_ab	the shoe is easy to see the bag that carried _ with a friend _	with,a,friend	False
+123	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+123	s_i_ax	the shoe is easy to see the bag that carried _ our keys _ with a friend	our,keys	False
+123	s_i_xx	it is easy to see the bag that carried _ our keys _ with a friend	our,keys	True
+124	s_ab	the shoe is easy to see _ in the park _	in,the,park	True
+124	s_xb	it is easy to see _ in the park _	in,the,park	False
+124	s_ax	the shoe is easy to see _ our keys _ in the park	our,keys	False
+124	s_xx	it is easy to see _ our keys _ in the park	our,keys	True
+124	s_i_ab	the shoe is easy to see the bag that carried _ in the park _	in,the,park	False
+124	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+124	s_i_ax	the shoe is easy to see the bag that carried _ our keys _ in the park	our,keys	False
+124	s_i_xx	it is easy to see the bag that carried _ our keys _ in the park	our,keys	True
+125	s_ab	the shoe is easy to see _ on Saturdays _	on,Saturdays	True
+125	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+125	s_ax	the shoe is easy to see _ our keys _ on Saturdays	our,keys	False
+125	s_xx	it is easy to see _ our keys _ on Saturdays	our,keys	True
+125	s_i_ab	the shoe is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+125	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+125	s_i_ax	the shoe is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+125	s_i_xx	it is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+126	s_ab	the shoe is easy to lose _ with a friend _	with,a,friend	True
+126	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+126	s_ax	the shoe is easy to lose _ the cheese _ with a friend	the,cheese	False
+126	s_xx	it is easy to lose _ the cheese _ with a friend	the,cheese	True
+126	s_i_ab	the shoe is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+126	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+126	s_i_ax	the shoe is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+126	s_i_xx	it is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+127	s_ab	the shoe is easy to lose _ in the park _	in,the,park	True
+127	s_xb	it is easy to lose _ in the park _	in,the,park	False
+127	s_ax	the shoe is easy to lose _ the cheese _ in the park	the,cheese	False
+127	s_xx	it is easy to lose _ the cheese _ in the park	the,cheese	True
+127	s_i_ab	the shoe is easy to lose the bag that carried _ in the park _	in,the,park	False
+127	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+127	s_i_ax	the shoe is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+127	s_i_xx	it is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+128	s_ab	the shoe is easy to lose _ on Saturdays _	on,Saturdays	True
+128	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+128	s_ax	the shoe is easy to lose _ the cheese _ on Saturdays	the,cheese	False
+128	s_xx	it is easy to lose _ the cheese _ on Saturdays	the,cheese	True
+128	s_i_ab	the shoe is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+128	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+128	s_i_ax	the shoe is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+128	s_i_xx	it is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+129	s_ab	the shoe is easy to lose _ with a friend _	with,a,friend	True
+129	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+129	s_ax	the shoe is easy to lose _ your hat _ with a friend	your,hat	False
+129	s_xx	it is easy to lose _ your hat _ with a friend	your,hat	True
+129	s_i_ab	the shoe is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+129	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+129	s_i_ax	the shoe is easy to lose the bag that carried _ your hat _ with a friend	your,hat	False
+129	s_i_xx	it is easy to lose the bag that carried _ your hat _ with a friend	your,hat	True
+130	s_ab	the shoe is easy to lose _ in the park _	in,the,park	True
+130	s_xb	it is easy to lose _ in the park _	in,the,park	False
+130	s_ax	the shoe is easy to lose _ your hat _ in the park	your,hat	False
+130	s_xx	it is easy to lose _ your hat _ in the park	your,hat	True
+130	s_i_ab	the shoe is easy to lose the bag that carried _ in the park _	in,the,park	False
+130	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+130	s_i_ax	the shoe is easy to lose the bag that carried _ your hat _ in the park	your,hat	False
+130	s_i_xx	it is easy to lose the bag that carried _ your hat _ in the park	your,hat	True
+131	s_ab	the shoe is easy to lose _ on Saturdays _	on,Saturdays	True
+131	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+131	s_ax	the shoe is easy to lose _ your hat _ on Saturdays	your,hat	False
+131	s_xx	it is easy to lose _ your hat _ on Saturdays	your,hat	True
+131	s_i_ab	the shoe is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+131	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+131	s_i_ax	the shoe is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+131	s_i_xx	it is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+132	s_ab	the shoe is easy to lose _ with a friend _	with,a,friend	True
+132	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+132	s_ax	the shoe is easy to lose _ our keys _ with a friend	our,keys	False
+132	s_xx	it is easy to lose _ our keys _ with a friend	our,keys	True
+132	s_i_ab	the shoe is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+132	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+132	s_i_ax	the shoe is easy to lose the bag that carried _ our keys _ with a friend	our,keys	False
+132	s_i_xx	it is easy to lose the bag that carried _ our keys _ with a friend	our,keys	True
+133	s_ab	the shoe is easy to lose _ in the park _	in,the,park	True
+133	s_xb	it is easy to lose _ in the park _	in,the,park	False
+133	s_ax	the shoe is easy to lose _ our keys _ in the park	our,keys	False
+133	s_xx	it is easy to lose _ our keys _ in the park	our,keys	True
+133	s_i_ab	the shoe is easy to lose the bag that carried _ in the park _	in,the,park	False
+133	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+133	s_i_ax	the shoe is easy to lose the bag that carried _ our keys _ in the park	our,keys	False
+133	s_i_xx	it is easy to lose the bag that carried _ our keys _ in the park	our,keys	True
+134	s_ab	the shoe is easy to lose _ on Saturdays _	on,Saturdays	True
+134	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+134	s_ax	the shoe is easy to lose _ our keys _ on Saturdays	our,keys	False
+134	s_xx	it is easy to lose _ our keys _ on Saturdays	our,keys	True
+134	s_i_ab	the shoe is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+134	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+134	s_i_ax	the shoe is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+134	s_i_xx	it is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+135	s_ab	the shoe is difficult to find _ with a friend _	with,a,friend	True
+135	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+135	s_ax	the shoe is difficult to find _ the cheese _ with a friend	the,cheese	False
+135	s_xx	it is difficult to find _ the cheese _ with a friend	the,cheese	True
+135	s_i_ab	the shoe is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+135	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+135	s_i_ax	the shoe is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+135	s_i_xx	it is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+136	s_ab	the shoe is difficult to find _ in the park _	in,the,park	True
+136	s_xb	it is difficult to find _ in the park _	in,the,park	False
+136	s_ax	the shoe is difficult to find _ the cheese _ in the park	the,cheese	False
+136	s_xx	it is difficult to find _ the cheese _ in the park	the,cheese	True
+136	s_i_ab	the shoe is difficult to find the bag that carried _ in the park _	in,the,park	False
+136	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+136	s_i_ax	the shoe is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	False
+136	s_i_xx	it is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	True
+137	s_ab	the shoe is difficult to find _ on Saturdays _	on,Saturdays	True
+137	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+137	s_ax	the shoe is difficult to find _ the cheese _ on Saturdays	the,cheese	False
+137	s_xx	it is difficult to find _ the cheese _ on Saturdays	the,cheese	True
+137	s_i_ab	the shoe is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+137	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+137	s_i_ax	the shoe is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+137	s_i_xx	it is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+138	s_ab	the shoe is difficult to find _ with a friend _	with,a,friend	True
+138	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+138	s_ax	the shoe is difficult to find _ your hat _ with a friend	your,hat	False
+138	s_xx	it is difficult to find _ your hat _ with a friend	your,hat	True
+138	s_i_ab	the shoe is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+138	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+138	s_i_ax	the shoe is difficult to find the bag that carried _ your hat _ with a friend	your,hat	False
+138	s_i_xx	it is difficult to find the bag that carried _ your hat _ with a friend	your,hat	True
+139	s_ab	the shoe is difficult to find _ in the park _	in,the,park	True
+139	s_xb	it is difficult to find _ in the park _	in,the,park	False
+139	s_ax	the shoe is difficult to find _ your hat _ in the park	your,hat	False
+139	s_xx	it is difficult to find _ your hat _ in the park	your,hat	True
+139	s_i_ab	the shoe is difficult to find the bag that carried _ in the park _	in,the,park	False
+139	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+139	s_i_ax	the shoe is difficult to find the bag that carried _ your hat _ in the park	your,hat	False
+139	s_i_xx	it is difficult to find the bag that carried _ your hat _ in the park	your,hat	True
+140	s_ab	the shoe is difficult to find _ on Saturdays _	on,Saturdays	True
+140	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+140	s_ax	the shoe is difficult to find _ your hat _ on Saturdays	your,hat	False
+140	s_xx	it is difficult to find _ your hat _ on Saturdays	your,hat	True
+140	s_i_ab	the shoe is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+140	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+140	s_i_ax	the shoe is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+140	s_i_xx	it is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+141	s_ab	the shoe is difficult to find _ with a friend _	with,a,friend	True
+141	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+141	s_ax	the shoe is difficult to find _ our keys _ with a friend	our,keys	False
+141	s_xx	it is difficult to find _ our keys _ with a friend	our,keys	True
+141	s_i_ab	the shoe is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+141	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+141	s_i_ax	the shoe is difficult to find the bag that carried _ our keys _ with a friend	our,keys	False
+141	s_i_xx	it is difficult to find the bag that carried _ our keys _ with a friend	our,keys	True
+142	s_ab	the shoe is difficult to find _ in the park _	in,the,park	True
+142	s_xb	it is difficult to find _ in the park _	in,the,park	False
+142	s_ax	the shoe is difficult to find _ our keys _ in the park	our,keys	False
+142	s_xx	it is difficult to find _ our keys _ in the park	our,keys	True
+142	s_i_ab	the shoe is difficult to find the bag that carried _ in the park _	in,the,park	False
+142	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+142	s_i_ax	the shoe is difficult to find the bag that carried _ our keys _ in the park	our,keys	False
+142	s_i_xx	it is difficult to find the bag that carried _ our keys _ in the park	our,keys	True
+143	s_ab	the shoe is difficult to find _ on Saturdays _	on,Saturdays	True
+143	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+143	s_ax	the shoe is difficult to find _ our keys _ on Saturdays	our,keys	False
+143	s_xx	it is difficult to find _ our keys _ on Saturdays	our,keys	True
+143	s_i_ab	the shoe is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+143	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+143	s_i_ax	the shoe is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+143	s_i_xx	it is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+144	s_ab	the shoe is difficult to see _ with a friend _	with,a,friend	True
+144	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+144	s_ax	the shoe is difficult to see _ the cheese _ with a friend	the,cheese	False
+144	s_xx	it is difficult to see _ the cheese _ with a friend	the,cheese	True
+144	s_i_ab	the shoe is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+144	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+144	s_i_ax	the shoe is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+144	s_i_xx	it is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+145	s_ab	the shoe is difficult to see _ in the park _	in,the,park	True
+145	s_xb	it is difficult to see _ in the park _	in,the,park	False
+145	s_ax	the shoe is difficult to see _ the cheese _ in the park	the,cheese	False
+145	s_xx	it is difficult to see _ the cheese _ in the park	the,cheese	True
+145	s_i_ab	the shoe is difficult to see the bag that carried _ in the park _	in,the,park	False
+145	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+145	s_i_ax	the shoe is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	False
+145	s_i_xx	it is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	True
+146	s_ab	the shoe is difficult to see _ on Saturdays _	on,Saturdays	True
+146	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+146	s_ax	the shoe is difficult to see _ the cheese _ on Saturdays	the,cheese	False
+146	s_xx	it is difficult to see _ the cheese _ on Saturdays	the,cheese	True
+146	s_i_ab	the shoe is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+146	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+146	s_i_ax	the shoe is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+146	s_i_xx	it is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+147	s_ab	the shoe is difficult to see _ with a friend _	with,a,friend	True
+147	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+147	s_ax	the shoe is difficult to see _ your hat _ with a friend	your,hat	False
+147	s_xx	it is difficult to see _ your hat _ with a friend	your,hat	True
+147	s_i_ab	the shoe is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+147	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+147	s_i_ax	the shoe is difficult to see the bag that carried _ your hat _ with a friend	your,hat	False
+147	s_i_xx	it is difficult to see the bag that carried _ your hat _ with a friend	your,hat	True
+148	s_ab	the shoe is difficult to see _ in the park _	in,the,park	True
+148	s_xb	it is difficult to see _ in the park _	in,the,park	False
+148	s_ax	the shoe is difficult to see _ your hat _ in the park	your,hat	False
+148	s_xx	it is difficult to see _ your hat _ in the park	your,hat	True
+148	s_i_ab	the shoe is difficult to see the bag that carried _ in the park _	in,the,park	False
+148	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+148	s_i_ax	the shoe is difficult to see the bag that carried _ your hat _ in the park	your,hat	False
+148	s_i_xx	it is difficult to see the bag that carried _ your hat _ in the park	your,hat	True
+149	s_ab	the shoe is difficult to see _ on Saturdays _	on,Saturdays	True
+149	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+149	s_ax	the shoe is difficult to see _ your hat _ on Saturdays	your,hat	False
+149	s_xx	it is difficult to see _ your hat _ on Saturdays	your,hat	True
+149	s_i_ab	the shoe is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+149	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+149	s_i_ax	the shoe is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+149	s_i_xx	it is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+150	s_ab	the shoe is difficult to see _ with a friend _	with,a,friend	True
+150	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+150	s_ax	the shoe is difficult to see _ our keys _ with a friend	our,keys	False
+150	s_xx	it is difficult to see _ our keys _ with a friend	our,keys	True
+150	s_i_ab	the shoe is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+150	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+150	s_i_ax	the shoe is difficult to see the bag that carried _ our keys _ with a friend	our,keys	False
+150	s_i_xx	it is difficult to see the bag that carried _ our keys _ with a friend	our,keys	True
+151	s_ab	the shoe is difficult to see _ in the park _	in,the,park	True
+151	s_xb	it is difficult to see _ in the park _	in,the,park	False
+151	s_ax	the shoe is difficult to see _ our keys _ in the park	our,keys	False
+151	s_xx	it is difficult to see _ our keys _ in the park	our,keys	True
+151	s_i_ab	the shoe is difficult to see the bag that carried _ in the park _	in,the,park	False
+151	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+151	s_i_ax	the shoe is difficult to see the bag that carried _ our keys _ in the park	our,keys	False
+151	s_i_xx	it is difficult to see the bag that carried _ our keys _ in the park	our,keys	True
+152	s_ab	the shoe is difficult to see _ on Saturdays _	on,Saturdays	True
+152	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+152	s_ax	the shoe is difficult to see _ our keys _ on Saturdays	our,keys	False
+152	s_xx	it is difficult to see _ our keys _ on Saturdays	our,keys	True
+152	s_i_ab	the shoe is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+152	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+152	s_i_ax	the shoe is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+152	s_i_xx	it is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+153	s_ab	the shoe is difficult to lose _ with a friend _	with,a,friend	True
+153	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+153	s_ax	the shoe is difficult to lose _ the cheese _ with a friend	the,cheese	False
+153	s_xx	it is difficult to lose _ the cheese _ with a friend	the,cheese	True
+153	s_i_ab	the shoe is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+153	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+153	s_i_ax	the shoe is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+153	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+154	s_ab	the shoe is difficult to lose _ in the park _	in,the,park	True
+154	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+154	s_ax	the shoe is difficult to lose _ the cheese _ in the park	the,cheese	False
+154	s_xx	it is difficult to lose _ the cheese _ in the park	the,cheese	True
+154	s_i_ab	the shoe is difficult to lose the bag that carried _ in the park _	in,the,park	False
+154	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+154	s_i_ax	the shoe is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+154	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+155	s_ab	the shoe is difficult to lose _ on Saturdays _	on,Saturdays	True
+155	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+155	s_ax	the shoe is difficult to lose _ the cheese _ on Saturdays	the,cheese	False
+155	s_xx	it is difficult to lose _ the cheese _ on Saturdays	the,cheese	True
+155	s_i_ab	the shoe is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+155	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+155	s_i_ax	the shoe is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+155	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+156	s_ab	the shoe is difficult to lose _ with a friend _	with,a,friend	True
+156	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+156	s_ax	the shoe is difficult to lose _ your hat _ with a friend	your,hat	False
+156	s_xx	it is difficult to lose _ your hat _ with a friend	your,hat	True
+156	s_i_ab	the shoe is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+156	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+156	s_i_ax	the shoe is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	False
+156	s_i_xx	it is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	True
+157	s_ab	the shoe is difficult to lose _ in the park _	in,the,park	True
+157	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+157	s_ax	the shoe is difficult to lose _ your hat _ in the park	your,hat	False
+157	s_xx	it is difficult to lose _ your hat _ in the park	your,hat	True
+157	s_i_ab	the shoe is difficult to lose the bag that carried _ in the park _	in,the,park	False
+157	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+157	s_i_ax	the shoe is difficult to lose the bag that carried _ your hat _ in the park	your,hat	False
+157	s_i_xx	it is difficult to lose the bag that carried _ your hat _ in the park	your,hat	True
+158	s_ab	the shoe is difficult to lose _ on Saturdays _	on,Saturdays	True
+158	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+158	s_ax	the shoe is difficult to lose _ your hat _ on Saturdays	your,hat	False
+158	s_xx	it is difficult to lose _ your hat _ on Saturdays	your,hat	True
+158	s_i_ab	the shoe is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+158	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+158	s_i_ax	the shoe is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+158	s_i_xx	it is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+159	s_ab	the shoe is difficult to lose _ with a friend _	with,a,friend	True
+159	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+159	s_ax	the shoe is difficult to lose _ our keys _ with a friend	our,keys	False
+159	s_xx	it is difficult to lose _ our keys _ with a friend	our,keys	True
+159	s_i_ab	the shoe is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+159	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+159	s_i_ax	the shoe is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	False
+159	s_i_xx	it is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	True
+160	s_ab	the shoe is difficult to lose _ in the park _	in,the,park	True
+160	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+160	s_ax	the shoe is difficult to lose _ our keys _ in the park	our,keys	False
+160	s_xx	it is difficult to lose _ our keys _ in the park	our,keys	True
+160	s_i_ab	the shoe is difficult to lose the bag that carried _ in the park _	in,the,park	False
+160	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+160	s_i_ax	the shoe is difficult to lose the bag that carried _ our keys _ in the park	our,keys	False
+160	s_i_xx	it is difficult to lose the bag that carried _ our keys _ in the park	our,keys	True
+161	s_ab	the shoe is difficult to lose _ on Saturdays _	on,Saturdays	True
+161	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+161	s_ax	the shoe is difficult to lose _ our keys _ on Saturdays	our,keys	False
+161	s_xx	it is difficult to lose _ our keys _ on Saturdays	our,keys	True
+161	s_i_ab	the shoe is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+161	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+161	s_i_ax	the shoe is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+161	s_i_xx	it is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+162	s_ab	her book is impossible to find _ with a friend _	with,a,friend	True
+162	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+162	s_ax	her book is impossible to find _ the cheese _ with a friend	the,cheese	False
+162	s_xx	it is impossible to find _ the cheese _ with a friend	the,cheese	True
+162	s_i_ab	her book is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+162	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+162	s_i_ax	her book is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+162	s_i_xx	it is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+163	s_ab	her book is impossible to find _ in the park _	in,the,park	True
+163	s_xb	it is impossible to find _ in the park _	in,the,park	False
+163	s_ax	her book is impossible to find _ the cheese _ in the park	the,cheese	False
+163	s_xx	it is impossible to find _ the cheese _ in the park	the,cheese	True
+163	s_i_ab	her book is impossible to find the bag that carried _ in the park _	in,the,park	False
+163	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+163	s_i_ax	her book is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	False
+163	s_i_xx	it is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	True
+164	s_ab	her book is impossible to find _ on Saturdays _	on,Saturdays	True
+164	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+164	s_ax	her book is impossible to find _ the cheese _ on Saturdays	the,cheese	False
+164	s_xx	it is impossible to find _ the cheese _ on Saturdays	the,cheese	True
+164	s_i_ab	her book is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+164	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+164	s_i_ax	her book is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+164	s_i_xx	it is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+165	s_ab	her book is impossible to find _ with a friend _	with,a,friend	True
+165	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+165	s_ax	her book is impossible to find _ your hat _ with a friend	your,hat	False
+165	s_xx	it is impossible to find _ your hat _ with a friend	your,hat	True
+165	s_i_ab	her book is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+165	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+165	s_i_ax	her book is impossible to find the bag that carried _ your hat _ with a friend	your,hat	False
+165	s_i_xx	it is impossible to find the bag that carried _ your hat _ with a friend	your,hat	True
+166	s_ab	her book is impossible to find _ in the park _	in,the,park	True
+166	s_xb	it is impossible to find _ in the park _	in,the,park	False
+166	s_ax	her book is impossible to find _ your hat _ in the park	your,hat	False
+166	s_xx	it is impossible to find _ your hat _ in the park	your,hat	True
+166	s_i_ab	her book is impossible to find the bag that carried _ in the park _	in,the,park	False
+166	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+166	s_i_ax	her book is impossible to find the bag that carried _ your hat _ in the park	your,hat	False
+166	s_i_xx	it is impossible to find the bag that carried _ your hat _ in the park	your,hat	True
+167	s_ab	her book is impossible to find _ on Saturdays _	on,Saturdays	True
+167	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+167	s_ax	her book is impossible to find _ your hat _ on Saturdays	your,hat	False
+167	s_xx	it is impossible to find _ your hat _ on Saturdays	your,hat	True
+167	s_i_ab	her book is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+167	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+167	s_i_ax	her book is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+167	s_i_xx	it is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+168	s_ab	her book is impossible to find _ with a friend _	with,a,friend	True
+168	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
+168	s_ax	her book is impossible to find _ our keys _ with a friend	our,keys	False
+168	s_xx	it is impossible to find _ our keys _ with a friend	our,keys	True
+168	s_i_ab	her book is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+168	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False
+168	s_i_ax	her book is impossible to find the bag that carried _ our keys _ with a friend	our,keys	False
+168	s_i_xx	it is impossible to find the bag that carried _ our keys _ with a friend	our,keys	True
+169	s_ab	her book is impossible to find _ in the park _	in,the,park	True
+169	s_xb	it is impossible to find _ in the park _	in,the,park	False
+169	s_ax	her book is impossible to find _ our keys _ in the park	our,keys	False
+169	s_xx	it is impossible to find _ our keys _ in the park	our,keys	True
+169	s_i_ab	her book is impossible to find the bag that carried _ in the park _	in,the,park	False
+169	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False
+169	s_i_ax	her book is impossible to find the bag that carried _ our keys _ in the park	our,keys	False
+169	s_i_xx	it is impossible to find the bag that carried _ our keys _ in the park	our,keys	True
+170	s_ab	her book is impossible to find _ on Saturdays _	on,Saturdays	True
+170	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False
+170	s_ax	her book is impossible to find _ our keys _ on Saturdays	our,keys	False
+170	s_xx	it is impossible to find _ our keys _ on Saturdays	our,keys	True
+170	s_i_ab	her book is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+170	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False
+170	s_i_ax	her book is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+170	s_i_xx	it is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+171	s_ab	her book is impossible to see _ with a friend _	with,a,friend	True
+171	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+171	s_ax	her book is impossible to see _ the cheese _ with a friend	the,cheese	False
+171	s_xx	it is impossible to see _ the cheese _ with a friend	the,cheese	True
+171	s_i_ab	her book is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+171	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+171	s_i_ax	her book is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+171	s_i_xx	it is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+172	s_ab	her book is impossible to see _ in the park _	in,the,park	True
+172	s_xb	it is impossible to see _ in the park _	in,the,park	False
+172	s_ax	her book is impossible to see _ the cheese _ in the park	the,cheese	False
+172	s_xx	it is impossible to see _ the cheese _ in the park	the,cheese	True
+172	s_i_ab	her book is impossible to see the bag that carried _ in the park _	in,the,park	False
+172	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+172	s_i_ax	her book is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	False
+172	s_i_xx	it is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	True
+173	s_ab	her book is impossible to see _ on Saturdays _	on,Saturdays	True
+173	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+173	s_ax	her book is impossible to see _ the cheese _ on Saturdays	the,cheese	False
+173	s_xx	it is impossible to see _ the cheese _ on Saturdays	the,cheese	True
+173	s_i_ab	her book is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+173	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+173	s_i_ax	her book is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+173	s_i_xx	it is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+174	s_ab	her book is impossible to see _ with a friend _	with,a,friend	True
+174	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+174	s_ax	her book is impossible to see _ your hat _ with a friend	your,hat	False
+174	s_xx	it is impossible to see _ your hat _ with a friend	your,hat	True
+174	s_i_ab	her book is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+174	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+174	s_i_ax	her book is impossible to see the bag that carried _ your hat _ with a friend	your,hat	False
+174	s_i_xx	it is impossible to see the bag that carried _ your hat _ with a friend	your,hat	True
+175	s_ab	her book is impossible to see _ in the park _	in,the,park	True
+175	s_xb	it is impossible to see _ in the park _	in,the,park	False
+175	s_ax	her book is impossible to see _ your hat _ in the park	your,hat	False
+175	s_xx	it is impossible to see _ your hat _ in the park	your,hat	True
+175	s_i_ab	her book is impossible to see the bag that carried _ in the park _	in,the,park	False
+175	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+175	s_i_ax	her book is impossible to see the bag that carried _ your hat _ in the park	your,hat	False
+175	s_i_xx	it is impossible to see the bag that carried _ your hat _ in the park	your,hat	True
+176	s_ab	her book is impossible to see _ on Saturdays _	on,Saturdays	True
+176	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+176	s_ax	her book is impossible to see _ your hat _ on Saturdays	your,hat	False
+176	s_xx	it is impossible to see _ your hat _ on Saturdays	your,hat	True
+176	s_i_ab	her book is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+176	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+176	s_i_ax	her book is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+176	s_i_xx	it is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+177	s_ab	her book is impossible to see _ with a friend _	with,a,friend	True
+177	s_xb	it is impossible to see _ with a friend _	with,a,friend	False
+177	s_ax	her book is impossible to see _ our keys _ with a friend	our,keys	False
+177	s_xx	it is impossible to see _ our keys _ with a friend	our,keys	True
+177	s_i_ab	her book is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+177	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False
+177	s_i_ax	her book is impossible to see the bag that carried _ our keys _ with a friend	our,keys	False
+177	s_i_xx	it is impossible to see the bag that carried _ our keys _ with a friend	our,keys	True
+178	s_ab	her book is impossible to see _ in the park _	in,the,park	True
+178	s_xb	it is impossible to see _ in the park _	in,the,park	False
+178	s_ax	her book is impossible to see _ our keys _ in the park	our,keys	False
+178	s_xx	it is impossible to see _ our keys _ in the park	our,keys	True
+178	s_i_ab	her book is impossible to see the bag that carried _ in the park _	in,the,park	False
+178	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False
+178	s_i_ax	her book is impossible to see the bag that carried _ our keys _ in the park	our,keys	False
+178	s_i_xx	it is impossible to see the bag that carried _ our keys _ in the park	our,keys	True
+179	s_ab	her book is impossible to see _ on Saturdays _	on,Saturdays	True
+179	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False
+179	s_ax	her book is impossible to see _ our keys _ on Saturdays	our,keys	False
+179	s_xx	it is impossible to see _ our keys _ on Saturdays	our,keys	True
+179	s_i_ab	her book is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+179	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False
+179	s_i_ax	her book is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+179	s_i_xx	it is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+180	s_ab	her book is impossible to lose _ with a friend _	with,a,friend	True
+180	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+180	s_ax	her book is impossible to lose _ the cheese _ with a friend	the,cheese	False
+180	s_xx	it is impossible to lose _ the cheese _ with a friend	the,cheese	True
+180	s_i_ab	her book is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+180	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+180	s_i_ax	her book is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+180	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+181	s_ab	her book is impossible to lose _ in the park _	in,the,park	True
+181	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+181	s_ax	her book is impossible to lose _ the cheese _ in the park	the,cheese	False
+181	s_xx	it is impossible to lose _ the cheese _ in the park	the,cheese	True
+181	s_i_ab	her book is impossible to lose the bag that carried _ in the park _	in,the,park	False
+181	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+181	s_i_ax	her book is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+181	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+182	s_ab	her book is impossible to lose _ on Saturdays _	on,Saturdays	True
+182	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+182	s_ax	her book is impossible to lose _ the cheese _ on Saturdays	the,cheese	False
+182	s_xx	it is impossible to lose _ the cheese _ on Saturdays	the,cheese	True
+182	s_i_ab	her book is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+182	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+182	s_i_ax	her book is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+182	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+183	s_ab	her book is impossible to lose _ with a friend _	with,a,friend	True
+183	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+183	s_ax	her book is impossible to lose _ your hat _ with a friend	your,hat	False
+183	s_xx	it is impossible to lose _ your hat _ with a friend	your,hat	True
+183	s_i_ab	her book is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+183	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+183	s_i_ax	her book is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	False
+183	s_i_xx	it is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	True
+184	s_ab	her book is impossible to lose _ in the park _	in,the,park	True
+184	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+184	s_ax	her book is impossible to lose _ your hat _ in the park	your,hat	False
+184	s_xx	it is impossible to lose _ your hat _ in the park	your,hat	True
+184	s_i_ab	her book is impossible to lose the bag that carried _ in the park _	in,the,park	False
+184	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+184	s_i_ax	her book is impossible to lose the bag that carried _ your hat _ in the park	your,hat	False
+184	s_i_xx	it is impossible to lose the bag that carried _ your hat _ in the park	your,hat	True
+185	s_ab	her book is impossible to lose _ on Saturdays _	on,Saturdays	True
+185	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+185	s_ax	her book is impossible to lose _ your hat _ on Saturdays	your,hat	False
+185	s_xx	it is impossible to lose _ your hat _ on Saturdays	your,hat	True
+185	s_i_ab	her book is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+185	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+185	s_i_ax	her book is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+185	s_i_xx	it is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+186	s_ab	her book is impossible to lose _ with a friend _	with,a,friend	True
+186	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False
+186	s_ax	her book is impossible to lose _ our keys _ with a friend	our,keys	False
+186	s_xx	it is impossible to lose _ our keys _ with a friend	our,keys	True
+186	s_i_ab	her book is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+186	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False
+186	s_i_ax	her book is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	False
+186	s_i_xx	it is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	True
+187	s_ab	her book is impossible to lose _ in the park _	in,the,park	True
+187	s_xb	it is impossible to lose _ in the park _	in,the,park	False
+187	s_ax	her book is impossible to lose _ our keys _ in the park	our,keys	False
+187	s_xx	it is impossible to lose _ our keys _ in the park	our,keys	True
+187	s_i_ab	her book is impossible to lose the bag that carried _ in the park _	in,the,park	False
+187	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False
+187	s_i_ax	her book is impossible to lose the bag that carried _ our keys _ in the park	our,keys	False
+187	s_i_xx	it is impossible to lose the bag that carried _ our keys _ in the park	our,keys	True
+188	s_ab	her book is impossible to lose _ on Saturdays _	on,Saturdays	True
+188	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False
+188	s_ax	her book is impossible to lose _ our keys _ on Saturdays	our,keys	False
+188	s_xx	it is impossible to lose _ our keys _ on Saturdays	our,keys	True
+188	s_i_ab	her book is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+188	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+188	s_i_ax	her book is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+188	s_i_xx	it is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+189	s_ab	her book is easy to find _ with a friend _	with,a,friend	True
+189	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+189	s_ax	her book is easy to find _ the cheese _ with a friend	the,cheese	False
+189	s_xx	it is easy to find _ the cheese _ with a friend	the,cheese	True
+189	s_i_ab	her book is easy to find the bag that carried _ with a friend _	with,a,friend	False
+189	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+189	s_i_ax	her book is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+189	s_i_xx	it is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+190	s_ab	her book is easy to find _ in the park _	in,the,park	True
+190	s_xb	it is easy to find _ in the park _	in,the,park	False
+190	s_ax	her book is easy to find _ the cheese _ in the park	the,cheese	False
+190	s_xx	it is easy to find _ the cheese _ in the park	the,cheese	True
+190	s_i_ab	her book is easy to find the bag that carried _ in the park _	in,the,park	False
+190	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+190	s_i_ax	her book is easy to find the bag that carried _ the cheese _ in the park	the,cheese	False
+190	s_i_xx	it is easy to find the bag that carried _ the cheese _ in the park	the,cheese	True
+191	s_ab	her book is easy to find _ on Saturdays _	on,Saturdays	True
+191	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+191	s_ax	her book is easy to find _ the cheese _ on Saturdays	the,cheese	False
+191	s_xx	it is easy to find _ the cheese _ on Saturdays	the,cheese	True
+191	s_i_ab	her book is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+191	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+191	s_i_ax	her book is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+191	s_i_xx	it is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+192	s_ab	her book is easy to find _ with a friend _	with,a,friend	True
+192	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+192	s_ax	her book is easy to find _ your hat _ with a friend	your,hat	False
+192	s_xx	it is easy to find _ your hat _ with a friend	your,hat	True
+192	s_i_ab	her book is easy to find the bag that carried _ with a friend _	with,a,friend	False
+192	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+192	s_i_ax	her book is easy to find the bag that carried _ your hat _ with a friend	your,hat	False
+192	s_i_xx	it is easy to find the bag that carried _ your hat _ with a friend	your,hat	True
+193	s_ab	her book is easy to find _ in the park _	in,the,park	True
+193	s_xb	it is easy to find _ in the park _	in,the,park	False
+193	s_ax	her book is easy to find _ your hat _ in the park	your,hat	False
+193	s_xx	it is easy to find _ your hat _ in the park	your,hat	True
+193	s_i_ab	her book is easy to find the bag that carried _ in the park _	in,the,park	False
+193	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+193	s_i_ax	her book is easy to find the bag that carried _ your hat _ in the park	your,hat	False
+193	s_i_xx	it is easy to find the bag that carried _ your hat _ in the park	your,hat	True
+194	s_ab	her book is easy to find _ on Saturdays _	on,Saturdays	True
+194	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+194	s_ax	her book is easy to find _ your hat _ on Saturdays	your,hat	False
+194	s_xx	it is easy to find _ your hat _ on Saturdays	your,hat	True
+194	s_i_ab	her book is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+194	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+194	s_i_ax	her book is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+194	s_i_xx	it is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+195	s_ab	her book is easy to find _ with a friend _	with,a,friend	True
+195	s_xb	it is easy to find _ with a friend _	with,a,friend	False
+195	s_ax	her book is easy to find _ our keys _ with a friend	our,keys	False
+195	s_xx	it is easy to find _ our keys _ with a friend	our,keys	True
+195	s_i_ab	her book is easy to find the bag that carried _ with a friend _	with,a,friend	False
+195	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False
+195	s_i_ax	her book is easy to find the bag that carried _ our keys _ with a friend	our,keys	False
+195	s_i_xx	it is easy to find the bag that carried _ our keys _ with a friend	our,keys	True
+196	s_ab	her book is easy to find _ in the park _	in,the,park	True
+196	s_xb	it is easy to find _ in the park _	in,the,park	False
+196	s_ax	her book is easy to find _ our keys _ in the park	our,keys	False
+196	s_xx	it is easy to find _ our keys _ in the park	our,keys	True
+196	s_i_ab	her book is easy to find the bag that carried _ in the park _	in,the,park	False
+196	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False
+196	s_i_ax	her book is easy to find the bag that carried _ our keys _ in the park	our,keys	False
+196	s_i_xx	it is easy to find the bag that carried _ our keys _ in the park	our,keys	True
+197	s_ab	her book is easy to find _ on Saturdays _	on,Saturdays	True
+197	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False
+197	s_ax	her book is easy to find _ our keys _ on Saturdays	our,keys	False
+197	s_xx	it is easy to find _ our keys _ on Saturdays	our,keys	True
+197	s_i_ab	her book is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+197	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False
+197	s_i_ax	her book is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+197	s_i_xx	it is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+198	s_ab	her book is easy to see _ with a friend _	with,a,friend	True
+198	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+198	s_ax	her book is easy to see _ the cheese _ with a friend	the,cheese	False
+198	s_xx	it is easy to see _ the cheese _ with a friend	the,cheese	True
+198	s_i_ab	her book is easy to see the bag that carried _ with a friend _	with,a,friend	False
+198	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+198	s_i_ax	her book is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+198	s_i_xx	it is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+199	s_ab	her book is easy to see _ in the park _	in,the,park	True
+199	s_xb	it is easy to see _ in the park _	in,the,park	False
+199	s_ax	her book is easy to see _ the cheese _ in the park	the,cheese	False
+199	s_xx	it is easy to see _ the cheese _ in the park	the,cheese	True
+199	s_i_ab	her book is easy to see the bag that carried _ in the park _	in,the,park	False
+199	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+199	s_i_ax	her book is easy to see the bag that carried _ the cheese _ in the park	the,cheese	False
+199	s_i_xx	it is easy to see the bag that carried _ the cheese _ in the park	the,cheese	True
+200	s_ab	her book is easy to see _ on Saturdays _	on,Saturdays	True
+200	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+200	s_ax	her book is easy to see _ the cheese _ on Saturdays	the,cheese	False
+200	s_xx	it is easy to see _ the cheese _ on Saturdays	the,cheese	True
+200	s_i_ab	her book is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+200	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+200	s_i_ax	her book is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+200	s_i_xx	it is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+201	s_ab	her book is easy to see _ with a friend _	with,a,friend	True
+201	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+201	s_ax	her book is easy to see _ your hat _ with a friend	your,hat	False
+201	s_xx	it is easy to see _ your hat _ with a friend	your,hat	True
+201	s_i_ab	her book is easy to see the bag that carried _ with a friend _	with,a,friend	False
+201	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+201	s_i_ax	her book is easy to see the bag that carried _ your hat _ with a friend	your,hat	False
+201	s_i_xx	it is easy to see the bag that carried _ your hat _ with a friend	your,hat	True
+202	s_ab	her book is easy to see _ in the park _	in,the,park	True
+202	s_xb	it is easy to see _ in the park _	in,the,park	False
+202	s_ax	her book is easy to see _ your hat _ in the park	your,hat	False
+202	s_xx	it is easy to see _ your hat _ in the park	your,hat	True
+202	s_i_ab	her book is easy to see the bag that carried _ in the park _	in,the,park	False
+202	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+202	s_i_ax	her book is easy to see the bag that carried _ your hat _ in the park	your,hat	False
+202	s_i_xx	it is easy to see the bag that carried _ your hat _ in the park	your,hat	True
+203	s_ab	her book is easy to see _ on Saturdays _	on,Saturdays	True
+203	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+203	s_ax	her book is easy to see _ your hat _ on Saturdays	your,hat	False
+203	s_xx	it is easy to see _ your hat _ on Saturdays	your,hat	True
+203	s_i_ab	her book is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+203	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+203	s_i_ax	her book is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+203	s_i_xx	it is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+204	s_ab	her book is easy to see _ with a friend _	with,a,friend	True
+204	s_xb	it is easy to see _ with a friend _	with,a,friend	False
+204	s_ax	her book is easy to see _ our keys _ with a friend	our,keys	False
+204	s_xx	it is easy to see _ our keys _ with a friend	our,keys	True
+204	s_i_ab	her book is easy to see the bag that carried _ with a friend _	with,a,friend	False
+204	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False
+204	s_i_ax	her book is easy to see the bag that carried _ our keys _ with a friend	our,keys	False
+204	s_i_xx	it is easy to see the bag that carried _ our keys _ with a friend	our,keys	True
+205	s_ab	her book is easy to see _ in the park _	in,the,park	True
+205	s_xb	it is easy to see _ in the park _	in,the,park	False
+205	s_ax	her book is easy to see _ our keys _ in the park	our,keys	False
+205	s_xx	it is easy to see _ our keys _ in the park	our,keys	True
+205	s_i_ab	her book is easy to see the bag that carried _ in the park _	in,the,park	False
+205	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False
+205	s_i_ax	her book is easy to see the bag that carried _ our keys _ in the park	our,keys	False
+205	s_i_xx	it is easy to see the bag that carried _ our keys _ in the park	our,keys	True
+206	s_ab	her book is easy to see _ on Saturdays _	on,Saturdays	True
+206	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False
+206	s_ax	her book is easy to see _ our keys _ on Saturdays	our,keys	False
+206	s_xx	it is easy to see _ our keys _ on Saturdays	our,keys	True
+206	s_i_ab	her book is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+206	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False
+206	s_i_ax	her book is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+206	s_i_xx	it is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+207	s_ab	her book is easy to lose _ with a friend _	with,a,friend	True
+207	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+207	s_ax	her book is easy to lose _ the cheese _ with a friend	the,cheese	False
+207	s_xx	it is easy to lose _ the cheese _ with a friend	the,cheese	True
+207	s_i_ab	her book is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+207	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+207	s_i_ax	her book is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+207	s_i_xx	it is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+208	s_ab	her book is easy to lose _ in the park _	in,the,park	True
+208	s_xb	it is easy to lose _ in the park _	in,the,park	False
+208	s_ax	her book is easy to lose _ the cheese _ in the park	the,cheese	False
+208	s_xx	it is easy to lose _ the cheese _ in the park	the,cheese	True
+208	s_i_ab	her book is easy to lose the bag that carried _ in the park _	in,the,park	False
+208	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+208	s_i_ax	her book is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+208	s_i_xx	it is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+209	s_ab	her book is easy to lose _ on Saturdays _	on,Saturdays	True
+209	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+209	s_ax	her book is easy to lose _ the cheese _ on Saturdays	the,cheese	False
+209	s_xx	it is easy to lose _ the cheese _ on Saturdays	the,cheese	True
+209	s_i_ab	her book is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+209	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+209	s_i_ax	her book is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+209	s_i_xx	it is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+210	s_ab	her book is easy to lose _ with a friend _	with,a,friend	True
+210	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+210	s_ax	her book is easy to lose _ your hat _ with a friend	your,hat	False
+210	s_xx	it is easy to lose _ your hat _ with a friend	your,hat	True
+210	s_i_ab	her book is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+210	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+210	s_i_ax	her book is easy to lose the bag that carried _ your hat _ with a friend	your,hat	False
+210	s_i_xx	it is easy to lose the bag that carried _ your hat _ with a friend	your,hat	True
+211	s_ab	her book is easy to lose _ in the park _	in,the,park	True
+211	s_xb	it is easy to lose _ in the park _	in,the,park	False
+211	s_ax	her book is easy to lose _ your hat _ in the park	your,hat	False
+211	s_xx	it is easy to lose _ your hat _ in the park	your,hat	True
+211	s_i_ab	her book is easy to lose the bag that carried _ in the park _	in,the,park	False
+211	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+211	s_i_ax	her book is easy to lose the bag that carried _ your hat _ in the park	your,hat	False
+211	s_i_xx	it is easy to lose the bag that carried _ your hat _ in the park	your,hat	True
+212	s_ab	her book is easy to lose _ on Saturdays _	on,Saturdays	True
+212	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+212	s_ax	her book is easy to lose _ your hat _ on Saturdays	your,hat	False
+212	s_xx	it is easy to lose _ your hat _ on Saturdays	your,hat	True
+212	s_i_ab	her book is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+212	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+212	s_i_ax	her book is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+212	s_i_xx	it is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+213	s_ab	her book is easy to lose _ with a friend _	with,a,friend	True
+213	s_xb	it is easy to lose _ with a friend _	with,a,friend	False
+213	s_ax	her book is easy to lose _ our keys _ with a friend	our,keys	False
+213	s_xx	it is easy to lose _ our keys _ with a friend	our,keys	True
+213	s_i_ab	her book is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+213	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False
+213	s_i_ax	her book is easy to lose the bag that carried _ our keys _ with a friend	our,keys	False
+213	s_i_xx	it is easy to lose the bag that carried _ our keys _ with a friend	our,keys	True
+214	s_ab	her book is easy to lose _ in the park _	in,the,park	True
+214	s_xb	it is easy to lose _ in the park _	in,the,park	False
+214	s_ax	her book is easy to lose _ our keys _ in the park	our,keys	False
+214	s_xx	it is easy to lose _ our keys _ in the park	our,keys	True
+214	s_i_ab	her book is easy to lose the bag that carried _ in the park _	in,the,park	False
+214	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False
+214	s_i_ax	her book is easy to lose the bag that carried _ our keys _ in the park	our,keys	False
+214	s_i_xx	it is easy to lose the bag that carried _ our keys _ in the park	our,keys	True
+215	s_ab	her book is easy to lose _ on Saturdays _	on,Saturdays	True
+215	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False
+215	s_ax	her book is easy to lose _ our keys _ on Saturdays	our,keys	False
+215	s_xx	it is easy to lose _ our keys _ on Saturdays	our,keys	True
+215	s_i_ab	her book is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+215	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+215	s_i_ax	her book is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+215	s_i_xx	it is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
+216	s_ab	her book is difficult to find _ with a friend _	with,a,friend	True
+216	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+216	s_ax	her book is difficult to find _ the cheese _ with a friend	the,cheese	False
+216	s_xx	it is difficult to find _ the cheese _ with a friend	the,cheese	True
+216	s_i_ab	her book is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+216	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+216	s_i_ax	her book is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	False
+216	s_i_xx	it is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	True
+217	s_ab	her book is difficult to find _ in the park _	in,the,park	True
+217	s_xb	it is difficult to find _ in the park _	in,the,park	False
+217	s_ax	her book is difficult to find _ the cheese _ in the park	the,cheese	False
+217	s_xx	it is difficult to find _ the cheese _ in the park	the,cheese	True
+217	s_i_ab	her book is difficult to find the bag that carried _ in the park _	in,the,park	False
+217	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+217	s_i_ax	her book is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	False
+217	s_i_xx	it is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	True
+218	s_ab	her book is difficult to find _ on Saturdays _	on,Saturdays	True
+218	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+218	s_ax	her book is difficult to find _ the cheese _ on Saturdays	the,cheese	False
+218	s_xx	it is difficult to find _ the cheese _ on Saturdays	the,cheese	True
+218	s_i_ab	her book is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+218	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+218	s_i_ax	her book is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+218	s_i_xx	it is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+219	s_ab	her book is difficult to find _ with a friend _	with,a,friend	True
+219	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+219	s_ax	her book is difficult to find _ your hat _ with a friend	your,hat	False
+219	s_xx	it is difficult to find _ your hat _ with a friend	your,hat	True
+219	s_i_ab	her book is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+219	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+219	s_i_ax	her book is difficult to find the bag that carried _ your hat _ with a friend	your,hat	False
+219	s_i_xx	it is difficult to find the bag that carried _ your hat _ with a friend	your,hat	True
+220	s_ab	her book is difficult to find _ in the park _	in,the,park	True
+220	s_xb	it is difficult to find _ in the park _	in,the,park	False
+220	s_ax	her book is difficult to find _ your hat _ in the park	your,hat	False
+220	s_xx	it is difficult to find _ your hat _ in the park	your,hat	True
+220	s_i_ab	her book is difficult to find the bag that carried _ in the park _	in,the,park	False
+220	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+220	s_i_ax	her book is difficult to find the bag that carried _ your hat _ in the park	your,hat	False
+220	s_i_xx	it is difficult to find the bag that carried _ your hat _ in the park	your,hat	True
+221	s_ab	her book is difficult to find _ on Saturdays _	on,Saturdays	True
+221	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+221	s_ax	her book is difficult to find _ your hat _ on Saturdays	your,hat	False
+221	s_xx	it is difficult to find _ your hat _ on Saturdays	your,hat	True
+221	s_i_ab	her book is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+221	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+221	s_i_ax	her book is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	False
+221	s_i_xx	it is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	True
+222	s_ab	her book is difficult to find _ with a friend _	with,a,friend	True
+222	s_xb	it is difficult to find _ with a friend _	with,a,friend	False
+222	s_ax	her book is difficult to find _ our keys _ with a friend	our,keys	False
+222	s_xx	it is difficult to find _ our keys _ with a friend	our,keys	True
+222	s_i_ab	her book is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+222	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False
+222	s_i_ax	her book is difficult to find the bag that carried _ our keys _ with a friend	our,keys	False
+222	s_i_xx	it is difficult to find the bag that carried _ our keys _ with a friend	our,keys	True
+223	s_ab	her book is difficult to find _ in the park _	in,the,park	True
+223	s_xb	it is difficult to find _ in the park _	in,the,park	False
+223	s_ax	her book is difficult to find _ our keys _ in the park	our,keys	False
+223	s_xx	it is difficult to find _ our keys _ in the park	our,keys	True
+223	s_i_ab	her book is difficult to find the bag that carried _ in the park _	in,the,park	False
+223	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False
+223	s_i_ax	her book is difficult to find the bag that carried _ our keys _ in the park	our,keys	False
+223	s_i_xx	it is difficult to find the bag that carried _ our keys _ in the park	our,keys	True
+224	s_ab	her book is difficult to find _ on Saturdays _	on,Saturdays	True
+224	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False
+224	s_ax	her book is difficult to find _ our keys _ on Saturdays	our,keys	False
+224	s_xx	it is difficult to find _ our keys _ on Saturdays	our,keys	True
+224	s_i_ab	her book is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+224	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False
+224	s_i_ax	her book is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	False
+224	s_i_xx	it is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	True
+225	s_ab	her book is difficult to see _ with a friend _	with,a,friend	True
+225	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+225	s_ax	her book is difficult to see _ the cheese _ with a friend	the,cheese	False
+225	s_xx	it is difficult to see _ the cheese _ with a friend	the,cheese	True
+225	s_i_ab	her book is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+225	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+225	s_i_ax	her book is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	False
+225	s_i_xx	it is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	True
+226	s_ab	her book is difficult to see _ in the park _	in,the,park	True
+226	s_xb	it is difficult to see _ in the park _	in,the,park	False
+226	s_ax	her book is difficult to see _ the cheese _ in the park	the,cheese	False
+226	s_xx	it is difficult to see _ the cheese _ in the park	the,cheese	True
+226	s_i_ab	her book is difficult to see the bag that carried _ in the park _	in,the,park	False
+226	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+226	s_i_ax	her book is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	False
+226	s_i_xx	it is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	True
+227	s_ab	her book is difficult to see _ on Saturdays _	on,Saturdays	True
+227	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+227	s_ax	her book is difficult to see _ the cheese _ on Saturdays	the,cheese	False
+227	s_xx	it is difficult to see _ the cheese _ on Saturdays	the,cheese	True
+227	s_i_ab	her book is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+227	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+227	s_i_ax	her book is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+227	s_i_xx	it is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+228	s_ab	her book is difficult to see _ with a friend _	with,a,friend	True
+228	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+228	s_ax	her book is difficult to see _ your hat _ with a friend	your,hat	False
+228	s_xx	it is difficult to see _ your hat _ with a friend	your,hat	True
+228	s_i_ab	her book is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+228	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+228	s_i_ax	her book is difficult to see the bag that carried _ your hat _ with a friend	your,hat	False
+228	s_i_xx	it is difficult to see the bag that carried _ your hat _ with a friend	your,hat	True
+229	s_ab	her book is difficult to see _ in the park _	in,the,park	True
+229	s_xb	it is difficult to see _ in the park _	in,the,park	False
+229	s_ax	her book is difficult to see _ your hat _ in the park	your,hat	False
+229	s_xx	it is difficult to see _ your hat _ in the park	your,hat	True
+229	s_i_ab	her book is difficult to see the bag that carried _ in the park _	in,the,park	False
+229	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+229	s_i_ax	her book is difficult to see the bag that carried _ your hat _ in the park	your,hat	False
+229	s_i_xx	it is difficult to see the bag that carried _ your hat _ in the park	your,hat	True
+230	s_ab	her book is difficult to see _ on Saturdays _	on,Saturdays	True
+230	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+230	s_ax	her book is difficult to see _ your hat _ on Saturdays	your,hat	False
+230	s_xx	it is difficult to see _ your hat _ on Saturdays	your,hat	True
+230	s_i_ab	her book is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+230	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+230	s_i_ax	her book is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	False
+230	s_i_xx	it is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	True
+231	s_ab	her book is difficult to see _ with a friend _	with,a,friend	True
+231	s_xb	it is difficult to see _ with a friend _	with,a,friend	False
+231	s_ax	her book is difficult to see _ our keys _ with a friend	our,keys	False
+231	s_xx	it is difficult to see _ our keys _ with a friend	our,keys	True
+231	s_i_ab	her book is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+231	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False
+231	s_i_ax	her book is difficult to see the bag that carried _ our keys _ with a friend	our,keys	False
+231	s_i_xx	it is difficult to see the bag that carried _ our keys _ with a friend	our,keys	True
+232	s_ab	her book is difficult to see _ in the park _	in,the,park	True
+232	s_xb	it is difficult to see _ in the park _	in,the,park	False
+232	s_ax	her book is difficult to see _ our keys _ in the park	our,keys	False
+232	s_xx	it is difficult to see _ our keys _ in the park	our,keys	True
+232	s_i_ab	her book is difficult to see the bag that carried _ in the park _	in,the,park	False
+232	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False
+232	s_i_ax	her book is difficult to see the bag that carried _ our keys _ in the park	our,keys	False
+232	s_i_xx	it is difficult to see the bag that carried _ our keys _ in the park	our,keys	True
+233	s_ab	her book is difficult to see _ on Saturdays _	on,Saturdays	True
+233	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False
+233	s_ax	her book is difficult to see _ our keys _ on Saturdays	our,keys	False
+233	s_xx	it is difficult to see _ our keys _ on Saturdays	our,keys	True
+233	s_i_ab	her book is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+233	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False
+233	s_i_ax	her book is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	False
+233	s_i_xx	it is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	True
+234	s_ab	her book is difficult to lose _ with a friend _	with,a,friend	True
+234	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+234	s_ax	her book is difficult to lose _ the cheese _ with a friend	the,cheese	False
+234	s_xx	it is difficult to lose _ the cheese _ with a friend	the,cheese	True
+234	s_i_ab	her book is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+234	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+234	s_i_ax	her book is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	False
+234	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	True
+235	s_ab	her book is difficult to lose _ in the park _	in,the,park	True
+235	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+235	s_ax	her book is difficult to lose _ the cheese _ in the park	the,cheese	False
+235	s_xx	it is difficult to lose _ the cheese _ in the park	the,cheese	True
+235	s_i_ab	her book is difficult to lose the bag that carried _ in the park _	in,the,park	False
+235	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+235	s_i_ax	her book is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	False
+235	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	True
+236	s_ab	her book is difficult to lose _ on Saturdays _	on,Saturdays	True
+236	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+236	s_ax	her book is difficult to lose _ the cheese _ on Saturdays	the,cheese	False
+236	s_xx	it is difficult to lose _ the cheese _ on Saturdays	the,cheese	True
+236	s_i_ab	her book is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+236	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+236	s_i_ax	her book is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False
+236	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True
+237	s_ab	her book is difficult to lose _ with a friend _	with,a,friend	True
+237	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+237	s_ax	her book is difficult to lose _ your hat _ with a friend	your,hat	False
+237	s_xx	it is difficult to lose _ your hat _ with a friend	your,hat	True
+237	s_i_ab	her book is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+237	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+237	s_i_ax	her book is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	False
+237	s_i_xx	it is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	True
+238	s_ab	her book is difficult to lose _ in the park _	in,the,park	True
+238	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+238	s_ax	her book is difficult to lose _ your hat _ in the park	your,hat	False
+238	s_xx	it is difficult to lose _ your hat _ in the park	your,hat	True
+238	s_i_ab	her book is difficult to lose the bag that carried _ in the park _	in,the,park	False
+238	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+238	s_i_ax	her book is difficult to lose the bag that carried _ your hat _ in the park	your,hat	False
+238	s_i_xx	it is difficult to lose the bag that carried _ your hat _ in the park	your,hat	True
+239	s_ab	her book is difficult to lose _ on Saturdays _	on,Saturdays	True
+239	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+239	s_ax	her book is difficult to lose _ your hat _ on Saturdays	your,hat	False
+239	s_xx	it is difficult to lose _ your hat _ on Saturdays	your,hat	True
+239	s_i_ab	her book is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+239	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+239	s_i_ax	her book is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	False
+239	s_i_xx	it is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	True
+240	s_ab	her book is difficult to lose _ with a friend _	with,a,friend	True
+240	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False
+240	s_ax	her book is difficult to lose _ our keys _ with a friend	our,keys	False
+240	s_xx	it is difficult to lose _ our keys _ with a friend	our,keys	True
+240	s_i_ab	her book is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+240	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False
+240	s_i_ax	her book is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	False
+240	s_i_xx	it is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	True
+241	s_ab	her book is difficult to lose _ in the park _	in,the,park	True
+241	s_xb	it is difficult to lose _ in the park _	in,the,park	False
+241	s_ax	her book is difficult to lose _ our keys _ in the park	our,keys	False
+241	s_xx	it is difficult to lose _ our keys _ in the park	our,keys	True
+241	s_i_ab	her book is difficult to lose the bag that carried _ in the park _	in,the,park	False
+241	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False
+241	s_i_ax	her book is difficult to lose the bag that carried _ our keys _ in the park	our,keys	False
+241	s_i_xx	it is difficult to lose the bag that carried _ our keys _ in the park	our,keys	True
+242	s_ab	her book is difficult to lose _ on Saturdays _	on,Saturdays	True
+242	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False
+242	s_ax	her book is difficult to lose _ our keys _ on Saturdays	our,keys	False
+242	s_xx	it is difficult to lose _ our keys _ on Saturdays	our,keys	True
+242	s_i_ab	her book is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+242	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False
+242	s_i_ax	her book is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	False
+242	s_i_xx	it is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	True
