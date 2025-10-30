@@ -15,10 +15,13 @@
 	- xb = -filler +gap (ungrammatical)
 	- ax = +filler -gap (ungrammatical)
 	- xx = -filler -gap (grammatical)
+
 ---
+
 ***processed_wilcox_data***: contains wilcox's WH-movement data, with Howitt's preprocessing. 
 
 ---
+
 ***splits***: contains our training and test splits
 - eval files begin with eval_, train files begin with train_
 - eval files were created by matching items in *c* files with corresponding items in *i* files (see interleaf.py)
@@ -32,6 +35,7 @@
 		- i_ax = +filler -gap (ungrammatical)
 		- i_xx = -filler -gap (grammatical)
 - train files were created by removing ax and bx conditions. Training files contain only simple constructions. 
+
 ---
 
 *note.* "_" represent theoretical gaps, and should not be used as tokens in model inputs/outputs
