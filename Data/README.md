@@ -25,7 +25,7 @@
 ***splits***: contains our training and test splits
 - eval files begin with eval_, train files begin with train_
 - eval files were created by matching items in *c* files with corresponding items in *i* files (see interleaf.py)
-	- each resulting group contains 8 sentences, where i indicated that sentences contain islands: 
+	- each resulting group contains 8 sentences, where i indicates that sentences contain islands: 
 		- ab = +filler +gap (grammatical)
 		- xb = -filler +gap (ungrammatical)
 		- ax = +filler -gap (ungrammatical)
