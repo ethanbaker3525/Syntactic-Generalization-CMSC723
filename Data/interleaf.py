@@ -44,7 +44,7 @@ matches = match(simpleChunks, islandChunks)
 
 def WriteMatches():
     with open("eval_" + type + ".tsv", "w+") as f:
-        f.write("condition\ttokens\tcriticalwords\tgrammaticality\n")
+        f.write("group\tcondition\ttokens\tcriticalwords\tgrammaticality\n")
         group = 0
         for pair in matches:
             for item in pair[0]:
