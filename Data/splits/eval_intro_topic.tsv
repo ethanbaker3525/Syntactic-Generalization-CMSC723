@@ -1,4 +1,4 @@
-condition	tokens	criticalwords	grammaticality
+group	condition	tokens	criticalwords	grammaticality
 0	s_ab	these snacks, Mary bought _ yesterday _	yesterday	True
 0	s_xb	in fact, Mary bought _ yesterday _	yesterday	False
 0	s_ax	these snacks, Mary bought _ the cheese _ yesterday	the,cheese	False

@@ -1,4 +1,4 @@
-condition	tokens	criticalwords	grammaticality
+group	condition	tokens	criticalwords	grammaticality
 0	s_ab	It is these snacks that Mary bought _ yesterday _	yesterday	True
 0	s_xb	It is apparent that Mary bought _ yesterday _	yesterday	False
 0	s_ax	It is these snacks that Mary bought _ the cheese _ yesterday	the,cheese	False

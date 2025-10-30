@@ -1,4 +1,4 @@
-condition	tokens	criticalwords	grammaticality
+group	condition	tokens	criticalwords	grammaticality
 0	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True
 0	s_xb	it is impossible to find _ with a friend _	with,a,friend	False
 0	s_ax	this snack is impossible to find _ the cheese _ with a friend	the,cheese	False
