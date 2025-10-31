@@ -1,4 +1,4 @@
-group	condition	type	tokens	criticalWords	grammaticality
+group	condition	type	tokens	criticalwords	grammaticality
 0	s_ab	obj_wh	I know what with gusto our uncle grabbed _ in front of _ the guests at the holiday party	in,front,of	True
 0	s_xb	obj_wh	I know that with gusto our uncle grabbed _ in front of _ the guests at the holiday party	in,front,of	True
 0	s_ax	obj_wh	I know what with gusto our uncle grabbed _ the food _ in front of the guests at the holiday party	the,food	True
