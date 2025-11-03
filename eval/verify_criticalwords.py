@@ -7,6 +7,8 @@ import os
 
 splits_folder = "Data/splits/"
 
+m = 0
+
 for name in os.listdir(splits_folder):
     if name.startswith("eval_"):
       
@@ -14,6 +16,7 @@ for name in os.listdir(splits_folder):
 
       for i in range(len(df)):
         tokens = df["tokens"][i]
+        m = max(m, len(tokens.split()))
         criticalwords = df["criticalwords"][i]
         concat = " ".join(criticalwords.split(","))
 
@@ -23,3 +26,4 @@ for name in os.listdir(splits_folder):
           raise Exception("Error")
         
 print("Everything checks out if no exceptions were raised and this prints")
+print(m)
