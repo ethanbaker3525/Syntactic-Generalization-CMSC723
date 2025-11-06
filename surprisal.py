@@ -87,17 +87,19 @@ def get_word_surprisal_tuples(sentence:list, model:str) -> list: # given a list 
     # -> [(word0, 0.0), (word1, 1.0), ...]
     return word_surprisal_tuples
 
-def get_surprisal_at_word(word_surprisal_tuples:list, word:str) -> float: 
+def get_surprisal_at_words(word_surprisal_tuples:list, words:list) -> float: # kinda hacky, doesnt work as expected when words contains non adjacent words, or when the sentence contains multiple instances of a word in words
+    total = 0.0
     for word_surprisal_tuple in word_surprisal_tuples:
-        if word_surprisal_tuple[0] == word:
-            return word_surprisal_tuple[1]
+        if word_surprisal_tuple[0] in words:
+            total += word_surprisal_tuple[1]
+    return total
         
 def get_sentence_surprisal(word_surprisal_tuples:list) -> float: 
-    return  sum(word_surprisal_tuple[1] for word_surprisal_tuple in word_surprisal_tuples)
+    return sum(word_surprisal_tuple[1] for word_surprisal_tuple in word_surprisal_tuples)
     
 if __name__ == "__main__":
-    word_surprisal_tuples = get_word_surprisal_tuples("This is a test sentence, hello!", "gpt2")
+    word_surprisal_tuples = get_word_surprisal_tuples("This is a test sentence hello!", "gpt2")
     print(word_surprisal_tuples)
-    print(get_surprisal_at_word(word_surprisal_tuples, "test"))
+    print(get_surprisal_at_word(word_surprisal_tuples, ["test", "sentence"]))
     print(get_sentence_surprisal(word_surprisal_tuples))
 
