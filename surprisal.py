@@ -100,6 +100,6 @@ def get_sentence_surprisal(word_surprisal_tuples:list) -> float:
 if __name__ == "__main__":
     word_surprisal_tuples = get_word_surprisal_tuples("This is a test sentence hello!", "gpt2")
     print(word_surprisal_tuples)
-    print(get_surprisal_at_word(word_surprisal_tuples, ["test", "sentence"]))
+    print(get_surprisal_at_words(word_surprisal_tuples, ["test", "sentence"]))
     print(get_sentence_surprisal(word_surprisal_tuples))
 
