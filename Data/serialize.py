@@ -1,12 +1,20 @@
 import stanza
 import nltk
 import pandas as pd
+from nltk.corpus import treebank
+
+def penn_trees():
+    nltk.download('treebank')
+    t = treebank.parsed_sents()[0]
+    print(str(t.pformat(margin=1e9)))
 
 def download_data():
     stanza.download("en")
     nltk.download("brown")
 
-# download_data()
+download_data()
+
+penn_trees()
 
 nlp = stanza.Pipeline(lang="en", processors="tokenize,pos,constituency")
 
