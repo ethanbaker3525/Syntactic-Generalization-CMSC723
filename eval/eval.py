@@ -1,4 +1,4 @@
-# WARNING: FILE WAS RUN ON COLAB. 
+# WARNING: FILE WAS RUN ON COLAB.
 # INPUT/OUTPUT FILEPATHS DO NOT NECESSARILY WORK WHEN RUN LOCALLY
 
 import torch
@@ -10,21 +10,31 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import login
 from tqdm import tqdm
 import pandas as pd
+from peft import PeftModel
+from datetime import datetime
+from google.colab import userdata
 
-hf_token = os.getenv("HF_TOKEN")
-login(token=hf_token)
+cpt = True
+
+hf_token = userdata.get("HF_TOKEN")
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 torch.cuda.empty_cache()
 
 model_id = "meta-llama/Llama-3.2-3B"
-tokenizer = AutoTokenizer.from_pretrained(model_id)
+tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
+
 model = AutoModelForCausalLM.from_pretrained(
     model_id,
     dtype=torch.bfloat16,
-    device_map=device
+    device_map=device,
+    token=hf_token
 )
+
+if cpt:
+  model = PeftModel.from_pretrained(model, "my_adapter")
+
 model.eval()
 tokenizer.pad_token=tokenizer.eos_token
 
@@ -49,7 +59,7 @@ def batch_eval(batch_size, eval_file, output_directory):
 
     # tokenize texts with and without underscores together (output has length 2 * batch_size)
     enc = tokenizer(texts + texts_r, return_tensors="pt", padding=True, max_length=32, truncation=True).to(model.device)
-    
+
     # extract output based on whether it was for text with or without underscores
     input_ids = enc["input_ids"][:batch_size] # (batch_size, seq_len (max of batch))
     input_ids_r = enc["input_ids"][batch_size:] # (batch_size, seq_len (max of batch))
@@ -84,12 +94,12 @@ def batch_eval(batch_size, eval_file, output_directory):
           nll = -logp
           total_surprisal += nll
 
-        average_surprisal = total_surprisal / (right_underscore_index - 1 - left_underscore_index)
-        df.loc[i+j, "surprisal"] = average_surprisal
+        #average_surprisal = total_surprisal / (right_underscore_index - 1 - left_underscore_index)
+        df.loc[i+j, "surprisal"] = total_surprisal #average_surprisal
 
   df = df.drop("r", axis=1)
   name_without_extension, _ = os.path.splitext(eval_file)
-  df.to_csv(f"{os.path.join(output_directory, name_without_extension)}_baseline.tsv", sep="\t")
+  df.to_csv(f"{os.path.join(output_directory, name_without_extension)}_{"cpt" if cpt else "baseline"}.tsv", sep="\t")
 
 def batch_eval_all():
   # batchsize changes results, especially on bfloat16.
@@ -103,7 +113,8 @@ def batch_eval_all():
 
   files = ["eval_cleft.tsv", "eval_intro_topic.tsv", "eval_nointro_topic.tsv", "eval_tough.tsv", "eval_wh.tsv"]
 
-  output_directory = "baseline_evals"
+  timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+  output_directory = f"{"cpt" if cpt else "baseline"}_evals_{timestamp}"
   if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
@@ -143,5 +154,5 @@ def manual_test():
 
 
 
-#batch_eval_all()
-manual_test()
+batch_eval_all()
+#manual_test()
