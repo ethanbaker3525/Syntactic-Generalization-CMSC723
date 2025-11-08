@@ -1,7 +1,0 @@
-1 epoch
-1e-04 lr
-batch size 20
-
-
-
-HYPERPARAMETERS WILL BE CHANGED

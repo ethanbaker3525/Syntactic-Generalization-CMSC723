@@ -1,0 +1,937 @@
+	group	condition	type	tokens	criticalwords	grammaticality	surprisal
+0	0	s_ab	obj_wh	I know what with gusto our uncle grabbed _ in front of _ the guests at the holiday party	in,front,of	True	9.994140625
+1	0	s_xb	obj_wh	I know that with gusto our uncle grabbed _ in front of _ the guests at the holiday party	in,front,of	True	10.470703125
+2	0	s_ax	obj_wh	I know what with gusto our uncle grabbed _ the food _ in front of the guests at the holiday party	the,food	True	8.1328125
+3	0	s_xx	obj_wh	I know that with gusto our uncle grabbed _ the food _ in front of the guests at the holiday party	the,food	True	7.9375
+4	0	s_ab	pp_wh	I know who with gusto our uncle grabbed the food in front of _ at the holiday party _	at,the,holiday,party	True	20.0234375
+5	0	s_xb	pp_wh	I know that with gusto our uncle grabbed the food in front of _ at the holiday party _	at,the,holiday,party	True	23.71875
+6	0	s_ax	pp_wh	I know who with gusto our uncle grabbed the food in front of _ the guests _ at the holiday party	the,guests	True	8.828125
+7	0	s_xx	pp_wh	I know that with gusto our uncle grabbed the food in front of _ the guests _ at the holiday party	the,guests	True	9.453125
+8	0	s_ab	subj_wh	I know who with gusto _ grabbed _ the food in front of the guests at the holiday party	grabbed	True	7.6875
+9	0	s_xb	subj_wh	I know that with gusto _ grabbed _ the food in front of the guests at the holiday party	grabbed	True	11.25
+10	0	s_ax	subj_wh	I know who with gusto _ our uncle _ grabbed the food in front of the guests at the holiday party	our,uncle	True	15.5
+11	0	s_xx	subj_wh	I know that with gusto _ our uncle _ grabbed the food in front of the guests at the holiday party	our,uncle	True	16.5625
+12	1	s_ab	obj_wh	My neighbor told me what with skill the dog caught _ for _ his neighbors yesterday	for	True	6.25
+13	1	s_xb	obj_wh	My neighbor told me that with skill the dog caught _ for _ his neighbors yesterday	for	True	5.9375
+14	1	s_ax	obj_wh	My neighbor told me what with skill the dog caught _ the mouse _ for his neighbors yesterday	the,mouse	True	4.328125
+15	1	s_xx	obj_wh	My neighbor told me that with skill the dog caught _ the mouse _ for his neighbors yesterday	the,mouse	True	5.0546875
+16	1	s_ab	pp_wh	My neighbor told me who with skill the dog caught the mouse for _ yesterday _	yesterday	True	9.3125
+17	1	s_xb	pp_wh	My neighbor told me that with skill the dog caught the mouse for _ yesterday _	yesterday	True	9.9375
+18	1	s_ax	pp_wh	My neighbor told me who with skill the dog caught the mouse for _ his neighbors _ yesterday	his,neighbors	True	11.4375
+19	1	s_xx	pp_wh	My neighbor told me that with skill the dog caught the mouse for _ his neighbors _ yesterday	his,neighbors	True	11.4375
+20	1	s_ab	subj_wh	My neighbor told me who with skill _ caught _ the mouse for his neighbors yesterday	caught	True	9.125
+21	1	s_xb	subj_wh	My neighbor told me that with skill _ caught _ the mouse for his neighbors yesterday	caught	True	10.8125
+22	1	s_ax	subj_wh	My neighbor told me who with skill _ the dog _ caught the mouse for his neighbors yesterday	the,dog	True	10.1875
+23	1	s_xx	subj_wh	My neighbor told me that with skill _ the dog _ caught the mouse for his neighbors yesterday	the,dog	True	10.28125
+24	2	s_ab	obj_wh	I know what with passion the committee delivered _ to _ the president by the deadline	to	True	2.84375
+25	2	s_xb	obj_wh	I know that with passion the committee delivered _ to _ the president by the deadline	to	True	3.5
+26	2	s_ax	obj_wh	I know what with passion the committee delivered _ the report _ to the president by the deadline	the,report	True	5.875
+27	2	s_xx	obj_wh	I know that with passion the committee delivered _ the report _ to the president by the deadline	the,report	True	5.375
+28	2	s_ab	pp_wh	I know who with passion the committee delivered the report to _ by the deadline _	by,the,deadline	True	13.59375
+29	2	s_xb	pp_wh	I know that with passion the committee delivered the report to _ by the deadline _	by,the,deadline	True	16.6875
+30	2	s_ax	pp_wh	I know who with passion the committee delivered the report to _ the president _ by the deadline	the,president	True	4.578125
+31	2	s_xx	pp_wh	I know that with passion the committee delivered the report to _ the president _ by the deadline	the,president	True	4.32421875
+32	2	s_ab	subj_wh	I know what with passion _ delivered _ the report to the president by the deadline	delivered	True	10.4375
+33	2	s_xb	subj_wh	I know that with passion _ delivered _ the report to the president by the deadline	delivered	True	11.0
+34	2	s_ax	subj_wh	I know what with passion _ the committee _ delivered the report to the president by the deadline	the,committee	True	14.28125
+35	2	s_xx	subj_wh	I know that with passion _ the committee _ delivered the report to the president by the deadline	the,committee	True	14.625
+36	3	s_ab	obj_wh	You remember what without thinking the businessman showed _ to _ the visitors after lunch	to	True	2.9375
+37	3	s_xb	obj_wh	You remember that without thinking the businessman showed _ to _ the visitors after lunch	to	True	3.734375
+38	3	s_ax	obj_wh	You remember what without thinking the businessman showed _ the presentation _ to the visitors after lunch	the,presentation	True	9.90625
+39	3	s_xx	obj_wh	You remember that without thinking the businessman showed _ the presentation _ to the visitors after lunch	the,presentation	True	9.640625
+40	3	s_ab	pp_wh	You remember who without thinking the businessman showed the presentation to _ after lunch _	after,lunch	True	13.71875
+41	3	s_xb	pp_wh	You remember that without thinking the businessman showed the presentation to _ after lunch _	after,lunch	True	16.625
+42	3	s_ax	pp_wh	You remember who without thinking the businessman showed the presentation to _ the visitors _ after lunch	the,visitors	True	7.52734375
+43	3	s_xx	pp_wh	You remember that without thinking the businessman showed the presentation to _ the visitors _ after lunch	the,visitors	True	6.69921875
+44	3	s_ab	subj_wh	You remember who without thinking _ showed _ the presentation to the visitors after lunch	showed	True	11.0625
+45	3	s_xb	subj_wh	You remember that without thinking _ showed _ the presentation to the visitors after lunch	showed	True	11.3125
+46	3	s_ax	subj_wh	You remember who without thinking _ the businessman _ showed the presentation to the visitors after lunch	the,businessman	True	16.625
+47	3	s_xx	subj_wh	You remember that without thinking _ the businessman _ showed the presentation to the visitors after lunch	the,businessman	True	15.0
+48	4	s_ab	obj_wh	She told me what secretly the star student stole _ from _ the teacher last year	from	True	1.40625
+49	4	s_xb	obj_wh	She told me that secretly the star student stole _ from _ the teacher last year	from	True	3.53125
+50	4	s_ax	obj_wh	She told me what secretly the star student stole _ answers to the test _ from the teacher last year	answers,to,the,test	True	15.4453125
+51	4	s_xx	obj_wh	She told me that secretly the star student stole _ answers to the test _ from the teacher last year	answers,to,the,test	True	12.5234375
+52	4	s_ab	pp_wh	She told me who secretly the star student stole answers to the test from _ last year _	last,year	True	6.9140625
+53	4	s_xb	pp_wh	She told me that secretly the star student stole answers to the test from _ last year _	last,year	True	9.59765625
+54	4	s_ax	pp_wh	She told me who secretly the star student stole answers to the test from _ the teacher _ last year	the,teacher	True	3.828125
+55	4	s_xx	pp_wh	She told me that secretly the star student stole answers to the test from _ the teacher _ last year	the,teacher	True	3.6015625
+56	4	s_ab	subj_wh	She told me who secretly _ stole _ answers to the test from the teacher last year	stole	True	4.9375
+57	4	s_xb	subj_wh	She told me that secretly _ stole _ answers to the test from the teacher last year	stole	True	7.8125
+58	4	s_ax	subj_wh	She told me who secretly _ the star student _ stole answers to the test from the teacher last year	the,star,student	True	19.71875
+59	4	s_xx	subj_wh	She told me that secretly _ the star student _ stole answers to the test from the teacher last year	the,star,student	True	20.09375
+60	5	s_ab	obj_wh	She knows what with skill the collector forged _ with _ a brush a short while ago	with	True	4.8125
+61	5	s_xb	obj_wh	She knows that with skill the collector forged _ with _ a brush a short while ago	with	True	5.125
+62	5	s_ax	obj_wh	She knows what with skill the collector forged _ the painting _ with a brush a short while ago	the,painting	True	10.640625
+63	5	s_xx	obj_wh	She knows that with skill the collector forged _ the painting _ with a brush a short while ago	the,painting	True	9.375
+64	5	s_ab	pp_wh	She knows what with skill the collector forged the painting with _ a short while ago _	a,short,while,ago	True	18.15625
+65	5	s_xb	pp_wh	She knows that with skill the collector forged the painting with _ a short while ago _	a,short,while,ago	True	18.15625
+66	5	s_ax	pp_wh	She knows what with skill the collector forged the painting with _ a brush _ a short while ago	a,brush	True	5.21875
+67	5	s_xx	pp_wh	She knows that with skill the collector forged the painting with _ a brush _ a short while ago	a,brush	True	5.078125
+68	5	s_ab	subj_wh	She knows who with skill _ forged _ the painting with a brush a short while ago	forged	True	10.3125
+69	5	s_xb	subj_wh	She knows that with skill _ forged _ the painting with a brush a short while ago	forged	True	11.5
+70	5	s_ax	subj_wh	She knows who with skill _ the collector _ forged the painting with a brush a short while ago	the,collector	True	17.15625
+71	5	s_xx	subj_wh	She knows that with skill _ the collector _ forged the painting with a brush a short while ago	the,collector	True	16.15625
+72	6	s_ab	obj_wh	We all remember what illegally the convict brought _ into _ the prison two weeks ago	into	True	3.390625
+73	6	s_xb	obj_wh	We all remember that illegally the convict brought _ into _ the prison two weeks ago	into	True	3.78125
+74	6	s_ax	obj_wh	We all remember what illegally the convict brought _ a gun _ into the prison two weeks ago	a,gun	True	7.421875
+75	6	s_xx	obj_wh	We all remember that illegally the convict brought _ a gun _ into the prison two weeks ago	a,gun	True	5.78125
+76	6	s_ab	pp_wh	We all remember what illegally the convict brought a gun into _ two weeks ago _	two,weeks,ago	True	15.9453125
+77	6	s_xb	pp_wh	We all remember that illegally the convict brought a gun into _ two weeks ago _	two,weeks,ago	True	17.640625
+78	6	s_ax	pp_wh	We all remember what illegally the convict brought a gun into _ the prison _ two weeks ago	the,prison	True	2.83203125
+79	6	s_xx	pp_wh	We all remember that illegally the convict brought a gun into _ the prison _ two weeks ago	the,prison	True	2.24609375
+80	6	s_ab	subj_wh	We all remember who illegally _ brought _ a gun into the prison two weeks ago	brought	True	5.25
+81	6	s_xb	subj_wh	We all remember that illegally _ brought _ a gun into the prison two weeks ago	brought	True	6.625
+82	6	s_ax	subj_wh	We all remember who illegally _ the convict _ brought a gun into the prison two weeks ago	the,convict	True	19.6875
+83	6	s_xx	subj_wh	We all remember that illegally _ the convict _ brought a gun into the prison two weeks ago	the,convict	True	16.25
+84	7	s_ab	obj_wh	My friend reported what illegally the company sold _ to _ stock holders last quarter	to	True	2.375
+85	7	s_xb	obj_wh	My friend reported that illegally the company sold _ to _ stock holders last quarter	to	True	3.78125
+86	7	s_ax	obj_wh	My friend reported what illegally the company sold _ multiple assets _ to stock holders last quarter	multiple,assets	True	17.8125
+87	7	s_xx	obj_wh	My friend reported that illegally the company sold _ multiple assets _ to stock holders last quarter	multiple,assets	True	15.96875
+88	7	s_ab	pp_wh	My friend reported who illegally the company sold multiple assets to _ last quarter _	last,quarter	True	16.5625
+89	7	s_xb	pp_wh	My friend reported that illegally the company sold multiple assets to _ last quarter _	last,quarter	True	16.65625
+90	7	s_ax	pp_wh	My friend reported who illegally the company sold multiple assets to _ stock holders _ last quarter	stock,holders	True	13.65625
+91	7	s_xx	pp_wh	My friend reported that illegally the company sold multiple assets to _ stock holders _ last quarter	stock,holders	True	12.71875
+92	7	s_ab	subj_wh	My friend reported who illegally _ sold _ multiple assets to stock holders last quarter	sold	True	3.59375
+93	7	s_xb	subj_wh	My friend reported that illegally _ sold _ multiple assets to stock holders last quarter	sold	True	5.03125
+94	7	s_ax	subj_wh	My friend reported who illegally _ the company _ sold multiple assets to stock holders last quarter	the,company	True	13.46875
+95	7	s_xx	subj_wh	My friend reported that illegally _ the company _ sold multiple assets to stock holders last quarter	the,company	True	10.25
+96	8	s_ab	obj_wh	I do not know what with malice her rival derailed _ with _ a cruel plan last week	with	True	5.46875
+97	8	s_xb	obj_wh	I do not know that with malice her rival derailed _ with _ a cruel plan last week	with	True	5.59375
+98	8	s_ax	obj_wh	I do not know what with malice her rival derailed _ the performance _ with a cruel plan last week	the,performance	True	9.0
+99	8	s_xx	obj_wh	I do not know that with malice her rival derailed _ the performance _ with a cruel plan last week	the,performance	True	9.7734375
+100	8	s_ab	pp_wh	I do not know what with malice her rival derailed the performance with _ last week _	last,week	True	11.171875
+101	8	s_xb	pp_wh	I do not know that with malice her rival derailed the performance with _ last week _	last,week	True	11.25
+102	8	s_ax	pp_wh	I do not know what with malice her rival derailed the performance with _ a cruel plan _ last week	a,cruel,plan	True	15.265625
+103	8	s_xx	pp_wh	I do not know that with malice her rival derailed the performance with _ a cruel plan _ last week	a,cruel,plan	True	15.359375
+104	8	s_ab	subj_wh	I do not know who with malice _ derailed _ the performance with a cruel plan last week	derailed	True	12.63525390625
+105	8	s_xb	subj_wh	I do not know that with malice _ derailed _ the performance with a cruel plan last week	derailed	True	17.97265625
+106	8	s_ax	subj_wh	I do not know who with malice _ her rival _ derailed the performance with a cruel plan last week	her,rival	True	18.5
+107	8	s_xx	subj_wh	I do not know that with malice _ her rival _ derailed the performance with a cruel plan last week	her,rival	True	18.4375
+108	9	s_ab	obj_wh	She can guess what with much fanfare the movie star received _ for _ her hard work during the award ceremony	for	True	4.375
+109	9	s_xb	obj_wh	She can guess that with much fanfare the movie star received _ for _ her hard work during the award ceremony	for	True	4.84375
+110	9	s_ax	obj_wh	She can guess what with much fanfare the movie star received _ a prize _ for her hard work during the award ceremony	a,prize	True	8.703125
+111	9	s_xx	obj_wh	She can guess that with much fanfare the movie star received _ a prize _ for her hard work during the award ceremony	a,prize	True	7.5625
+112	9	s_ab	pp_wh	She can guess what with much fanfare the movie star received a prize for _ during the award ceremony _	during,the,award,ceremony	True	14.322265625
+113	9	s_xb	pp_wh	She can guess that with much fanfare the movie star received a prize for _ during the award ceremony _	during,the,award,ceremony	True	15.908203125
+114	9	s_ax	pp_wh	She can guess what with much fanfare the movie star received a prize for _ her hard work _ during the award ceremony	her,hard,work	True	8.1552734375
+115	9	s_xx	pp_wh	She can guess that with much fanfare the movie star received a prize for _ her hard work _ during the award ceremony	her,hard,work	True	7.7041015625
+116	9	s_ab	subj_wh	She can guess who with much fanfare _ received _ a prize for her hard work during the award ceremony	received	True	8.125
+117	9	s_xb	subj_wh	She can guess that with much fanfare _ received _ a prize for her hard work during the award ceremony	received	True	9.5625
+118	9	s_ax	subj_wh	She can guess who with much fanfare _ the movie star _ received a prize for her hard work during the award ceremony	the,movie,star	True	14.53125
+119	9	s_xx	subj_wh	She can guess that with much fanfare _ the movie star _ received a prize for her hard work during the award ceremony	the,movie,star	True	14.1875
+120	10	s_ab	obj_wh	The newspaper reported who brutally the suspect killed _ with _ a gun in the middle of the night	with	True	4.9375
+121	10	s_xb	obj_wh	The newspaper reported that brutally the suspect killed _ with _ a gun in the middle of the night	with	True	4.65625
+122	10	s_ax	obj_wh	The newspaper reported who brutally the suspect killed _ the witness _ with a gun in the middle of the night	the,witness	True	9.109375
+123	10	s_xx	obj_wh	The newspaper reported that brutally the suspect killed _ the witness _ with a gun in the middle of the night	the,witness	True	8.6953125
+124	10	s_ab	pp_wh	The newspaper reported what brutally the suspect killed the witness with _ in the middle of the night _	in,the,middle,of,the,night	True	16.0035400390625
+125	10	s_xb	pp_wh	The newspaper reported that brutally the suspect killed the witness with _ in the middle of the night _	in,the,middle,of,the,night	True	17.6259765625
+126	10	s_ax	pp_wh	The newspaper reported what brutally the suspect killed the witness with _ a gun _ in the middle of the night	a,gun	True	5.61328125
+127	10	s_xx	pp_wh	The newspaper reported that brutally the suspect killed the witness with _ a gun _ in the middle of the night	a,gun	True	4.8515625
+128	10	s_ab	subj_wh	The newspaper reported who brutally _ killed _ the witness with a gun in the middle of the night	killed	True	1.3671875
+129	10	s_xb	subj_wh	The newspaper reported that brutally _ killed _ the witness with a gun in the middle of the night	killed	True	2.578125
+130	10	s_ax	subj_wh	The newspaper reported who brutally _ the suspect _ killed the witness with a gun in the middle of the night	the,suspect	True	13.1875
+131	10	s_xx	subj_wh	The newspaper reported that brutally _ the suspect _ killed the witness with a gun in the middle of the night	the,suspect	True	11.71875
+132	11	s_ab	obj_wh	We recall what clumsily the man placed _ next to _ the oven over an hour ago	next,to	True	6.6103515625
+133	11	s_xb	obj_wh	We recall that clumsily the man placed _ next to _ the oven over an hour ago	next,to	True	6.99609375
+134	11	s_ax	obj_wh	We recall what clumsily the man placed _ a delicate plate _ next to the oven over an hour ago	a,delicate,plate	True	14.375
+135	11	s_xx	obj_wh	We recall that clumsily the man placed _ a delicate plate _ next to the oven over an hour ago	a,delicate,plate	True	15.203125
+136	11	s_ab	pp_wh	We recall what clumsily the man placed a delicate plate next to _ over an hour ago _	over,an,hour,ago	True	20.921875
+137	11	s_xb	pp_wh	We recall that clumsily the man placed a delicate plate next to _ over an hour ago _	over,an,hour,ago	True	21.90625
+138	11	s_ax	pp_wh	We recall what clumsily the man placed a delicate plate next to _ the oven _ over an hour ago	the,oven	True	8.609375
+139	11	s_xx	pp_wh	We recall that clumsily the man placed a delicate plate next to _ the oven _ over an hour ago	the,oven	True	8.2265625
+140	11	s_ab	subj_wh	We recall who clumsily _ placed _ a delicate plate next to the oven over an hour ago	placed	True	6.78125
+141	11	s_xb	subj_wh	We recall that clumsily _ placed _ a delicate plate next to the oven over an hour ago	placed	True	6.25
+142	11	s_ax	subj_wh	We recall who clumsily _ the man _ placed a delicate plate next to the oven over an hour ago	the,man	True	10.28125
+143	11	s_xx	subj_wh	We recall that clumsily _ the man _ placed a delicate plate next to the oven over an hour ago	the,man	True	9.5
+144	12	s_ab	obj_wh	I remember what with skill the nurse administered _ to _ the patient without any delay	to	True	3.5
+145	12	s_xb	obj_wh	I remember that with skill the nurse administered _ to _ the patient without any delay	to	True	4.0625
+146	12	s_ax	obj_wh	I remember what with skill the nurse administered _ the new medicine _ to the patient without any delay	the,new,medicine	True	10.2421875
+147	12	s_xx	obj_wh	I remember that with skill the nurse administered _ the new medicine _ to the patient without any delay	the,new,medicine	True	10.5703125
+148	12	s_ab	pp_wh	I remember who with skill the nurse administered the new medicine to _ without any delay _	without,any,delay	True	14.984375
+149	12	s_xb	pp_wh	I remember that with skill the nurse administered the new medicine to _ without any delay _	without,any,delay	True	17.125
+150	12	s_ax	pp_wh	I remember who with skill the nurse administered the new medicine to _ the patient _ without any delay	the,patient	True	2.44921875
+151	12	s_xx	pp_wh	I remember that with skill the nurse administered the new medicine to _ the patient _ without any delay	the,patient	True	1.80859375
+152	12	s_ab	subj_wh	I remember who with skill _ administered _ the new medicine to the patient without any delay	administered	True	10.4375
+153	12	s_xb	subj_wh	I remember that with skill _ administered _ the new medicine to the patient without any delay	administered	True	12.3125
+154	12	s_ax	subj_wh	I remember who with skill _ the nurse _ administered the new medicine to the patient without any delay	the,nurse	True	11.46875
+155	12	s_xx	subj_wh	I remember that with skill _ the nurse _ administered the new medicine to the patient without any delay	the,nurse	True	11.6875
+156	13	s_ab	obj_wh	Our friend knew what without tact the gossip column revealed _ to _ the public yesterday	to	True	3.25
+157	13	s_xb	obj_wh	Our friend knew that without tact the gossip column revealed _ to _ the public yesterday	to	True	4.40625
+158	13	s_ax	obj_wh	Our friend knew what without tact the gossip column revealed _ family secrets _ to the public yesterday	family,secrets	True	12.1875
+159	13	s_xx	obj_wh	Our friend knew that without tact the gossip column revealed _ family secrets _ to the public yesterday	family,secrets	True	9.578125
+160	13	s_ab	pp_wh	Our friend knew who without tact the gossip column revealed family secrets to _ yesterday _	yesterday	True	8.9375
+161	13	s_xb	pp_wh	Our friend knew that without tact the gossip column revealed family secrets to _ yesterday _	yesterday	True	11.0625
+162	13	s_ax	pp_wh	Our friend knew who without tact the gossip column revealed family secrets to _ the public _ yesterday	the,public	True	4.671875
+163	13	s_xx	pp_wh	Our friend knew that without tact the gossip column revealed family secrets to _ the public _ yesterday	the,public	True	2.9453125
+164	13	s_ab	subj_wh	Our friend knew who without tact _ revealed _ family secrets to the public yesterday	revealed	True	8.25
+165	13	s_xb	subj_wh	Our friend knew that without tact _ revealed _ family secrets to the public yesterday	revealed	True	13.0625
+166	13	s_ax	subj_wh	Our friend knew who without tact _ the gossip column _ revealed family secrets to the public yesterday	the,gossip,column	True	19.875
+167	13	s_xx	subj_wh	Our friend knew that without tact _ the gossip column _ revealed family secrets to the public yesterday	the,gossip,column	True	17.5
+168	14	s_ab	obj_wh	The mayor told me what with public funds the workers repaired _ for _ the town over the summer	for	True	5.15625
+169	14	s_xb	obj_wh	The mayor told me that with public funds the workers repaired _ for _ the town over the summer	for	True	5.84375
+170	14	s_ax	obj_wh	The mayor told me what with public funds the workers repaired _ the bridge _ for the town over the summer	the,bridge	True	4.8203125
+171	14	s_xx	obj_wh	The mayor told me that with public funds the workers repaired _ the bridge _ for the town over the summer	the,bridge	True	4.7890625
+172	14	s_ab	pp_wh	The mayor told me what with public funds the workers repaired the bridge for _ over the summer _	over,the,summer	True	16.1875
+173	14	s_xb	pp_wh	The mayor told me that with public funds the workers repaired the bridge for _ over the summer _	over,the,summer	True	15.84375
+174	14	s_ax	pp_wh	The mayor told me what with public funds the workers repaired the bridge for _ the town _ over the summer	the,town	True	6.890625
+175	14	s_xx	pp_wh	The mayor told me that with public funds the workers repaired the bridge for _ the town _ over the summer	the,town	True	6.859375
+176	14	s_ab	subj_wh	The mayor told me who with public funds _ repaired _ the bridge for the town over the summer	repaired	True	7.96875
+177	14	s_xb	subj_wh	The mayor told me that with public funds _ repaired _ the bridge for the town over the summer	repaired	True	11.6875
+178	14	s_ax	subj_wh	The mayor told me who with public funds _ the workers _ repaired the bridge for the town over the summer	the,workers	True	11.09375
+179	14	s_xx	subj_wh	The mayor told me that with public funds _ the workers _ repaired the bridge for the town over the summer	the,workers	True	9.703125
+180	15	s_ab	obj_wh	My friend remembers what secretly the government collected _ about _ foreign threats using illegal methods	about	True	3.140625
+181	15	s_xb	obj_wh	My friend remembers that secretly the government collected _ about _ foreign threats using illegal methods	about	True	6.1875
+182	15	s_ax	obj_wh	My friend remembers what secretly the government collected _ sensitive data _ about foreign threats using illegal methods	sensitive,data	True	9.9609375
+183	15	s_xx	obj_wh	My friend remembers that secretly the government collected _ sensitive data _ about foreign threats using illegal methods	sensitive,data	True	8.1875
+184	15	s_ab	pp_wh	My friend remembers what secretly the government collected sensitive data about _ using illegal methods _	using,illegal,methods	True	17.34375
+185	15	s_xb	pp_wh	My friend remembers that secretly the government collected sensitive data about _ using illegal methods _	using,illegal,methods	True	20.15625
+186	15	s_ax	pp_wh	My friend remembers what secretly the government collected sensitive data about _ foreign threats _ using illegal methods	foreign,threats	True	13.78125
+187	15	s_xx	pp_wh	My friend remembers that secretly the government collected sensitive data about _ foreign threats _ using illegal methods	foreign,threats	True	13.9375
+188	15	s_ab	subj_wh	My friend remembers what secretly _ collected _ sensitive data about foreign threats using illegal methods	collected	True	9.9375
+189	15	s_xb	subj_wh	My friend remembers that secretly _ collected _ sensitive data about foreign threats using illegal methods	collected	True	9.125
+190	15	s_ax	subj_wh	My friend remembers what secretly _ the government _ collected sensitive data about foreign threats using illegal methods	the,government	True	11.40625
+191	15	s_xx	subj_wh	My friend remembers that secretly _ the government _ collected sensitive data about foreign threats using illegal methods	the,government	True	10.9375
+192	16	s_ab	obj_wh	The newspaper said what secretly the neighbors sold _ to _ the new couple last month	to	True	2.28125
+193	16	s_xb	obj_wh	The newspaper said that secretly the neighbors sold _ to _ the new couple last month	to	True	3.546875
+194	16	s_ax	obj_wh	The newspaper said what secretly the neighbors sold _ a convertible _ to the new couple last month	a,convertible	True	14.46875
+195	16	s_xx	obj_wh	The newspaper said that secretly the neighbors sold _ a convertible _ to the new couple last month	a,convertible	True	13.921875
+196	16	s_ab	pp_wh	The newspaper said who secretly the neighbors sold a convertible to _ last month _	last,month	True	11.296875
+197	16	s_xb	pp_wh	The newspaper said that secretly the neighbors sold a convertible to _ last month _	last,month	True	12.96875
+198	16	s_ax	pp_wh	The newspaper said who secretly the neighbors sold a convertible to _ the new couple _ last month	the,new,couple	True	12.140625
+199	16	s_xx	pp_wh	The newspaper said that secretly the neighbors sold a convertible to _ the new couple _ last month	the,new,couple	True	10.71875
+200	16	s_ab	subj_wh	The newspaper said who secretly _ sold _ a convertible to the new couple last month	sold	True	5.5
+201	16	s_xb	subj_wh	The newspaper said that secretly _ sold _ a convertible to the new couple last month	sold	True	6.53125
+202	16	s_ax	subj_wh	The newspaper said who secretly _ the neighbors _ sold a convertible to the new couple last month	the,neighbors	True	14.75
+203	16	s_xx	subj_wh	The newspaper said that secretly _ the neighbors _ sold a convertible to the new couple last month	the,neighbors	True	12.59375
+204	17	s_ab	obj_wh	Our neighbor said what we believe the student sent _ to _ her mother over a week ago	to	True	1.9453125
+205	17	s_xb	obj_wh	Our neighbor said that we believe the student sent _ to _ her mother over a week ago	to	True	2.390625
+206	17	s_ax	obj_wh	Our neighbor said what we believe the student sent _ a package _ to her mother over a week ago	a,package	True	9.09375
+207	17	s_xx	obj_wh	Our neighbor said that we believe the student sent _ a package _ to her mother over a week ago	a,package	True	7.640625
+208	17	s_ab	pp_wh	Our neighbor said who we believe the student sent a package to _ over a week ago _	over,a,week,ago	True	10.970703125
+209	17	s_xb	pp_wh	Our neighbor said that we believe the student sent a package to _ over a week ago _	over,a,week,ago	True	16.8125
+210	17	s_ax	pp_wh	Our neighbor said who we believe the student sent a package to _ her mother _ over a week ago	her,mother	True	8.84375
+211	17	s_xx	pp_wh	Our neighbor said that we believe the student sent a package to _ her mother _ over a week ago	her,mother	True	6.84375
+212	17	s_ab	subj_wh	Our neighbor said who we believe _ sent _ a package to her mother over a week ago	sent	True	7.78125
+213	17	s_xb	subj_wh	Our neighbor said that we believe _ sent _ a package to her mother over a week ago	sent	True	12.875
+214	17	s_ax	subj_wh	Our neighbor said who we believe _ the student _ sent a package to her mother over a week ago	the,student	True	11.859375
+215	17	s_xx	subj_wh	Our neighbor said that we believe _ the student _ sent a package to her mother over a week ago	the,student	True	12.046875
+216	18	s_ab	obj_wh	My friend told me who recently the university hired _ to help with _ increased enrollment for the following year	to,help,with	True	10.390625
+217	18	s_xb	obj_wh	My friend told me that recently the university hired _ to help with _ increased enrollment for the following year	to,help,with	True	13.9375
+218	18	s_ax	obj_wh	My friend told me who recently the university hired _ a new administrator _ to help with increased enrollment for the following year	a,new,administrator	True	8.5546875
+219	18	s_xx	obj_wh	My friend told me that recently the university hired _ a new administrator _ to help with increased enrollment for the following year	a,new,administrator	True	7.5234375
+220	18	s_ab	pp_wh	My friend told me what recently the university hired a new administrator to help with _ for the following year _	for,the,following,year	True	21.3984375
+221	18	s_xb	pp_wh	My friend told me that recently the university hired a new administrator to help with _ for the following year _	for,the,following,year	True	22.953125
+222	18	s_ax	pp_wh	My friend told me what recently the university hired a new administrator to help with _ increased enrollment _ for the following year	increased,enrollment	True	9.1171875
+223	18	s_xx	pp_wh	My friend told me that recently the university hired a new administrator to help with _ increased enrollment _ for the following year	increased,enrollment	True	9.0859375
+224	18	s_ab	subj_wh	My friend told me what recently _ hired _ a new administrator to help with increased enrollment for the following year	hired	True	9.8125
+225	18	s_xb	subj_wh	My friend told me that recently _ hired _ a new administrator to help with increased enrollment for the following year	hired	True	9.9375
+226	18	s_ax	subj_wh	My friend told me what recently _ the university _ hired a new administrator to help with increased enrollment for the following year	the,university	True	11.90625
+227	18	s_xx	subj_wh	My friend told me that recently _ the university _ hired a new administrator to help with increased enrollment for the following year	the,university	True	10.015625
+228	19	s_ab	obj_wh	She can not believe what recently my friend stole _ from _ the store when he was young	from	True	1.9921875
+229	19	s_xb	obj_wh	She can not believe that recently my friend stole _ from _ the store when he was young	from	True	3.25
+230	19	s_ax	obj_wh	She can not believe what recently my friend stole _ a candy bar _ from the store when he was young	a,candy,bar	True	11.640625
+231	19	s_xx	obj_wh	She can not believe that recently my friend stole _ a candy bar _ from the store when he was young	a,candy,bar	True	11.0078125
+232	19	s_ab	pp_wh	She can not believe what recently my friend stole a candy bar from _ when he was young _	when,he,was,young	True	16.7109375
+233	19	s_xb	pp_wh	She can not believe that recently my friend stole a candy bar from _ when he was young _	when,he,was,young	True	17.3046875
+234	19	s_ax	pp_wh	She can not believe what recently my friend stole a candy bar from _ the store _ when he was young	the,store	True	2.44921875
+235	19	s_xx	pp_wh	She can not believe that recently my friend stole a candy bar from _ the store _ when he was young	the,store	True	2.11328125
+236	19	s_ab	subj_wh	She can not believe who recently _ stole _ a candy bar from the store when he was young	stole	True	5.5
+237	19	s_xb	subj_wh	She can not believe that recently _ stole _ a candy bar from the store when he was young	stole	True	8.3125
+238	19	s_ax	subj_wh	She can not believe who recently _ my friend _ stole a candy bar from the store when he was young	my,friend	True	12.171875
+239	19	s_xx	subj_wh	She can not believe that recently _ my friend _ stole a candy bar from the store when he was young	my,friend	True	8.75
+240	20	s_ab	obj_wh	Our neighbor reminded us what with effort the truck dragged _ out of _ the swamp last spring	out,of	True	3.78515625
+241	20	s_xb	obj_wh	Our neighbor reminded us that with effort the truck dragged _ out of _ the swamp last spring	out,of	True	4.359375
+242	20	s_ax	obj_wh	Our neighbor reminded us what with effort the truck dragged _ the car _ out of the swamp last spring	the,car	True	4.578125
+243	20	s_xx	obj_wh	Our neighbor reminded us that with effort the truck dragged _ the car _ out of the swamp last spring	the,car	True	4.34375
+244	20	s_ab	pp_wh	Our neighbor reminded us what with effort the truck dragged the car out of _ last spring _	last,spring	True	14.375
+245	20	s_xb	pp_wh	Our neighbor reminded us that with effort the truck dragged the car out of _ last spring _	last,spring	True	14.5
+246	20	s_ax	pp_wh	Our neighbor reminded us what with effort the truck dragged the car out of _ the swamp _ last spring	the,swamp	True	4.3837890625
+247	20	s_xx	pp_wh	Our neighbor reminded us that with effort the truck dragged the car out of _ the swamp _ last spring	the,swamp	True	4.490234375
+248	20	s_ab	subj_wh	Our neighbor reminded us what with effort _ dragged _ the car out of the swamp last spring	dragged	True	13.75
+249	20	s_xb	subj_wh	Our neighbor reminded us that with effort _ dragged _ the car out of the swamp last spring	dragged	True	14.75
+250	20	s_ax	subj_wh	Our neighbor reminded us what with effort _ the truck _ dragged the car out of the swamp last spring	the,truck	True	12.5
+251	20	s_xx	subj_wh	Our neighbor reminded us that with effort _ the truck _ dragged the car out of the swamp last spring	the,truck	True	12.46875
+252	21	s_ab	obj_wh	The shop owner told me what with care the chef prepared _ for _ the guests yesterday evening	for	True	3.21875
+253	21	s_xb	obj_wh	The shop owner told me that with care the chef prepared _ for _ the guests yesterday evening	for	True	3.4375
+254	21	s_ax	obj_wh	The shop owner told me what with care the chef prepared _ a great meal _ for the guests yesterday evening	a,great,meal	True	10.3125
+255	21	s_xx	obj_wh	The shop owner told me that with care the chef prepared _ a great meal _ for the guests yesterday evening	a,great,meal	True	9.140625
+256	21	s_ab	pp_wh	The shop owner told me who with care the chef prepared a great meal for _ yesterday evening _	yesterday,evening	True	12.078125
+257	21	s_xb	pp_wh	The shop owner told me that with care the chef prepared a great meal for _ yesterday evening _	yesterday,evening	True	12.40625
+258	21	s_ax	pp_wh	The shop owner told me who with care the chef prepared a great meal for _ the guests _ yesterday evening	the,guests	True	5.84375
+259	21	s_xx	pp_wh	The shop owner told me that with care the chef prepared a great meal for _ the guests _ yesterday evening	the,guests	True	5.40625
+260	21	s_ab	subj_wh	The shop owner told me who with care _ prepared _ a great meal for the guests yesterday evening	prepared	True	9.0625
+261	21	s_xb	subj_wh	The shop owner told me that with care _ prepared _ a great meal for the guests yesterday evening	prepared	True	13.1875
+262	21	s_ax	subj_wh	The shop owner told me who with care _ the chef _ prepared a great meal for the guests yesterday evening	the,chef	True	12.25
+263	21	s_xx	subj_wh	The shop owner told me that with care _ the chef _ prepared a great meal for the guests yesterday evening	the,chef	True	12.546875
+264	22	s_ab	obj_wh	My sister told me what we believe the newspaper published _ about _ the mayor last month	about	True	2.921875
+265	22	s_xb	obj_wh	My sister told me that we believe the newspaper published _ about _ the mayor last month	about	True	5.40625
+266	22	s_ax	obj_wh	My sister told me what we believe the newspaper published _ a long story _ about the mayor last month	a,long,story	True	13.71875
+267	22	s_xx	obj_wh	My sister told me that we believe the newspaper published _ a long story _ about the mayor last month	a,long,story	True	10.9140625
+268	22	s_ab	pp_wh	My sister told me who we believe the newspaper published a long story about _ last month _	last,month	True	9.15625
+269	22	s_xb	pp_wh	My sister told me that we believe the newspaper published a long story about _ last month _	last,month	True	10.265625
+270	22	s_ax	pp_wh	My sister told me who we believe the newspaper published a long story about _ the mayor _ last month	the,mayor	True	8.8671875
+271	22	s_xx	pp_wh	My sister told me that we believe the newspaper published a long story about _ the mayor _ last month	the,mayor	True	8.40625
+272	22	s_ab	subj_wh	My sister told me what we believe _ published _ a long story about the mayor last month	published	True	12.25
+273	22	s_xb	subj_wh	My sister told me that we believe _ published _ a long story about the mayor last month	published	True	13.375
+274	22	s_ax	subj_wh	My sister told me what we believe _ the newspaper _ published a long story about the mayor last month	the,newspaper	True	13.53125
+275	22	s_xx	subj_wh	My sister told me that we believe _ the newspaper _ published a long story about the mayor last month	the,newspaper	True	11.828125
+276	23	s_ab	obj_wh	We remember what warmly our new friend brought _ to _ the birthday party last weekend	to	True	2.078125
+277	23	s_xb	obj_wh	We remember that warmly our new friend brought _ to _ the birthday party last weekend	to	True	2.71875
+278	23	s_ax	obj_wh	We remember what warmly our new friend brought _ a large present _ to the birthday party last weekend	a,large,present	True	16.8125
+279	23	s_xx	obj_wh	We remember that warmly our new friend brought _ a large present _ to the birthday party last weekend	a,large,present	True	14.71875
+280	23	s_ab	pp_wh	We remember what warmly our new friend brought a large present to _ last weekend _	last,weekend	True	12.09375
+281	23	s_xb	pp_wh	We remember that warmly our new friend brought a large present to _ last weekend _	last,weekend	True	12.5
+282	23	s_ax	pp_wh	We remember what warmly our new friend brought a large present to _ the birthday party _ last weekend	the,birthday,party	True	7.08984375
+283	23	s_xx	pp_wh	We remember that warmly our new friend brought a large present to _ the birthday party _ last weekend	the,birthday,party	True	7.30859375
+284	23	s_ab	subj_wh	We remember who warmly _ brought _ a large present to the birthday party last weekend	brought	True	7.375
+285	23	s_xb	subj_wh	We remember that warmly _ brought _ a large present to the birthday party last weekend	brought	True	8.5625
+286	23	s_ax	subj_wh	We remember who warmly _ our new friend _ brought a large present to the birthday party last weekend	our,new,friend	True	14.546875
+287	23	s_xx	subj_wh	We remember that warmly _ our new friend _ brought a large present to the birthday party last weekend	our,new,friend	True	15.828125
+288	24	s_ab	obj_wh	I know who warmly the teacher congratulated _ in front of _ the children at school	in,front,of	True	7.908203125
+289	24	s_xb	obj_wh	I know that warmly the teacher congratulated _ in front of _ the children at school	in,front,of	True	11.5478515625
+290	24	s_ax	obj_wh	I know who warmly the teacher congratulated _ the couple _ in front of the children at school	the,couple	True	9.046875
+291	24	s_xx	obj_wh	I know that warmly the teacher congratulated _ the couple _ in front of the children at school	the,couple	True	8.6171875
+292	24	s_ab	pp_wh	I know who warmly the teacher congratulated the couple in front of _ at school _	at,school	True	11.484375
+293	24	s_xb	pp_wh	I know that warmly the teacher congratulated the couple in front of _ at school _	at,school	True	13.0625
+294	24	s_ax	pp_wh	I know who warmly the teacher congratulated the couple in front of _ the children _ at school	the,children	True	5.75
+295	24	s_xx	pp_wh	I know that warmly the teacher congratulated the couple in front of _ the children _ at school	the,children	True	5.0703125
+296	24	s_ab	subj_wh	I know who warmly _ congratulated _ the couple in front of the children at school	congratulated	True	6.7578125
+297	24	s_xb	subj_wh	I know that warmly _ congratulated _ the couple in front of the children at school	congratulated	True	8.1328125
+298	24	s_ax	subj_wh	I know who warmly _ the teacher _ congratulated the couple in front of the children at school	the,teacher	True	12.5
+299	24	s_xx	subj_wh	I know that warmly _ the teacher _ congratulated the couple in front of the children at school	the,teacher	True	12.5625
+300	25	s_ab	obj_wh	You know who graciously the journalist introduced _ to _ her family last year	to	True	3.265625
+301	25	s_xb	obj_wh	You know that graciously the journalist introduced _ to _ her family last year	to	True	3.90625
+302	25	s_ax	obj_wh	You know who graciously the journalist introduced _ her friend _ to her family last year	her,friend	True	8.859375
+303	25	s_xx	obj_wh	You know that graciously the journalist introduced _ her friend _ to her family last year	her,friend	True	7.9375
+304	25	s_ab	pp_wh	You know who graciously the journalist introduced her friend to _ last year _	last,year	True	11.484375
+305	25	s_xb	pp_wh	You know that graciously the journalist introduced her friend to _ last year _	last,year	True	12.59375
+306	25	s_ax	pp_wh	You know who graciously the journalist introduced her friend to _ her family _ last year	her,family	True	7.359375
+307	25	s_xx	pp_wh	You know that graciously the journalist introduced her friend to _ her family _ last year	her,family	True	6.875
+308	25	s_ab	subj_wh	You know who graciously _ introduced _ her friend to her family last year	introduced	True	6.34375
+309	25	s_xb	subj_wh	You know that graciously _ introduced _ her friend to her family last year	introduced	True	9.4375
+310	25	s_ax	subj_wh	You know who graciously _ the journalist _ introduced her friend to her family last year	the,journalist	True	19.3125
+311	25	s_xx	subj_wh	You know that graciously _ the journalist _ introduced her friend to her family last year	the,journalist	True	14.8125
+312	26	s_ab	obj_wh	She knows who warmly the young man waited for _ next to _ the theater last night	next,to	True	8.828125
+313	26	s_xb	obj_wh	She knows that warmly the young man waited for _ next to _ the theater last night	next,to	True	12.703125
+314	26	s_ax	obj_wh	She knows who warmly the young man waited for _ his date _ next to the theater last night	his,date	True	9.03125
+315	26	s_xx	obj_wh	She knows that warmly the young man waited for _ his date _ next to the theater last night	his,date	True	9.96875
+316	26	s_ab	pp_wh	She knows what warmly the young man waited for his date next to _ last night _	last,night	True	11.296875
+317	26	s_xb	pp_wh	She knows that warmly the young man waited for his date next to _ last night _	last,night	True	12.453125
+318	26	s_ax	pp_wh	She knows what warmly the young man waited for his date next to _ the theater _ last night	the,theater	True	6.83984375
+319	26	s_xx	pp_wh	She knows that warmly the young man waited for his date next to _ the theater _ last night	the,theater	True	6.806640625
+320	26	s_ab	subj_wh	She knows who warmly _ waited for _ his date next to the theater last night	waited,for	True	9.3359375
+321	26	s_xb	subj_wh	She knows that warmly _ waited for _ his date next to the theater last night	waited,for	True	12.0859375
+322	26	s_ax	subj_wh	She knows who warmly _ the young man _ waited for his date next to the theater last night	the,young,man	True	12.1640625
+323	26	s_xx	subj_wh	She knows that warmly _ the young man _ waited for his date next to the theater last night	the,young,man	True	11.9296875
+324	27	s_ab	obj_wh	He knows who carefully the lawyer interrogated _ with _ bright lights yesterday	with	True	4.78125
+325	27	s_xb	obj_wh	He knows that carefully the lawyer interrogated _ with _ bright lights yesterday	with	True	4.90625
+326	27	s_ax	obj_wh	He knows who carefully the lawyer interrogated _ the spy _ with bright lights yesterday	the,spy	True	9.875
+327	27	s_xx	obj_wh	He knows that carefully the lawyer interrogated _ the spy _ with bright lights yesterday	the,spy	True	9.859375
+328	27	s_ab	pp_wh	He knows what carefully the lawyer interrogated the spy with _ yesterday _	yesterday	True	9.875
+329	27	s_xb	pp_wh	He knows that carefully the lawyer interrogated the spy with _ yesterday _	yesterday	True	10.875
+330	27	s_ax	pp_wh	He knows what carefully the lawyer interrogated the spy with _ bright lights _ yesterday	bright,lights	True	14.71875
+331	27	s_xx	pp_wh	He knows that carefully the lawyer interrogated the spy with _ bright lights _ yesterday	bright,lights	True	14.8125
+332	27	s_ab	subj_wh	He knows who carefully _ interrogated _ the spy with bright lights yesterday	interrogated	True	9.4375
+333	27	s_xb	subj_wh	He knows that carefully _ interrogated _ the spy with bright lights yesterday	interrogated	True	11.6328125
+334	27	s_ax	subj_wh	He knows who carefully _ the lawyer _ interrogated the spy with bright lights yesterday	the,lawyer	True	13.0
+335	27	s_xx	subj_wh	He knows that carefully _ the lawyer _ interrogated the spy with bright lights yesterday	the,lawyer	True	13.40625
+336	28	s_ab	obj_wh	They recall who warmly the woman thanked _ with _ a big tip last week	with	True	5.0
+337	28	s_xb	obj_wh	They recall that warmly the woman thanked _ with _ a big tip last week	with	True	4.5625
+338	28	s_ax	obj_wh	They recall who warmly the woman thanked _ the waitress _ with a big tip last week	the,waitress	True	9.0625
+339	28	s_xx	obj_wh	They recall that warmly the woman thanked _ the waitress _ with a big tip last week	the,waitress	True	8.578125
+340	28	s_ab	pp_wh	They recall what warmly the woman thanked the waitress with _ last week _	last,week	True	11.75
+341	28	s_xb	pp_wh	They recall that warmly the woman thanked the waitress with _ last week _	last,week	True	12.140625
+342	28	s_ax	pp_wh	They recall what warmly the woman thanked the waitress with _ a big tip _ last week	a,big,tip	True	7.421875
+343	28	s_xx	pp_wh	They recall that warmly the woman thanked the waitress with _ a big tip _ last week	a,big,tip	True	7.03125
+344	28	s_ab	subj_wh	They recall who warmly _ thanked _ the waitress with a big tip last week	thanked	True	7.375
+345	28	s_xb	subj_wh	They recall that warmly _ thanked _ the waitress with a big tip last week	thanked	True	11.4375
+346	28	s_ax	subj_wh	They recall who warmly _ the woman _ thanked the waitress with a big tip last week	the,woman	True	10.453125
+347	28	s_xx	subj_wh	They recall that warmly _ the woman _ thanked the waitress with a big tip last week	the,woman	True	10.0
+348	29	s_ab	obj_wh	He remembers who skillfully the family reassured _ about _ her daughter yesterday evening	about	True	6.1875
+349	29	s_xb	obj_wh	He remembers that skillfully the family reassured _ about _ her daughter yesterday evening	about	True	6.625
+350	29	s_ax	obj_wh	He remembers who skillfully the family reassured _ the old woman _ about her daughter yesterday evening	the,old,woman	True	9.75
+351	29	s_xx	obj_wh	He remembers that skillfully the family reassured _ the old woman _ about her daughter yesterday evening	the,old,woman	True	8.609375
+352	29	s_ab	pp_wh	He remembers who skillfully the family reassured the old woman about _ yesterday evening _	yesterday,evening	True	12.84375
+353	29	s_xb	pp_wh	He remembers that skillfully the family reassured the old woman about _ yesterday evening _	yesterday,evening	True	13.875
+354	29	s_ax	pp_wh	He remembers who skillfully the family reassured the old woman about _ her daughter _ yesterday evening	her,daughter	True	5.1953125
+355	29	s_xx	pp_wh	He remembers that skillfully the family reassured the old woman about _ her daughter _ yesterday evening	her,daughter	True	4.390625
+356	29	s_ab	subj_wh	He remembers who skillfully _ reassured _ the old woman about her daughter yesterday evening	reassured	True	10.58984375
+357	29	s_xb	subj_wh	He remembers that skillfully _ reassured _ the old woman about her daughter yesterday evening	reassured	True	11.58203125
+358	29	s_ax	subj_wh	He remembers who skillfully _ the family _ reassured the old woman about her daughter yesterday evening	the,family	True	12.0
+359	29	s_xx	subj_wh	He remembers that skillfully _ the family _ reassured the old woman about her daughter yesterday evening	the,family	True	11.328125
+360	30	s_ab	obj_wh	You said who unkindly the young man abandoned _ with _ mounting debts last evening	with	True	5.09375
+361	30	s_xb	obj_wh	You said that unkindly the young man abandoned _ with _ mounting debts last evening	with	True	5.3125
+362	30	s_ax	obj_wh	You said who unkindly the young man abandoned _ his partner _ with mounting debts last evening	his,partner	True	8.96875
+363	30	s_xx	obj_wh	You said that unkindly the young man abandoned _ his partner _ with mounting debts last evening	his,partner	True	8.734375
+364	30	s_ab	pp_wh	You said who unkindly the young man abandoned his partner with _ last evening _	last,evening	True	14.03125
+365	30	s_xb	pp_wh	You said that unkindly the young man abandoned his partner with _ last evening _	last,evening	True	14.71875
+366	30	s_ax	pp_wh	You said who unkindly the young man abandoned his partner with _ mounting debts _ last evening	mounting,debts	True	15.5625
+367	30	s_xx	pp_wh	You said that unkindly the young man abandoned his partner with _ mounting debts _ last evening	mounting,debts	True	14.78125
+368	30	s_ab	subj_wh	You said who unkindly _ abandoned _ his partner with mounting debts last evening	abandoned	True	9.75
+369	30	s_xb	subj_wh	You said that unkindly _ abandoned _ his partner with mounting debts last evening	abandoned	True	14.0
+370	30	s_ax	subj_wh	You said who unkindly _ the young man _ abandoned his partner with mounting debts last evening	the,young,man	True	12.9140625
+371	30	s_xx	subj_wh	You said that unkindly _ the young man _ abandoned his partner with mounting debts last evening	the,young,man	True	14.671875
+372	31	s_ab	obj_wh	We recall what hesitantly the student delivered _ to _ the professor over the summer	to	True	2.203125
+373	31	s_xb	obj_wh	We recall that hesitantly the student delivered _ to _ the professor over the summer	to	True	2.8125
+374	31	s_ax	obj_wh	We recall what hesitantly the student delivered _ the paper _ to the professor over the summer	the,paper	True	6.390625
+375	31	s_xx	obj_wh	We recall that hesitantly the student delivered _ the paper _ to the professor over the summer	the,paper	True	5.8984375
+376	31	s_ab	pp_wh	We recall who hesitantly the student delivered the paper to _ over the summer _	over,the,summer	True	16.9375
+377	31	s_xb	pp_wh	We recall that hesitantly the student delivered the paper to _ over the summer _	over,the,summer	True	17.9609375
+378	31	s_ax	pp_wh	We recall who hesitantly the student delivered the paper to _ the professor _ over the summer	the,professor	True	3.7265625
+379	31	s_xx	pp_wh	We recall that hesitantly the student delivered the paper to _ the professor _ over the summer	the,professor	True	3.0859375
+380	31	s_ab	subj_wh	We recall who hesitantly _ delivered _ the paper to the professor over the summer	delivered	True	7.8125
+381	31	s_xb	subj_wh	We recall that hesitantly _ delivered _ the paper to the professor over the summer	delivered	True	8.75
+382	31	s_ax	subj_wh	We recall who hesitantly _ the student _ delivered the paper to the professor over the summer	the,student	True	13.625
+383	31	s_xx	subj_wh	We recall that hesitantly _ the student _ delivered the paper to the professor over the summer	the,student	True	11.828125
+384	32	s_ab	obj_wh	He said what hesitantly the company collected _ about _ their rivals last night	about	True	4.21875
+385	32	s_xb	obj_wh	He said that hesitantly the company collected _ about _ their rivals last night	about	True	4.4375
+386	32	s_ax	obj_wh	He said what hesitantly the company collected _ information _ about their rivals last night	information	True	3.71875
+387	32	s_xx	obj_wh	He said that hesitantly the company collected _ information _ about their rivals last night	information	True	3.3125
+388	32	s_ab	pp_wh	He said who hesitantly the company collected information about _ last night _	last,night	True	11.453125
+389	32	s_xb	pp_wh	He said that hesitantly the company collected information about _ last night _	last,night	True	12.46875
+390	32	s_ax	pp_wh	He said who hesitantly the company collected information about _ their rivals _ last night	their,rivals	True	11.78125
+391	32	s_xx	pp_wh	He said that hesitantly the company collected information about _ their rivals _ last night	their,rivals	True	10.9375
+392	32	s_ab	subj_wh	He said what hesitantly _ collected _ information about their rivals last night	collected	True	9.5625
+393	32	s_xb	subj_wh	He said that hesitantly _ collected _ information about their rivals last night	collected	True	10.8125
+394	32	s_ax	subj_wh	He said what hesitantly _ the company _ collected information about their rivals last night	the,company	True	11.6875
+395	32	s_xx	subj_wh	He said that hesitantly _ the company _ collected information about their rivals last night	the,company	True	11.5
+396	33	s_ab	obj_wh	They know what rudely the couple frightened _ with _ threats last night	with	True	4.96875
+397	33	s_xb	obj_wh	They know that rudely the couple frightened _ with _ threats last night	with	True	4.53125
+398	33	s_ax	obj_wh	They know what rudely the couple frightened _ the children _ with threats last night	the,children	True	7.0
+399	33	s_xx	obj_wh	They know that rudely the couple frightened _ the children _ with threats last night	the,children	True	7.25
+400	33	s_ab	pp_wh	They know what rudely the couple frightened the children with _ last night _	last,night	True	9.296875
+401	33	s_xb	pp_wh	They know that rudely the couple frightened the children with _ last night _	last,night	True	11.0078125
+402	33	s_ax	pp_wh	They know what rudely the couple frightened the children with _ threats _ last night	threats	True	6.0
+403	33	s_xx	pp_wh	They know that rudely the couple frightened the children with _ threats _ last night	threats	True	5.75
+404	33	s_ab	subj_wh	They know who rudely _ frightened _ the children with threats last night	frightened	True	8.375
+405	33	s_xb	subj_wh	They know that rudely _ frightened _ the children with threats last night	frightened	True	9.8125
+406	33	s_ax	subj_wh	They know who rudely _ the couple _ frightened the children with threats last night	the,couple	True	13.3125
+407	33	s_xx	subj_wh	They know that rudely _ the couple _ frightened the children with threats last night	the,couple	True	13.8125
+408	34	s_ab	obj_wh	He knows who with skill the spy assassinated _ with _ a gun last year	with	True	5.15625
+409	34	s_xb	obj_wh	He knows that with skill the spy assassinated _ with _ a gun last year	with	True	4.40625
+410	34	s_ax	obj_wh	He knows who with skill the spy assassinated _ the politician _ with a gun last year	the,politician	True	10.140625
+411	34	s_xx	obj_wh	He knows that with skill the spy assassinated _ the politician _ with a gun last year	the,politician	True	9.4375
+412	34	s_ab	pp_wh	He knows what with skill the spy assassinated the politician with _ last year _	last,year	True	12.3125
+413	34	s_xb	pp_wh	He knows that with skill the spy assassinated the politician with _ last year _	last,year	True	14.03125
+414	34	s_ax	pp_wh	He knows what with skill the spy assassinated the politician with _ a gun _ last year	a,gun	True	5.296875
+415	34	s_xx	pp_wh	He knows that with skill the spy assassinated the politician with _ a gun _ last year	a,gun	True	5.0546875
+416	34	s_ab	subj_wh	He knows who with skill _ assassinated _ the politician with a gun last year	assassinated	True	11.8359375
+417	34	s_xb	subj_wh	He knows that with skill _ assassinated _ the politician with a gun last year	assassinated	True	15.71875
+418	34	s_ax	subj_wh	He knows who with skill _ the spy _ assassinated the politician with a gun last year	the,spy	True	13.296875
+419	34	s_xx	subj_wh	He knows that with skill _ the spy _ assassinated the politician with a gun last year	the,spy	True	13.875
+420	35	s_ab	obj_wh	I know who warmly the lawyer greeted _ with _ a smile over lunch	with	True	3.96875
+421	35	s_xb	obj_wh	I know that warmly the lawyer greeted _ with _ a smile over lunch	with	True	4.3125
+422	35	s_ax	obj_wh	I know who warmly the lawyer greeted _ the man _ with a smile over lunch	the,man	True	6.25
+423	35	s_xx	obj_wh	I know that warmly the lawyer greeted _ the man _ with a smile over lunch	the,man	True	5.7890625
+424	35	s_ab	pp_wh	I know what warmly the lawyer greeted the man with _ over lunch _	over,lunch	True	15.75
+425	35	s_xb	pp_wh	I know that warmly the lawyer greeted the man with _ over lunch _	over,lunch	True	17.5
+426	35	s_ax	pp_wh	I know what warmly the lawyer greeted the man with _ a smile _ over lunch	a,smile	True	4.2578125
+427	35	s_xx	pp_wh	I know that warmly the lawyer greeted the man with _ a smile _ over lunch	a,smile	True	3.6171875
+428	35	s_ab	subj_wh	I know who warmly _ greeted _ the man with a smile over lunch	greeted	True	3.53125
+429	35	s_xb	subj_wh	I know that warmly _ greeted _ the man with a smile over lunch	greeted	True	5.3125
+430	35	s_ax	subj_wh	I know who warmly _ the lawyer _ greeted the man with a smile over lunch	the,lawyer	True	13.90625
+431	35	s_xx	subj_wh	I know that warmly _ the lawyer _ greeted the man with a smile over lunch	the,lawyer	True	13.8125
+432	36	s_ab	obj_wh	You know what skillfully the maid collected _ from _ the brook last year	from	True	4.375
+433	36	s_xb	obj_wh	You know that skillfully the maid collected _ from _ the brook last year	from	True	4.78125
+434	36	s_ax	obj_wh	You know what skillfully the maid collected _ water _ from the brook last year	water	True	6.25
+435	36	s_xx	obj_wh	You know that skillfully the maid collected _ water _ from the brook last year	water	True	6.15625
+436	36	s_ab	pp_wh	You know what skillfully the maid collected water from _ last year _	last,year	True	12.515625
+437	36	s_xb	pp_wh	You know that skillfully the maid collected water from _ last year _	last,year	True	13.03125
+438	36	s_ax	pp_wh	You know what skillfully the maid collected water from _ the brook _ last year	the,brook	True	6.73583984375
+439	36	s_xx	pp_wh	You know that skillfully the maid collected water from _ the brook _ last year	the,brook	True	6.1435546875
+440	36	s_ab	subj_wh	You know who skillfully _ collected _ water from the brook last year	collected	True	8.25
+441	36	s_xb	subj_wh	You know that skillfully _ collected _ water from the brook last year	collected	True	8.5
+442	36	s_ax	subj_wh	You know who skillfully _ the maid _ collected water from the brook last year	the,maid	True	15.875
+443	36	s_xx	subj_wh	You know that skillfully _ the maid _ collected water from the brook last year	the,maid	True	14.875
+444	37	s_ab	obj_wh	She knows who cooly the woman congratulated _ with _ her husband last summer	with	True	4.84375
+445	37	s_xb	obj_wh	She knows that cooly the woman congratulated _ with _ her husband last summer	with	True	5.125
+446	37	s_ax	obj_wh	She knows who cooly the woman congratulated _ the athletes _ with her husband last summer	the,athletes	True	12.15625
+447	37	s_xx	obj_wh	She knows that cooly the woman congratulated _ the athletes _ with her husband last summer	the,athletes	True	12.3125
+448	37	s_ab	pp_wh	She knows who cooly the woman congratulated the athletes with _ last summer _	last,summer	True	13.65625
+449	37	s_xb	pp_wh	She knows that cooly the woman congratulated the athletes with _ last summer _	last,summer	True	14.28125
+450	37	s_ax	pp_wh	She knows who cooly the woman congratulated the athletes with _ her husband _ last summer	her,husband	True	6.921875
+451	37	s_xx	pp_wh	She knows that cooly the woman congratulated the athletes with _ her husband _ last summer	her,husband	True	6.484375
+452	37	s_ab	subj_wh	She knows who cooly _ congratulated _ the athletes with her husband last summer	congratulated	True	10.84375
+453	37	s_xb	subj_wh	She knows that cooly _ congratulated _ the athletes with her husband last summer	congratulated	True	12.265625
+454	37	s_ax	subj_wh	She knows who cooly _ the woman _ congratulated the athletes with her husband last summer	the,woman	True	10.4375
+455	37	s_xx	subj_wh	She knows that cooly _ the woman _ congratulated the athletes with her husband last summer	the,woman	True	10.3125
+456	38	s_ab	obj_wh	He knows who cheerfully the hunter introduced _ to _ his family last winter	to	True	3.140625
+457	38	s_xb	obj_wh	He knows that cheerfully the hunter introduced _ to _ his family last winter	to	True	3.140625
+458	38	s_ax	obj_wh	He knows who cheerfully the hunter introduced _ his friends _ to his family last winter	his,friends	True	8.796875
+459	38	s_xx	obj_wh	He knows that cheerfully the hunter introduced _ his friends _ to his family last winter	his,friends	True	8.484375
+460	38	s_ab	pp_wh	He knows who cheerfully the hunter introduced the athletes to _ last winter _	last,winter	True	13.875
+461	38	s_xb	pp_wh	He knows that cheerfully the hunter introduced the athletes to _ last winter _	last,winter	True	14.59375
+462	38	s_ax	pp_wh	He knows who cheerfully the hunter introduced his friends to _ his family _ last winter	his,family	True	7.28125
+463	38	s_xx	pp_wh	He knows that cheerfully the hunter introduced his friends to _ his family _ last winter	his,family	True	7.171875
+464	38	s_ab	subj_wh	He knows who cheerfully _ introduced _ the athletes to his family last winter	introduced	True	8.0625
+465	38	s_xb	subj_wh	He knows that cheerfully _ introduced _ the athletes to his family last winter	introduced	True	9.25
+466	38	s_ax	subj_wh	He knows who cheerfully _ the hunter _ introduced his friends to his family last winter	the,hunter	True	13.40625
+467	38	s_xx	subj_wh	He knows that cheerfully _ the hunter _ introduced his friends to his family last winter	the,hunter	True	13.5625
+468	39	s_ab	obj_wh	They recall who with sadness the man waited for _ in _ the rain last night	in	True	4.9375
+469	39	s_xb	obj_wh	They recall that with sadness the man waited for _ in _ the rain last night	in	True	8.3125
+470	39	s_ax	obj_wh	They recall who with sadness the man waited for _ her friend _ in the rain last night	her,friend	True	8.671875
+471	39	s_xx	obj_wh	They recall that with sadness the man waited for _ her friend _ in the rain last night	her,friend	True	8.984375
+472	39	s_ab	pp_wh	They recall what with sadness the man waited for her friend in _ last night _	last,night	True	10.828125
+473	39	s_xb	pp_wh	They recall that with sadness the man waited for her friend in _ last night _	last,night	True	11.375
+474	39	s_ax	pp_wh	They recall what with sadness the man waited for her friend in _ the rain _ last night	the,rain	True	5.65234375
+475	39	s_xx	pp_wh	They recall that with sadness the man waited for her friend in _ the rain _ last night	the,rain	True	5.98828125
+476	39	s_ab	subj_wh	They recall who with sadness _ waited for _ her friend in the rain last night	waited,for	True	10.890625
+477	39	s_xb	subj_wh	They recall that with sadness _ waited for _ her friend in the rain last night	waited,for	True	11.28125
+478	39	s_ax	subj_wh	They recall who with sadness _ the man _ waited for her friend in the rain last night	the,man	True	8.640625
+479	39	s_xx	subj_wh	They recall that with sadness _ the man _ waited for her friend in the rain last night	the,man	True	8.796875
+480	40	s_ab	obj_wh	He remembers who brutally the detective interrogated _ in _ his cell yesterday	in	True	4.75
+481	40	s_xb	obj_wh	He remembers that brutally the detective interrogated _ in _ his cell yesterday	in	True	5.96875
+482	40	s_ax	obj_wh	He remembers who brutally the detective interrogated _ the criminal _ in his cell yesterday	the,criminal	True	7.875
+483	40	s_xx	obj_wh	He remembers that brutally the detective interrogated _ the criminal _ in his cell yesterday	the,criminal	True	8.3125
+484	40	s_ab	pp_wh	He remembers what brutally the detective interrogated the criminal in _ yesterday _	yesterday	True	8.8125
+485	40	s_xb	pp_wh	He remembers that brutally the detective interrogated the criminal in _ yesterday _	yesterday	True	9.25
+486	40	s_ax	pp_wh	He remembers what brutally the detective interrogated the criminal in _ his cell _ yesterday	his,cell	True	4.546875
+487	40	s_xx	pp_wh	He remembers that brutally the detective interrogated the criminal in _ his cell _ yesterday	his,cell	True	4.1875
+488	40	s_ab	subj_wh	He remembers who brutally _ interrogated _ the criminal in his cell yesterday	interrogated	True	7.76904296875
+489	40	s_xb	subj_wh	He remembers that brutally _ interrogated _ the criminal in his cell yesterday	interrogated	True	9.955078125
+490	40	s_ax	subj_wh	He remembers who brutally _ the detective _ interrogated the criminal in his cell yesterday	the,detective	True	16.5
+491	40	s_xx	subj_wh	He remembers that brutally _ the detective _ interrogated the criminal in his cell yesterday	the,detective	True	14.125
+492	41	s_ab	obj_wh	You said what skillfully the theif stole _ from _ the museum last night	from	True	3.375
+493	41	s_xb	obj_wh	You said that skillfully the theif stole _ from _ the museum last night	from	True	3.484375
+494	41	s_ax	obj_wh	You said what skillfully the theif stole _ a painting _ from the museum last night	a,painting	True	11.4375
+495	41	s_xx	obj_wh	You said that skillfully the theif stole _ a painting _ from the museum last night	a,painting	True	10.890625
+496	41	s_ab	pp_wh	You said what skillfully the theif stole a painting from _ last night _	last,night	True	9.9140625
+497	41	s_xb	pp_wh	You said that skillfully the theif stole a painting from _ last night _	last,night	True	10.578125
+498	41	s_ax	pp_wh	You said what skillfully the theif stole a painting from _ the museum _ last night	the,museum	True	2.44140625
+499	41	s_xx	pp_wh	You said that skillfully the theif stole a painting from _ the museum _ last night	the,museum	True	2.33984375
+500	41	s_ab	subj_wh	You said who skillfully _ stole _ a painting from the museum last night	stole	True	7.75
+501	41	s_xb	subj_wh	You said that skillfully _ stole _ a painting from the museum last night	stole	True	9.9375
+502	41	s_ax	subj_wh	You said who skillfully _ the theif _ stole a painting from the museum last night	the,theif	True	19.625
+503	41	s_xx	subj_wh	You said that skillfully _ the theif _ stole a painting from the museum last night	the,theif	True	21.25
+504	42	s_ab	obj_wh	We recall what sadly the doctor administered _ to _ the old woman yesterday	to	True	1.796875
+505	42	s_xb	obj_wh	We recall that sadly the doctor administered _ to _ the old woman yesterday	to	True	3.140625
+506	42	s_ax	obj_wh	We recall what sadly the doctor administered _ medicine _ to the old woman yesterday	medicine	True	5.65625
+507	42	s_xx	obj_wh	We recall that sadly the doctor administered _ medicine _ to the old woman yesterday	medicine	True	5.09375
+508	42	s_ab	pp_wh	We recall who sadly the doctor administered medicine to _ yesterday _	yesterday	True	10.1875
+509	42	s_xb	pp_wh	We recall that sadly the doctor administered medicine to _ yesterday _	yesterday	True	11.5
+510	42	s_ax	pp_wh	We recall who sadly the doctor administered medicine to _ the old woman _ yesterday	the,old,woman	True	8.71875
+511	42	s_xx	pp_wh	We recall that sadly the doctor administered medicine to _ the old woman _ yesterday	the,old,woman	True	8.1328125
+512	42	s_ab	subj_wh	We recall who sadly _ administered _ medicine to the old woman yesterday	administered	True	11.625
+513	42	s_xb	subj_wh	We recall that sadly _ administered _ medicine to the old woman yesterday	administered	True	13.0625
+514	42	s_ax	subj_wh	We recall who sadly _ the doctor _ administered medicine to the old woman yesterday	the,doctor	True	12.34375
+515	42	s_xx	subj_wh	We recall that sadly _ the doctor _ administered medicine to the old woman yesterday	the,doctor	True	10.21875
+516	43	s_ab	obj_wh	He said who anxiously the motehr waited for _ in _ the car over the winter	in	True	4.78125
+517	43	s_xb	obj_wh	He said that anxiously the mother waited for _ in _ the car over the winter	in	True	8.1875
+518	43	s_ax	obj_wh	He said who anxiously the mother waited for _ her daughter _ in the car over the winter	her,daughter	True	5.21875
+519	43	s_xx	obj_wh	He said that anxiously the mother waited for _ her daughter _ in the car over the winter	her,daughter	True	4.359375
+520	43	s_ab	pp_wh	He said what anxiously the motehr waited for her daughter in _ over the winter _	over,the,winter	True	18.375
+521	43	s_xb	pp_wh	He said that anxiously the mother waited for her daughter in _ over the winter _	over,the,winter	True	19.03125
+522	43	s_ax	pp_wh	He said what anxiously the mother waited for her daughter in _ the car _ over the winter	the,car	True	4.8203125
+523	43	s_xx	pp_wh	He said that anxiously the mother waited for her daughter in _ the car _ over the winter	the,car	True	4.921875
+524	43	s_ab	subj_wh	He said who anxiously _ waited for _ her daughter in the car over the winter	waited,for	True	5.54296875
+525	43	s_xb	subj_wh	He said that anxiously _ waited for _ her daughter in the car over the winter	waited,for	True	7.1796875
+526	43	s_ax	subj_wh	He said who anxiously _ the mother _ waited for her daughter in the car over the winter	the,mother	True	11.1875
+527	43	s_xx	subj_wh	He said that anxiously _ the mother _ waited for her daughter in the car over the winter	the,mother	True	9.78125
+528	44	s_ab	obj_wh	They know who suddenly the woman chased _ with _ a broom yesterday morning	with	True	4.59375
+529	44	s_xb	obj_wh	They know that suddenly the woman chased _ with _ a broom yesterday morning	with	True	4.46875
+530	44	s_ax	obj_wh	They know who suddenly the woman chased _ the intruder _ with a broom yesterday morning	the,intruder	True	10.5068359375
+531	44	s_xx	obj_wh	They know that suddenly the woman chased _ the intruder _ with a broom yesterday morning	the,intruder	True	9.740234375
+532	44	s_ab	pp_wh	They know what suddenly the woman chased the intruder with _ yesterday morning _	yesterday,morning	True	14.703125
+533	44	s_xb	pp_wh	They know that suddenly the woman chased the intruder with _ yesterday morning _	yesterday,morning	True	16.53125
+534	44	s_ax	pp_wh	They know what suddenly the woman chased the intruder with _ a broom _ yesterday morning	a,broom	True	4.455474853515625
+535	44	s_xx	pp_wh	They know that suddenly the woman chased the intruder with _ a broom _ yesterday morning	a,broom	True	4.342132568359375
+536	44	s_ab	subj_wh	They know who suddenly _ chased _ the intruder with a broom yesterday morning	chased	True	9.3125
+537	44	s_xb	subj_wh	They know that suddenly _ chased _ the intruder with a broom yesterday morning	chased	True	11.0
+538	44	s_ax	subj_wh	They know who suddenly _ the woman _ chased the intruder with a broom yesterday morning	the,woman	True	9.890625
+539	44	s_xx	subj_wh	They know that suddenly _ the woman _ chased the intruder with a broom yesterday morning	the,woman	True	8.390625
+540	45	s_ab	obj_wh	He knows what quickly the scientists delivered _ to _ the journal last night	to	True	2.625
+541	45	s_xb	obj_wh	He knows that quickly the scientists delivered _ to _ the journal last night	to	True	2.5625
+542	45	s_ax	obj_wh	He knows what quickly the scientists delivered _ the article _ to the journal last night	the,article	True	9.28125
+543	45	s_xx	obj_wh	He knows that quickly the scientists delivered _ the article _ to the journal last night	the,article	True	8.7578125
+544	45	s_ab	pp_wh	He knows what quickly the scientists delivered the article to _ last night _	last,night	True	12.109375
+545	45	s_xb	pp_wh	He knows that quickly the scientists delivered the article to _ last night _	last,night	True	13.296875
+546	45	s_ax	pp_wh	He knows what quickly the scientists delivered the article to _ the journal _ last night	the,journal	True	6.2578125
+547	45	s_xx	pp_wh	He knows that quickly the scientists delivered the article to _ the journal _ last night	the,journal	True	7.0859375
+548	45	s_ab	subj_wh	He knows who quickly _ delivered _ the article to the journal last night	delivered	True	7.375
+549	45	s_xb	subj_wh	He knows that quickly _ delivered _ the article to the journal last night	delivered	True	9.3125
+550	45	s_ax	subj_wh	He knows who quickly _ the scientists _ delivered the article to the journal last night	the,scientists	True	13.3125
+551	45	s_xx	subj_wh	He knows that quickly _ the scientists _ delivered the article to the journal last night	the,scientists	True	11.8125
+552	46	s_ab	obj_wh	I know who brutally the police frightened _ with _ their guns last night	with	True	4.28125
+553	46	s_xb	obj_wh	I know that brutally the police frightened _ with _ their guns last night	with	True	4.9375
+554	46	s_ax	obj_wh	I know who brutally the police frightened _ the protesters _ with their guns last night	the,protesters	True	8.4375
+555	46	s_xx	obj_wh	I know that brutally the police frightened _ the protesters _ with their guns last night	the,protesters	True	7.53125
+556	46	s_ab	pp_wh	I know what brutally the police frightened the protesters with _ last night _	last,night	True	7.94140625
+557	46	s_xb	pp_wh	I know that brutally the police frightened the protesters with _ last night _	last,night	True	11.90625
+558	46	s_ax	pp_wh	I know what brutally the police frightened the protesters with _ their guns _ last night	their,guns	True	6.546875
+559	46	s_xx	pp_wh	I know that brutally the police frightened the protesters with _ their guns _ last night	their,guns	True	6.765625
+560	46	s_ab	subj_wh	I know who brutally _ frightened _ the protesters with their guns last night	frightened	True	11.25
+561	46	s_xb	subj_wh	I know that brutally _ frightened _ the protesters with their guns last night	frightened	True	11.25
+562	46	s_ax	subj_wh	I know who brutally _ the police _ frightened the protesters with their guns last night	the,police	True	14.625
+563	46	s_xx	subj_wh	I know that brutally _ the police _ frightened the protesters with their guns last night	the,police	True	13.65625
+564	47	s_ab	obj_wh	You know who with skill the radical assassinated _ with _ a bomb yesterday	with	True	5.21875
+565	47	s_xb	obj_wh	You know that with skill the radical assassinated _ with _ a bomb yesterday	with	True	5.21875
+566	47	s_ax	obj_wh	You know who with skill the radical assassinated _ the politician _ with a bomb yesterday	the,politician	True	9.84375
+567	47	s_xx	obj_wh	You know that with skill the radical assassinated _ the politician _ with a bomb yesterday	the,politician	True	9.171875
+568	47	s_ab	pp_wh	You know what with skill the radical assassinated the politician with _ yesterday _	yesterday	True	9.375
+569	47	s_xb	pp_wh	You know that with skill the radical assassinated the politician with _ yesterday _	yesterday	True	11.0625
+570	47	s_ax	pp_wh	You know what with skill the radical assassinated the politician with _ a bomb _ yesterday	a,bomb	True	5.71875
+571	47	s_xx	pp_wh	You know that with skill the radical assassinated the politician with _ a bomb _ yesterday	a,bomb	True	6.2265625
+572	47	s_ab	subj_wh	You know who with skill _ assassinated _ the politician with a bomb yesterday	assassinated	True	12.484375
+573	47	s_xb	subj_wh	You know that with skill _ assassinated _ the politician with a bomb yesterday	assassinated	True	16.015625
+574	47	s_ax	subj_wh	You know who with skill _ the radical _ assassinated the politician with a bomb yesterday	the,radical	True	14.625
+575	47	s_xx	subj_wh	You know that with skill _ the radical _ assassinated the politician with a bomb yesterday	the,radical	True	15.8125
+576	48	s_ab	obj_wh	She knows who cheerfully the mechanic greeted _ with _ a wave yesterday	with	True	4.46875
+577	48	s_xb	obj_wh	She knows that cheerfully the mechanic greeted _ with _ a wave yesterday	with	True	4.5625
+578	48	s_ax	obj_wh	She knows who cheerfully the mechanic greeted _ the teacher _ with a wave yesterday	the,teacher	True	9.140625
+579	48	s_xx	obj_wh	She knows that cheerfully the mechanic greeted _ the teacher _ with a wave yesterday	the,teacher	True	8.96875
+580	48	s_ab	pp_wh	She knows what cheerfully the mechanic greeted the teacher with _ yesterday _	yesterday	True	8.9375
+581	48	s_xb	pp_wh	She knows that cheerfully the mechanic greeted the teacher with _ yesterday _	yesterday	True	9.5
+582	48	s_ax	pp_wh	She knows what cheerfully the mechanic greeted the teacher with _ a wave _ yesterday	a,wave	True	7.3984375
+583	48	s_xx	pp_wh	She knows that cheerfully the mechanic greeted the teacher with _ a wave _ yesterday	a,wave	True	5.421875
+584	48	s_ab	subj_wh	She knows who cheerfully _ greeted _ the teacher with a wave yesterday	greeted	True	6.0
+585	48	s_xb	subj_wh	She knows that cheerfully _ greeted _ the teacher with a wave yesterday	greeted	True	7.5625
+586	48	s_ax	subj_wh	She knows who cheerfully _ the mechanic _ greeted the teacher with a wave yesterday	the,mechanic	True	15.0
+587	48	s_xx	subj_wh	She knows that cheerfully _ the mechanic _ greeted the teacher with a wave yesterday	the,mechanic	True	15.625
+588	49	s_ab	obj_wh	He knows who kindly the students reassured _ with _ kind words last night	with	True	5.125
+589	49	s_xb	obj_wh	He knows that kindly the students reassured _ with _ kind words last night	with	True	5.28125
+590	49	s_ax	obj_wh	He knows who kindly the students reassured _ the principal _ with kind words last night	the,principal	True	9.109375
+591	49	s_xx	obj_wh	He knows that kindly the students reassured _ the principal _ with kind words last night	the,principal	True	8.734375
+592	49	s_ab	pp_wh	He knows what kindly the students reassured the principal with _ last night _	last,night	True	10.328125
+593	49	s_xb	pp_wh	He knows that kindly the students reassured the principal with _ last night _	last,night	True	11.453125
+594	49	s_ax	pp_wh	He knows what kindly the students reassured the principal with _ kind words _ last night	kind,words	True	7.921875
+595	49	s_xx	pp_wh	He knows that kindly the students reassured the principal with _ kind words _ last night	kind,words	True	7.58203125
+596	49	s_ab	subj_wh	He knows who kindly _ reassured _ the principal with kind words last night	reassured	True	10.08984375
+597	49	s_xb	subj_wh	He knows that kindly _ reassured _ the principal with kind words last night	reassured	True	10.96875
+598	49	s_ax	subj_wh	He knows who kindly _ the students _ reassured the principal with kind words last night	the,students	True	13.40625
+599	49	s_xx	subj_wh	He knows that kindly _ the students _ reassured the principal with kind words last night	the,students	True	12.5625
+600	50	s_i_ab	cnp_obj	I know who the family from the big city saw _ last year _	last,year	True	8.34375
+601	50	s_i_xb	cnp_obj	I know that the family from the big city saw _ last year _	last,year	True	11.265625
+602	50	s_i_ax	cnp_obj	I know who the family from the big city saw _ the general _ last year	the,general	True	13.40625
+603	50	s_i_xx	cnp_obj	I know that the family from the big city saw _ the general _ last year	the,general	True	10.375
+604	50	s_i_ab	cnp_that	I know who the family saw a painting that depicted _ last year _	last,year	True	11.171875
+605	50	s_i_xb	cnp_that	I know that the family saw a painting that depicted _ last year _	last,year	True	12.375
+606	50	s_i_ax	cnp_that	I know who the family saw a painting that depicted _ the general _ last year	the,general	True	9.4765625
+607	50	s_i_xx	cnp_that	I know that the family saw a painting that depicted _ the general _ last year	the,general	True	9.4453125
+608	50	s_i_ab	cnp_wh	I know who the family saw a painting which depicted _ last year _	last,year	True	11.328125
+609	50	s_i_xb	cnp_wh	I know that the family saw a painting which depicted _ last year _	last,year	True	12.3671875
+610	50	s_i_ax	cnp_wh	I know who the family saw a painting which depicted _ the general _ last year	the,general	True	9.3046875
+611	50	s_i_xx	cnp_wh	I know that the family saw a painting which depicted _ the general _ last year	the,general	True	9.25
+612	51	s_i_ab	cnp_obj	I remember what the woman with the blue hat bought _ yesterday _	yesterday	True	4.90625
+613	51	s_i_xb	cnp_obj	I remember that the woman with the blue hat bought _ yesterday _	yesterday	True	8.75
+614	51	s_i_ax	cnp_obj	I remember what the woman with the blue hat bought _ a gift card _ yesterday	a,gift,card	True	15.4375
+615	51	s_i_xx	cnp_obj	I remember that the woman with the blue hat bought _ a gift card _ yesterday	a,gift,card	True	10.3203125
+616	51	s_i_ab	cnp_that	I remember what the woman bought a gift that included _ yesterday _	yesterday	True	10.0
+617	51	s_i_xb	cnp_that	I remember that the woman bought a gift that included _ yesterday _	yesterday	True	11.0
+618	51	s_i_ax	cnp_that	I remember what the woman bought a gift that included _ a gift card _ yesterday	a,gift,card	True	6.4921875
+619	51	s_i_xx	cnp_that	I remember that the woman bought a gift that included _ a gift card _ yesterday	a,gift,card	True	6.421875
+620	51	s_i_ab	cnp_wh	I remember what the woman bought a gift which included _ yesterday _	yesterday	True	10.3125
+621	51	s_i_xb	cnp_wh	I remember that the woman bought a gift which included _ yesterday _	yesterday	True	11.25
+622	51	s_i_ax	cnp_wh	I remember what the woman bought a gift which included _ a gift card _ yesterday	a,gift,card	True	6.65625
+623	51	s_i_xx	cnp_wh	I remember that the woman bought a gift which included _ a gift card _ yesterday	a,gift,card	True	6.6171875
+624	52	s_i_ab	cnp_obj	The newspaper reported who the man from far away liked _ recently _	recently	True	8.9375
+625	52	s_i_xb	cnp_obj	The newspaper reported that the man from far away liked _ recently _	recently	True	11.1875
+626	52	s_i_ax	cnp_obj	The newspaper reported who the man from far away liked _ the actress _ recently	the,actress	True	7.40625
+627	52	s_i_xx	cnp_obj	The newspaper reported that the man from far away liked _ the actress _ recently	the,actress	True	7.2265625
+628	52	s_i_ab	cnp_that	The newspaper reported who the man liked the movie that featured _ recently _	recently	True	8.8125
+629	52	s_i_xb	cnp_that	The newspaper reported that the man liked the movie that featured _ recently _	recently	True	9.1875
+630	52	s_i_ax	cnp_that	The newspaper reported who the man liked the movie that featured _ the actress _ recently	the,actress	True	4.546875
+631	52	s_i_xx	cnp_that	The newspaper reported that the man liked the movie that featured _ the actress _ recently	the,actress	True	4.5703125
+632	52	s_i_ab	cnp_wh	The newspaper reported who the man liked the movie which featured _ recently _	recently	True	8.8125
+633	52	s_i_xb	cnp_wh	The newspaper reported that the man liked the movie which featured _ recently _	recently	True	9.375
+634	52	s_i_ax	cnp_wh	The newspaper reported who the man liked the movie which featured _ the actress _ recently	the,actress	True	4.3203125
+635	52	s_i_xx	cnp_wh	The newspaper reported that the man liked the movie which featured _ the actress _ recently	the,actress	True	4.328125
+636	53	s_i_ab	cnp_obj	She told me what the executive with the red tie discovered _ last quarter _	last,quarter	True	13.21875
+637	53	s_i_xb	cnp_obj	She told me that the executive with the red tie discovered _ last quarter _	last,quarter	True	15.5
+638	53	s_i_ax	cnp_obj	She told me what the executive with the red tie discovered _ illegal activity _ last quarter	illegal,activity	True	15.640625
+639	53	s_i_xx	cnp_obj	She told me that the executive with the red tie discovered _ illegal activity _ last quarter	illegal,activity	True	13.203125
+640	53	s_i_ab	cnp_that	She told me what the executive discovered the business plan that included _ last quarter _	last,quarter	True	15.46875
+641	53	s_i_xb	cnp_that	She told me that the executive discovered the business plan that included _ last quarter _	last,quarter	True	15.75
+642	53	s_i_ax	cnp_that	She told me what the executive discovered the business plan that included _ illegal activity _ last quarter	illegal,activity	True	12.828125
+643	53	s_i_xx	cnp_that	She told me that the executive discovered the business plan that included _ illegal activity _ last quarter	illegal,activity	True	11.328125
+644	53	s_i_ab	cnp_wh	She told me what the executive discovered the business plan which included _ last quarter _	last,quarter	True	15.71875
+645	53	s_i_xb	cnp_wh	She told me that the executive discovered the business plan which included _ last quarter _	last,quarter	True	15.96875
+646	53	s_i_ax	cnp_wh	She told me what the executive discovered the business plan which included _ illegal activity _ last quarter	illegal,activity	True	13.34375
+647	53	s_i_xx	cnp_wh	She told me that the executive discovered the business plan which included _ illegal activity _ last quarter	illegal,activity	True	11.46875
+648	54	s_i_ab	cnp_obj	He knows who the lawyer in the dark suit believed _ last month _	last,month	True	12.546875
+649	54	s_i_xb	cnp_obj	He knows that the lawyer in the dark suit believed _ last month _	last,month	True	12.71875
+650	54	s_i_ax	cnp_obj	He knows who the lawyer in the dark suit believed _ the defendant _ last month	the,defendant	True	7.40625
+651	54	s_i_xx	cnp_obj	He knows that the lawyer in the dark suit believed _ the defendant _ last month	the,defendant	True	7.984375
+652	54	s_i_ab	cnp_that	He knows who the lawyer believed the witness that saw _ last month _	last,month	True	12.375
+653	54	s_i_xb	cnp_that	He knows that the lawyer believed the witness that saw _ last month _	last,month	True	12.453125
+654	54	s_i_ax	cnp_that	He knows who the lawyer believed the witness that saw _ the defendant _ last month	the,defendant	True	5.0546875
+655	54	s_i_xx	cnp_that	He knows that the lawyer believed the witness that saw _ the defendant _ last month	the,defendant	True	5.1328125
+656	54	s_i_ab	cnp_wh	He knows who the lawyer believed the witness who saw _ last month _	last,month	True	12.03125
+657	54	s_i_xb	cnp_wh	He knows that the lawyer believed the witness who saw _ last month _	last,month	True	12.890625
+658	54	s_i_ax	cnp_wh	He knows who the lawyer believed the witness who saw _ the defendant _ last month	the,defendant	True	4.921875
+659	54	s_i_xx	cnp_wh	He knows that the lawyer believed the witness who saw _ the defendant _ last month	the,defendant	True	4.8984375
+660	55	s_i_ab	cnp_obj	You remember what the president from the foreign nation promised _ recently _	recently	True	8.125
+661	55	s_i_xb	cnp_obj	You remember that the president from the foreign nation promised _ recently _	recently	True	9.1875
+662	55	s_i_ax	cnp_obj	You remember what the president from the foreign nation promised _ improvements _ recently	improvements	True	13.9375
+663	55	s_i_xx	cnp_obj	You remember that the president from the foreign nation promised _ improvements _ recently	improvements	True	9.5625
+664	55	s_i_ab	cnp_that	You remember what the president promised a plan that proposed _ recently _	recently	True	11.5
+665	55	s_i_xb	cnp_that	You remember that the president promised a plan that proposed _ recently _	recently	True	11.375
+666	55	s_i_ax	cnp_that	You remember what the president promised a plan that proposed _ improvements _ recently	improvements	True	8.125
+667	55	s_i_xx	cnp_that	You remember that the president promised a plan that proposed _ improvements _ recently	improvements	True	7.53125
+668	55	s_i_ab	cnp_wh	You remember what the president promised a plan which proposed _ recently _	recently	True	11.5
+669	55	s_i_xb	cnp_wh	You remember that the president promised a plan which proposed _ recently _	recently	True	11.625
+670	55	s_i_ax	cnp_wh	You remember what the president promised a plan which proposed _ improvements _ recently	improvements	True	8.3125
+671	55	s_i_xx	cnp_wh	You remember that the president promised a plan which proposed _ improvements _ recently	improvements	True	7.75
+672	56	s_i_ab	cnp_obj	The newspaper reported who the policeman in the blue uniform knew _ for a long time _	for,a,long,time	True	7.71875
+673	56	s_i_xb	cnp_obj	The newspaper reported that the policeman in the blue uniform knew _ for a long time _	for,a,long,time	True	7.04229736328125
+674	56	s_i_ax	cnp_obj	The newspaper reported who the policeman in the blue uniform knew _ the judge _ for a long time	the,judge	True	9.0
+675	56	s_i_xx	cnp_obj	The newspaper reported that the policeman in the blue uniform knew _ the judge _ for a long time	the,judge	True	9.0
+676	56	s_i_ab	cnp_that	The newspaper reported who the policeman knew the mayor that bribed _ for a long time _	for,a,long,time	True	11.29052734375
+677	56	s_i_xb	cnp_that	The newspaper reported that the policeman knew the mayor that bribed _ for a long time _	for,a,long,time	True	9.67919921875
+678	56	s_i_ax	cnp_that	The newspaper reported who the policeman knew the mayor that bribed _ the judge _ for a long time	the,judge	True	7.125
+679	56	s_i_xx	cnp_that	The newspaper reported that the policeman knew the mayor that bribed _ the judge _ for a long time	the,judge	True	6.96875
+680	56	s_i_ab	cnp_wh	The newspaper reported who the policeman knew the mayor who bribed _ for a long time _	for,a,long,time	True	11.408203125
+681	56	s_i_xb	cnp_wh	The newspaper reported that the policeman knew the mayor who bribed _ for a long time _	for,a,long,time	True	9.398681640625
+682	56	s_i_ax	cnp_wh	The newspaper reported who the policeman knew the mayor who bribed _ the judge _ for a long time	the,judge	True	6.734375
+683	56	s_i_xx	cnp_wh	The newspaper reported that the policeman knew the mayor who bribed _ the judge _ for a long time	the,judge	True	6.7578125
+684	57	s_i_ab	cnp_obj	what the accountant from the rival firm saw _ last week _	last,week	True	8.6171875
+685	57	s_i_xb	cnp_obj	that the accountant from the rival firm saw _ last week _	last,week	True	8.0078125
+686	57	s_i_ax	cnp_obj	what the accountant from the rival firm saw _ the plans _ last week	the,plans	True	13.84375
+687	57	s_i_xx	cnp_obj	that the accountant from the rival firm saw _ the plans _ last week	the,plans	True	10.796875
+688	57	s_i_ab	cnp_that	what the accountant saw the documents that outlined _ last week _	last,week	True	10.890625
+689	57	s_i_xb	cnp_that	that the accountant saw the documents that outlined _ last week _	last,week	True	11.203125
+690	57	s_i_ax	cnp_that	what the accountant saw the documents that outlined _ the plans _ last week	the,plans	True	6.21484375
+691	57	s_i_xx	cnp_that	that the accountant saw the documents that outlined _ the plans _ last week	the,plans	True	6.390625
+692	57	s_i_ab	cnp_wh	what the accountant saw the documents which outlined _ last week _	last,week	True	11.03125
+693	57	s_i_xb	cnp_wh	that the accountant saw the documents which outlined _ last week _	last,week	True	11.4375
+694	57	s_i_ax	cnp_wh	what the accountant saw the documents which outlined _ the plans _ last week	the,plans	True	6.32421875
+695	57	s_i_xx	cnp_wh	that the accountant saw the documents which outlined _ the plans _ last week	the,plans	True	6.4921875
+696	58	s_i_ab	cnp_obj	They recall who the nurse with the white shirt helped _ last night _	last,night	True	7.9140625
+697	58	s_i_xb	cnp_obj	They recall that the nurse with the white shirt helped _ last night _	last,night	True	11.40625
+698	58	s_i_ax	cnp_obj	They recall who the nurse with the white shirt helped _ the surgeon _ last night	the,surgeon	True	9.578125
+699	58	s_i_xx	cnp_obj	They recall that the nurse with the white shirt helped _ the surgeon _ last night	the,surgeon	True	9.34375
+700	58	s_i_ab	cnp_that	They recall who the nurse helped the doctor that liked _ last night _	last,night	True	10.7265625
+701	58	s_i_xb	cnp_that	They recall that the nurse helped the doctor that liked _ last night _	last,night	True	11.5390625
+702	58	s_i_ax	cnp_that	They recall who the nurse helped the doctor that liked _ the surgeon _ last night	the,surgeon	True	8.453125
+703	58	s_i_xx	cnp_that	They recall that the nurse helped the doctor that liked _ the surgeon _ last night	the,surgeon	True	8.71875
+704	58	s_i_ab	cnp_wh	They recall who the nurse helped the doctor who liked _ last night _	last,night	True	10.8828125
+705	58	s_i_xb	cnp_wh	They recall that the nurse helped the doctor who liked _ last night _	last,night	True	12.234375
+706	58	s_i_ax	cnp_wh	They recall who the nurse helped the doctor who liked _ the surgeon _ last night	the,surgeon	True	7.484375
+707	58	s_i_xx	cnp_wh	They recall that the nurse helped the doctor who liked _ the surgeon _ last night	the,surgeon	True	8.65625
+708	59	s_i_ab	cnp_obj	He told me what the family from down the street criticized _ frequently _	frequently	True	8.875
+709	59	s_i_xb	cnp_obj	He told me that the family from down the street criticized _ frequently _	frequently	True	11.125
+710	59	s_i_ax	cnp_obj	He told me what the family from down the street criticized _ the government _ frequently	the,government	True	8.6875
+711	59	s_i_xx	cnp_obj	He told me that the family from down the street criticized _ the government _ frequently	the,government	True	9.890625
+712	59	s_i_ab	cnp_that	He told me what the family criticized the television show that mocked _ frequently _	frequently	True	11.125
+713	59	s_i_xb	cnp_that	He told me that the family criticized the television show that mocked _ frequently _	frequently	True	12.5625
+714	59	s_i_ax	cnp_that	He told me what the family criticized the television show that mocked _ the government _ frequently	the,government	True	7.6796875
+715	59	s_i_xx	cnp_that	He told me that the family criticized the television show that mocked _ the government _ frequently	the,government	True	8.3046875
+716	59	s_i_ab	cnp_wh	He told me what the family criticized the television show which mocked _ frequently _	frequently	True	10.5625
+717	59	s_i_xb	cnp_wh	He told me that the family criticized the television show which mocked _ frequently _	frequently	True	12.1875
+718	59	s_i_ax	cnp_wh	He told me what the family criticized the television show which mocked _ the government _ frequently	the,government	True	7.5390625
+719	59	s_i_xx	cnp_wh	He told me that the family criticized the television show which mocked _ the government _ frequently	the,government	True	7.9453125
+720	60	s_i_ab	cnp_obj	She told me who the politician with the loud voice disliked _ last year _	last,year	True	9.9375
+721	60	s_i_xb	cnp_obj	She told me that the politician with the loud voice disliked _ last year _	last,year	True	11.7890625
+722	60	s_i_ax	cnp_obj	She told me who the politician with the loud voice disliked _ the president _ last year	the,president	True	7.65625
+723	60	s_i_xx	cnp_obj	She told me that the politician with the loud voice disliked _ the president _ last year	the,president	True	7.03125
+724	60	s_i_ab	cnp_that	She told me who the politician disliked the congressman that criticized _ last year _	last,year	True	9.4296875
+725	60	s_i_xb	cnp_that	She told me that the politician disliked the congressman that criticized _ last year _	last,year	True	11.0
+726	60	s_i_ax	cnp_that	She told me who the politician disliked the congressman that criticized _ the president _ last year	the,president	True	3.671875
+727	60	s_i_xx	cnp_that	She told me that the politician disliked the congressman that criticized _ the president _ last year	the,president	True	3.7265625
+728	60	s_i_ab	cnp_wh	She told me who the politician disliked the congressman who criticized _ last year _	last,year	True	9.5859375
+729	60	s_i_xb	cnp_wh	She told me that the politician disliked the congressman who criticized _ last year _	last,year	True	10.875
+730	60	s_i_ax	cnp_wh	She told me who the politician disliked the congressman who criticized _ the president _ last year	the,president	True	3.546875
+731	60	s_i_xx	cnp_wh	She told me that the politician disliked the congressman who criticized _ the president _ last year	the,president	True	3.828125
+732	61	s_i_ab	cnp_obj	He knows what the janitor with the black hair cleaned _ for a long time _	for,a,long,time	True	10.18212890625
+733	61	s_i_xb	cnp_obj	He knows that the janitor with the black hair cleaned _ for a long time _	for,a,long,time	True	12.4208984375
+734	61	s_i_ax	cnp_obj	He knows what the janitor with the black hair cleaned _ the computers _ for a long time	the,computers	True	10.265625
+735	61	s_i_xx	cnp_obj	He knows that the janitor with the black hair cleaned _ the computers _ for a long time	the,computers	True	8.90234375
+736	61	s_i_ab	cnp_that	He knows what the janitor cleaned the room that housed _ for a long time _	for,a,long,time	True	11.740234375
+737	61	s_i_xb	cnp_that	He knows that the janitor cleaned the room that housed _ for a long time _	for,a,long,time	True	13.9990234375
+738	61	s_i_ax	cnp_that	He knows what the janitor cleaned the room that housed _ the computers _ for a long time	the,computers	True	7.84375
+739	61	s_i_xx	cnp_that	He knows that the janitor cleaned the room that housed _ the computers _ for a long time	the,computers	True	7.19140625
+740	61	s_i_ab	cnp_wh	He knows what the janitor cleaned the room which housed _ for a long time _	for,a,long,time	True	11.6162109375
+741	61	s_i_xb	cnp_wh	He knows that the janitor cleaned the room which housed _ for a long time _	for,a,long,time	True	13.59375
+742	61	s_i_ax	cnp_wh	He knows what the janitor cleaned the room which housed _ the computers _ for a long time	the,computers	True	7.4921875
+743	61	s_i_xx	cnp_wh	He knows that the janitor cleaned the room which housed _ the computers _ for a long time	the,computers	True	7.109375
+744	62	s_i_ab	cnp_obj	He said what the mailman with the quick gait feared _ when he was young _	when,he,was,young	True	12.59375
+745	62	s_i_xb	cnp_obj	He said that the mailman with the quick gait feared _ when he was young _	when,he,was,young	True	14.56640625
+746	62	s_i_ax	cnp_obj	He said what the mailman with the quick gait feared _ thunderstorms _ when he was young	thunderstorms	True	14.109375
+747	62	s_i_xx	cnp_obj	He said that the mailman with the quick gait feared _ thunderstorms _ when he was young	thunderstorms	True	8.73828125
+748	62	s_i_ab	cnp_that	He said what the mailman feared the dog that disliked _ when he was young _	when,he,was,young	True	14.9375
+749	62	s_i_xb	cnp_that	He said that the mailman feared the dog that disliked _ when he was young _	when,he,was,young	True	14.53125
+750	62	s_i_ax	cnp_that	He said what the mailman feared the dog that disliked _ thunderstorms _ when he was young	thunderstorms	True	9.4296875
+751	62	s_i_xx	cnp_that	He said that the mailman feared the dog that disliked _ thunderstorms _ when he was young	thunderstorms	True	9.765625
+752	62	s_i_ab	cnp_wh	He said what the mailman feared the dog who disliked _ when he was young _	when,he,was,young	True	15.109375
+753	62	s_i_xb	cnp_wh	He said that the mailman feared the dog who disliked _ when he was young _	when,he,was,young	True	16.484375
+754	62	s_i_ax	cnp_wh	He said what the mailman feared the dog who disliked _ thunderstorms _ when he was young	thunderstorms	True	9.34375
+755	62	s_i_xx	cnp_wh	He said that the mailman feared the dog who disliked _ thunderstorms _ when he was young	thunderstorms	True	9.58203125
+756	63	s_i_ab	cnp_obj	The newspaper reported who the lawyer with the sly smile defended _ last year _	last,year	True	9.4921875
+757	63	s_i_xb	cnp_obj	The newspaper reported that the lawyer with the sly smile defended _ last year _	last,year	True	10.1484375
+758	63	s_i_ax	cnp_obj	The newspaper reported who the lawyer with the sly smile defended _ his friend _ last year	his,friend	True	8.546875
+759	63	s_i_xx	cnp_obj	The newspaper reported that the lawyer with the sly smile defended _ his friend _ last year	his,friend	True	7.875
+760	63	s_i_ab	cnp_that	The newspaper reported who the lawyer defended the criminal that murdered _ last year _	last,year	True	10.125
+761	63	s_i_xb	cnp_that	The newspaper reported that the lawyer defended the criminal that murdered _ last year _	last,year	True	9.5390625
+762	63	s_i_ax	cnp_that	The newspaper reported who the lawyer defended the criminal that murdered _ his friend _ last year	his,friend	True	6.5625
+763	63	s_i_xx	cnp_that	The newspaper reported that the lawyer defended the criminal that murdered _ his friend _ last year	his,friend	True	6.296875
+764	63	s_i_ab	cnp_wh	The newspaper reported who the lawyer defended the criminal who murdered _ last year _	last,year	True	10.2265625
+765	63	s_i_xb	cnp_wh	The newspaper reported that the lawyer defended the criminal who murdered _ last year _	last,year	True	9.640625
+766	63	s_i_ax	cnp_wh	The newspaper reported who the lawyer defended the criminal who murdered _ his friend _ last year	his,friend	True	6.0
+767	63	s_i_xx	cnp_wh	The newspaper reported that the lawyer defended the criminal who murdered _ his friend _ last year	his,friend	True	5.765625
+768	64	s_i_ab	cnp_obj	You remember what the boy with the bond hair chased _ recently _	recently	True	9.25
+769	64	s_i_xb	cnp_obj	You remember that the boy with the bond hair chased _ recently _	recently	True	9.75
+770	64	s_i_ax	cnp_obj	You remember what the boy with the bond hair chased _ mice _ recently	mice	True	9.6875
+771	64	s_i_xx	cnp_obj	You remember that the boy with the bond hair chased _ mice _ recently	mice	True	9.3125
+772	64	s_i_ab	cnp_that	You remember what the boy chased the cat that hunted _ recently _	recently	True	10.1875
+773	64	s_i_xb	cnp_that	You remember that the boy chased the cat that hunted _ recently _	recently	True	10.3125
+774	64	s_i_ax	cnp_that	You remember what the boy chased the cat that hunted _ mice _ recently	mice	True	4.03125
+775	64	s_i_xx	cnp_that	You remember that the boy chased the cat that hunted _ mice _ recently	mice	True	3.4375
+776	64	s_i_ab	cnp_wh	You remember what the boy chased the cat which hunted _ recently _	recently	True	10.0625
+777	64	s_i_xb	cnp_wh	You remember that the boy chased the cat which hunted _ recently _	recently	True	10.625
+778	64	s_i_ax	cnp_wh	You remember what the boy chased the cat which hunted _ mice _ recently	mice	True	3.890625
+779	64	s_i_xx	cnp_wh	You remember that the boy chased the cat which hunted _ mice _ recently	mice	True	3.265625
+780	65	s_i_ab	cnp_obj	He told me what the girl with the ponytail loved _ last summer _	last,summer	True	10.3125
+781	65	s_i_xb	cnp_obj	He told me that the girl with the ponytail loved _ last summer _	last,summer	True	14.5625
+782	65	s_i_ax	cnp_obj	He told me what the girl with the ponytail loved _ apples _ last summer	apples	True	8.5625
+783	65	s_i_xx	cnp_obj	He told me that the girl with the ponytail loved _ apples _ last summer	apples	True	7.875
+784	65	s_i_ab	cnp_that	He told me what the girl loved the horses that ate _ last summer _	last,summer	True	11.53125
+785	65	s_i_xb	cnp_that	He told me that the girl loved the horses that ate _ last summer _	last,summer	True	12.359375
+786	65	s_i_ax	cnp_that	He told me what the girl loved the horses that ate _ apples _ last summer	apples	True	5.03125
+787	65	s_i_xx	cnp_that	He told me that the girl loved the horses that ate _ apples _ last summer	apples	True	4.78125
+788	65	s_i_ab	cnp_wh	He told me what the girl loved the horses which ate _ last summer _	last,summer	True	12.125
+789	65	s_i_xb	cnp_wh	He told me that the girl loved the horses which ate _ last summer _	last,summer	True	12.59375
+790	65	s_i_ax	cnp_wh	He told me what the girl loved the horses which ate _ apples _ last summer	apples	True	4.96875
+791	65	s_i_xx	cnp_wh	He told me that the girl loved the horses which ate _ apples _ last summer	apples	True	4.8125
+792	66	s_i_ab	cnp_obj	He knows who the neighbor from down the street rebuked _ last year _	last,year	True	7.765625
+793	66	s_i_xb	cnp_obj	He knows that the neighbor from down the street rebuked _ last year _	last,year	True	9.125
+794	66	s_i_ax	cnp_obj	He knows who the neighbor from down the street rebuked _ the planner _ last year	the,planner	True	14.8125
+795	66	s_i_xx	cnp_obj	He knows that the neighbor from down the street rebuked _ the planner _ last year	the,planner	True	14.453125
+796	66	s_i_ab	cnp_that	He knows who the neighbor rebuked the mayor that appointed _ last year _	last,year	True	9.109375
+797	66	s_i_xb	cnp_that	He knows that the neighbor rebuked the mayor that appointed _ last year _	last,year	True	10.1328125
+798	66	s_i_ax	cnp_that	He knows who the neighbor rebuked the mayor that appointed _ the planner _ last year	the,planner	True	11.71875
+799	66	s_i_xx	cnp_that	He knows that the neighbor rebuked the mayor that appointed _ the planner _ last year	the,planner	True	12.125
+800	66	s_i_ab	cnp_wh	He knows who the neighbor rebuked the mayor who appointed _ last year _	last,year	True	9.4609375
+801	66	s_i_xb	cnp_wh	He knows that the neighbor rebuked the mayor who appointed _ last year _	last,year	True	10.375
+802	66	s_i_ax	cnp_wh	He knows who the neighbor rebuked the mayor who appointed _ the planner _ last year	the,planner	True	11.4765625
+803	66	s_i_xx	cnp_wh	He knows that the neighbor rebuked the mayor who appointed _ the planner _ last year	the,planner	True	12.09375
+804	67	s_i_ab	cnp_obj	They recall who the lady with the little dog admired _ last week _	last,week	True	7.3046875
+805	67	s_i_xb	cnp_obj	They recall that the lady with the little dog admired _ last week _	last,week	True	9.875
+806	67	s_i_ax	cnp_obj	They recall who the lady with the little dog admired _ the princess _ last week	the,princess	True	10.78125
+807	67	s_i_xx	cnp_obj	They recall that the lady with the little dog admired _ the princess _ last week	the,princess	True	8.625
+808	67	s_i_ab	cnp_that	They recall who the lady admired the count that loved _ last week _	last,week	True	11.875
+809	67	s_i_xb	cnp_that	They recall that the lady admired the count that loved _ last week _	last,week	True	13.28125
+810	67	s_i_ax	cnp_that	They recall who the lady admired the count that loved _ the princess _ last week	the,princess	True	5.9140625
+811	67	s_i_xx	cnp_that	They recall that the lady admired the count that loved _ the princess _ last week	the,princess	True	5.859375
+812	67	s_i_ab	cnp_wh	They recall who the lady admired the count who loved _ last week _	last,week	True	12.171875
+813	67	s_i_xb	cnp_wh	They recall that the lady admired the count who loved _ last week _	last,week	True	13.9375
+814	67	s_i_ax	cnp_wh	They recall who the lady admired the count who loved _ the princess _ last week	the,princess	True	5.953125
+815	67	s_i_xx	cnp_wh	They recall that the lady admired the count who loved _ the princess _ last week	the,princess	True	5.5
+816	68	s_i_ab	cnp_obj	The newspaper reported who the prince with the gold crown believed _ last winter _	last,winter	True	14.84375
+817	68	s_i_xb	cnp_obj	The newspaper reported that the prince with the gold crown believed _ last winter _	last,winter	True	15.0625
+818	68	s_i_ax	cnp_obj	The newspaper reported who the prince with the gold crown believed _ the queen _ last winter	the,queen	True	7.84375
+819	68	s_i_xx	cnp_obj	The newspaper reported that the prince with the gold crown believed _ the queen _ last winter	the,queen	True	8.078125
+820	68	s_i_ab	cnp_that	The newspaper reported who the prince believed the advisor that avoided _ last winter _	last,winter	True	14.5
+821	68	s_i_xb	cnp_that	The newspaper reported that the prince believed the advisor that avoided _ last winter _	last,winter	True	14.78125
+822	68	s_i_ax	cnp_that	The newspaper reported who the prince believed the advisor that avoided _ the queen _ last winter	the,queen	True	7.71875
+823	68	s_i_xx	cnp_that	The newspaper reported that the prince believed the advisor that avoided _ the queen _ last winter	the,queen	True	7.78125
+824	68	s_i_ab	cnp_wh	The newspaper reported who the prince believed the advisor who avoided _ last winter _	last,winter	True	14.75
+825	68	s_i_xb	cnp_wh	The newspaper reported that the prince believed the advisor who avoided _ last winter _	last,winter	True	14.75
+826	68	s_i_ax	cnp_wh	The newspaper reported who the prince believed the advisor who avoided _ the queen _ last winter	the,queen	True	7.734375
+827	68	s_i_xx	cnp_wh	The newspaper reported that the prince believed the advisor who avoided _ the queen _ last winter	the,queen	True	7.65625
+828	69	s_i_ab	cnp_obj	You remember what the knight with the shiny armor saw _ last night _	last,night	True	6.3359375
+829	69	s_i_xb	cnp_obj	You remember that the knight with the shiny armor saw _ last night _	last,night	True	10.34375
+830	69	s_i_ax	cnp_obj	You remember what the knight with the shiny armor saw _ the treasure _ last night	the,treasure	True	13.75
+831	69	s_i_xx	cnp_obj	You remember that the knight with the shiny armor saw _ the treasure _ last night	the,treasure	True	8.890625
+832	69	s_i_ab	cnp_that	You remember what the knight saw the dragon that guarded _ last night _	last,night	True	11.125
+833	69	s_i_xb	cnp_that	You remember that the knight saw the dragon that guarded _ last night _	last,night	True	13.125
+834	69	s_i_ax	cnp_that	You remember what the knight saw the dragon that guarded _ the treasure _ last night	the,treasure	True	1.912109375
+835	69	s_i_xx	cnp_that	You remember that the knight saw the dragon that guarded _ the treasure _ last night	the,treasure	True	1.25390625
+836	69	s_i_ab	cnp_wh	You remember what the knight saw the dragon which guarded _ last night _	last,night	True	12.5
+837	69	s_i_xb	cnp_wh	You remember that the knight saw the dragon which guarded _ last night _	last,night	True	14.625
+838	69	s_i_ax	cnp_wh	You remember what the knight saw the dragon which guarded _ the treasure _ last night	the,treasure	True	1.708984375
+839	69	s_i_xx	cnp_wh	You remember that the knight saw the dragon which guarded _ the treasure _ last night	the,treasure	True	1.228515625
+840	70	s_i_ab	cnp_obj	She told me who the banker with the fancy suit met _ recently _	recently	True	7.8125
+841	70	s_i_xb	cnp_obj	She told me that the banker with the fancy suit met _ recently _	recently	True	9.8125
+842	70	s_i_ax	cnp_obj	She told me who the banker with the fancy suit met _ the investor _ recently	the,investor	True	10.671875
+843	70	s_i_xx	cnp_obj	She told me that the banker with the fancy suit met _ the investor _ recently	the,investor	True	10.15625
+844	70	s_i_ab	cnp_that	She told me who the banker met the executive that trusted _ recently _	recently	True	10.75
+845	70	s_i_xb	cnp_that	She told me that the banker met the executive that trusted _ recently _	recently	True	10.8125
+846	70	s_i_ax	cnp_that	She told me who the banker met the executive that trusted _ the investor _ recently	the,investor	True	7.234375
+847	70	s_i_xx	cnp_that	She told me that the banker met the executive that trusted _ the investor _ recently	the,investor	True	8.234375
+848	70	s_i_ab	cnp_wh	She told me who the banker met the executive who trusted _ recently _	recently	True	11.125
+849	70	s_i_xb	cnp_wh	She told me that the banker met the executive who trusted _ recently _	recently	True	11.4375
+850	70	s_i_ax	cnp_wh	She told me who the banker met the executive who trusted _ the investor _ recently	the,investor	True	6.21875
+851	70	s_i_xx	cnp_wh	She told me that the banker met the executive who trusted _ the investor _ recently	the,investor	True	7.890625
+852	71	s_i_ab	cnp_obj	He knows who the waitress in the white dress thanked _ after the meal _	after,the,meal	True	7.953125
+853	71	s_i_xb	cnp_obj	He knows that the waitress in the white dress thanked _ after the meal _	after,the,meal	True	11.46875
+854	71	s_i_ax	cnp_obj	He knows who the waitress in the white dress thanked _ the manager _ after the meal	the,manager	True	7.8125
+855	71	s_i_xx	cnp_obj	He knows that the waitress in the white dress thanked _ the manager _ after the meal	the,manager	True	7.0625
+856	71	s_i_ab	cnp_that	He knows who the waitress thanked the customers that knew _ after the meal _	after,the,meal	True	15.609375
+857	71	s_i_xb	cnp_that	He knows that the waitress thanked the customers that knew _ after the meal _	after,the,meal	True	15.484375
+858	71	s_i_ax	cnp_that	He knows who the waitress thanked the customers that knew _ the manager _ after the meal	the,manager	True	7.796875
+859	71	s_i_xx	cnp_that	He knows that the waitress thanked the customers that knew _ the manager _ after the meal	the,manager	True	7.546875
+860	71	s_i_ab	cnp_wh	He knows who the waitress thanked the customers who knew _ after the meal _	after,the,meal	True	14.78125
+861	71	s_i_xb	cnp_wh	He knows that the waitress thanked the customers who knew _ after the meal _	after,the,meal	True	14.765625
+862	71	s_i_ax	cnp_wh	He knows who the waitress thanked the customers who knew _ the manager _ after the meal	the,manager	True	7.828125
+863	71	s_i_xx	cnp_wh	He knows that the waitress thanked the customers who knew _ the manager _ after the meal	the,manager	True	7.96875
+864	72	s_i_ab	cnp_obj	I know who the priest in the black robe congratulated _ during the ceremony _	during,the,ceremony	True	8.93359375
+865	72	s_i_xb	cnp_obj	I know that the priest in the black robe congratulated _ during the ceremony _	during,the,ceremony	True	14.01171875
+866	72	s_i_ax	cnp_obj	I know who the priest in the black robe congratulated _ the alter boy _ during the ceremony	the,alter,boy	True	14.22265625
+867	72	s_i_xx	cnp_obj	I know that the priest in the black robe congratulated _ the alter boy _ during the ceremony	the,alter,boy	True	14.248046875
+868	72	s_i_ab	cnp_that	I know who the priest congratulated the couple that admired _ during the ceremony _	during,the,ceremony	True	9.98828125
+869	72	s_i_xb	cnp_that	I know that the priest congratulated the couple that admired _ during the ceremony _	during,the,ceremony	True	9.876953125
+870	72	s_i_ax	cnp_that	I know who the priest congratulated the couple that admired _ the alter boy _ during the ceremony	the,alter,boy	True	13.234375
+871	72	s_i_xx	cnp_that	I know that the priest congratulated the couple that admired _ the alter boy _ during the ceremony	the,alter,boy	True	12.9453125
+872	72	s_i_ab	cnp_wh	I know who the priest congratulated the couple who admired _ during the ceremony _	during,the,ceremony	True	10.3203125
+873	72	s_i_xb	cnp_wh	I know that the priest congratulated the couple who admired _ during the ceremony _	during,the,ceremony	True	9.896484375
+874	72	s_i_ax	cnp_wh	I know who the priest congratulated the couple who admired _ the alter boy _ during the ceremony	the,alter,boy	True	12.96875
+875	72	s_i_xx	cnp_wh	I know that the priest congratulated the couple who admired _ the alter boy _ during the ceremony	the,alter,boy	True	12.7734375
+876	73	s_i_ab	cnp_obj	She knows who the detective from the special crimes unit reassured _ last night _	last,night	True	6.64453125
+877	73	s_i_xb	cnp_obj	She knows that the detective from the special crimes unit reassured _ last night _	last,night	True	9.3046875
+878	73	s_i_ax	cnp_obj	She knows who the detective from the special crimes unit reassured _ the boy _ last night	the,boy	True	7.84375
+879	73	s_i_xx	cnp_obj	She knows that the detective from the special crimes unit reassured _ the boy _ last night	the,boy	True	6.796875
+880	73	s_i_ab	cnp_that	She knows who the detective reassured the man that found _ last night _	last,night	True	9.9140625
+881	73	s_i_xb	cnp_that	She knows that the detective reassured the man that found _ last night _	last,night	True	9.90625
+882	73	s_i_ax	cnp_that	She knows who the detective reassured the man that found _ the boy _ last night	the,boy	True	6.6953125
+883	73	s_i_xx	cnp_that	She knows that the detective reassured the man that found _ the boy _ last night	the,boy	True	6.6015625
+884	73	s_i_ab	cnp_wh	She knows who the detective reassured the man who found _ last night _	last,night	True	10.40625
+885	73	s_i_xb	cnp_wh	She knows that the detective reassured the man who found _ last night _	last,night	True	10.9375
+886	73	s_i_ax	cnp_wh	She knows who the detective reassured the man who found _ the boy _ last night	the,boy	True	6.703125
+887	73	s_i_xx	cnp_wh	She knows that the detective reassured the man who found _ the boy _ last night	the,boy	True	6.25
+888	74	s_i_ab	cnp_obj	I know who the spy in the sunglasses informed _ about an attack _	about,an,attack	True	13.4375
+889	74	s_i_xb	cnp_obj	I know that the spy in the sunglasses informed _ about an attack _	about,an,attack	True	13.6875
+890	74	s_i_ax	cnp_obj	I know who the spy in the sunglasses informed _ the dictator _ about an attack	the,dictator	True	9.953125
+891	74	s_i_xx	cnp_obj	I know that the spy in the sunglasses informed _ the dictator _ about an attack	the,dictator	True	8.9375
+892	74	s_i_ab	cnp_that	I know who the spy informed the politician that supported _ about an attack _	about,an,attack	True	20.21875
+893	74	s_i_xb	cnp_that	I know that the spy informed the politician that supported _ about an attack _	about,an,attack	True	17.15625
+894	74	s_i_ax	cnp_that	I know who the spy informed the politician that supported _ the dictator _ about an attack	the,dictator	True	5.4609375
+895	74	s_i_xx	cnp_that	I know that the spy informed the politician that supported _ the dictator _ about an attack	the,dictator	True	5.4375
+896	74	s_i_ab	cnp_wh	I know who the spy informed the politician who supported _ about an attack _	about,an,attack	True	20.09375
+897	74	s_i_xb	cnp_wh	I know that the spy informed the politician who supported _ about an attack _	about,an,attack	True	19.125
+898	74	s_i_ax	cnp_wh	I know who the spy informed the politician who supported _ the dictator _ about an attack	the,dictator	True	5.875
+899	74	s_i_xx	cnp_wh	I know that the spy informed the politician who supported _ the dictator _ about an attack	the,dictator	True	5.390625
+900	75	s_i_ab	cnp_obj	They know what the metal grate with rust spikes blocked _ downtown _	downtown	True	10.5
+901	75	s_i_xb	cnp_obj	They know that the metal grate with rust spikes blocked _ downtown _	downtown	True	10.9375
+902	75	s_i_ax	cnp_obj	They know what the metal grate with rust spikes blocked _ the streets _ downtown	the,streets	True	8.3984375
+903	75	s_i_xx	cnp_obj	They know that the metal grate with rust spikes blocked _ the streets _ downtown	the,streets	True	8.90625
+904	75	s_i_ab	cnp_that	They know what the metal grate blocked the alley that connects _ downtown _	downtown	True	7.125
+905	75	s_i_xb	cnp_that	They know that the metal grate blocked the alley that connects _ downtown _	downtown	True	7.4375
+906	75	s_i_ax	cnp_that	They know what the metal grate blocked the alley that connects _ the streets _ downtown	the,streets	True	6.6171875
+907	75	s_i_xx	cnp_that	They know that the metal grate blocked the alley that connects _ the streets _ downtown	the,streets	True	6.61328125
+908	75	s_i_ab	cnp_wh	They know what the metal grate blocked the alley which connects _ downtown _	downtown	True	7.4375
+909	75	s_i_xb	cnp_wh	They know that the metal grate blocked the alley which connects _ downtown _	downtown	True	7.75
+910	75	s_i_ax	cnp_wh	They know what the metal grate blocked the alley which connects _ the streets _ downtown	the,streets	True	6.78125
+911	75	s_i_xx	cnp_wh	They know that the metal grate blocked the alley which connects _ the streets _ downtown	the,streets	True	6.703125
+912	76	s_i_ab	cnp_obj	He knows what the cheetah with black spots pursued _ this morning _	this,morning	True	10.65625
+913	76	s_i_xb	cnp_obj	He knows that the cheetah with black spots pursued _ this morning _	this,morning	True	12.5
+914	76	s_i_ax	cnp_obj	He knows what the cheetah with black spots pursued _ the hunters _ this morning	the,hunters	True	9.796875
+915	76	s_i_xx	cnp_obj	He knows that the cheetah with black spots pursued _ the hunters _ this morning	the,hunters	True	9.5546875
+916	76	s_i_ab	cnp_that	He knows what the cheetah pursued the gazelle that avoided _ this morning _	this,morning	True	11.5
+917	76	s_i_xb	cnp_that	He knows that the cheetah pursued the gazelle that avoided _ this morning _	this,morning	True	12.0
+918	76	s_i_ax	cnp_that	He knows what the cheetah pursued the gazelle that avoided _ the hunters _ this morning	the,hunters	True	6.34375
+919	76	s_i_xx	cnp_that	He knows that the cheetah pursued the gazelle that avoided _ the hunters _ this morning	the,hunters	True	6.359375
+920	76	s_i_ab	cnp_wh	He knows what the cheetah pursued the gazelle which avoided _ this morning _	this,morning	True	12.3125
+921	76	s_i_xb	cnp_wh	He knows that the cheetah pursued the gazelle which avoided _ this morning _	this,morning	True	12.75
+922	76	s_i_ax	cnp_wh	He knows what the cheetah pursued the gazelle which avoided _ the hunters _ this morning	the,hunters	True	6.5859375
+923	76	s_i_xx	cnp_wh	He knows that the cheetah pursued the gazelle which avoided _ the hunters _ this morning	the,hunters	True	6.6484375
+924	77	s_i_ab	cnp_obj	He said what the scientist from the small lab cured _ last year _	last,year	True	8.9296875
+925	77	s_i_xb	cnp_obj	He said that the scientist from the small lab cured _ last year _	last,year	True	9.359375
+926	77	s_i_ax	cnp_obj	He said what the scientist from the small lab cured _ cancer _ last year	cancer	True	3.59375
+927	77	s_i_xx	cnp_obj	He said that the scientist from the small lab cured _ cancer _ last year	cancer	True	3.8125
+928	77	s_i_ab	cnp_that	He said what the scientist cured the disease that caused _ last year _	last,year	True	10.17578125
+929	77	s_i_xb	cnp_that	He said that the scientist cured the disease that caused _ last year _	last,year	True	10.44921875
+930	77	s_i_ax	cnp_that	He said what the scientist cured the disease that caused _ cancer _ last year	cancer	True	4.21875
+931	77	s_i_xx	cnp_that	He said that the scientist cured the disease that caused _ cancer _ last year	cancer	True	4.34375
+932	77	s_i_ab	cnp_wh	He said what the scientist cured the disease which caused _ last year _	last,year	True	10.02734375
+933	77	s_i_xb	cnp_wh	He said that the scientist cured the disease which caused _ last year _	last,year	True	10.23828125
+934	77	s_i_ax	cnp_wh	He said what the scientist cured the disease which caused _ cancer _ last year	cancer	True	4.59375
+935	77	s_i_xx	cnp_wh	He said that the scientist cured the disease which caused _ cancer _ last year	cancer	True	4.3125

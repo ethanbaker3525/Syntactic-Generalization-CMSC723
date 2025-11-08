@@ -99,7 +99,7 @@ def batch_eval(batch_size, eval_file, output_directory):
 
   df = df.drop("r", axis=1)
   name_without_extension, _ = os.path.splitext(eval_file)
-  df.to_csv(f"{os.path.join(output_directory, name_without_extension)}_{"cpt" if cpt else "baseline"}.tsv", sep="\t")
+  df.to_csv(f"{os.path.join(output_directory, name_without_extension)}.tsv", sep="\t")
 
 def batch_eval_all():
   # batchsize changes results, especially on bfloat16.
@@ -113,8 +113,7 @@ def batch_eval_all():
 
   files = ["eval_cleft.tsv", "eval_intro_topic.tsv", "eval_nointro_topic.tsv", "eval_tough.tsv", "eval_wh.tsv"]
 
-  timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-  output_directory = f"{"cpt" if cpt else "baseline"}_evals_{timestamp}"
+  output_directory = f"output"
   if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 
