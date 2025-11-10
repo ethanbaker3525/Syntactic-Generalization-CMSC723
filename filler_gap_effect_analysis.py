@@ -65,13 +65,17 @@ def plot_filler_effects(result, output_path, title_prefix):
     # Create labels using just gap_type (since construction is shown by grouping)
     result_sorted['label'] = result_sorted['gap_type']
 
-    # Create bar plot
-    colors = ['#1f77b4' if x < 0 else '#ff7f0e' for x in result_sorted['mean_filler_effect']]
-    bars = ax.bar(range(len(result_sorted)), result_sorted['mean_filler_effect'], color=colors, alpha=0.7, edgecolor='black')
+    # Create color mapping based on gap_type
+    color_map = {'+gap': '#1f77b4', '-gap': '#ff7f0e'}
+    colors = [color_map[gap] for gap in result_sorted['gap_type']]
+    bars = ax.bar(range(len(result_sorted)), result_sorted['mean_filler_effect'], 
+                  color=colors, alpha=0.7, edgecolor='black')
+    
     
     # Set x-axis labels
     ax.set_xticks(range(len(result_sorted)))
     ax.set_xticklabels(result_sorted['label'], fontsize=10)
+
     
     # Add construction type labels as group separators
     # Find the midpoint for each construction type
@@ -94,6 +98,14 @@ def plot_filler_effects(result, output_path, title_prefix):
     ax.set_xlabel('Gap Type', fontsize=12)
     ax.set_title(f'{title_prefix}: Filler Effects by Construction and Gap Type', fontsize=14, fontweight='bold')
     ax.grid(axis='y', alpha=0.3, linestyle='--')
+    
+    # Create legend
+    from matplotlib.patches import Patch
+    legend_elements = [
+        Patch(facecolor=color_map['+gap'], edgecolor='black', alpha=0.7, label='+gap'),
+        Patch(facecolor=color_map['-gap'], edgecolor='black', alpha=0.7, label='-gap')
+    ]
+    #ax.legend(handles=legend_elements, loc='lower right', fontsize=10)
     
     # Add value labels on bars
     for bar in bars:

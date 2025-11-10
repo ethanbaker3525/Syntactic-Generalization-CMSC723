@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Directory containing the TSV files
-INPUT_DIR="eval/baseline_evals"
+INPUT_DIR="eval/baseline"
 
 # Output directory
 OUTPUT_DIR="output/results"
