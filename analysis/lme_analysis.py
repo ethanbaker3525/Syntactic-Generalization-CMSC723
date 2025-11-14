@@ -67,6 +67,7 @@ def calculate_linear_mixed_effects(df):
         )
         result["model"] = model
         result["constr"] = constr
+        result["sig"] = result["p_value"].map(lambda x: "***" if x < 0.001 else "**" if x < 0.01 else "*" if x < 0.05 else "." if x < 0.1 else "")
         results.append(result)
 
     return pd.concat(results, ignore_index=True)
@@ -97,6 +98,8 @@ def main():
     result.to_csv(output_file, sep="\t", index=False)
     print(f"\nResults saved to: {output_file}")
     print("\nLME Model Results:")
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.max_rows', None)
     print(result)
     
 
