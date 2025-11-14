@@ -1,5 +1,5 @@
 gap_type	construction_type	mean_filler_effect
-+gap	island	-1.370804398148147
-+gap	simple	-1.4429816100823043
--gap	island	2.2026427469135808
--gap	simple	1.7248103137860085
++gap	island	-1.4429816100823043
++gap	simple	-1.370804398148147
+-gap	island	1.7248103137860085
+-gap	simple	2.2026427469135808

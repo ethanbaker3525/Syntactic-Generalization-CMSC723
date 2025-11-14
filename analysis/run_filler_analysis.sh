@@ -23,7 +23,7 @@ for tsv_file in "$INPUT_DIR"/*.tsv; do
     echo "Processing: $filename"
     
     # Run the Python script
-    python filler_gap_effect_analysis.py \
+    python analysis/filler_gap_effect_analysis.py \
         --eval_file_path "$tsv_file" \
         --output_path "$OUTPUT_DIR"
     

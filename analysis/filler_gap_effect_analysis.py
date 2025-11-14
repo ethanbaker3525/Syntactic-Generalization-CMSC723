@@ -35,7 +35,7 @@ def calculate_filler_effects(df):
     filler_df = pd.DataFrame(filler_effects)
     # Identify gap type and calculate average by gap type
     filler_df['gap_type'] = filler_df['condition'].apply(lambda x: '+gap' if 'b' in x else '-gap')
-    filler_df['construction_type'] = filler_df['condition'].apply(lambda x: 'simple' if 's_i_' in x else 'island')
+    filler_df['construction_type'] = filler_df['condition'].apply(lambda x: 'island' if 's_i_' in x else 'simple') # FIXED
     gap_avg = filler_df.groupby(['gap_type', 'construction_type'])['filler_effect'].mean().reset_index()
     gap_avg.columns = ['gap_type', 'construction_type', 'mean_filler_effect']
     return gap_avg
