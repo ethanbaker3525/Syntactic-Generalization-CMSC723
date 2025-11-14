@@ -7,30 +7,6 @@ import polars as pl
 from tqdm import tqdm
 
 # https://github.com/umd-psycholing/lm-syntactic-generalization/blob/main/analysis.py
-# WIP
-
-
-
-def modify_base_dict(sentence_key, stim_set, base_dict):
-    sent_copy = base_dict.copy()
-    # replace 0 with -1 for island
-    if sentence_key == "s_ab":
-        sent_copy['wh'] = 1
-        sent_copy['gap'] = 1
-        sent_copy['surprisal'] = stim_set[sentence_key]['critical_surprisal']
-    elif sentence_key == "s_xb":
-        sent_copy['wh'] = -1
-        sent_copy['gap'] = 1
-        sent_copy['surprisal'] = stim_set[sentence_key]['critical_surprisal']
-    elif sentence_key == "s_ax":
-        sent_copy['wh'] = 1
-        sent_copy['gap'] = -1
-        sent_copy['surprisal'] = stim_set[sentence_key]['critical_surprisal']
-    else: # s_xx
-        sent_copy['wh'] = -1
-        sent_copy['gap'] = -1
-        sent_copy['surprisal'] = stim_set[sentence_key]['critical_surprisal']
-    return sent_copy
 
 def load_eval_data(eval_path):
     eval_path = Path(eval_path)
