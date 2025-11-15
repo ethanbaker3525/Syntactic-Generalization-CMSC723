@@ -109,7 +109,7 @@ def batch_eval_all():
   #
   # https://github.com/huggingface/transformers/issues/25921
   # https://github.com/huggingface/transformers/issues/25420#issuecomment-1775317535
-  batch_size = 20
+  batch_size = 32
 
   files = ["eval_cleft.tsv", "eval_intro_topic.tsv", "eval_nointro_topic.tsv", "eval_tough.tsv", "eval_wh.tsv"]
 
