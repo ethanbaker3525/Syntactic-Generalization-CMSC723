@@ -1,0 +1,1297 @@
+	group	condition	tokens	criticalwords	grammaticality	surprisal
+0	0	s_ab	these snacks, Mary bought _ yesterday _	yesterday	True	8.4375
+1	0	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+2	0	s_ax	these snacks, Mary bought _ the cheese _ yesterday	the,cheese	False	14.1015625
+3	0	s_xx	Mary bought _ the cheese _ yesterday	the,cheese	True	14.1328125
+4	0	s_i_ab	these snacks, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+5	0	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+6	0	s_i_ax	these snacks, Mary bought the bag that carried _ the cheese _ yesterday	the,cheese	False	13.625
+7	0	s_i_xx	Mary bought the bag that carried _ the cheese _ yesterday	the,cheese	True	14.4765625
+8	1	s_ab	these snacks, Mary bought _ recently _	recently	True	9.75
+9	1	s_xb	Mary bought _ recently _	recently	False	11.9375
+10	1	s_ax	these snacks, Mary bought _ the cheese _ recently	the,cheese	False	14.1015625
+11	1	s_xx	Mary bought _ the cheese _ recently	the,cheese	True	14.1328125
+12	1	s_i_ab	these snacks, Mary bought the bag that carried _ recently _	recently	False	11.875
+13	1	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+14	1	s_i_ax	these snacks, Mary bought the bag that carried _ the cheese _ recently	the,cheese	False	13.625
+15	1	s_i_xx	Mary bought the bag that carried _ the cheese _ recently	the,cheese	True	14.4765625
+16	2	s_ab	these snacks, Mary bought _ earlier _	earlier	True	8.375
+17	2	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+18	2	s_ax	these snacks, Mary bought _ the cheese _ earlier	the,cheese	False	14.1015625
+19	2	s_xx	Mary bought _ the cheese _ earlier	the,cheese	True	14.1328125
+20	2	s_i_ab	these snacks, Mary bought the bag that carried _ earlier _	earlier	False	10.0
+21	2	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+22	2	s_i_ax	these snacks, Mary bought the bag that carried _ the cheese _ earlier	the,cheese	False	13.625
+23	2	s_i_xx	Mary bought the bag that carried _ the cheese _ earlier	the,cheese	True	14.4765625
+24	3	s_ab	these snacks, Mary bought _ yesterday _	yesterday	True	8.4375
+25	3	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+26	3	s_ax	these snacks, Mary bought _ your hat _ yesterday	your,hat	False	19.359375
+27	3	s_xx	Mary bought _ your hat _ yesterday	your,hat	True	19.265625
+28	3	s_i_ab	these snacks, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+29	3	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+30	3	s_i_ax	these snacks, Mary bought the bag that carried _ your hat _ yesterday	your,hat	False	19.0625
+31	3	s_i_xx	Mary bought the bag that carried _ your hat _ yesterday	your,hat	True	18.90625
+32	4	s_ab	these snacks, Mary bought _ recently _	recently	True	9.75
+33	4	s_xb	Mary bought _ recently _	recently	False	11.9375
+34	4	s_ax	these snacks, Mary bought _ your hat _ recently	your,hat	False	19.359375
+35	4	s_xx	Mary bought _ your hat _ recently	your,hat	True	19.265625
+36	4	s_i_ab	these snacks, Mary bought the bag that carried _ recently _	recently	False	11.875
+37	4	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+38	4	s_i_ax	these snacks, Mary bought the bag that carried _ your hat _ recently	your,hat	False	19.0625
+39	4	s_i_xx	Mary bought the bag that carried _ your hat _ recently	your,hat	True	18.90625
+40	5	s_ab	these snacks, Mary bought _ earlier _	earlier	True	8.375
+41	5	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+42	5	s_ax	these snacks, Mary bought _ your hat _ earlier	your,hat	False	19.359375
+43	5	s_xx	Mary bought _ your hat _ earlier	your,hat	True	19.265625
+44	5	s_i_ab	these snacks, Mary bought the bag that carried _ earlier _	earlier	False	10.0
+45	5	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+46	5	s_i_ax	these snacks, Mary bought the bag that carried _ your hat _ earlier	your,hat	False	19.0625
+47	5	s_i_xx	Mary bought the bag that carried _ your hat _ earlier	your,hat	True	18.90625
+48	6	s_ab	these snacks, Mary bought _ yesterday _	yesterday	True	8.4375
+49	6	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+50	6	s_ax	these snacks, Mary bought _ our keys _ yesterday	our,keys	False	23.0625
+51	6	s_xx	Mary bought _ our keys _ yesterday	our,keys	True	20.9375
+52	6	s_i_ab	these snacks, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+53	6	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+54	6	s_i_ax	these snacks, Mary bought the bag that carried _ our keys _ yesterday	our,keys	False	21.125
+55	6	s_i_xx	Mary bought the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+56	7	s_ab	these snacks, Mary bought _ recently _	recently	True	9.75
+57	7	s_xb	Mary bought _ recently _	recently	False	11.9375
+58	7	s_ax	these snacks, Mary bought _ our keys _ recently	our,keys	False	23.0625
+59	7	s_xx	Mary bought _ our keys _ recently	our,keys	True	20.9375
+60	7	s_i_ab	these snacks, Mary bought the bag that carried _ recently _	recently	False	11.875
+61	7	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+62	7	s_i_ax	these snacks, Mary bought the bag that carried _ our keys _ recently	our,keys	False	21.125
+63	7	s_i_xx	Mary bought the bag that carried _ our keys _ recently	our,keys	True	20.34375
+64	8	s_ab	these snacks, Mary bought _ earlier _	earlier	True	8.375
+65	8	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+66	8	s_ax	these snacks, Mary bought _ our keys _ earlier	our,keys	False	23.0625
+67	8	s_xx	Mary bought _ our keys _ earlier	our,keys	True	20.9375
+68	8	s_i_ab	these snacks, Mary bought the bag that carried _ earlier _	earlier	False	10.0
+69	8	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+70	8	s_i_ax	these snacks, Mary bought the bag that carried _ our keys _ earlier	our,keys	False	21.125
+71	8	s_i_xx	Mary bought the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+72	9	s_ab	these snacks, Mary saw _ yesterday _	yesterday	True	8.6875
+73	9	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+74	9	s_ax	these snacks, Mary saw _ the cheese _ yesterday	the,cheese	False	11.7734375
+75	9	s_xx	Mary saw _ the cheese _ yesterday	the,cheese	True	11.9765625
+76	9	s_i_ab	these snacks, Mary saw the bag that carried _ yesterday _	yesterday	False	9.1875
+77	9	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+78	9	s_i_ax	these snacks, Mary saw the bag that carried _ the cheese _ yesterday	the,cheese	False	13.3671875
+79	9	s_i_xx	Mary saw the bag that carried _ the cheese _ yesterday	the,cheese	True	14.2890625
+80	10	s_ab	these snacks, Mary saw _ recently _	recently	True	10.25
+81	10	s_xb	Mary saw _ recently _	recently	False	11.5625
+82	10	s_ax	these snacks, Mary saw _ the cheese _ recently	the,cheese	False	11.7734375
+83	10	s_xx	Mary saw _ the cheese _ recently	the,cheese	True	11.9765625
+84	10	s_i_ab	these snacks, Mary saw the bag that carried _ recently _	recently	False	12.0
+85	10	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+86	10	s_i_ax	these snacks, Mary saw the bag that carried _ the cheese _ recently	the,cheese	False	13.3671875
+87	10	s_i_xx	Mary saw the bag that carried _ the cheese _ recently	the,cheese	True	14.2890625
+88	11	s_ab	these snacks, Mary saw _ earlier _	earlier	True	9.125
+89	11	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+90	11	s_ax	these snacks, Mary saw _ the cheese _ earlier	the,cheese	False	11.7734375
+91	11	s_xx	Mary saw _ the cheese _ earlier	the,cheese	True	11.9765625
+92	11	s_i_ab	these snacks, Mary saw the bag that carried _ earlier _	earlier	False	10.0625
+93	11	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+94	11	s_i_ax	these snacks, Mary saw the bag that carried _ the cheese _ earlier	the,cheese	False	13.3671875
+95	11	s_i_xx	Mary saw the bag that carried _ the cheese _ earlier	the,cheese	True	14.2890625
+96	12	s_ab	these snacks, Mary saw _ yesterday _	yesterday	True	8.6875
+97	12	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+98	12	s_ax	these snacks, Mary saw _ your hat _ yesterday	your,hat	False	16.84375
+99	12	s_xx	Mary saw _ your hat _ yesterday	your,hat	True	16.59375
+100	12	s_i_ab	these snacks, Mary saw the bag that carried _ yesterday _	yesterday	False	9.1875
+101	12	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+102	12	s_i_ax	these snacks, Mary saw the bag that carried _ your hat _ yesterday	your,hat	False	19.125
+103	12	s_i_xx	Mary saw the bag that carried _ your hat _ yesterday	your,hat	True	18.84375
+104	13	s_ab	these snacks, Mary saw _ recently _	recently	True	10.25
+105	13	s_xb	Mary saw _ recently _	recently	False	11.5625
+106	13	s_ax	these snacks, Mary saw _ your hat _ recently	your,hat	False	16.84375
+107	13	s_xx	Mary saw _ your hat _ recently	your,hat	True	16.59375
+108	13	s_i_ab	these snacks, Mary saw the bag that carried _ recently _	recently	False	12.0
+109	13	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+110	13	s_i_ax	these snacks, Mary saw the bag that carried _ your hat _ recently	your,hat	False	19.125
+111	13	s_i_xx	Mary saw the bag that carried _ your hat _ recently	your,hat	True	18.84375
+112	14	s_ab	these snacks, Mary saw _ earlier _	earlier	True	9.125
+113	14	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+114	14	s_ax	these snacks, Mary saw _ your hat _ earlier	your,hat	False	16.84375
+115	14	s_xx	Mary saw _ your hat _ earlier	your,hat	True	16.59375
+116	14	s_i_ab	these snacks, Mary saw the bag that carried _ earlier _	earlier	False	10.0625
+117	14	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+118	14	s_i_ax	these snacks, Mary saw the bag that carried _ your hat _ earlier	your,hat	False	19.125
+119	14	s_i_xx	Mary saw the bag that carried _ your hat _ earlier	your,hat	True	18.84375
+120	15	s_ab	these snacks, Mary saw _ yesterday _	yesterday	True	8.6875
+121	15	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+122	15	s_ax	these snacks, Mary saw _ our keys _ yesterday	our,keys	False	21.84375
+123	15	s_xx	Mary saw _ our keys _ yesterday	our,keys	True	19.84375
+124	15	s_i_ab	these snacks, Mary saw the bag that carried _ yesterday _	yesterday	False	9.1875
+125	15	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+126	15	s_i_ax	these snacks, Mary saw the bag that carried _ our keys _ yesterday	our,keys	False	21.4375
+127	15	s_i_xx	Mary saw the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+128	16	s_ab	these snacks, Mary saw _ recently _	recently	True	10.25
+129	16	s_xb	Mary saw _ recently _	recently	False	11.5625
+130	16	s_ax	these snacks, Mary saw _ our keys _ recently	our,keys	False	21.84375
+131	16	s_xx	Mary saw _ our keys _ recently	our,keys	True	19.84375
+132	16	s_i_ab	these snacks, Mary saw the bag that carried _ recently _	recently	False	12.0
+133	16	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+134	16	s_i_ax	these snacks, Mary saw the bag that carried _ our keys _ recently	our,keys	False	21.4375
+135	16	s_i_xx	Mary saw the bag that carried _ our keys _ recently	our,keys	True	20.34375
+136	17	s_ab	these snacks, Mary saw _ earlier _	earlier	True	9.125
+137	17	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+138	17	s_ax	these snacks, Mary saw _ our keys _ earlier	our,keys	False	21.84375
+139	17	s_xx	Mary saw _ our keys _ earlier	our,keys	True	19.84375
+140	17	s_i_ab	these snacks, Mary saw the bag that carried _ earlier _	earlier	False	10.0625
+141	17	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+142	17	s_i_ax	these snacks, Mary saw the bag that carried _ our keys _ earlier	our,keys	False	21.4375
+143	17	s_i_xx	Mary saw the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+144	18	s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True	8.5625
+145	18	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+146	18	s_ax	these snacks, Mary forgot _ the cheese _ yesterday	the,cheese	False	12.546875
+147	18	s_xx	Mary forgot _ the cheese _ yesterday	the,cheese	True	13.21484375
+148	18	s_i_ab	these snacks, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.1875
+149	18	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+150	18	s_i_ax	these snacks, Mary forgot the bag that carried _ the cheese _ yesterday	the,cheese	False	13.4375
+151	18	s_i_xx	Mary forgot the bag that carried _ the cheese _ yesterday	the,cheese	True	14.140625
+152	19	s_ab	these snacks, Mary forgot _ recently _	recently	True	10.6875
+153	19	s_xb	Mary forgot _ recently _	recently	False	11.8125
+154	19	s_ax	these snacks, Mary forgot _ the cheese _ recently	the,cheese	False	12.546875
+155	19	s_xx	Mary forgot _ the cheese _ recently	the,cheese	True	13.21484375
+156	19	s_i_ab	these snacks, Mary forgot the bag that carried _ recently _	recently	False	11.875
+157	19	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+158	19	s_i_ax	these snacks, Mary forgot the bag that carried _ the cheese _ recently	the,cheese	False	13.4375
+159	19	s_i_xx	Mary forgot the bag that carried _ the cheese _ recently	the,cheese	True	14.140625
+160	20	s_ab	these snacks, Mary forgot _ earlier _	earlier	True	9.375
+161	20	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+162	20	s_ax	these snacks, Mary forgot _ the cheese _ earlier	the,cheese	False	12.546875
+163	20	s_xx	Mary forgot _ the cheese _ earlier	the,cheese	True	13.21484375
+164	20	s_i_ab	these snacks, Mary forgot the bag that carried _ earlier _	earlier	False	9.9375
+165	20	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+166	20	s_i_ax	these snacks, Mary forgot the bag that carried _ the cheese _ earlier	the,cheese	False	13.4375
+167	20	s_i_xx	Mary forgot the bag that carried _ the cheese _ earlier	the,cheese	True	14.140625
+168	21	s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True	8.5625
+169	21	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+170	21	s_ax	these snacks, Mary forgot _ your hat _ yesterday	your,hat	False	18.734375
+171	21	s_xx	Mary forgot _ your hat _ yesterday	your,hat	True	18.84375
+172	21	s_i_ab	these snacks, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.1875
+173	21	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+174	21	s_i_ax	these snacks, Mary forgot the bag that carried _ your hat _ yesterday	your,hat	False	19.5
+175	21	s_i_xx	Mary forgot the bag that carried _ your hat _ yesterday	your,hat	True	18.953125
+176	22	s_ab	these snacks, Mary forgot _ recently _	recently	True	10.6875
+177	22	s_xb	Mary forgot _ recently _	recently	False	11.8125
+178	22	s_ax	these snacks, Mary forgot _ your hat _ recently	your,hat	False	18.734375
+179	22	s_xx	Mary forgot _ your hat _ recently	your,hat	True	18.84375
+180	22	s_i_ab	these snacks, Mary forgot the bag that carried _ recently _	recently	False	11.875
+181	22	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+182	22	s_i_ax	these snacks, Mary forgot the bag that carried _ your hat _ recently	your,hat	False	19.5
+183	22	s_i_xx	Mary forgot the bag that carried _ your hat _ recently	your,hat	True	18.953125
+184	23	s_ab	these snacks, Mary forgot _ earlier _	earlier	True	9.375
+185	23	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+186	23	s_ax	these snacks, Mary forgot _ your hat _ earlier	your,hat	False	18.734375
+187	23	s_xx	Mary forgot _ your hat _ earlier	your,hat	True	18.84375
+188	23	s_i_ab	these snacks, Mary forgot the bag that carried _ earlier _	earlier	False	9.9375
+189	23	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+190	23	s_i_ax	these snacks, Mary forgot the bag that carried _ your hat _ earlier	your,hat	False	19.5
+191	23	s_i_xx	Mary forgot the bag that carried _ your hat _ earlier	your,hat	True	18.953125
+192	24	s_ab	these snacks, Mary forgot _ yesterday _	yesterday	True	8.5625
+193	24	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+194	24	s_ax	these snacks, Mary forgot _ our keys _ yesterday	our,keys	False	23.5
+195	24	s_xx	Mary forgot _ our keys _ yesterday	our,keys	True	22.28125
+196	24	s_i_ab	these snacks, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.1875
+197	24	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+198	24	s_i_ax	these snacks, Mary forgot the bag that carried _ our keys _ yesterday	our,keys	False	21.5
+199	24	s_i_xx	Mary forgot the bag that carried _ our keys _ yesterday	our,keys	True	20.78125
+200	25	s_ab	these snacks, Mary forgot _ recently _	recently	True	10.6875
+201	25	s_xb	Mary forgot _ recently _	recently	False	11.8125
+202	25	s_ax	these snacks, Mary forgot _ our keys _ recently	our,keys	False	23.5
+203	25	s_xx	Mary forgot _ our keys _ recently	our,keys	True	22.28125
+204	25	s_i_ab	these snacks, Mary forgot the bag that carried _ recently _	recently	False	11.875
+205	25	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+206	25	s_i_ax	these snacks, Mary forgot the bag that carried _ our keys _ recently	our,keys	False	21.5
+207	25	s_i_xx	Mary forgot the bag that carried _ our keys _ recently	our,keys	True	20.78125
+208	26	s_ab	these snacks, Mary forgot _ earlier _	earlier	True	9.375
+209	26	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+210	26	s_ax	these snacks, Mary forgot _ our keys _ earlier	our,keys	False	23.5
+211	26	s_xx	Mary forgot _ our keys _ earlier	our,keys	True	22.28125
+212	26	s_i_ab	these snacks, Mary forgot the bag that carried _ earlier _	earlier	False	9.9375
+213	26	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+214	26	s_i_ax	these snacks, Mary forgot the bag that carried _ our keys _ earlier	our,keys	False	21.5
+215	26	s_i_xx	Mary forgot the bag that carried _ our keys _ earlier	our,keys	True	20.78125
+216	27	s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True	8.5
+217	27	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+218	27	s_ax	these snacks, Jennifer bought _ the cheese _ yesterday	the,cheese	False	14.1015625
+219	27	s_xx	Jennifer bought _ the cheese _ yesterday	the,cheese	True	14.01171875
+220	27	s_i_ab	these snacks, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.1875
+221	27	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+222	27	s_i_ax	these snacks, Jennifer bought the bag that carried _ the cheese _ yesterday	the,cheese	False	13.765625
+223	27	s_i_xx	Jennifer bought the bag that carried _ the cheese _ yesterday	the,cheese	True	14.59375
+224	28	s_ab	these snacks, Jennifer bought _ recently _	recently	True	9.8125
+225	28	s_xb	Jennifer bought _ recently _	recently	False	12.0
+226	28	s_ax	these snacks, Jennifer bought _ the cheese _ recently	the,cheese	False	14.1015625
+227	28	s_xx	Jennifer bought _ the cheese _ recently	the,cheese	True	14.01171875
+228	28	s_i_ab	these snacks, Jennifer bought the bag that carried _ recently _	recently	False	11.875
+229	28	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+230	28	s_i_ax	these snacks, Jennifer bought the bag that carried _ the cheese _ recently	the,cheese	False	13.765625
+231	28	s_i_xx	Jennifer bought the bag that carried _ the cheese _ recently	the,cheese	True	14.59375
+232	29	s_ab	these snacks, Jennifer bought _ earlier _	earlier	True	8.5
+233	29	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+234	29	s_ax	these snacks, Jennifer bought _ the cheese _ earlier	the,cheese	False	14.1015625
+235	29	s_xx	Jennifer bought _ the cheese _ earlier	the,cheese	True	14.01171875
+236	29	s_i_ab	these snacks, Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+237	29	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+238	29	s_i_ax	these snacks, Jennifer bought the bag that carried _ the cheese _ earlier	the,cheese	False	13.765625
+239	29	s_i_xx	Jennifer bought the bag that carried _ the cheese _ earlier	the,cheese	True	14.59375
+240	30	s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True	8.5
+241	30	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+242	30	s_ax	these snacks, Jennifer bought _ your hat _ yesterday	your,hat	False	19.421875
+243	30	s_xx	Jennifer bought _ your hat _ yesterday	your,hat	True	19.328125
+244	30	s_i_ab	these snacks, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.1875
+245	30	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+246	30	s_i_ax	these snacks, Jennifer bought the bag that carried _ your hat _ yesterday	your,hat	False	19.078125
+247	30	s_i_xx	Jennifer bought the bag that carried _ your hat _ yesterday	your,hat	True	19.03125
+248	31	s_ab	these snacks, Jennifer bought _ recently _	recently	True	9.8125
+249	31	s_xb	Jennifer bought _ recently _	recently	False	12.0
+250	31	s_ax	these snacks, Jennifer bought _ your hat _ recently	your,hat	False	19.421875
+251	31	s_xx	Jennifer bought _ your hat _ recently	your,hat	True	19.328125
+252	31	s_i_ab	these snacks, Jennifer bought the bag that carried _ recently _	recently	False	11.875
+253	31	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+254	31	s_i_ax	these snacks, Jennifer bought the bag that carried _ your hat _ recently	your,hat	False	19.078125
+255	31	s_i_xx	Jennifer bought the bag that carried _ your hat _ recently	your,hat	True	19.03125
+256	32	s_ab	these snacks, Jennifer bought _ earlier _	earlier	True	8.5
+257	32	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+258	32	s_ax	these snacks, Jennifer bought _ your hat _ earlier	your,hat	False	19.421875
+259	32	s_xx	Jennifer bought _ your hat _ earlier	your,hat	True	19.328125
+260	32	s_i_ab	these snacks, Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+261	32	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+262	32	s_i_ax	these snacks, Jennifer bought the bag that carried _ your hat _ earlier	your,hat	False	19.078125
+263	32	s_i_xx	Jennifer bought the bag that carried _ your hat _ earlier	your,hat	True	19.03125
+264	33	s_ab	these snacks, Jennifer bought _ yesterday _	yesterday	True	8.5
+265	33	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+266	33	s_ax	these snacks, Jennifer bought _ our keys _ yesterday	our,keys	False	22.875
+267	33	s_xx	Jennifer bought _ our keys _ yesterday	our,keys	True	20.8125
+268	33	s_i_ab	these snacks, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.1875
+269	33	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+270	33	s_i_ax	these snacks, Jennifer bought the bag that carried _ our keys _ yesterday	our,keys	False	20.96875
+271	33	s_i_xx	Jennifer bought the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+272	34	s_ab	these snacks, Jennifer bought _ recently _	recently	True	9.8125
+273	34	s_xb	Jennifer bought _ recently _	recently	False	12.0
+274	34	s_ax	these snacks, Jennifer bought _ our keys _ recently	our,keys	False	22.875
+275	34	s_xx	Jennifer bought _ our keys _ recently	our,keys	True	20.8125
+276	34	s_i_ab	these snacks, Jennifer bought the bag that carried _ recently _	recently	False	11.875
+277	34	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+278	34	s_i_ax	these snacks, Jennifer bought the bag that carried _ our keys _ recently	our,keys	False	20.96875
+279	34	s_i_xx	Jennifer bought the bag that carried _ our keys _ recently	our,keys	True	20.34375
+280	35	s_ab	these snacks, Jennifer bought _ earlier _	earlier	True	8.5
+281	35	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+282	35	s_ax	these snacks, Jennifer bought _ our keys _ earlier	our,keys	False	22.875
+283	35	s_xx	Jennifer bought _ our keys _ earlier	our,keys	True	20.8125
+284	35	s_i_ab	these snacks, Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+285	35	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+286	35	s_i_ax	these snacks, Jennifer bought the bag that carried _ our keys _ earlier	our,keys	False	20.96875
+287	35	s_i_xx	Jennifer bought the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+288	36	s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True	8.6875
+289	36	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+290	36	s_ax	these snacks, Jennifer saw _ the cheese _ yesterday	the,cheese	False	12.171875
+291	36	s_xx	Jennifer saw _ the cheese _ yesterday	the,cheese	True	12.41015625
+292	36	s_i_ab	these snacks, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+293	36	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+294	36	s_i_ax	these snacks, Jennifer saw the bag that carried _ the cheese _ yesterday	the,cheese	False	13.375
+295	36	s_i_xx	Jennifer saw the bag that carried _ the cheese _ yesterday	the,cheese	True	14.40625
+296	37	s_ab	these snacks, Jennifer saw _ recently _	recently	True	10.25
+297	37	s_xb	Jennifer saw _ recently _	recently	False	11.625
+298	37	s_ax	these snacks, Jennifer saw _ the cheese _ recently	the,cheese	False	12.171875
+299	37	s_xx	Jennifer saw _ the cheese _ recently	the,cheese	True	12.41015625
+300	37	s_i_ab	these snacks, Jennifer saw the bag that carried _ recently _	recently	False	12.0
+301	37	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+302	37	s_i_ax	these snacks, Jennifer saw the bag that carried _ the cheese _ recently	the,cheese	False	13.375
+303	37	s_i_xx	Jennifer saw the bag that carried _ the cheese _ recently	the,cheese	True	14.40625
+304	38	s_ab	these snacks, Jennifer saw _ earlier _	earlier	True	9.125
+305	38	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+306	38	s_ax	these snacks, Jennifer saw _ the cheese _ earlier	the,cheese	False	12.171875
+307	38	s_xx	Jennifer saw _ the cheese _ earlier	the,cheese	True	12.41015625
+308	38	s_i_ab	these snacks, Jennifer saw the bag that carried _ earlier _	earlier	False	10.0
+309	38	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+310	38	s_i_ax	these snacks, Jennifer saw the bag that carried _ the cheese _ earlier	the,cheese	False	13.375
+311	38	s_i_xx	Jennifer saw the bag that carried _ the cheese _ earlier	the,cheese	True	14.40625
+312	39	s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True	8.6875
+313	39	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+314	39	s_ax	these snacks, Jennifer saw _ your hat _ yesterday	your,hat	False	17.296875
+315	39	s_xx	Jennifer saw _ your hat _ yesterday	your,hat	True	17.09375
+316	39	s_i_ab	these snacks, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+317	39	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+318	39	s_i_ax	these snacks, Jennifer saw the bag that carried _ your hat _ yesterday	your,hat	False	19.25
+319	39	s_i_xx	Jennifer saw the bag that carried _ your hat _ yesterday	your,hat	True	18.78125
+320	40	s_ab	these snacks, Jennifer saw _ recently _	recently	True	10.25
+321	40	s_xb	Jennifer saw _ recently _	recently	False	11.625
+322	40	s_ax	these snacks, Jennifer saw _ your hat _ recently	your,hat	False	17.296875
+323	40	s_xx	Jennifer saw _ your hat _ recently	your,hat	True	17.09375
+324	40	s_i_ab	these snacks, Jennifer saw the bag that carried _ recently _	recently	False	12.0
+325	40	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+326	40	s_i_ax	these snacks, Jennifer saw the bag that carried _ your hat _ recently	your,hat	False	19.25
+327	40	s_i_xx	Jennifer saw the bag that carried _ your hat _ recently	your,hat	True	18.78125
+328	41	s_ab	these snacks, Jennifer saw _ earlier _	earlier	True	9.125
+329	41	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+330	41	s_ax	these snacks, Jennifer saw _ your hat _ earlier	your,hat	False	17.296875
+331	41	s_xx	Jennifer saw _ your hat _ earlier	your,hat	True	17.09375
+332	41	s_i_ab	these snacks, Jennifer saw the bag that carried _ earlier _	earlier	False	10.0
+333	41	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+334	41	s_i_ax	these snacks, Jennifer saw the bag that carried _ your hat _ earlier	your,hat	False	19.25
+335	41	s_i_xx	Jennifer saw the bag that carried _ your hat _ earlier	your,hat	True	18.78125
+336	42	s_ab	these snacks, Jennifer saw _ yesterday _	yesterday	True	8.6875
+337	42	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+338	42	s_ax	these snacks, Jennifer saw _ our keys _ yesterday	our,keys	False	21.65625
+339	42	s_xx	Jennifer saw _ our keys _ yesterday	our,keys	True	19.71875
+340	42	s_i_ab	these snacks, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+341	42	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+342	42	s_i_ax	these snacks, Jennifer saw the bag that carried _ our keys _ yesterday	our,keys	False	21.375
+343	42	s_i_xx	Jennifer saw the bag that carried _ our keys _ yesterday	our,keys	True	20.46875
+344	43	s_ab	these snacks, Jennifer saw _ recently _	recently	True	10.25
+345	43	s_xb	Jennifer saw _ recently _	recently	False	11.625
+346	43	s_ax	these snacks, Jennifer saw _ our keys _ recently	our,keys	False	21.65625
+347	43	s_xx	Jennifer saw _ our keys _ recently	our,keys	True	19.71875
+348	43	s_i_ab	these snacks, Jennifer saw the bag that carried _ recently _	recently	False	12.0
+349	43	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+350	43	s_i_ax	these snacks, Jennifer saw the bag that carried _ our keys _ recently	our,keys	False	21.375
+351	43	s_i_xx	Jennifer saw the bag that carried _ our keys _ recently	our,keys	True	20.46875
+352	44	s_ab	these snacks, Jennifer saw _ earlier _	earlier	True	9.125
+353	44	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+354	44	s_ax	these snacks, Jennifer saw _ our keys _ earlier	our,keys	False	21.65625
+355	44	s_xx	Jennifer saw _ our keys _ earlier	our,keys	True	19.71875
+356	44	s_i_ab	these snacks, Jennifer saw the bag that carried _ earlier _	earlier	False	10.0
+357	44	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+358	44	s_i_ax	these snacks, Jennifer saw the bag that carried _ our keys _ earlier	our,keys	False	21.375
+359	44	s_i_xx	Jennifer saw the bag that carried _ our keys _ earlier	our,keys	True	20.46875
+360	45	s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True	8.5625
+361	45	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+362	45	s_ax	these snacks, Jennifer forgot _ the cheese _ yesterday	the,cheese	False	12.625
+363	45	s_xx	Jennifer forgot _ the cheese _ yesterday	the,cheese	True	13.296875
+364	45	s_i_ab	these snacks, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.1875
+365	45	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+366	45	s_i_ax	these snacks, Jennifer forgot the bag that carried _ the cheese _ yesterday	the,cheese	False	13.4375
+367	45	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ yesterday	the,cheese	True	14.203125
+368	46	s_ab	these snacks, Jennifer forgot _ recently _	recently	True	10.5625
+369	46	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+370	46	s_ax	these snacks, Jennifer forgot _ the cheese _ recently	the,cheese	False	12.625
+371	46	s_xx	Jennifer forgot _ the cheese _ recently	the,cheese	True	13.296875
+372	46	s_i_ab	these snacks, Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+373	46	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+374	46	s_i_ax	these snacks, Jennifer forgot the bag that carried _ the cheese _ recently	the,cheese	False	13.4375
+375	46	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ recently	the,cheese	True	14.203125
+376	47	s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True	9.25
+377	47	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+378	47	s_ax	these snacks, Jennifer forgot _ the cheese _ earlier	the,cheese	False	12.625
+379	47	s_xx	Jennifer forgot _ the cheese _ earlier	the,cheese	True	13.296875
+380	47	s_i_ab	these snacks, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+381	47	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+382	47	s_i_ax	these snacks, Jennifer forgot the bag that carried _ the cheese _ earlier	the,cheese	False	13.4375
+383	47	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ earlier	the,cheese	True	14.203125
+384	48	s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True	8.5625
+385	48	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+386	48	s_ax	these snacks, Jennifer forgot _ your hat _ yesterday	your,hat	False	19.0
+387	48	s_xx	Jennifer forgot _ your hat _ yesterday	your,hat	True	19.359375
+388	48	s_i_ab	these snacks, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.1875
+389	48	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+390	48	s_i_ax	these snacks, Jennifer forgot the bag that carried _ your hat _ yesterday	your,hat	False	19.375
+391	48	s_i_xx	Jennifer forgot the bag that carried _ your hat _ yesterday	your,hat	True	19.078125
+392	49	s_ab	these snacks, Jennifer forgot _ recently _	recently	True	10.5625
+393	49	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+394	49	s_ax	these snacks, Jennifer forgot _ your hat _ recently	your,hat	False	19.0
+395	49	s_xx	Jennifer forgot _ your hat _ recently	your,hat	True	19.359375
+396	49	s_i_ab	these snacks, Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+397	49	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+398	49	s_i_ax	these snacks, Jennifer forgot the bag that carried _ your hat _ recently	your,hat	False	19.375
+399	49	s_i_xx	Jennifer forgot the bag that carried _ your hat _ recently	your,hat	True	19.078125
+400	50	s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True	9.25
+401	50	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+402	50	s_ax	these snacks, Jennifer forgot _ your hat _ earlier	your,hat	False	19.0
+403	50	s_xx	Jennifer forgot _ your hat _ earlier	your,hat	True	19.359375
+404	50	s_i_ab	these snacks, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+405	50	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+406	50	s_i_ax	these snacks, Jennifer forgot the bag that carried _ your hat _ earlier	your,hat	False	19.375
+407	50	s_i_xx	Jennifer forgot the bag that carried _ your hat _ earlier	your,hat	True	19.078125
+408	51	s_ab	these snacks, Jennifer forgot _ yesterday _	yesterday	True	8.5625
+409	51	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+410	51	s_ax	these snacks, Jennifer forgot _ our keys _ yesterday	our,keys	False	23.5
+411	51	s_xx	Jennifer forgot _ our keys _ yesterday	our,keys	True	22.28125
+412	51	s_i_ab	these snacks, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.1875
+413	51	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+414	51	s_i_ax	these snacks, Jennifer forgot the bag that carried _ our keys _ yesterday	our,keys	False	21.375
+415	51	s_i_xx	Jennifer forgot the bag that carried _ our keys _ yesterday	our,keys	True	20.78125
+416	52	s_ab	these snacks, Jennifer forgot _ recently _	recently	True	10.5625
+417	52	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+418	52	s_ax	these snacks, Jennifer forgot _ our keys _ recently	our,keys	False	23.5
+419	52	s_xx	Jennifer forgot _ our keys _ recently	our,keys	True	22.28125
+420	52	s_i_ab	these snacks, Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+421	52	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+422	52	s_i_ax	these snacks, Jennifer forgot the bag that carried _ our keys _ recently	our,keys	False	21.375
+423	52	s_i_xx	Jennifer forgot the bag that carried _ our keys _ recently	our,keys	True	20.78125
+424	53	s_ab	these snacks, Jennifer forgot _ earlier _	earlier	True	9.25
+425	53	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+426	53	s_ax	these snacks, Jennifer forgot _ our keys _ earlier	our,keys	False	23.5
+427	53	s_xx	Jennifer forgot _ our keys _ earlier	our,keys	True	22.28125
+428	53	s_i_ab	these snacks, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+429	53	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+430	53	s_i_ax	these snacks, Jennifer forgot the bag that carried _ our keys _ earlier	our,keys	False	21.375
+431	53	s_i_xx	Jennifer forgot the bag that carried _ our keys _ earlier	our,keys	True	20.78125
+432	54	s_ab	those boots, Mary bought _ yesterday _	yesterday	True	8.1875
+433	54	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+434	54	s_ax	those boots, Mary bought _ the cheese _ yesterday	the,cheese	False	15.0625
+435	54	s_xx	Mary bought _ the cheese _ yesterday	the,cheese	True	14.1328125
+436	54	s_i_ab	those boots, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+437	54	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+438	54	s_i_ax	those boots, Mary bought the bag that carried _ the cheese _ yesterday	the,cheese	False	15.0
+439	54	s_i_xx	Mary bought the bag that carried _ the cheese _ yesterday	the,cheese	True	14.4765625
+440	55	s_ab	those boots, Mary bought _ recently _	recently	True	9.4375
+441	55	s_xb	Mary bought _ recently _	recently	False	11.9375
+442	55	s_ax	those boots, Mary bought _ the cheese _ recently	the,cheese	False	15.0625
+443	55	s_xx	Mary bought _ the cheese _ recently	the,cheese	True	14.1328125
+444	55	s_i_ab	those boots, Mary bought the bag that carried _ recently _	recently	False	11.75
+445	55	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+446	55	s_i_ax	those boots, Mary bought the bag that carried _ the cheese _ recently	the,cheese	False	15.0
+447	55	s_i_xx	Mary bought the bag that carried _ the cheese _ recently	the,cheese	True	14.4765625
+448	56	s_ab	those boots, Mary bought _ earlier _	earlier	True	8.125
+449	56	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+450	56	s_ax	those boots, Mary bought _ the cheese _ earlier	the,cheese	False	15.0625
+451	56	s_xx	Mary bought _ the cheese _ earlier	the,cheese	True	14.1328125
+452	56	s_i_ab	those boots, Mary bought the bag that carried _ earlier _	earlier	False	9.9375
+453	56	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+454	56	s_i_ax	those boots, Mary bought the bag that carried _ the cheese _ earlier	the,cheese	False	15.0
+455	56	s_i_xx	Mary bought the bag that carried _ the cheese _ earlier	the,cheese	True	14.4765625
+456	57	s_ab	those boots, Mary bought _ yesterday _	yesterday	True	8.1875
+457	57	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+458	57	s_ax	those boots, Mary bought _ your hat _ yesterday	your,hat	False	19.0625
+459	57	s_xx	Mary bought _ your hat _ yesterday	your,hat	True	19.265625
+460	57	s_i_ab	those boots, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+461	57	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+462	57	s_i_ax	those boots, Mary bought the bag that carried _ your hat _ yesterday	your,hat	False	19.3125
+463	57	s_i_xx	Mary bought the bag that carried _ your hat _ yesterday	your,hat	True	18.90625
+464	58	s_ab	those boots, Mary bought _ recently _	recently	True	9.4375
+465	58	s_xb	Mary bought _ recently _	recently	False	11.9375
+466	58	s_ax	those boots, Mary bought _ your hat _ recently	your,hat	False	19.0625
+467	58	s_xx	Mary bought _ your hat _ recently	your,hat	True	19.265625
+468	58	s_i_ab	those boots, Mary bought the bag that carried _ recently _	recently	False	11.75
+469	58	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+470	58	s_i_ax	those boots, Mary bought the bag that carried _ your hat _ recently	your,hat	False	19.3125
+471	58	s_i_xx	Mary bought the bag that carried _ your hat _ recently	your,hat	True	18.90625
+472	59	s_ab	those boots, Mary bought _ earlier _	earlier	True	8.125
+473	59	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+474	59	s_ax	those boots, Mary bought _ your hat _ earlier	your,hat	False	19.0625
+475	59	s_xx	Mary bought _ your hat _ earlier	your,hat	True	19.265625
+476	59	s_i_ab	those boots, Mary bought the bag that carried _ earlier _	earlier	False	9.9375
+477	59	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+478	59	s_i_ax	those boots, Mary bought the bag that carried _ your hat _ earlier	your,hat	False	19.3125
+479	59	s_i_xx	Mary bought the bag that carried _ your hat _ earlier	your,hat	True	18.90625
+480	60	s_ab	those boots, Mary bought _ yesterday _	yesterday	True	8.1875
+481	60	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+482	60	s_ax	those boots, Mary bought _ our keys _ yesterday	our,keys	False	22.25
+483	60	s_xx	Mary bought _ our keys _ yesterday	our,keys	True	20.9375
+484	60	s_i_ab	those boots, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+485	60	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+486	60	s_i_ax	those boots, Mary bought the bag that carried _ our keys _ yesterday	our,keys	False	21.0625
+487	60	s_i_xx	Mary bought the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+488	61	s_ab	those boots, Mary bought _ recently _	recently	True	9.4375
+489	61	s_xb	Mary bought _ recently _	recently	False	11.9375
+490	61	s_ax	those boots, Mary bought _ our keys _ recently	our,keys	False	22.25
+491	61	s_xx	Mary bought _ our keys _ recently	our,keys	True	20.9375
+492	61	s_i_ab	those boots, Mary bought the bag that carried _ recently _	recently	False	11.75
+493	61	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+494	61	s_i_ax	those boots, Mary bought the bag that carried _ our keys _ recently	our,keys	False	21.0625
+495	61	s_i_xx	Mary bought the bag that carried _ our keys _ recently	our,keys	True	20.34375
+496	62	s_ab	those boots, Mary bought _ earlier _	earlier	True	8.125
+497	62	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+498	62	s_ax	those boots, Mary bought _ our keys _ earlier	our,keys	False	22.25
+499	62	s_xx	Mary bought _ our keys _ earlier	our,keys	True	20.9375
+500	62	s_i_ab	those boots, Mary bought the bag that carried _ earlier _	earlier	False	9.9375
+501	62	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+502	62	s_i_ax	those boots, Mary bought the bag that carried _ our keys _ earlier	our,keys	False	21.0625
+503	62	s_i_xx	Mary bought the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+504	63	s_ab	those boots, Mary saw _ yesterday _	yesterday	True	8.5
+505	63	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+506	63	s_ax	those boots, Mary saw _ the cheese _ yesterday	the,cheese	False	12.8828125
+507	63	s_xx	Mary saw _ the cheese _ yesterday	the,cheese	True	11.9765625
+508	63	s_i_ab	those boots, Mary saw the bag that carried _ yesterday _	yesterday	False	9.1875
+509	63	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+510	63	s_i_ax	those boots, Mary saw the bag that carried _ the cheese _ yesterday	the,cheese	False	15.2109375
+511	63	s_i_xx	Mary saw the bag that carried _ the cheese _ yesterday	the,cheese	True	14.2890625
+512	64	s_ab	those boots, Mary saw _ recently _	recently	True	9.9375
+513	64	s_xb	Mary saw _ recently _	recently	False	11.5625
+514	64	s_ax	those boots, Mary saw _ the cheese _ recently	the,cheese	False	12.8828125
+515	64	s_xx	Mary saw _ the cheese _ recently	the,cheese	True	11.9765625
+516	64	s_i_ab	those boots, Mary saw the bag that carried _ recently _	recently	False	11.875
+517	64	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+518	64	s_i_ax	those boots, Mary saw the bag that carried _ the cheese _ recently	the,cheese	False	15.2109375
+519	64	s_i_xx	Mary saw the bag that carried _ the cheese _ recently	the,cheese	True	14.2890625
+520	65	s_ab	those boots, Mary saw _ earlier _	earlier	True	8.875
+521	65	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+522	65	s_ax	those boots, Mary saw _ the cheese _ earlier	the,cheese	False	12.8828125
+523	65	s_xx	Mary saw _ the cheese _ earlier	the,cheese	True	11.9765625
+524	65	s_i_ab	those boots, Mary saw the bag that carried _ earlier _	earlier	False	9.9375
+525	65	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+526	65	s_i_ax	those boots, Mary saw the bag that carried _ the cheese _ earlier	the,cheese	False	15.2109375
+527	65	s_i_xx	Mary saw the bag that carried _ the cheese _ earlier	the,cheese	True	14.2890625
+528	66	s_ab	those boots, Mary saw _ yesterday _	yesterday	True	8.5
+529	66	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+530	66	s_ax	those boots, Mary saw _ your hat _ yesterday	your,hat	False	16.875
+531	66	s_xx	Mary saw _ your hat _ yesterday	your,hat	True	16.59375
+532	66	s_i_ab	those boots, Mary saw the bag that carried _ yesterday _	yesterday	False	9.1875
+533	66	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+534	66	s_i_ax	those boots, Mary saw the bag that carried _ your hat _ yesterday	your,hat	False	19.203125
+535	66	s_i_xx	Mary saw the bag that carried _ your hat _ yesterday	your,hat	True	18.84375
+536	67	s_ab	those boots, Mary saw _ recently _	recently	True	9.9375
+537	67	s_xb	Mary saw _ recently _	recently	False	11.5625
+538	67	s_ax	those boots, Mary saw _ your hat _ recently	your,hat	False	16.875
+539	67	s_xx	Mary saw _ your hat _ recently	your,hat	True	16.59375
+540	67	s_i_ab	those boots, Mary saw the bag that carried _ recently _	recently	False	11.875
+541	67	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+542	67	s_i_ax	those boots, Mary saw the bag that carried _ your hat _ recently	your,hat	False	19.203125
+543	67	s_i_xx	Mary saw the bag that carried _ your hat _ recently	your,hat	True	18.84375
+544	68	s_ab	those boots, Mary saw _ earlier _	earlier	True	8.875
+545	68	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+546	68	s_ax	those boots, Mary saw _ your hat _ earlier	your,hat	False	16.875
+547	68	s_xx	Mary saw _ your hat _ earlier	your,hat	True	16.59375
+548	68	s_i_ab	those boots, Mary saw the bag that carried _ earlier _	earlier	False	9.9375
+549	68	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+550	68	s_i_ax	those boots, Mary saw the bag that carried _ your hat _ earlier	your,hat	False	19.203125
+551	68	s_i_xx	Mary saw the bag that carried _ your hat _ earlier	your,hat	True	18.84375
+552	69	s_ab	those boots, Mary saw _ yesterday _	yesterday	True	8.5
+553	69	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+554	69	s_ax	those boots, Mary saw _ our keys _ yesterday	our,keys	False	20.5
+555	69	s_xx	Mary saw _ our keys _ yesterday	our,keys	True	19.84375
+556	69	s_i_ab	those boots, Mary saw the bag that carried _ yesterday _	yesterday	False	9.1875
+557	69	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+558	69	s_i_ax	those boots, Mary saw the bag that carried _ our keys _ yesterday	our,keys	False	21.15625
+559	69	s_i_xx	Mary saw the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+560	70	s_ab	those boots, Mary saw _ recently _	recently	True	9.9375
+561	70	s_xb	Mary saw _ recently _	recently	False	11.5625
+562	70	s_ax	those boots, Mary saw _ our keys _ recently	our,keys	False	20.5
+563	70	s_xx	Mary saw _ our keys _ recently	our,keys	True	19.84375
+564	70	s_i_ab	those boots, Mary saw the bag that carried _ recently _	recently	False	11.875
+565	70	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+566	70	s_i_ax	those boots, Mary saw the bag that carried _ our keys _ recently	our,keys	False	21.15625
+567	70	s_i_xx	Mary saw the bag that carried _ our keys _ recently	our,keys	True	20.34375
+568	71	s_ab	those boots, Mary saw _ earlier _	earlier	True	8.875
+569	71	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+570	71	s_ax	those boots, Mary saw _ our keys _ earlier	our,keys	False	20.5
+571	71	s_xx	Mary saw _ our keys _ earlier	our,keys	True	19.84375
+572	71	s_i_ab	those boots, Mary saw the bag that carried _ earlier _	earlier	False	9.9375
+573	71	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+574	71	s_i_ax	those boots, Mary saw the bag that carried _ our keys _ earlier	our,keys	False	21.15625
+575	71	s_i_xx	Mary saw the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+576	72	s_ab	those boots, Mary forgot _ yesterday _	yesterday	True	8.25
+577	72	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+578	72	s_ax	those boots, Mary forgot _ the cheese _ yesterday	the,cheese	False	13.1875
+579	72	s_xx	Mary forgot _ the cheese _ yesterday	the,cheese	True	13.21484375
+580	72	s_i_ab	those boots, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.25
+581	72	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+582	72	s_i_ax	those boots, Mary forgot the bag that carried _ the cheese _ yesterday	the,cheese	False	14.765625
+583	72	s_i_xx	Mary forgot the bag that carried _ the cheese _ yesterday	the,cheese	True	14.140625
+584	73	s_ab	those boots, Mary forgot _ recently _	recently	True	10.5625
+585	73	s_xb	Mary forgot _ recently _	recently	False	11.8125
+586	73	s_ax	those boots, Mary forgot _ the cheese _ recently	the,cheese	False	13.1875
+587	73	s_xx	Mary forgot _ the cheese _ recently	the,cheese	True	13.21484375
+588	73	s_i_ab	those boots, Mary forgot the bag that carried _ recently _	recently	False	11.75
+589	73	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+590	73	s_i_ax	those boots, Mary forgot the bag that carried _ the cheese _ recently	the,cheese	False	14.765625
+591	73	s_i_xx	Mary forgot the bag that carried _ the cheese _ recently	the,cheese	True	14.140625
+592	74	s_ab	those boots, Mary forgot _ earlier _	earlier	True	9.375
+593	74	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+594	74	s_ax	those boots, Mary forgot _ the cheese _ earlier	the,cheese	False	13.1875
+595	74	s_xx	Mary forgot _ the cheese _ earlier	the,cheese	True	13.21484375
+596	74	s_i_ab	those boots, Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+597	74	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+598	74	s_i_ax	those boots, Mary forgot the bag that carried _ the cheese _ earlier	the,cheese	False	14.765625
+599	74	s_i_xx	Mary forgot the bag that carried _ the cheese _ earlier	the,cheese	True	14.140625
+600	75	s_ab	those boots, Mary forgot _ yesterday _	yesterday	True	8.25
+601	75	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+602	75	s_ax	those boots, Mary forgot _ your hat _ yesterday	your,hat	False	18.4375
+603	75	s_xx	Mary forgot _ your hat _ yesterday	your,hat	True	18.84375
+604	75	s_i_ab	those boots, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.25
+605	75	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+606	75	s_i_ax	those boots, Mary forgot the bag that carried _ your hat _ yesterday	your,hat	False	19.390625
+607	75	s_i_xx	Mary forgot the bag that carried _ your hat _ yesterday	your,hat	True	18.953125
+608	76	s_ab	those boots, Mary forgot _ recently _	recently	True	10.5625
+609	76	s_xb	Mary forgot _ recently _	recently	False	11.8125
+610	76	s_ax	those boots, Mary forgot _ your hat _ recently	your,hat	False	18.4375
+611	76	s_xx	Mary forgot _ your hat _ recently	your,hat	True	18.84375
+612	76	s_i_ab	those boots, Mary forgot the bag that carried _ recently _	recently	False	11.75
+613	76	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+614	76	s_i_ax	those boots, Mary forgot the bag that carried _ your hat _ recently	your,hat	False	19.390625
+615	76	s_i_xx	Mary forgot the bag that carried _ your hat _ recently	your,hat	True	18.953125
+616	77	s_ab	those boots, Mary forgot _ earlier _	earlier	True	9.375
+617	77	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+618	77	s_ax	those boots, Mary forgot _ your hat _ earlier	your,hat	False	18.4375
+619	77	s_xx	Mary forgot _ your hat _ earlier	your,hat	True	18.84375
+620	77	s_i_ab	those boots, Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+621	77	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+622	77	s_i_ax	those boots, Mary forgot the bag that carried _ your hat _ earlier	your,hat	False	19.390625
+623	77	s_i_xx	Mary forgot the bag that carried _ your hat _ earlier	your,hat	True	18.953125
+624	78	s_ab	those boots, Mary forgot _ yesterday _	yesterday	True	8.25
+625	78	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+626	78	s_ax	those boots, Mary forgot _ our keys _ yesterday	our,keys	False	22.1875
+627	78	s_xx	Mary forgot _ our keys _ yesterday	our,keys	True	22.28125
+628	78	s_i_ab	those boots, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.25
+629	78	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+630	78	s_i_ax	those boots, Mary forgot the bag that carried _ our keys _ yesterday	our,keys	False	21.375
+631	78	s_i_xx	Mary forgot the bag that carried _ our keys _ yesterday	our,keys	True	20.78125
+632	79	s_ab	those boots, Mary forgot _ recently _	recently	True	10.5625
+633	79	s_xb	Mary forgot _ recently _	recently	False	11.8125
+634	79	s_ax	those boots, Mary forgot _ our keys _ recently	our,keys	False	22.1875
+635	79	s_xx	Mary forgot _ our keys _ recently	our,keys	True	22.28125
+636	79	s_i_ab	those boots, Mary forgot the bag that carried _ recently _	recently	False	11.75
+637	79	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+638	79	s_i_ax	those boots, Mary forgot the bag that carried _ our keys _ recently	our,keys	False	21.375
+639	79	s_i_xx	Mary forgot the bag that carried _ our keys _ recently	our,keys	True	20.78125
+640	80	s_ab	those boots, Mary forgot _ earlier _	earlier	True	9.375
+641	80	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+642	80	s_ax	those boots, Mary forgot _ our keys _ earlier	our,keys	False	22.1875
+643	80	s_xx	Mary forgot _ our keys _ earlier	our,keys	True	22.28125
+644	80	s_i_ab	those boots, Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+645	80	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+646	80	s_i_ax	those boots, Mary forgot the bag that carried _ our keys _ earlier	our,keys	False	21.375
+647	80	s_i_xx	Mary forgot the bag that carried _ our keys _ earlier	our,keys	True	20.78125
+648	81	s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True	8.125
+649	81	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+650	81	s_ax	those boots, Jennifer bought _ the cheese _ yesterday	the,cheese	False	15.1328125
+651	81	s_xx	Jennifer bought _ the cheese _ yesterday	the,cheese	True	14.01171875
+652	81	s_i_ab	those boots, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.25
+653	81	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+654	81	s_i_ax	those boots, Jennifer bought the bag that carried _ the cheese _ yesterday	the,cheese	False	15.09375
+655	81	s_i_xx	Jennifer bought the bag that carried _ the cheese _ yesterday	the,cheese	True	14.59375
+656	82	s_ab	those boots, Jennifer bought _ recently _	recently	True	9.5
+657	82	s_xb	Jennifer bought _ recently _	recently	False	12.0
+658	82	s_ax	those boots, Jennifer bought _ the cheese _ recently	the,cheese	False	15.1328125
+659	82	s_xx	Jennifer bought _ the cheese _ recently	the,cheese	True	14.01171875
+660	82	s_i_ab	those boots, Jennifer bought the bag that carried _ recently _	recently	False	11.8125
+661	82	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+662	82	s_i_ax	those boots, Jennifer bought the bag that carried _ the cheese _ recently	the,cheese	False	15.09375
+663	82	s_i_xx	Jennifer bought the bag that carried _ the cheese _ recently	the,cheese	True	14.59375
+664	83	s_ab	those boots, Jennifer bought _ earlier _	earlier	True	8.1875
+665	83	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+666	83	s_ax	those boots, Jennifer bought _ the cheese _ earlier	the,cheese	False	15.1328125
+667	83	s_xx	Jennifer bought _ the cheese _ earlier	the,cheese	True	14.01171875
+668	83	s_i_ab	those boots, Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+669	83	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+670	83	s_i_ax	those boots, Jennifer bought the bag that carried _ the cheese _ earlier	the,cheese	False	15.09375
+671	83	s_i_xx	Jennifer bought the bag that carried _ the cheese _ earlier	the,cheese	True	14.59375
+672	84	s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True	8.125
+673	84	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+674	84	s_ax	those boots, Jennifer bought _ your hat _ yesterday	your,hat	False	19.265625
+675	84	s_xx	Jennifer bought _ your hat _ yesterday	your,hat	True	19.328125
+676	84	s_i_ab	those boots, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.25
+677	84	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+678	84	s_i_ax	those boots, Jennifer bought the bag that carried _ your hat _ yesterday	your,hat	False	19.34375
+679	84	s_i_xx	Jennifer bought the bag that carried _ your hat _ yesterday	your,hat	True	19.03125
+680	85	s_ab	those boots, Jennifer bought _ recently _	recently	True	9.5
+681	85	s_xb	Jennifer bought _ recently _	recently	False	12.0
+682	85	s_ax	those boots, Jennifer bought _ your hat _ recently	your,hat	False	19.265625
+683	85	s_xx	Jennifer bought _ your hat _ recently	your,hat	True	19.328125
+684	85	s_i_ab	those boots, Jennifer bought the bag that carried _ recently _	recently	False	11.8125
+685	85	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+686	85	s_i_ax	those boots, Jennifer bought the bag that carried _ your hat _ recently	your,hat	False	19.34375
+687	85	s_i_xx	Jennifer bought the bag that carried _ your hat _ recently	your,hat	True	19.03125
+688	86	s_ab	those boots, Jennifer bought _ earlier _	earlier	True	8.1875
+689	86	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+690	86	s_ax	those boots, Jennifer bought _ your hat _ earlier	your,hat	False	19.265625
+691	86	s_xx	Jennifer bought _ your hat _ earlier	your,hat	True	19.328125
+692	86	s_i_ab	those boots, Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+693	86	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+694	86	s_i_ax	those boots, Jennifer bought the bag that carried _ your hat _ earlier	your,hat	False	19.34375
+695	86	s_i_xx	Jennifer bought the bag that carried _ your hat _ earlier	your,hat	True	19.03125
+696	87	s_ab	those boots, Jennifer bought _ yesterday _	yesterday	True	8.125
+697	87	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+698	87	s_ax	those boots, Jennifer bought _ our keys _ yesterday	our,keys	False	22.0625
+699	87	s_xx	Jennifer bought _ our keys _ yesterday	our,keys	True	20.8125
+700	87	s_i_ab	those boots, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.25
+701	87	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+702	87	s_i_ax	those boots, Jennifer bought the bag that carried _ our keys _ yesterday	our,keys	False	21.15625
+703	87	s_i_xx	Jennifer bought the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+704	88	s_ab	those boots, Jennifer bought _ recently _	recently	True	9.5
+705	88	s_xb	Jennifer bought _ recently _	recently	False	12.0
+706	88	s_ax	those boots, Jennifer bought _ our keys _ recently	our,keys	False	22.0625
+707	88	s_xx	Jennifer bought _ our keys _ recently	our,keys	True	20.8125
+708	88	s_i_ab	those boots, Jennifer bought the bag that carried _ recently _	recently	False	11.8125
+709	88	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+710	88	s_i_ax	those boots, Jennifer bought the bag that carried _ our keys _ recently	our,keys	False	21.15625
+711	88	s_i_xx	Jennifer bought the bag that carried _ our keys _ recently	our,keys	True	20.34375
+712	89	s_ab	those boots, Jennifer bought _ earlier _	earlier	True	8.1875
+713	89	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+714	89	s_ax	those boots, Jennifer bought _ our keys _ earlier	our,keys	False	22.0625
+715	89	s_xx	Jennifer bought _ our keys _ earlier	our,keys	True	20.8125
+716	89	s_i_ab	those boots, Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+717	89	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+718	89	s_i_ax	those boots, Jennifer bought the bag that carried _ our keys _ earlier	our,keys	False	21.15625
+719	89	s_i_xx	Jennifer bought the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+720	90	s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True	8.375
+721	90	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+722	90	s_ax	those boots, Jennifer saw _ the cheese _ yesterday	the,cheese	False	13.203125
+723	90	s_xx	Jennifer saw _ the cheese _ yesterday	the,cheese	True	12.41015625
+724	90	s_i_ab	those boots, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.25
+725	90	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+726	90	s_i_ax	those boots, Jennifer saw the bag that carried _ the cheese _ yesterday	the,cheese	False	15.2109375
+727	90	s_i_xx	Jennifer saw the bag that carried _ the cheese _ yesterday	the,cheese	True	14.40625
+728	91	s_ab	those boots, Jennifer saw _ recently _	recently	True	9.75
+729	91	s_xb	Jennifer saw _ recently _	recently	False	11.625
+730	91	s_ax	those boots, Jennifer saw _ the cheese _ recently	the,cheese	False	13.203125
+731	91	s_xx	Jennifer saw _ the cheese _ recently	the,cheese	True	12.41015625
+732	91	s_i_ab	those boots, Jennifer saw the bag that carried _ recently _	recently	False	11.9375
+733	91	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+734	91	s_i_ax	those boots, Jennifer saw the bag that carried _ the cheese _ recently	the,cheese	False	15.2109375
+735	91	s_i_xx	Jennifer saw the bag that carried _ the cheese _ recently	the,cheese	True	14.40625
+736	92	s_ab	those boots, Jennifer saw _ earlier _	earlier	True	8.75
+737	92	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+738	92	s_ax	those boots, Jennifer saw _ the cheese _ earlier	the,cheese	False	13.203125
+739	92	s_xx	Jennifer saw _ the cheese _ earlier	the,cheese	True	12.41015625
+740	92	s_i_ab	those boots, Jennifer saw the bag that carried _ earlier _	earlier	False	9.9375
+741	92	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+742	92	s_i_ax	those boots, Jennifer saw the bag that carried _ the cheese _ earlier	the,cheese	False	15.2109375
+743	92	s_i_xx	Jennifer saw the bag that carried _ the cheese _ earlier	the,cheese	True	14.40625
+744	93	s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True	8.375
+745	93	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+746	93	s_ax	those boots, Jennifer saw _ your hat _ yesterday	your,hat	False	17.578125
+747	93	s_xx	Jennifer saw _ your hat _ yesterday	your,hat	True	17.09375
+748	93	s_i_ab	those boots, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.25
+749	93	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+750	93	s_i_ax	those boots, Jennifer saw the bag that carried _ your hat _ yesterday	your,hat	False	19.515625
+751	93	s_i_xx	Jennifer saw the bag that carried _ your hat _ yesterday	your,hat	True	18.78125
+752	94	s_ab	those boots, Jennifer saw _ recently _	recently	True	9.75
+753	94	s_xb	Jennifer saw _ recently _	recently	False	11.625
+754	94	s_ax	those boots, Jennifer saw _ your hat _ recently	your,hat	False	17.578125
+755	94	s_xx	Jennifer saw _ your hat _ recently	your,hat	True	17.09375
+756	94	s_i_ab	those boots, Jennifer saw the bag that carried _ recently _	recently	False	11.9375
+757	94	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+758	94	s_i_ax	those boots, Jennifer saw the bag that carried _ your hat _ recently	your,hat	False	19.515625
+759	94	s_i_xx	Jennifer saw the bag that carried _ your hat _ recently	your,hat	True	18.78125
+760	95	s_ab	those boots, Jennifer saw _ earlier _	earlier	True	8.75
+761	95	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+762	95	s_ax	those boots, Jennifer saw _ your hat _ earlier	your,hat	False	17.578125
+763	95	s_xx	Jennifer saw _ your hat _ earlier	your,hat	True	17.09375
+764	95	s_i_ab	those boots, Jennifer saw the bag that carried _ earlier _	earlier	False	9.9375
+765	95	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+766	95	s_i_ax	those boots, Jennifer saw the bag that carried _ your hat _ earlier	your,hat	False	19.515625
+767	95	s_i_xx	Jennifer saw the bag that carried _ your hat _ earlier	your,hat	True	18.78125
+768	96	s_ab	those boots, Jennifer saw _ yesterday _	yesterday	True	8.375
+769	96	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+770	96	s_ax	those boots, Jennifer saw _ our keys _ yesterday	our,keys	False	20.5
+771	96	s_xx	Jennifer saw _ our keys _ yesterday	our,keys	True	19.71875
+772	96	s_i_ab	those boots, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.25
+773	96	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+774	96	s_i_ax	those boots, Jennifer saw the bag that carried _ our keys _ yesterday	our,keys	False	21.34375
+775	96	s_i_xx	Jennifer saw the bag that carried _ our keys _ yesterday	our,keys	True	20.46875
+776	97	s_ab	those boots, Jennifer saw _ recently _	recently	True	9.75
+777	97	s_xb	Jennifer saw _ recently _	recently	False	11.625
+778	97	s_ax	those boots, Jennifer saw _ our keys _ recently	our,keys	False	20.5
+779	97	s_xx	Jennifer saw _ our keys _ recently	our,keys	True	19.71875
+780	97	s_i_ab	those boots, Jennifer saw the bag that carried _ recently _	recently	False	11.9375
+781	97	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+782	97	s_i_ax	those boots, Jennifer saw the bag that carried _ our keys _ recently	our,keys	False	21.34375
+783	97	s_i_xx	Jennifer saw the bag that carried _ our keys _ recently	our,keys	True	20.46875
+784	98	s_ab	those boots, Jennifer saw _ earlier _	earlier	True	8.75
+785	98	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+786	98	s_ax	those boots, Jennifer saw _ our keys _ earlier	our,keys	False	20.5
+787	98	s_xx	Jennifer saw _ our keys _ earlier	our,keys	True	19.71875
+788	98	s_i_ab	those boots, Jennifer saw the bag that carried _ earlier _	earlier	False	9.9375
+789	98	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+790	98	s_i_ax	those boots, Jennifer saw the bag that carried _ our keys _ earlier	our,keys	False	21.34375
+791	98	s_i_xx	Jennifer saw the bag that carried _ our keys _ earlier	our,keys	True	20.46875
+792	99	s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True	8.375
+793	99	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+794	99	s_ax	those boots, Jennifer forgot _ the cheese _ yesterday	the,cheese	False	13.6171875
+795	99	s_xx	Jennifer forgot _ the cheese _ yesterday	the,cheese	True	13.296875
+796	99	s_i_ab	those boots, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.25
+797	99	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+798	99	s_i_ax	those boots, Jennifer forgot the bag that carried _ the cheese _ yesterday	the,cheese	False	14.84375
+799	99	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ yesterday	the,cheese	True	14.203125
+800	100	s_ab	those boots, Jennifer forgot _ recently _	recently	True	10.6875
+801	100	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+802	100	s_ax	those boots, Jennifer forgot _ the cheese _ recently	the,cheese	False	13.6171875
+803	100	s_xx	Jennifer forgot _ the cheese _ recently	the,cheese	True	13.296875
+804	100	s_i_ab	those boots, Jennifer forgot the bag that carried _ recently _	recently	False	11.75
+805	100	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+806	100	s_i_ax	those boots, Jennifer forgot the bag that carried _ the cheese _ recently	the,cheese	False	14.84375
+807	100	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ recently	the,cheese	True	14.203125
+808	101	s_ab	those boots, Jennifer forgot _ earlier _	earlier	True	9.4375
+809	101	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+810	101	s_ax	those boots, Jennifer forgot _ the cheese _ earlier	the,cheese	False	13.6171875
+811	101	s_xx	Jennifer forgot _ the cheese _ earlier	the,cheese	True	13.296875
+812	101	s_i_ab	those boots, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.8125
+813	101	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+814	101	s_i_ax	those boots, Jennifer forgot the bag that carried _ the cheese _ earlier	the,cheese	False	14.84375
+815	101	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ earlier	the,cheese	True	14.203125
+816	102	s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True	8.375
+817	102	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+818	102	s_ax	those boots, Jennifer forgot _ your hat _ yesterday	your,hat	False	18.609375
+819	102	s_xx	Jennifer forgot _ your hat _ yesterday	your,hat	True	19.359375
+820	102	s_i_ab	those boots, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.25
+821	102	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+822	102	s_i_ax	those boots, Jennifer forgot the bag that carried _ your hat _ yesterday	your,hat	False	19.40625
+823	102	s_i_xx	Jennifer forgot the bag that carried _ your hat _ yesterday	your,hat	True	19.078125
+824	103	s_ab	those boots, Jennifer forgot _ recently _	recently	True	10.6875
+825	103	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+826	103	s_ax	those boots, Jennifer forgot _ your hat _ recently	your,hat	False	18.609375
+827	103	s_xx	Jennifer forgot _ your hat _ recently	your,hat	True	19.359375
+828	103	s_i_ab	those boots, Jennifer forgot the bag that carried _ recently _	recently	False	11.75
+829	103	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+830	103	s_i_ax	those boots, Jennifer forgot the bag that carried _ your hat _ recently	your,hat	False	19.40625
+831	103	s_i_xx	Jennifer forgot the bag that carried _ your hat _ recently	your,hat	True	19.078125
+832	104	s_ab	those boots, Jennifer forgot _ earlier _	earlier	True	9.4375
+833	104	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+834	104	s_ax	those boots, Jennifer forgot _ your hat _ earlier	your,hat	False	18.609375
+835	104	s_xx	Jennifer forgot _ your hat _ earlier	your,hat	True	19.359375
+836	104	s_i_ab	those boots, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.8125
+837	104	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+838	104	s_i_ax	those boots, Jennifer forgot the bag that carried _ your hat _ earlier	your,hat	False	19.40625
+839	104	s_i_xx	Jennifer forgot the bag that carried _ your hat _ earlier	your,hat	True	19.078125
+840	105	s_ab	those boots, Jennifer forgot _ yesterday _	yesterday	True	8.375
+841	105	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+842	105	s_ax	those boots, Jennifer forgot _ our keys _ yesterday	our,keys	False	22.5625
+843	105	s_xx	Jennifer forgot _ our keys _ yesterday	our,keys	True	22.28125
+844	105	s_i_ab	those boots, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.25
+845	105	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+846	105	s_i_ax	those boots, Jennifer forgot the bag that carried _ our keys _ yesterday	our,keys	False	21.34375
+847	105	s_i_xx	Jennifer forgot the bag that carried _ our keys _ yesterday	our,keys	True	20.78125
+848	106	s_ab	those boots, Jennifer forgot _ recently _	recently	True	10.6875
+849	106	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+850	106	s_ax	those boots, Jennifer forgot _ our keys _ recently	our,keys	False	22.5625
+851	106	s_xx	Jennifer forgot _ our keys _ recently	our,keys	True	22.28125
+852	106	s_i_ab	those boots, Jennifer forgot the bag that carried _ recently _	recently	False	11.75
+853	106	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+854	106	s_i_ax	those boots, Jennifer forgot the bag that carried _ our keys _ recently	our,keys	False	21.34375
+855	106	s_i_xx	Jennifer forgot the bag that carried _ our keys _ recently	our,keys	True	20.78125
+856	107	s_ab	those boots, Jennifer forgot _ earlier _	earlier	True	9.4375
+857	107	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+858	107	s_ax	those boots, Jennifer forgot _ our keys _ earlier	our,keys	False	22.5625
+859	107	s_xx	Jennifer forgot _ our keys _ earlier	our,keys	True	22.28125
+860	107	s_i_ab	those boots, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.8125
+861	107	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+862	107	s_i_ax	those boots, Jennifer forgot the bag that carried _ our keys _ earlier	our,keys	False	21.34375
+863	107	s_i_xx	Jennifer forgot the bag that carried _ our keys _ earlier	our,keys	True	20.78125
+864	108	s_ab	her books, Mary bought _ yesterday _	yesterday	True	9.125
+865	108	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+866	108	s_ax	her books, Mary bought _ the cheese _ yesterday	the,cheese	False	14.2578125
+867	108	s_xx	Mary bought _ the cheese _ yesterday	the,cheese	True	14.1328125
+868	108	s_i_ab	her books, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+869	108	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+870	108	s_i_ax	her books, Mary bought the bag that carried _ the cheese _ yesterday	the,cheese	False	14.4140625
+871	108	s_i_xx	Mary bought the bag that carried _ the cheese _ yesterday	the,cheese	True	14.4765625
+872	109	s_ab	her books, Mary bought _ recently _	recently	True	11.5
+873	109	s_xb	Mary bought _ recently _	recently	False	11.9375
+874	109	s_ax	her books, Mary bought _ the cheese _ recently	the,cheese	False	14.2578125
+875	109	s_xx	Mary bought _ the cheese _ recently	the,cheese	True	14.1328125
+876	109	s_i_ab	her books, Mary bought the bag that carried _ recently _	recently	False	11.8125
+877	109	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+878	109	s_i_ax	her books, Mary bought the bag that carried _ the cheese _ recently	the,cheese	False	14.4140625
+879	109	s_i_xx	Mary bought the bag that carried _ the cheese _ recently	the,cheese	True	14.4765625
+880	110	s_ab	her books, Mary bought _ earlier _	earlier	True	9.9375
+881	110	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+882	110	s_ax	her books, Mary bought _ the cheese _ earlier	the,cheese	False	14.2578125
+883	110	s_xx	Mary bought _ the cheese _ earlier	the,cheese	True	14.1328125
+884	110	s_i_ab	her books, Mary bought the bag that carried _ earlier _	earlier	False	9.9375
+885	110	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+886	110	s_i_ax	her books, Mary bought the bag that carried _ the cheese _ earlier	the,cheese	False	14.4140625
+887	110	s_i_xx	Mary bought the bag that carried _ the cheese _ earlier	the,cheese	True	14.4765625
+888	111	s_ab	her books, Mary bought _ yesterday _	yesterday	True	9.125
+889	111	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+890	111	s_ax	her books, Mary bought _ your hat _ yesterday	your,hat	False	18.8125
+891	111	s_xx	Mary bought _ your hat _ yesterday	your,hat	True	19.265625
+892	111	s_i_ab	her books, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+893	111	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+894	111	s_i_ax	her books, Mary bought the bag that carried _ your hat _ yesterday	your,hat	False	18.921875
+895	111	s_i_xx	Mary bought the bag that carried _ your hat _ yesterday	your,hat	True	18.90625
+896	112	s_ab	her books, Mary bought _ recently _	recently	True	11.5
+897	112	s_xb	Mary bought _ recently _	recently	False	11.9375
+898	112	s_ax	her books, Mary bought _ your hat _ recently	your,hat	False	18.8125
+899	112	s_xx	Mary bought _ your hat _ recently	your,hat	True	19.265625
+900	112	s_i_ab	her books, Mary bought the bag that carried _ recently _	recently	False	11.8125
+901	112	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+902	112	s_i_ax	her books, Mary bought the bag that carried _ your hat _ recently	your,hat	False	18.921875
+903	112	s_i_xx	Mary bought the bag that carried _ your hat _ recently	your,hat	True	18.90625
+904	113	s_ab	her books, Mary bought _ earlier _	earlier	True	9.9375
+905	113	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+906	113	s_ax	her books, Mary bought _ your hat _ earlier	your,hat	False	18.8125
+907	113	s_xx	Mary bought _ your hat _ earlier	your,hat	True	19.265625
+908	113	s_i_ab	her books, Mary bought the bag that carried _ earlier _	earlier	False	9.9375
+909	113	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+910	113	s_i_ax	her books, Mary bought the bag that carried _ your hat _ earlier	your,hat	False	18.921875
+911	113	s_i_xx	Mary bought the bag that carried _ your hat _ earlier	your,hat	True	18.90625
+912	114	s_ab	her books, Mary bought _ yesterday _	yesterday	True	9.125
+913	114	s_xb	Mary bought _ yesterday _	yesterday	False	9.375
+914	114	s_ax	her books, Mary bought _ our keys _ yesterday	our,keys	False	22.3125
+915	114	s_xx	Mary bought _ our keys _ yesterday	our,keys	True	20.9375
+916	114	s_i_ab	her books, Mary bought the bag that carried _ yesterday _	yesterday	False	9.1875
+917	114	s_i_xb	Mary bought the bag that carried _ yesterday _	yesterday	False	9.125
+918	114	s_i_ax	her books, Mary bought the bag that carried _ our keys _ yesterday	our,keys	False	20.65625
+919	114	s_i_xx	Mary bought the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+920	115	s_ab	her books, Mary bought _ recently _	recently	True	11.5
+921	115	s_xb	Mary bought _ recently _	recently	False	11.9375
+922	115	s_ax	her books, Mary bought _ our keys _ recently	our,keys	False	22.3125
+923	115	s_xx	Mary bought _ our keys _ recently	our,keys	True	20.9375
+924	115	s_i_ab	her books, Mary bought the bag that carried _ recently _	recently	False	11.8125
+925	115	s_i_xb	Mary bought the bag that carried _ recently _	recently	False	11.875
+926	115	s_i_ax	her books, Mary bought the bag that carried _ our keys _ recently	our,keys	False	20.65625
+927	115	s_i_xx	Mary bought the bag that carried _ our keys _ recently	our,keys	True	20.34375
+928	116	s_ab	her books, Mary bought _ earlier _	earlier	True	9.9375
+929	116	s_xb	Mary bought _ earlier _	earlier	False	10.5625
+930	116	s_ax	her books, Mary bought _ our keys _ earlier	our,keys	False	22.3125
+931	116	s_xx	Mary bought _ our keys _ earlier	our,keys	True	20.9375
+932	116	s_i_ab	her books, Mary bought the bag that carried _ earlier _	earlier	False	9.9375
+933	116	s_i_xb	Mary bought the bag that carried _ earlier _	earlier	False	10.0
+934	116	s_i_ax	her books, Mary bought the bag that carried _ our keys _ earlier	our,keys	False	20.65625
+935	116	s_i_xx	Mary bought the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+936	117	s_ab	her books, Mary saw _ yesterday _	yesterday	True	9.0
+937	117	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+938	117	s_ax	her books, Mary saw _ the cheese _ yesterday	the,cheese	False	11.7109375
+939	117	s_xx	Mary saw _ the cheese _ yesterday	the,cheese	True	11.9765625
+940	117	s_i_ab	her books, Mary saw the bag that carried _ yesterday _	yesterday	False	9.0625
+941	117	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+942	117	s_i_ax	her books, Mary saw the bag that carried _ the cheese _ yesterday	the,cheese	False	14.46875
+943	117	s_i_xx	Mary saw the bag that carried _ the cheese _ yesterday	the,cheese	True	14.2890625
+944	118	s_ab	her books, Mary saw _ recently _	recently	True	11.25
+945	118	s_xb	Mary saw _ recently _	recently	False	11.5625
+946	118	s_ax	her books, Mary saw _ the cheese _ recently	the,cheese	False	11.7109375
+947	118	s_xx	Mary saw _ the cheese _ recently	the,cheese	True	11.9765625
+948	118	s_i_ab	her books, Mary saw the bag that carried _ recently _	recently	False	11.8125
+949	118	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+950	118	s_i_ax	her books, Mary saw the bag that carried _ the cheese _ recently	the,cheese	False	14.46875
+951	118	s_i_xx	Mary saw the bag that carried _ the cheese _ recently	the,cheese	True	14.2890625
+952	119	s_ab	her books, Mary saw _ earlier _	earlier	True	9.875
+953	119	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+954	119	s_ax	her books, Mary saw _ the cheese _ earlier	the,cheese	False	11.7109375
+955	119	s_xx	Mary saw _ the cheese _ earlier	the,cheese	True	11.9765625
+956	119	s_i_ab	her books, Mary saw the bag that carried _ earlier _	earlier	False	9.9375
+957	119	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+958	119	s_i_ax	her books, Mary saw the bag that carried _ the cheese _ earlier	the,cheese	False	14.46875
+959	119	s_i_xx	Mary saw the bag that carried _ the cheese _ earlier	the,cheese	True	14.2890625
+960	120	s_ab	her books, Mary saw _ yesterday _	yesterday	True	9.0
+961	120	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+962	120	s_ax	her books, Mary saw _ your hat _ yesterday	your,hat	False	16.765625
+963	120	s_xx	Mary saw _ your hat _ yesterday	your,hat	True	16.59375
+964	120	s_i_ab	her books, Mary saw the bag that carried _ yesterday _	yesterday	False	9.0625
+965	120	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+966	120	s_i_ax	her books, Mary saw the bag that carried _ your hat _ yesterday	your,hat	False	19.15625
+967	120	s_i_xx	Mary saw the bag that carried _ your hat _ yesterday	your,hat	True	18.84375
+968	121	s_ab	her books, Mary saw _ recently _	recently	True	11.25
+969	121	s_xb	Mary saw _ recently _	recently	False	11.5625
+970	121	s_ax	her books, Mary saw _ your hat _ recently	your,hat	False	16.765625
+971	121	s_xx	Mary saw _ your hat _ recently	your,hat	True	16.59375
+972	121	s_i_ab	her books, Mary saw the bag that carried _ recently _	recently	False	11.8125
+973	121	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+974	121	s_i_ax	her books, Mary saw the bag that carried _ your hat _ recently	your,hat	False	19.15625
+975	121	s_i_xx	Mary saw the bag that carried _ your hat _ recently	your,hat	True	18.84375
+976	122	s_ab	her books, Mary saw _ earlier _	earlier	True	9.875
+977	122	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+978	122	s_ax	her books, Mary saw _ your hat _ earlier	your,hat	False	16.765625
+979	122	s_xx	Mary saw _ your hat _ earlier	your,hat	True	16.59375
+980	122	s_i_ab	her books, Mary saw the bag that carried _ earlier _	earlier	False	9.9375
+981	122	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+982	122	s_i_ax	her books, Mary saw the bag that carried _ your hat _ earlier	your,hat	False	19.15625
+983	122	s_i_xx	Mary saw the bag that carried _ your hat _ earlier	your,hat	True	18.84375
+984	123	s_ab	her books, Mary saw _ yesterday _	yesterday	True	9.0
+985	123	s_xb	Mary saw _ yesterday _	yesterday	False	9.25
+986	123	s_ax	her books, Mary saw _ our keys _ yesterday	our,keys	False	20.78125
+987	123	s_xx	Mary saw _ our keys _ yesterday	our,keys	True	19.84375
+988	123	s_i_ab	her books, Mary saw the bag that carried _ yesterday _	yesterday	False	9.0625
+989	123	s_i_xb	Mary saw the bag that carried _ yesterday _	yesterday	False	9.125
+990	123	s_i_ax	her books, Mary saw the bag that carried _ our keys _ yesterday	our,keys	False	21.15625
+991	123	s_i_xx	Mary saw the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+992	124	s_ab	her books, Mary saw _ recently _	recently	True	11.25
+993	124	s_xb	Mary saw _ recently _	recently	False	11.5625
+994	124	s_ax	her books, Mary saw _ our keys _ recently	our,keys	False	20.78125
+995	124	s_xx	Mary saw _ our keys _ recently	our,keys	True	19.84375
+996	124	s_i_ab	her books, Mary saw the bag that carried _ recently _	recently	False	11.8125
+997	124	s_i_xb	Mary saw the bag that carried _ recently _	recently	False	11.9375
+998	124	s_i_ax	her books, Mary saw the bag that carried _ our keys _ recently	our,keys	False	21.15625
+999	124	s_i_xx	Mary saw the bag that carried _ our keys _ recently	our,keys	True	20.34375
+1000	125	s_ab	her books, Mary saw _ earlier _	earlier	True	9.875
+1001	125	s_xb	Mary saw _ earlier _	earlier	False	10.3125
+1002	125	s_ax	her books, Mary saw _ our keys _ earlier	our,keys	False	20.78125
+1003	125	s_xx	Mary saw _ our keys _ earlier	our,keys	True	19.84375
+1004	125	s_i_ab	her books, Mary saw the bag that carried _ earlier _	earlier	False	9.9375
+1005	125	s_i_xb	Mary saw the bag that carried _ earlier _	earlier	False	10.125
+1006	125	s_i_ax	her books, Mary saw the bag that carried _ our keys _ earlier	our,keys	False	21.15625
+1007	125	s_i_xx	Mary saw the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+1008	126	s_ab	her books, Mary forgot _ yesterday _	yesterday	True	8.5625
+1009	126	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+1010	126	s_ax	her books, Mary forgot _ the cheese _ yesterday	the,cheese	False	12.53125
+1011	126	s_xx	Mary forgot _ the cheese _ yesterday	the,cheese	True	13.21484375
+1012	126	s_i_ab	her books, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1013	126	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+1014	126	s_i_ax	her books, Mary forgot the bag that carried _ the cheese _ yesterday	the,cheese	False	14.1484375
+1015	126	s_i_xx	Mary forgot the bag that carried _ the cheese _ yesterday	the,cheese	True	14.140625
+1016	127	s_ab	her books, Mary forgot _ recently _	recently	True	11.3125
+1017	127	s_xb	Mary forgot _ recently _	recently	False	11.8125
+1018	127	s_ax	her books, Mary forgot _ the cheese _ recently	the,cheese	False	12.53125
+1019	127	s_xx	Mary forgot _ the cheese _ recently	the,cheese	True	13.21484375
+1020	127	s_i_ab	her books, Mary forgot the bag that carried _ recently _	recently	False	11.75
+1021	127	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+1022	127	s_i_ax	her books, Mary forgot the bag that carried _ the cheese _ recently	the,cheese	False	14.1484375
+1023	127	s_i_xx	Mary forgot the bag that carried _ the cheese _ recently	the,cheese	True	14.140625
+1024	128	s_ab	her books, Mary forgot _ earlier _	earlier	True	10.0
+1025	128	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+1026	128	s_ax	her books, Mary forgot _ the cheese _ earlier	the,cheese	False	12.53125
+1027	128	s_xx	Mary forgot _ the cheese _ earlier	the,cheese	True	13.21484375
+1028	128	s_i_ab	her books, Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+1029	128	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+1030	128	s_i_ax	her books, Mary forgot the bag that carried _ the cheese _ earlier	the,cheese	False	14.1484375
+1031	128	s_i_xx	Mary forgot the bag that carried _ the cheese _ earlier	the,cheese	True	14.140625
+1032	129	s_ab	her books, Mary forgot _ yesterday _	yesterday	True	8.5625
+1033	129	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+1034	129	s_ax	her books, Mary forgot _ your hat _ yesterday	your,hat	False	18.46875
+1035	129	s_xx	Mary forgot _ your hat _ yesterday	your,hat	True	18.84375
+1036	129	s_i_ab	her books, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1037	129	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+1038	129	s_i_ax	her books, Mary forgot the bag that carried _ your hat _ yesterday	your,hat	False	19.21875
+1039	129	s_i_xx	Mary forgot the bag that carried _ your hat _ yesterday	your,hat	True	18.953125
+1040	130	s_ab	her books, Mary forgot _ recently _	recently	True	11.3125
+1041	130	s_xb	Mary forgot _ recently _	recently	False	11.8125
+1042	130	s_ax	her books, Mary forgot _ your hat _ recently	your,hat	False	18.46875
+1043	130	s_xx	Mary forgot _ your hat _ recently	your,hat	True	18.84375
+1044	130	s_i_ab	her books, Mary forgot the bag that carried _ recently _	recently	False	11.75
+1045	130	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+1046	130	s_i_ax	her books, Mary forgot the bag that carried _ your hat _ recently	your,hat	False	19.21875
+1047	130	s_i_xx	Mary forgot the bag that carried _ your hat _ recently	your,hat	True	18.953125
+1048	131	s_ab	her books, Mary forgot _ earlier _	earlier	True	10.0
+1049	131	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+1050	131	s_ax	her books, Mary forgot _ your hat _ earlier	your,hat	False	18.46875
+1051	131	s_xx	Mary forgot _ your hat _ earlier	your,hat	True	18.84375
+1052	131	s_i_ab	her books, Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+1053	131	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+1054	131	s_i_ax	her books, Mary forgot the bag that carried _ your hat _ earlier	your,hat	False	19.21875
+1055	131	s_i_xx	Mary forgot the bag that carried _ your hat _ earlier	your,hat	True	18.953125
+1056	132	s_ab	her books, Mary forgot _ yesterday _	yesterday	True	8.5625
+1057	132	s_xb	Mary forgot _ yesterday _	yesterday	False	8.75
+1058	132	s_ax	her books, Mary forgot _ our keys _ yesterday	our,keys	False	22.59375
+1059	132	s_xx	Mary forgot _ our keys _ yesterday	our,keys	True	22.28125
+1060	132	s_i_ab	her books, Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1061	132	s_i_xb	Mary forgot the bag that carried _ yesterday _	yesterday	False	9.0
+1062	132	s_i_ax	her books, Mary forgot the bag that carried _ our keys _ yesterday	our,keys	False	21.21875
+1063	132	s_i_xx	Mary forgot the bag that carried _ our keys _ yesterday	our,keys	True	20.78125
+1064	133	s_ab	her books, Mary forgot _ recently _	recently	True	11.3125
+1065	133	s_xb	Mary forgot _ recently _	recently	False	11.8125
+1066	133	s_ax	her books, Mary forgot _ our keys _ recently	our,keys	False	22.59375
+1067	133	s_xx	Mary forgot _ our keys _ recently	our,keys	True	22.28125
+1068	133	s_i_ab	her books, Mary forgot the bag that carried _ recently _	recently	False	11.75
+1069	133	s_i_xb	Mary forgot the bag that carried _ recently _	recently	False	11.8125
+1070	133	s_i_ax	her books, Mary forgot the bag that carried _ our keys _ recently	our,keys	False	21.21875
+1071	133	s_i_xx	Mary forgot the bag that carried _ our keys _ recently	our,keys	True	20.78125
+1072	134	s_ab	her books, Mary forgot _ earlier _	earlier	True	10.0
+1073	134	s_xb	Mary forgot _ earlier _	earlier	False	10.375
+1074	134	s_ax	her books, Mary forgot _ our keys _ earlier	our,keys	False	22.59375
+1075	134	s_xx	Mary forgot _ our keys _ earlier	our,keys	True	22.28125
+1076	134	s_i_ab	her books, Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+1077	134	s_i_xb	Mary forgot the bag that carried _ earlier _	earlier	False	9.875
+1078	134	s_i_ax	her books, Mary forgot the bag that carried _ our keys _ earlier	our,keys	False	21.21875
+1079	134	s_i_xx	Mary forgot the bag that carried _ our keys _ earlier	our,keys	True	20.78125
+1080	135	s_ab	her books, Jennifer bought _ yesterday _	yesterday	True	9.1875
+1081	135	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+1082	135	s_ax	her books, Jennifer bought _ the cheese _ yesterday	the,cheese	False	14.359375
+1083	135	s_xx	Jennifer bought _ the cheese _ yesterday	the,cheese	True	14.01171875
+1084	135	s_i_ab	her books, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+1085	135	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+1086	135	s_i_ax	her books, Jennifer bought the bag that carried _ the cheese _ yesterday	the,cheese	False	14.5390625
+1087	135	s_i_xx	Jennifer bought the bag that carried _ the cheese _ yesterday	the,cheese	True	14.59375
+1088	136	s_ab	her books, Jennifer bought _ recently _	recently	True	11.5625
+1089	136	s_xb	Jennifer bought _ recently _	recently	False	12.0
+1090	136	s_ax	her books, Jennifer bought _ the cheese _ recently	the,cheese	False	14.359375
+1091	136	s_xx	Jennifer bought _ the cheese _ recently	the,cheese	True	14.01171875
+1092	136	s_i_ab	her books, Jennifer bought the bag that carried _ recently _	recently	False	11.8125
+1093	136	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+1094	136	s_i_ax	her books, Jennifer bought the bag that carried _ the cheese _ recently	the,cheese	False	14.5390625
+1095	136	s_i_xx	Jennifer bought the bag that carried _ the cheese _ recently	the,cheese	True	14.59375
+1096	137	s_ab	her books, Jennifer bought _ earlier _	earlier	True	10.0
+1097	137	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+1098	137	s_ax	her books, Jennifer bought _ the cheese _ earlier	the,cheese	False	14.359375
+1099	137	s_xx	Jennifer bought _ the cheese _ earlier	the,cheese	True	14.01171875
+1100	137	s_i_ab	her books, Jennifer bought the bag that carried _ earlier _	earlier	False	9.875
+1101	137	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+1102	137	s_i_ax	her books, Jennifer bought the bag that carried _ the cheese _ earlier	the,cheese	False	14.5390625
+1103	137	s_i_xx	Jennifer bought the bag that carried _ the cheese _ earlier	the,cheese	True	14.59375
+1104	138	s_ab	her books, Jennifer bought _ yesterday _	yesterday	True	9.1875
+1105	138	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+1106	138	s_ax	her books, Jennifer bought _ your hat _ yesterday	your,hat	False	18.921875
+1107	138	s_xx	Jennifer bought _ your hat _ yesterday	your,hat	True	19.328125
+1108	138	s_i_ab	her books, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+1109	138	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+1110	138	s_i_ax	her books, Jennifer bought the bag that carried _ your hat _ yesterday	your,hat	False	18.921875
+1111	138	s_i_xx	Jennifer bought the bag that carried _ your hat _ yesterday	your,hat	True	19.03125
+1112	139	s_ab	her books, Jennifer bought _ recently _	recently	True	11.5625
+1113	139	s_xb	Jennifer bought _ recently _	recently	False	12.0
+1114	139	s_ax	her books, Jennifer bought _ your hat _ recently	your,hat	False	18.921875
+1115	139	s_xx	Jennifer bought _ your hat _ recently	your,hat	True	19.328125
+1116	139	s_i_ab	her books, Jennifer bought the bag that carried _ recently _	recently	False	11.8125
+1117	139	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+1118	139	s_i_ax	her books, Jennifer bought the bag that carried _ your hat _ recently	your,hat	False	18.921875
+1119	139	s_i_xx	Jennifer bought the bag that carried _ your hat _ recently	your,hat	True	19.03125
+1120	140	s_ab	her books, Jennifer bought _ earlier _	earlier	True	10.0
+1121	140	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+1122	140	s_ax	her books, Jennifer bought _ your hat _ earlier	your,hat	False	18.921875
+1123	140	s_xx	Jennifer bought _ your hat _ earlier	your,hat	True	19.328125
+1124	140	s_i_ab	her books, Jennifer bought the bag that carried _ earlier _	earlier	False	9.875
+1125	140	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+1126	140	s_i_ax	her books, Jennifer bought the bag that carried _ your hat _ earlier	your,hat	False	18.921875
+1127	140	s_i_xx	Jennifer bought the bag that carried _ your hat _ earlier	your,hat	True	19.03125
+1128	141	s_ab	her books, Jennifer bought _ yesterday _	yesterday	True	9.1875
+1129	141	s_xb	Jennifer bought _ yesterday _	yesterday	False	9.4375
+1130	141	s_ax	her books, Jennifer bought _ our keys _ yesterday	our,keys	False	22.15625
+1131	141	s_xx	Jennifer bought _ our keys _ yesterday	our,keys	True	20.8125
+1132	141	s_i_ab	her books, Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+1133	141	s_i_xb	Jennifer bought the bag that carried _ yesterday _	yesterday	False	9.125
+1134	141	s_i_ax	her books, Jennifer bought the bag that carried _ our keys _ yesterday	our,keys	False	20.59375
+1135	141	s_i_xx	Jennifer bought the bag that carried _ our keys _ yesterday	our,keys	True	20.34375
+1136	142	s_ab	her books, Jennifer bought _ recently _	recently	True	11.5625
+1137	142	s_xb	Jennifer bought _ recently _	recently	False	12.0
+1138	142	s_ax	her books, Jennifer bought _ our keys _ recently	our,keys	False	22.15625
+1139	142	s_xx	Jennifer bought _ our keys _ recently	our,keys	True	20.8125
+1140	142	s_i_ab	her books, Jennifer bought the bag that carried _ recently _	recently	False	11.8125
+1141	142	s_i_xb	Jennifer bought the bag that carried _ recently _	recently	False	11.875
+1142	142	s_i_ax	her books, Jennifer bought the bag that carried _ our keys _ recently	our,keys	False	20.59375
+1143	142	s_i_xx	Jennifer bought the bag that carried _ our keys _ recently	our,keys	True	20.34375
+1144	143	s_ab	her books, Jennifer bought _ earlier _	earlier	True	10.0
+1145	143	s_xb	Jennifer bought _ earlier _	earlier	False	10.5625
+1146	143	s_ax	her books, Jennifer bought _ our keys _ earlier	our,keys	False	22.15625
+1147	143	s_xx	Jennifer bought _ our keys _ earlier	our,keys	True	20.8125
+1148	143	s_i_ab	her books, Jennifer bought the bag that carried _ earlier _	earlier	False	9.875
+1149	143	s_i_xb	Jennifer bought the bag that carried _ earlier _	earlier	False	9.9375
+1150	143	s_i_ax	her books, Jennifer bought the bag that carried _ our keys _ earlier	our,keys	False	20.59375
+1151	143	s_i_xx	Jennifer bought the bag that carried _ our keys _ earlier	our,keys	True	20.34375
+1152	144	s_ab	her books, Jennifer saw _ yesterday _	yesterday	True	9.0
+1153	144	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+1154	144	s_ax	her books, Jennifer saw _ the cheese _ yesterday	the,cheese	False	11.921875
+1155	144	s_xx	Jennifer saw _ the cheese _ yesterday	the,cheese	True	12.41015625
+1156	144	s_i_ab	her books, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.125
+1157	144	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+1158	144	s_i_ax	her books, Jennifer saw the bag that carried _ the cheese _ yesterday	the,cheese	False	14.5234375
+1159	144	s_i_xx	Jennifer saw the bag that carried _ the cheese _ yesterday	the,cheese	True	14.40625
+1160	145	s_ab	her books, Jennifer saw _ recently _	recently	True	11.25
+1161	145	s_xb	Jennifer saw _ recently _	recently	False	11.625
+1162	145	s_ax	her books, Jennifer saw _ the cheese _ recently	the,cheese	False	11.921875
+1163	145	s_xx	Jennifer saw _ the cheese _ recently	the,cheese	True	12.41015625
+1164	145	s_i_ab	her books, Jennifer saw the bag that carried _ recently _	recently	False	11.875
+1165	145	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+1166	145	s_i_ax	her books, Jennifer saw the bag that carried _ the cheese _ recently	the,cheese	False	14.5234375
+1167	145	s_i_xx	Jennifer saw the bag that carried _ the cheese _ recently	the,cheese	True	14.40625
+1168	146	s_ab	her books, Jennifer saw _ earlier _	earlier	True	9.8125
+1169	146	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+1170	146	s_ax	her books, Jennifer saw _ the cheese _ earlier	the,cheese	False	11.921875
+1171	146	s_xx	Jennifer saw _ the cheese _ earlier	the,cheese	True	12.41015625
+1172	146	s_i_ab	her books, Jennifer saw the bag that carried _ earlier _	earlier	False	9.9375
+1173	146	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+1174	146	s_i_ax	her books, Jennifer saw the bag that carried _ the cheese _ earlier	the,cheese	False	14.5234375
+1175	146	s_i_xx	Jennifer saw the bag that carried _ the cheese _ earlier	the,cheese	True	14.40625
+1176	147	s_ab	her books, Jennifer saw _ yesterday _	yesterday	True	9.0
+1177	147	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+1178	147	s_ax	her books, Jennifer saw _ your hat _ yesterday	your,hat	False	16.859375
+1179	147	s_xx	Jennifer saw _ your hat _ yesterday	your,hat	True	17.09375
+1180	147	s_i_ab	her books, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.125
+1181	147	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+1182	147	s_i_ax	her books, Jennifer saw the bag that carried _ your hat _ yesterday	your,hat	False	19.078125
+1183	147	s_i_xx	Jennifer saw the bag that carried _ your hat _ yesterday	your,hat	True	18.78125
+1184	148	s_ab	her books, Jennifer saw _ recently _	recently	True	11.25
+1185	148	s_xb	Jennifer saw _ recently _	recently	False	11.625
+1186	148	s_ax	her books, Jennifer saw _ your hat _ recently	your,hat	False	16.859375
+1187	148	s_xx	Jennifer saw _ your hat _ recently	your,hat	True	17.09375
+1188	148	s_i_ab	her books, Jennifer saw the bag that carried _ recently _	recently	False	11.875
+1189	148	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+1190	148	s_i_ax	her books, Jennifer saw the bag that carried _ your hat _ recently	your,hat	False	19.078125
+1191	148	s_i_xx	Jennifer saw the bag that carried _ your hat _ recently	your,hat	True	18.78125
+1192	149	s_ab	her books, Jennifer saw _ earlier _	earlier	True	9.8125
+1193	149	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+1194	149	s_ax	her books, Jennifer saw _ your hat _ earlier	your,hat	False	16.859375
+1195	149	s_xx	Jennifer saw _ your hat _ earlier	your,hat	True	17.09375
+1196	149	s_i_ab	her books, Jennifer saw the bag that carried _ earlier _	earlier	False	9.9375
+1197	149	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+1198	149	s_i_ax	her books, Jennifer saw the bag that carried _ your hat _ earlier	your,hat	False	19.078125
+1199	149	s_i_xx	Jennifer saw the bag that carried _ your hat _ earlier	your,hat	True	18.78125
+1200	150	s_ab	her books, Jennifer saw _ yesterday _	yesterday	True	9.0
+1201	150	s_xb	Jennifer saw _ yesterday _	yesterday	False	9.1875
+1202	150	s_ax	her books, Jennifer saw _ our keys _ yesterday	our,keys	False	20.65625
+1203	150	s_xx	Jennifer saw _ our keys _ yesterday	our,keys	True	19.71875
+1204	150	s_i_ab	her books, Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.125
+1205	150	s_i_xb	Jennifer saw the bag that carried _ yesterday _	yesterday	False	9.1875
+1206	150	s_i_ax	her books, Jennifer saw the bag that carried _ our keys _ yesterday	our,keys	False	21.09375
+1207	150	s_i_xx	Jennifer saw the bag that carried _ our keys _ yesterday	our,keys	True	20.46875
+1208	151	s_ab	her books, Jennifer saw _ recently _	recently	True	11.25
+1209	151	s_xb	Jennifer saw _ recently _	recently	False	11.625
+1210	151	s_ax	her books, Jennifer saw _ our keys _ recently	our,keys	False	20.65625
+1211	151	s_xx	Jennifer saw _ our keys _ recently	our,keys	True	19.71875
+1212	151	s_i_ab	her books, Jennifer saw the bag that carried _ recently _	recently	False	11.875
+1213	151	s_i_xb	Jennifer saw the bag that carried _ recently _	recently	False	12.0
+1214	151	s_i_ax	her books, Jennifer saw the bag that carried _ our keys _ recently	our,keys	False	21.09375
+1215	151	s_i_xx	Jennifer saw the bag that carried _ our keys _ recently	our,keys	True	20.46875
+1216	152	s_ab	her books, Jennifer saw _ earlier _	earlier	True	9.8125
+1217	152	s_xb	Jennifer saw _ earlier _	earlier	False	10.25
+1218	152	s_ax	her books, Jennifer saw _ our keys _ earlier	our,keys	False	20.65625
+1219	152	s_xx	Jennifer saw _ our keys _ earlier	our,keys	True	19.71875
+1220	152	s_i_ab	her books, Jennifer saw the bag that carried _ earlier _	earlier	False	9.9375
+1221	152	s_i_xb	Jennifer saw the bag that carried _ earlier _	earlier	False	10.0625
+1222	152	s_i_ax	her books, Jennifer saw the bag that carried _ our keys _ earlier	our,keys	False	21.09375
+1223	152	s_i_xx	Jennifer saw the bag that carried _ our keys _ earlier	our,keys	True	20.46875
+1224	153	s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True	8.8125
+1225	153	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+1226	153	s_ax	her books, Jennifer forgot _ the cheese _ yesterday	the,cheese	False	12.609375
+1227	153	s_xx	Jennifer forgot _ the cheese _ yesterday	the,cheese	True	13.296875
+1228	153	s_i_ab	her books, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1229	153	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1230	153	s_i_ax	her books, Jennifer forgot the bag that carried _ the cheese _ yesterday	the,cheese	False	14.28125
+1231	153	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ yesterday	the,cheese	True	14.203125
+1232	154	s_ab	her books, Jennifer forgot _ recently _	recently	True	11.5625
+1233	154	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+1234	154	s_ax	her books, Jennifer forgot _ the cheese _ recently	the,cheese	False	12.609375
+1235	154	s_xx	Jennifer forgot _ the cheese _ recently	the,cheese	True	13.296875
+1236	154	s_i_ab	her books, Jennifer forgot the bag that carried _ recently _	recently	False	11.75
+1237	154	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+1238	154	s_i_ax	her books, Jennifer forgot the bag that carried _ the cheese _ recently	the,cheese	False	14.28125
+1239	154	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ recently	the,cheese	True	14.203125
+1240	155	s_ab	her books, Jennifer forgot _ earlier _	earlier	True	10.1875
+1241	155	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+1242	155	s_ax	her books, Jennifer forgot _ the cheese _ earlier	the,cheese	False	12.609375
+1243	155	s_xx	Jennifer forgot _ the cheese _ earlier	the,cheese	True	13.296875
+1244	155	s_i_ab	her books, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.8125
+1245	155	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+1246	155	s_i_ax	her books, Jennifer forgot the bag that carried _ the cheese _ earlier	the,cheese	False	14.28125
+1247	155	s_i_xx	Jennifer forgot the bag that carried _ the cheese _ earlier	the,cheese	True	14.203125
+1248	156	s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True	8.8125
+1249	156	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+1250	156	s_ax	her books, Jennifer forgot _ your hat _ yesterday	your,hat	False	18.546875
+1251	156	s_xx	Jennifer forgot _ your hat _ yesterday	your,hat	True	19.359375
+1252	156	s_i_ab	her books, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1253	156	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1254	156	s_i_ax	her books, Jennifer forgot the bag that carried _ your hat _ yesterday	your,hat	False	19.21875
+1255	156	s_i_xx	Jennifer forgot the bag that carried _ your hat _ yesterday	your,hat	True	19.078125
+1256	157	s_ab	her books, Jennifer forgot _ recently _	recently	True	11.5625
+1257	157	s_xb	Jennifer forgot _ recently _	recently	False	12.125
+1258	157	s_ax	her books, Jennifer forgot _ your hat _ recently	your,hat	False	18.546875
+1259	157	s_xx	Jennifer forgot _ your hat _ recently	your,hat	True	19.359375
+1260	157	s_i_ab	her books, Jennifer forgot the bag that carried _ recently _	recently	False	11.75
+1261	157	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+1262	157	s_i_ax	her books, Jennifer forgot the bag that carried _ your hat _ recently	your,hat	False	19.21875
+1263	157	s_i_xx	Jennifer forgot the bag that carried _ your hat _ recently	your,hat	True	19.078125
+1264	158	s_ab	her books, Jennifer forgot _ earlier _	earlier	True	10.1875
+1265	158	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+1266	158	s_ax	her books, Jennifer forgot _ your hat _ earlier	your,hat	False	18.546875
+1267	158	s_xx	Jennifer forgot _ your hat _ earlier	your,hat	True	19.359375
+1268	158	s_i_ab	her books, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.8125
+1269	158	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+1270	158	s_i_ax	her books, Jennifer forgot the bag that carried _ your hat _ earlier	your,hat	False	19.21875
+1271	158	s_i_xx	Jennifer forgot the bag that carried _ your hat _ earlier	your,hat	True	19.078125
+1272	159	s_ab	her books, Jennifer forgot _ yesterday _	yesterday	True	8.8125
+1273	159	s_xb	Jennifer forgot _ yesterday _	yesterday	False	9.0
+1274	159	s_ax	her books, Jennifer forgot _ our keys _ yesterday	our,keys	False	22.78125
+1275	159	s_xx	Jennifer forgot _ our keys _ yesterday	our,keys	True	22.28125
+1276	159	s_i_ab	her books, Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1277	159	s_i_xb	Jennifer forgot the bag that carried _ yesterday _	yesterday	False	9.0625
+1278	159	s_i_ax	her books, Jennifer forgot the bag that carried _ our keys _ yesterday	our,keys	False	21.15625
+1279	159	s_i_xx	Jennifer forgot the bag that carried _ our keys _ yesterday	our,keys	True	20.78125
+1280	160	s_ab	her books, Jennifer forgot _ recently _	recently	True	11.5625
+1281	160	s_xb	Jennifer forgot _ recently _	recently	False	12.0625
+1282	160	s_ax	her books, Jennifer forgot _ our keys _ recently	our,keys	False	22.71875
+1283	160	s_xx	Jennifer forgot _ our keys _ recently	our,keys	True	22.375
+1284	160	s_i_ab	her books, Jennifer forgot the bag that carried _ recently _	recently	False	11.75
+1285	160	s_i_xb	Jennifer forgot the bag that carried _ recently _	recently	False	11.875
+1286	160	s_i_ax	her books, Jennifer forgot the bag that carried _ our keys _ recently	our,keys	False	21.15625
+1287	160	s_i_xx	Jennifer forgot the bag that carried _ our keys _ recently	our,keys	True	20.65625
+1288	161	s_ab	her books, Jennifer forgot _ earlier _	earlier	True	10.125
+1289	161	s_xb	Jennifer forgot _ earlier _	earlier	False	10.5625
+1290	161	s_ax	her books, Jennifer forgot _ our keys _ earlier	our,keys	False	22.71875
+1291	161	s_xx	Jennifer forgot _ our keys _ earlier	our,keys	True	22.375
+1292	161	s_i_ab	her books, Jennifer forgot the bag that carried _ earlier _	earlier	False	9.8125
+1293	161	s_i_xb	Jennifer forgot the bag that carried _ earlier _	earlier	False	9.875
+1294	161	s_i_ax	her books, Jennifer forgot the bag that carried _ our keys _ earlier	our,keys	False	21.15625
+1295	161	s_i_xx	Jennifer forgot the bag that carried _ our keys _ earlier	our,keys	True	20.65625

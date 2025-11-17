@@ -1,0 +1,6 @@
+{
+    "model_1_1_epoch9": {
+        "sampler": "tinker://4a517769-ccad-47a9-bdf4-1c96342a6c21/sampler_weights/model_1_1_epoch9",
+        "full": "tinker://4a517769-ccad-47a9-bdf4-1c96342a6c21/weights/model_1_1_epoch9"
+    }
+}

@@ -4,7 +4,7 @@ import urllib.request
 import os, tarfile
 
 
-weights_path = "tinker://80077304-7fc8-407d-b704-bd27d0231c15/sampler_weights/howitt3"
+weights_path = "tinker://e1c84e89-a568-4930-834a-82e90277c3b2/sampler_weights/model_2_2_epoch9"
 
 sc = tinker.ServiceClient()
 rc = sc.create_rest_client()

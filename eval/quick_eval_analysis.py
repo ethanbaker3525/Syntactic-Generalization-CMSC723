@@ -7,32 +7,27 @@ df = pd.read_csv(baseline, sep="\t")
 print(f"Mean surprisal in {eval_file} grouped by condition")
 print(df.groupby("condition")["surprisal"].mean())
 
-howitt0 = f"eval/howitt0/{eval_file}.tsv"
-df = pd.read_csv(howitt0, sep="\t")
+temp0 = f"eval/temp0/{eval_file}.tsv"
+df = pd.read_csv(temp0, sep="\t")
 print(f"Mean surprisal in {eval_file} grouped by condition")
 print(df.groupby("condition")["surprisal"].mean())
 
-howitt1 = f"eval/howitt1/{eval_file}.tsv"
-df = pd.read_csv(howitt1, sep="\t")
+temp1 = f"eval/temp1/{eval_file}.tsv"
+df = pd.read_csv(temp1, sep="\t")
 print(f"Mean surprisal in {eval_file} grouped by condition")
 print(df.groupby("condition")["surprisal"].mean())
 
-howitt2 = f"eval/howitt2/{eval_file}.tsv"
-df = pd.read_csv(howitt2, sep="\t")
+temp2 = f"eval/temp2/{eval_file}.tsv"
+df = pd.read_csv(temp2, sep="\t")
 print(f"Mean surprisal in {eval_file} grouped by condition")
 print(df.groupby("condition")["surprisal"].mean())
 
-howitt5 = f"eval/howitt5/{eval_file}.tsv"
-df = pd.read_csv(howitt5, sep="\t")
+temp3 = f"eval/temp3/{eval_file}.tsv"
+df = pd.read_csv(temp3, sep="\t")
 print(f"Mean surprisal in {eval_file} grouped by condition")
 print(df.groupby("condition")["surprisal"].mean())
 
-howitt10 = f"eval/howitt10/{eval_file}.tsv"
-df = pd.read_csv(howitt10, sep="\t")
-print(f"Mean surprisal in {eval_file} grouped by condition")
-print(df.groupby("condition")["surprisal"].mean())
-
-howitt50 = f"eval/howitt50/{eval_file}.tsv"
-df = pd.read_csv(howitt50, sep="\t")
+temp10 = f"eval/temp10/{eval_file}.tsv"
+df = pd.read_csv(temp10, sep="\t")
 print(f"Mean surprisal in {eval_file} grouped by condition")
 print(df.groupby("condition")["surprisal"].mean())
