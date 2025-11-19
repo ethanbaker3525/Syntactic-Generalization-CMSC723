@@ -1,12 +1,19 @@
-import pandas as pd
-import numpy as np
 import argparse
 from pathlib import Path
-from pymer4.models import lmer
-import polars as pl
-from tqdm import tqdm
 
-# https://github.com/umd-psycholing/lm-syntactic-generalization/blob/main/analysis.py
+import pandas as pd
+import numpy as np
+import polars as pl
+import matplotlib.pyplot as plt
+from tqdm import tqdm
+from pymer4.models import lmer
+
+def extract_condition(df):
+    df[["island", "wh", "gap"]] = df["condition"].str.extract(r"s(_i)?_(a|x)(b|x)")
+    df["island"] = df["island"].map({"_i": 1, np.nan: -1})
+    df["wh"] = df["wh"].map({"a": 1, "x": -1})
+    df["gap"] = df["gap"].map({"b": 1, "x": -1})
+    return df
 
 def load_eval_data(eval_path):
     eval_path = Path(eval_path)
@@ -23,12 +30,43 @@ def load_eval_data(eval_path):
                     df_list.append(tmp)
     return pd.concat(df_list, ignore_index=True) if df_list else pd.DataFrame()
 
-def extract_condition(df):
-    df[["island", "wh", "gap"]] = df["condition"].str.extract(r"s(_i)?_(a|x)(b|x)")
-    df["island"] = df["island"].map({"_i": 1, np.nan: -1})
-    df["wh"] = df["wh"].map({"a": 1, "x": -1})
-    df["gap"] = df["gap"].map({"b": 1, "x": -1})
-    return df
+def calculate_filler_gap_effects(df):
+
+    results = []
+
+    models = df["model"].unique()
+    constrs = df["constr"].unique()
+
+    # total iterations for tqdm
+    total = len(models) * len(constrs)
+
+    for model, constr in tqdm(
+        [(m, c) for m in models for c in constrs],
+        total=total,
+        desc="Calculating filler gap effects"
+    ):
+
+        data = df[
+            (df["model"] == model) &
+            (df["constr"] == constr) #&
+            #(df["island"] == -1)
+        ]
+
+        data = data[["group", "surprisal", "wh", "gap", "island"]]
+        pivoted = data.pivot_table(
+            index=["group", "wh", "island"],
+            columns="gap",
+            values="surprisal"
+        )
+
+        pivoted["effect"] = pivoted[1] - pivoted[-1]
+        pivoted["model"] = model
+        pivoted["constr"] = constr
+        pivoted = pivoted.reset_index()
+        pivoted = pivoted[["model", "constr", "group", "wh", "island", "effect"]]
+        results.append(pivoted)
+
+    return pd.concat(results, ignore_index=True)
 
 def calculate_linear_mixed_effects(df):
 
@@ -74,33 +112,36 @@ def calculate_linear_mixed_effects(df):
 
 
 def main():
+    '''
+    Produces filled gap effect and LME model results for all eval surprisals
+    '''
     parser = argparse.ArgumentParser(description='Calculate linear mixed effect model from surprisal data')
-    parser.add_argument('--eval_file_path', type=str, required=True,
-                        help='Path to the evaluation TSV file (e.g., eval/baseline_evals/eval_cleft_baseline.tsv)')
-    parser.add_argument('--output_path', type=str, required=True,
+    parser.add_argument('--eval_file_path', type=str, required=False, default='./eval/',
+                        help='Path to the evaluation eval folder')
+    parser.add_argument('--output_path', type=str, required=False, default='./analysis/output',
                         help='Path to output directory for results')
     args = parser.parse_args()
+
     # Create output directory if it doesn't exist
     output_dir = Path(args.output_path)
     output_dir.mkdir(parents=True, exist_ok=True)
     input_path = Path(args.eval_file_path)
+
     # Read input data
     print(f"Reading data from: {input_path}")
     df = load_eval_data(input_path)
     df = extract_condition(df)
 
-    # Calculate filler effects
-    result = calculate_linear_mixed_effects(df)
-    print(result)
+    # filler gap effects
+    fge_df = calculate_filler_gap_effects(df)
+
+    # LME model
+    lme_df = calculate_linear_mixed_effects(df)
 
     # Save results
-    output_file = output_dir / f"{input_path.stem}_lme.tsv"
-    result.to_csv(output_file, sep="\t", index=False)
-    print(f"\nResults saved to: {output_file}")
-    print("\nLME Model Results:")
-    pd.set_option('display.max_columns', None)
-    pd.set_option('display.max_rows', None)
-    print(result)
+    fge_df.to_csv(output_dir / "fge.tsv", sep="\t", index=False)
+    lme_df.to_csv(output_dir / "lme.tsv", sep="\t", index=False)
+    print(f"Saved results to: {output_dir}")
     
 
 if __name__ == "__main__":
