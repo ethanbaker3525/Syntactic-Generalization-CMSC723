@@ -1,31 +1,31 @@
 term	estimate	p_value	model	constr	sig
-wh:gap	-0.8027655205118313	0.0	baseline	eval_cleft	***
-wh:gap:island	0.4416122122556584	1.9479038894852812e-122	baseline	eval_cleft	***
-wh:gap	-0.09052292309670781	7.672511101994806e-08	baseline	eval_intro_topic	***
-wh:gap:island	0.07081886574074074	2.5671939363040677e-05	baseline	eval_intro_topic	***
-wh:gap	0.15558690200617284	5.81248546675739e-07	baseline	eval_nointro_topic	***
-wh:gap:island	-0.017771026234567902	0.5656600438520498	baseline	eval_nointro_topic	
-wh:gap	-0.7183842914094651	1.3540920900432273e-111	baseline	eval_tough	***
-wh:gap:island	0.00725389017489712	0.804265241146597	baseline	eval_tough	
-wh:gap	-0.5305181012834821	7.820642764061068e-05	baseline	eval_wh	***
-wh:gap:island	0.07622689383370536	0.5684517385928374	baseline	eval_wh	
-wh:gap	-0.8713549704218106	0.0	model_1_1	eval_cleft	***
-wh:gap:island	0.665919174382716	0.0	model_1_1	eval_cleft	***
-wh:gap	-0.17419785236625515	2.0056481945785576e-69	model_1_1	eval_intro_topic	***
-wh:gap:island	0.1115893454218107	2.124766175580353e-30	model_1_1	eval_intro_topic	***
-wh:gap	-0.20941538869598764	3.083665275672456e-32	model_1_1	eval_nointro_topic	***
-wh:gap:island	0.1300003616898148	6.358730402133107e-14	model_1_1	eval_nointro_topic	***
-wh:gap	-0.9607667020318932	1.640856698425743e-308	model_1_1	eval_tough	***
-wh:gap:island	0.781517248585391	4.636364446881376e-234	model_1_1	eval_tough	***
-wh:gap	-0.6917532784598214	8.063440727563798e-06	model_1_1	eval_wh	***
-wh:gap:island	0.1416695731026786	0.35769579491469006	model_1_1	eval_wh	
-wh:gap	-0.9277042341820987	0.0	model_2_2	eval_cleft	***
-wh:gap:island	0.5334764017489712	3.701354354062572e-134	model_2_2	eval_cleft	***
-wh:gap	-0.8954826951517489	0.0	model_2_2	eval_intro_topic	***
-wh:gap:island	0.6511732815715021	2.2008820134460628e-231	model_2_2	eval_intro_topic	***
-wh:gap	-0.8749216338734568	6.985511020528911e-118	model_2_2	eval_nointro_topic	***
-wh:gap:island	0.671459056712963	1.2443525473981899e-77	model_2_2	eval_nointro_topic	***
-wh:gap	-1.8969003182870372	7.061533329096302e-285	model_2_2	eval_tough	***
-wh:gap:island	0.40673828125000006	3.666531700250449e-22	model_2_2	eval_tough	***
-wh:gap	-0.8934607514880951	3.462224972136677e-07	model_2_2	eval_wh	***
-wh:gap:island	0.062196800595238105	0.7205289848188661	model_2_2	eval_wh	
+filler:gap	-0.8027655205118313	0.0	baseline	eval_cleft	***
+filler:gap:island	0.4416122122556584	1.9479038894852812e-122	baseline	eval_cleft	***
+filler:gap	-0.09052292309670781	7.672511101994806e-08	baseline	eval_intro_topic	***
+filler:gap:island	0.07081886574074074	2.5671939363040677e-05	baseline	eval_intro_topic	***
+filler:gap	0.15558690200617284	5.81248546675739e-07	baseline	eval_nointro_topic	***
+filler:gap:island	-0.017771026234567902	0.5656600438520498	baseline	eval_nointro_topic	
+filler:gap	-0.7183842914094651	1.3540920900432273e-111	baseline	eval_tough	***
+filler:gap:island	0.00725389017489712	0.804265241146597	baseline	eval_tough	
+filler:gap	-0.5305181012834821	7.820642764061068e-05	baseline	eval_wh	***
+filler:gap:island	0.07622689383370536	0.5684517385928374	baseline	eval_wh	
+filler:gap	-0.8713549704218106	0.0	model_1_1	eval_cleft	***
+filler:gap:island	0.665919174382716	0.0	model_1_1	eval_cleft	***
+filler:gap	-0.17419785236625515	2.0056481945785576e-69	model_1_1	eval_intro_topic	***
+filler:gap:island	0.1115893454218107	2.124766175580353e-30	model_1_1	eval_intro_topic	***
+filler:gap	-0.20941538869598764	3.083665275672456e-32	model_1_1	eval_nointro_topic	***
+filler:gap:island	0.1300003616898148	6.358730402133107e-14	model_1_1	eval_nointro_topic	***
+filler:gap	-0.9607667020318932	1.640856698425743e-308	model_1_1	eval_tough	***
+filler:gap:island	0.781517248585391	4.636364446881376e-234	model_1_1	eval_tough	***
+filler:gap	-0.6917532784598214	8.063440727563798e-06	model_1_1	eval_wh	***
+filler:gap:island	0.1416695731026786	0.35769579491469006	model_1_1	eval_wh	
+filler:gap	-0.9277042341820987	0.0	model_2_2	eval_cleft	***
+filler:gap:island	0.5334764017489712	3.701354354062572e-134	model_2_2	eval_cleft	***
+filler:gap	-0.8954826951517489	0.0	model_2_2	eval_intro_topic	***
+filler:gap:island	0.6511732815715021	2.2008820134460628e-231	model_2_2	eval_intro_topic	***
+filler:gap	-0.8749216338734568	6.985511020528911e-118	model_2_2	eval_nointro_topic	***
+filler:gap:island	0.671459056712963	1.2443525473981899e-77	model_2_2	eval_nointro_topic	***
+filler:gap	-1.8969003182870372	7.061533329096302e-285	model_2_2	eval_tough	***
+filler:gap:island	0.40673828125000006	3.666531700250449e-22	model_2_2	eval_tough	***
+filler:gap	-0.8934607514880951	3.462224972136677e-07	model_2_2	eval_wh	***
+filler:gap:island	0.062196800595238105	0.7205289848188661	model_2_2	eval_wh	

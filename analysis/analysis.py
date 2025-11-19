@@ -9,9 +9,9 @@ from tqdm import tqdm
 from pymer4.models import lmer
 
 def extract_condition(df):
-    df[["island", "wh", "gap"]] = df["condition"].str.extract(r"s(_i)?_(a|x)(b|x)")
+    df[["island", "filler", "gap"]] = df["condition"].str.extract(r"s(_i)?_(a|x)(b|x)")
     df["island"] = df["island"].map({"_i": 1, np.nan: -1})
-    df["wh"] = df["wh"].map({"a": 1, "x": -1})
+    df["filler"] = df["filler"].map({"a": 1, "x": -1})
     df["gap"] = df["gap"].map({"b": 1, "x": -1})
     return df
 
@@ -52,10 +52,10 @@ def calculate_filler_gap_effects(df):
             #(df["island"] == -1)
         ]
 
-        data = data[["group", "surprisal", "wh", "gap", "island"]]
+        data = data[["group", "surprisal", "filler", "gap", "island"]]
         pivoted = data.pivot_table(
-            index=["group", "wh", "island"],
-            columns="gap",
+            index=["group", "gap", "island"],
+            columns="filler",
             values="surprisal"
         )
 
@@ -63,15 +63,15 @@ def calculate_filler_gap_effects(df):
         pivoted["model"] = model
         pivoted["constr"] = constr
         pivoted = pivoted.reset_index()
-        pivoted = pivoted[["model", "constr", "group", "wh", "island", "effect"]]
+        pivoted = pivoted[["model", "constr", "group", "gap", "island", "effect"]]
         results.append(pivoted)
 
     return pd.concat(results, ignore_index=True)
 
 def calculate_linear_mixed_effects(df):
 
-    fg_formula = "surprisal ~ wh * gap + (1 | group)" # is it right to replace "item" with "group"?
-    island_formula = "surprisal~wh*gap*island+(gap||group)"
+    fg_formula = "surprisal~filler*gap+(1|group)" # is it right to replace "item" with "group"?
+    island_formula = "surprisal~filler*gap*island+(gap||group)"
 
     results = []
 
@@ -93,7 +93,7 @@ def calculate_linear_mixed_effects(df):
             #(df["island"] == -1)
         ]
 
-        data = data[["group", "surprisal", "wh", "gap", "island"]]
+        data = data[["group", "surprisal", "filler", "gap", "island"]]
 
         lme_model = lmer(island_formula, pl.DataFrame(data))
         lme_model.fit()
