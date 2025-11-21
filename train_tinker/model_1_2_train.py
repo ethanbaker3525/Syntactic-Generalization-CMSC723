@@ -14,12 +14,16 @@ from tinker_cookbook.supervised.nll_evaluator import NLLEvaluator
 
 # setup Tinker + model
 service_client = tinker.ServiceClient()
-base_model = 'meta-llama/Llama-3.2-1B' # TODO: check 3B vs 1B
+base_model = 'meta-llama/Llama-3.2-1B'
 training_client = service_client.create_lora_training_client(
     base_model=base_model
 )
 tokenizer = training_client.get_tokenizer()
-weight_path_file = os.path.join(Path(__file__).resolve().parent, "weight_paths_trees.json")
+model_name = "model_2_2" # TODO: i think this is supposed to be 2_1 but 2_2 file already exists...
+weight_output_file = os.path.join(Path(__file__).resolve().parent, f"weights_path_{model_name}.json")
+
+# load in model_1_1
+training_client.load_state("tinker://4a517769-ccad-47a9-bdf4-1c96342a6c21/weights/model_1_1_epoch9")
 
 # create batch of examples
 def create_batch(trees: List[str], max_length=256) -> List[types.Datum]:
@@ -49,8 +53,17 @@ epochs = 3
 batch_size = 32
 learning_rate = 0.0004908239409722158  # from Tinker docs
 
+
+def save_model(training_client, epoch):
+    sampling_path = training_client.save_weights_for_sampler(name=f"{model_name}_epoch{epoch+1}").result().path
+    full_path = training_client.save_state(name=f"{model_name}_epoch{epoch + 1}").result().path
+    with open(weight_output_file, "w", encoding="utf-8") as f:
+        json.dump({f"{model_name}_epoch{epoch+1}": {"sampling_path": sampling_path, "full_path": full_path}}, f, indent=4)
+
 # training loop
 random.seed(47)
+min_val_loss = float('inf')
+best_epoch = -1
 for epoch in range(epochs):
     epoch_loss = 0.0
     epoch_weights = 0.0
@@ -78,11 +91,13 @@ for epoch in range(epochs):
     val_loss = asyncio.run(val_evaluator(training_client))['nll']
     print(f"Validation loss after epoch {epoch+1}: {val_loss:.4f}")
     
-    # save model parameters
-    sampling_path = training_client.save_weights_for_sampler(name=f"trees{epoch}").result().path
-    full_path = training_client.save_state(name=f"trees{epoch}").result().path
-    with open(weight_path_file, "w", encoding="utf-8") as f:
-        json.dump({f"trees{epoch}": {"sampling_path": sampling_path, "full_path": full_path}}, f, indent=4)
+    # if this is the best model (according to test loss), then save it
+    if val_loss < min_val_loss:
+        min_val_loss = val_loss
+        best_epoch = epoch
+        save_model(training_client, epoch)
+        
+    
         
         
     
