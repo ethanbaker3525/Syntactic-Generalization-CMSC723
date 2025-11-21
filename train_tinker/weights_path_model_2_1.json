@@ -1,0 +1,6 @@
+{
+    "model_2_2_epoch2": {
+        "sampling_path": "tinker://43eebf32-e6c5-595f-81b3-31dcc32aafb5:train:0/sampler_weights/model_2_2_epoch2",
+        "full_path": "tinker://43eebf32-e6c5-595f-81b3-31dcc32aafb5:train:0/weights/model_2_2_epoch2"
+    }
+}
