@@ -22,7 +22,7 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 
 torch.cuda.empty_cache()
 
-model_id = "meta-llama/Llama-3.2-3B"
+model_id = "meta-llama/Llama-3.2-1B"
 tokenizer = AutoTokenizer.from_pretrained(model_id, token=hf_token)
 
 model = AutoModelForCausalLM.from_pretrained(
