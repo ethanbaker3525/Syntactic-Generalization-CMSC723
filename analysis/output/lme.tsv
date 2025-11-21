@@ -29,3 +29,23 @@ filler:gap	-1.8969003182870372	7.061533329096302e-285	model_2_2	eval_tough	***
 filler:gap:island	0.40673828125000006	3.666531700250449e-22	model_2_2	eval_tough	***
 filler:gap	-0.8934607514880951	3.462224972136677e-07	model_2_2	eval_wh	***
 filler:gap:island	0.062196800595238105	0.7205289848188661	model_2_2	eval_wh	
+filler:gap	0.2410501864711934	3.015685316897374e-17	model_1_2	eval_cleft	***
+filler:gap:island	0.4304309735082304	4.038165678759788e-50	model_1_2	eval_cleft	***
+filler:gap	-0.03935185185185185	0.1539384601531012	model_1_2	eval_intro_topic	
+filler:gap:island	0.39347029320987653	1.2054392482522365e-44	model_1_2	eval_intro_topic	***
+filler:gap	-0.08450279706790124	0.18364951560796652	model_1_2	eval_nointro_topic	
+filler:gap:island	0.10697579089506173	0.09242594050495292	model_1_2	eval_nointro_topic	.
+filler:gap	-0.6199805491255145	8.241523762705063e-32	model_1_2	eval_tough	***
+filler:gap:island	0.5571992348251029	3.126764999450582e-26	model_1_2	eval_tough	***
+filler:gap	-0.19211969284784222	0.27355169113005934	model_1_2	eval_wh	
+filler:gap:island	0.04612941196986607	0.7925548564341844	model_1_2	eval_wh	
+filler:gap	-1.699418181745113	0.0	model_2_1	eval_cleft	***
+filler:gap:island	1.127097298578961	9.1145e-320	model_2_1	eval_cleft	***
+filler:gap	-0.28365322788065844	1.7992483491436435e-50	model_2_1	eval_intro_topic	***
+filler:gap:island	0.28470212834362135	8.090070199915117e-51	model_2_1	eval_intro_topic	***
+filler:gap	-0.3046724295910494	9.49639416559003e-22	model_2_1	eval_nointro_topic	***
+filler:gap:island	0.18275282118055555	5.368978946817713e-09	model_2_1	eval_nointro_topic	***
+filler:gap	-0.5039162969393005	1.9313600689643814e-25	model_2_1	eval_tough	***
+filler:gap:island	0.7630148051697532	1.0497783223760923e-53	model_2_1	eval_tough	***
+filler:gap	-0.31825185139973955	0.08506847433363744	model_2_1	eval_wh	.
+filler:gap:island	0.0973554484049479	0.5980337608888767	model_2_1	eval_wh	

@@ -70,8 +70,9 @@ def calculate_filler_gap_effects(df):
 
 def calculate_linear_mixed_effects(df):
 
-    fg_formula = "surprisal~filler*gap+(1|group)" # is it right to replace "item" with "group"?
-    island_formula = "surprisal~filler*gap*island+(gap||group)"
+    # v run this on just simple, run the second on everything, run the other two
+    fg_formula = "surprisal~filler*gap+(1|group)" # two way effects
+    island_formula = "surprisal~filler*gap*island+(gap||group)" # only want 3 way effects
 
     results = []
 
@@ -110,6 +111,10 @@ def calculate_linear_mixed_effects(df):
 
     return pd.concat(results, ignore_index=True)
 
+def calculate_all_linear_mixed_effects(df):
+
+    fg_formula = "surprisal~filler*gap+(1|group)" # two way effects
+    island_formula = "surprisal~filler*gap*island+(gap||group)" # only want 3 way effects
 
 def main():
     '''
