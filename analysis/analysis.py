@@ -68,11 +68,7 @@ def calculate_filler_gap_effects(df):
 
     return pd.concat(results, ignore_index=True)
 
-def calculate_linear_mixed_effects(df):
-
-    # v run this on just simple, run the second on everything, run the other two
-    fg_formula = "surprisal~filler*gap+(1|group)" # two way effects
-    island_formula = "surprisal~filler*gap*island+(gap||group)" # only want 3 way effects
+def calculate_linear_mixed_effects(df, formula):
 
     results = []
 
@@ -96,25 +92,36 @@ def calculate_linear_mixed_effects(df):
 
         data = data[["group", "surprisal", "filler", "gap", "island"]]
 
-        lme_model = lmer(island_formula, pl.DataFrame(data))
+        #print(data)
+
+        lme_model = lmer(formula, pl.DataFrame(data))
         lme_model.fit()
         result = (
             lme_model.result_fit[["term", "estimate", "p_value"]]
             .tail(4)
             .to_pandas()
-            .iloc[[0, -1]] # wh:gap and wh:gap:island
+            .iloc[[-1]] # wh:gap and wh:gap:island
         )
         result["model"] = model
         result["constr"] = constr
         result["sig"] = result["p_value"].map(lambda x: "***" if x < 0.001 else "**" if x < 0.01 else "*" if x < 0.05 else "." if x < 0.1 else "")
+        result = result[["model", "constr", "term", "estimate", "p_value", "sig"]]
         results.append(result)
 
     return pd.concat(results, ignore_index=True)
 
 def calculate_all_linear_mixed_effects(df):
 
-    fg_formula = "surprisal~filler*gap+(1|group)" # two way effects
-    island_formula = "surprisal~filler*gap*island+(gap||group)" # only want 3 way effects
+    simple_formula = "surprisal ~ filler * gap + (1 | group)" # two way effects
+    island_formula = "surprisal ~ filler * gap * island + (1 | group)" # three way effects
+    gap_formula = "surprisal ~ filler * island + (1 | group)" #
+
+    simple_lme = calculate_linear_mixed_effects(df[df["island"] == -1], simple_formula)
+    island_lme = calculate_linear_mixed_effects(df, island_formula)
+    plus_gap_lme = calculate_linear_mixed_effects(df[df["gap"] == 1], gap_formula)
+    minus_gap_lme = calculate_linear_mixed_effects(df[df["gap"] == -1], gap_formula)
+
+    return simple_lme, island_lme, plus_gap_lme, minus_gap_lme
 
 def main():
     '''
@@ -141,11 +148,14 @@ def main():
     fge_df = calculate_filler_gap_effects(df)
 
     # LME model
-    lme_df = calculate_linear_mixed_effects(df)
+    lme_two_way_df, lme_three_way_df, lme_plus_gap_df, lme_minus_gap_df = calculate_all_linear_mixed_effects(df)
 
     # Save results
     fge_df.to_csv(output_dir / "fge.tsv", sep="\t", index=False)
-    lme_df.to_csv(output_dir / "lme.tsv", sep="\t", index=False)
+    lme_two_way_df.to_csv(output_dir / "simple_lme.tsv", sep="\t", index=False)
+    lme_three_way_df.to_csv(output_dir / "island_lme.tsv", sep="\t", index=False)
+    lme_plus_gap_df.to_csv(output_dir / "plus_gap_lme.tsv", sep="\t", index=False)
+    lme_minus_gap_df.to_csv(output_dir / "minus_gap_lme.tsv", sep="\t", index=False)
     print(f"Saved results to: {output_dir}")
     
 

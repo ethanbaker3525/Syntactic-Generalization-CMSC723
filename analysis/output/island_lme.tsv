@@ -1,0 +1,26 @@
+model	constr	term	estimate	p_value	sig
+baseline	eval_cleft	filler:gap:island	0.4416122122556584	2.255887464965377e-58	***
+baseline	eval_intro_topic	filler:gap:island	0.07081886574074074	0.0045453824347236075	**
+baseline	eval_nointro_topic	filler:gap:island	-0.017771026234567902	0.7013466055987466	
+baseline	eval_tough	filler:gap:island	0.00725389017489712	0.8464792710394556	
+baseline	eval_wh	filler:gap:island	0.07622689383370536	0.5798149060925628	
+model_1_1	eval_cleft	filler:gap:island	0.665919174382716	1.1412723873638864e-107	***
+model_1_1	eval_intro_topic	filler:gap:island	0.1115893454218107	0.0002542890826879553	***
+model_1_1	eval_nointro_topic	filler:gap:island	0.1300003616898148	0.012116128458066523	*
+model_1_1	eval_tough	filler:gap:island	0.781517248585391	2.2567604689215996e-68	***
+model_1_1	eval_wh	filler:gap:island	0.1416695731026786	0.4078649141382854	
+model_2_2	eval_cleft	filler:gap:island	0.5334764017489712	1.9250379346007762e-42	***
+model_2_2	eval_intro_topic	filler:gap:island	0.6511732815715021	1.0515048902313188e-58	***
+model_2_2	eval_nointro_topic	filler:gap:island	0.671459056712963	9.147874108293062e-23	***
+model_2_2	eval_tough	filler:gap:island	0.40673828125000006	2.8113124144960773e-11	***
+model_2_2	eval_wh	filler:gap:island	0.062196800595238105	0.7475395716795972	
+model_1_2	eval_cleft	filler:gap:island	0.4304309735082304	9.59045069152908e-37	***
+model_1_2	eval_intro_topic	filler:gap:island	0.39347029320987653	6.989648083106984e-33	***
+model_1_2	eval_nointro_topic	filler:gap:island	0.10697579089506173	0.12604594279033554	
+model_1_2	eval_tough	filler:gap:island	0.5571992348251029	1.5709453880865908e-21	***
+model_1_2	eval_wh	filler:gap:island	0.04612941196986607	0.8022716804928893	
+model_2_1	eval_cleft	filler:gap:island	1.127097298578961	8.71977313813324e-203	***
+model_2_1	eval_intro_topic	filler:gap:island	0.28470212834362135	6.622987807181094e-19	***
+model_2_1	eval_nointro_topic	filler:gap:island	0.18275282118055555	0.0007602228339419123	***
+model_2_1	eval_tough	filler:gap:island	0.7630148051697532	1.94251126187191e-40	***
+model_2_1	eval_wh	filler:gap:island	0.0973554484049479	0.6077587045777422	

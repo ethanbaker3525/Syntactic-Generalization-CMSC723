@@ -1,0 +1,26 @@
+model	constr	term	estimate	p_value	sig
+baseline	eval_cleft	filler:island	0.3511123971193416	1.922034869487068e-58	***
+baseline	eval_intro_topic	filler:island	0.07161458333333334	7.467382274425591e-05	***
+baseline	eval_nointro_topic	filler:island	0.0669849537037037	0.055288510573282795	.
+baseline	eval_tough	filler:island	-0.16951999742798354	1.7417398664224617e-08	***
+baseline	eval_wh	filler:island	0.20819984072730657	0.30053185309952923	
+model_1_1	eval_cleft	filler:island	0.49493634259259267	3.6554565632394806e-298	***
+model_1_1	eval_intro_topic	filler:island	0.2868441358024692	3.420190189841814e-182	***
+model_1_1	eval_nointro_topic	filler:island	0.2523148148148148	2.508041511014625e-52	***
+model_1_1	eval_tough	filler:island	0.7147392618312757	7.583803030129368e-189	***
+model_1_1	eval_wh	filler:island	0.28715518043154764	0.20265668148198598	
+model_2_2	eval_cleft	filler:island	1.0198688271604939	0.0	***
+model_2_2	eval_intro_topic	filler:island	1.0319251543209877	0.0	***
+model_2_2	eval_nointro_topic	filler:island	0.9066358024691359	2.9983636221270867e-110	***
+model_2_2	eval_tough	filler:island	0.7293957368827161	3.0281950864190393e-24	***
+model_2_2	eval_wh	filler:island	-0.0013490513392856126	0.9960889401215547	
+model_1_2	eval_cleft	filler:island	0.24844071502057616	3.1296219728604487e-13	***
+model_1_2	eval_intro_topic	filler:island	0.42264660493827166	4.871308604593122e-40	***
+model_1_2	eval_nointro_topic	filler:island	0.20187114197530864	0.001010368802143687	**
+model_1_2	eval_tough	filler:island	0.8742364326131687	2.456173384791239e-24	***
+model_1_2	eval_wh	filler:island	-0.008498070126488042	0.9707799686378933	
+model_2_1	eval_cleft	filler:island	0.408323688271605	3.342487586784247e-61	***
+model_2_1	eval_intro_topic	filler:island	0.23704346707818932	4.9211770421545745e-25	***
+model_2_1	eval_nointro_topic	filler:island	0.04166666666666667	0.297985494705457	
+model_2_1	eval_tough	filler:island	0.752881462191358	3.697171700283904e-31	***
+model_2_1	eval_wh	filler:island	0.2508715093703497	0.3321063938160286	

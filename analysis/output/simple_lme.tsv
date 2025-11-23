@@ -1,0 +1,26 @@
+model	constr	term	estimate	p_value	sig
+baseline	eval_cleft	filler:gap	-1.2443777327674899	7.605517313575476e-141	***
+baseline	eval_intro_topic	filler:gap	-0.16134178883744857	0.00012422847713795663	***
+baseline	eval_nointro_topic	filler:gap	0.17335792824074076	0.025701642525505494	*
+baseline	eval_tough	filler:gap	-0.7256381815843621	6.575641996195343e-31	***
+baseline	eval_wh	filler:gap	-0.6067449951171875	0.001421562541478495	**
+model_1_1	eval_cleft	filler:gap	-1.537274144804527	2.986699644449113e-175	***
+model_1_1	eval_intro_topic	filler:gap	-0.2857871977880659	2.070730103172966e-08	***
+model_1_1	eval_nointro_topic	filler:gap	-0.33941575038580246	8.795145987137802e-05	***
+model_1_1	eval_tough	filler:gap	-1.7422839506172838	1.482577711095383e-119	***
+model_1_1	eval_wh	filler:gap	-0.8334228515625	0.00036341780236826666	***
+model_2_2	eval_cleft	filler:gap	-1.46118063593107	4.1258877918654226e-108	***
+model_2_2	eval_intro_topic	filler:gap	-1.546655976723251	9.663480480465332e-107	***
+model_2_2	eval_nointro_topic	filler:gap	-1.5463806905864197	3.7446225316668296e-39	***
+model_2_2	eval_tough	filler:gap	-2.303638599537037	3.5568731018267194e-112	***
+model_2_2	eval_wh	filler:gap	-0.9556575520833334	0.0003814519522032177	***
+model_1_2	eval_cleft	filler:gap	-0.18938078703703703	0.0009022034741746062	***
+model_1_2	eval_intro_topic	filler:gap	-0.43282214506172845	8.41388186059787e-16	***
+model_1_2	eval_nointro_topic	filler:gap	-0.19147858796296297	0.07620783071604853	.
+model_1_2	eval_tough	filler:gap	-1.1771797839506173	4.998529393465605e-33	***
+model_1_2	eval_wh	filler:gap	-0.23824910481770836	0.34082567106426365	
+model_2_1	eval_cleft	filler:gap	-2.8265154803240744	0.0	***
+model_2_1	eval_intro_topic	filler:gap	-0.5683553562242799	3.087541689938975e-25	***
+model_2_1	eval_nointro_topic	filler:gap	-0.4874252507716049	1.1288632350403417e-07	***
+model_2_1	eval_tough	filler:gap	-1.2669311021090535	1.53460079368902e-40	***
+model_2_1	eval_wh	filler:gap	-0.4156072998046875	0.12309300621087903	

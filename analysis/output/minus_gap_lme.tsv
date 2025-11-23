@@ -1,0 +1,26 @@
+model	constr	term	estimate	p_value	sig
+baseline	eval_cleft	filler:island	-0.5321120273919754	1.713485837705604e-67	***
+baseline	eval_intro_topic	filler:island	-0.07002314814814815	0.013633628433607775	*
+baseline	eval_nointro_topic	filler:island	0.10252700617283951	0.045312307825061564	*
+baseline	eval_tough	filler:island	-0.18402777777777776	0.00028033332329120616	***
+baseline	eval_wh	filler:island	0.055746053059895787	0.7519278005806646	
+model_1_1	eval_cleft	filler:island	-0.8369020061728396	5.898882399841882e-182	***
+model_1_1	eval_intro_topic	filler:island	0.06366544495884774	0.00022930873101354845	***
+model_1_1	eval_nointro_topic	filler:island	-0.0076859085648148156	0.8034436889321334	
+model_1_1	eval_tough	filler:island	-0.8482952353395061	9.977930958132995e-95	***
+model_1_1	eval_wh	filler:island	0.0038160342261904334	0.9855203751247028	
+model_2_2	eval_cleft	filler:island	-0.04708397633744856	0.19124771109611527	
+model_2_2	eval_intro_topic	filler:island	-0.2704214088220165	1.139201170620256e-16	***
+model_2_2	eval_nointro_topic	filler:island	-0.43628231095679015	2.6015213086767557e-13	***
+model_2_2	eval_tough	filler:island	-0.08408082561728394	0.06309101544298715	.
+model_2_2	eval_wh	filler:island	-0.1257426525297619	0.5544272279111151	
+model_1_2	eval_cleft	filler:island	-0.6124212319958848	6.953627121507436e-39	***
+model_1_2	eval_intro_topic	filler:island	-0.3642939814814815	3.1097084714574348e-15	***
+model_1_2	eval_nointro_topic	filler:island	-0.012080439814814816	0.913687985197835	
+model_1_2	eval_tough	filler:island	-0.24016203703703703	0.00010225615323692757	***
+model_1_2	eval_wh	filler:island	-0.1007568940662202	0.7019631394816414	
+model_2_1	eval_cleft	filler:island	-1.845870908886317	2.142296507041697e-237	***
+model_2_1	eval_intro_topic	filler:island	-0.3323607896090535	5.309799934270689e-28	***
+model_2_1	eval_nointro_topic	filler:island	-0.3238389756944444	2.6932280662733267e-11	***
+model_2_1	eval_tough	filler:island	-0.7731481481481481	4.19287859420862e-25	***
+model_2_1	eval_wh	filler:island	0.05616061256045386	0.8314611860122354	
