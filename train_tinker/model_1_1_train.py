@@ -11,13 +11,15 @@ import asyncio
 
 from pathlib import Path
 
-name = "model_2_2"
+name = "model_1_1_3B"
+#learning_rate = 0.0004908239409722158 #1B
+learning_rate = 0.00035760078614950245 #3B
 
 epochs = 10
 batch_size = 32 
 weights_path_file = os.path.join(Path(__file__).resolve().parent, f"weight_paths_{name}.json")
 
-model = "meta-llama/Llama-3.2-1B"
+model = "meta-llama/Llama-3.2-3B"
 
 
 train_df = pd.read_csv("Data/splits/train_cleft.tsv", sep="\t")
@@ -35,7 +37,7 @@ service_client = tinker.ServiceClient()
 
 training_client = service_client.create_lora_training_client(base_model=model)
 
-training_client.load_state("tinker://a72b0f91-d935-40fd-aa4d-f9e75f8ea8c6/weights/trees2")
+#training_client.load_state("tinker://a72b0f91-d935-40fd-aa4d-f9e75f8ea8c6/weights/trees2")
 
 tokenizer = training_client.get_tokenizer() 
 
@@ -74,7 +76,7 @@ for epoch in tqdm(range(1, epochs + 1)):
   for i in range(0, len(train_list), batch_size):
       batch = make_batch(train_list[i:i+batch_size])
       training_client.forward_backward(batch, loss_fn="cross_entropy").result()
-      training_client.optim_step(types.AdamParams(learning_rate=0.0004908239409722158)).result()
+      training_client.optim_step(types.AdamParams(learning_rate=learning_rate)).result()
 
   sampler_path = training_client.save_weights_for_sampler(name=f"{name}_epoch{epoch}").result().path
   full_path = training_client.save_state(name=f"{name}_epoch{epoch}").result().path

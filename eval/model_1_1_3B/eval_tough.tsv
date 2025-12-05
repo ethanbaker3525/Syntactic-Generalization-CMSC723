@@ -1,0 +1,1945 @@
+	group	condition	tokens	criticalwords	grammaticality	surprisal
+0	0	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True	21.0078125
+1	0	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+2	0	s_ax	this snack is impossible to find _ the cheese _ with a friend	the,cheese	False	17.96875
+3	0	s_xx	it is impossible to find _ the cheese _ with a friend	the,cheese	True	14.515625
+4	0	s_i_ab	this snack is impossible to find the bag that carried _ with a friend _	with,a,friend	False	28.0390625
+5	0	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+6	0	s_i_ax	this snack is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	False	13.3515625
+7	0	s_i_xx	it is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.45703125
+8	1	s_ab	this snack is impossible to find _ in the park _	in,the,park	True	18.53125
+9	1	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+10	1	s_ax	this snack is impossible to find _ the cheese _ in the park	the,cheese	False	17.96875
+11	1	s_xx	it is impossible to find _ the cheese _ in the park	the,cheese	True	14.515625
+12	1	s_i_ab	this snack is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+13	1	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+14	1	s_i_ax	this snack is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	False	13.3515625
+15	1	s_i_xx	it is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.45703125
+16	2	s_ab	this snack is impossible to find _ on Saturdays _	on,Saturdays	True	17.65625
+17	2	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+18	2	s_ax	this snack is impossible to find _ the cheese _ on Saturdays	the,cheese	False	17.96875
+19	2	s_xx	it is impossible to find _ the cheese _ on Saturdays	the,cheese	True	14.515625
+20	2	s_i_ab	this snack is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+21	2	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+22	2	s_i_ax	this snack is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.3515625
+23	2	s_i_xx	it is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.45703125
+24	3	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True	21.0078125
+25	3	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+26	3	s_ax	this snack is impossible to find _ your hat _ with a friend	your,hat	False	14.71875
+27	3	s_xx	it is impossible to find _ your hat _ with a friend	your,hat	True	12.0625
+28	3	s_i_ab	this snack is impossible to find the bag that carried _ with a friend _	with,a,friend	False	28.0390625
+29	3	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+30	3	s_i_ax	this snack is impossible to find the bag that carried _ your hat _ with a friend	your,hat	False	10.9765625
+31	3	s_i_xx	it is impossible to find the bag that carried _ your hat _ with a friend	your,hat	True	10.2734375
+32	4	s_ab	this snack is impossible to find _ in the park _	in,the,park	True	18.53125
+33	4	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+34	4	s_ax	this snack is impossible to find _ your hat _ in the park	your,hat	False	14.71875
+35	4	s_xx	it is impossible to find _ your hat _ in the park	your,hat	True	12.0625
+36	4	s_i_ab	this snack is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+37	4	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+38	4	s_i_ax	this snack is impossible to find the bag that carried _ your hat _ in the park	your,hat	False	10.9765625
+39	4	s_i_xx	it is impossible to find the bag that carried _ your hat _ in the park	your,hat	True	10.2734375
+40	5	s_ab	this snack is impossible to find _ on Saturdays _	on,Saturdays	True	17.65625
+41	5	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+42	5	s_ax	this snack is impossible to find _ your hat _ on Saturdays	your,hat	False	14.71875
+43	5	s_xx	it is impossible to find _ your hat _ on Saturdays	your,hat	True	12.0625
+44	5	s_i_ab	this snack is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+45	5	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+46	5	s_i_ax	this snack is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	False	10.9765625
+47	5	s_i_xx	it is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.2734375
+48	6	s_ab	this snack is impossible to find _ with a friend _	with,a,friend	True	21.0078125
+49	6	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+50	6	s_ax	this snack is impossible to find _ our keys _ with a friend	our,keys	False	21.875
+51	6	s_xx	it is impossible to find _ our keys _ with a friend	our,keys	True	19.5
+52	6	s_i_ab	this snack is impossible to find the bag that carried _ with a friend _	with,a,friend	False	28.0390625
+53	6	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+54	6	s_i_ax	this snack is impossible to find the bag that carried _ our keys _ with a friend	our,keys	False	20.125
+55	6	s_i_xx	it is impossible to find the bag that carried _ our keys _ with a friend	our,keys	True	19.625
+56	7	s_ab	this snack is impossible to find _ in the park _	in,the,park	True	18.53125
+57	7	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+58	7	s_ax	this snack is impossible to find _ our keys _ in the park	our,keys	False	21.875
+59	7	s_xx	it is impossible to find _ our keys _ in the park	our,keys	True	19.5
+60	7	s_i_ab	this snack is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+61	7	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+62	7	s_i_ax	this snack is impossible to find the bag that carried _ our keys _ in the park	our,keys	False	20.125
+63	7	s_i_xx	it is impossible to find the bag that carried _ our keys _ in the park	our,keys	True	19.625
+64	8	s_ab	this snack is impossible to find _ on Saturdays _	on,Saturdays	True	17.65625
+65	8	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+66	8	s_ax	this snack is impossible to find _ our keys _ on Saturdays	our,keys	False	21.875
+67	8	s_xx	it is impossible to find _ our keys _ on Saturdays	our,keys	True	19.5
+68	8	s_i_ab	this snack is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+69	8	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+70	8	s_i_ax	this snack is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.125
+71	8	s_i_xx	it is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	True	19.625
+72	9	s_ab	this snack is impossible to see _ with a friend _	with,a,friend	True	20.7890625
+73	9	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+74	9	s_ax	this snack is impossible to see _ the cheese _ with a friend	the,cheese	False	17.90625
+75	9	s_xx	it is impossible to see _ the cheese _ with a friend	the,cheese	True	14.34375
+76	9	s_i_ab	this snack is impossible to see the bag that carried _ with a friend _	with,a,friend	False	28.0625
+77	9	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+78	9	s_i_ax	this snack is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.330078125
+79	9	s_i_xx	it is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.3671875
+80	10	s_ab	this snack is impossible to see _ in the park _	in,the,park	True	18.9375
+81	10	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+82	10	s_ax	this snack is impossible to see _ the cheese _ in the park	the,cheese	False	17.90625
+83	10	s_xx	it is impossible to see _ the cheese _ in the park	the,cheese	True	14.34375
+84	10	s_i_ab	this snack is impossible to see the bag that carried _ in the park _	in,the,park	False	25.234375
+85	10	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+86	10	s_i_ax	this snack is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.330078125
+87	10	s_i_xx	it is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.3671875
+88	11	s_ab	this snack is impossible to see _ on Saturdays _	on,Saturdays	True	20.875
+89	11	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+90	11	s_ax	this snack is impossible to see _ the cheese _ on Saturdays	the,cheese	False	17.90625
+91	11	s_xx	it is impossible to see _ the cheese _ on Saturdays	the,cheese	True	14.34375
+92	11	s_i_ab	this snack is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.3125
+93	11	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+94	11	s_i_ax	this snack is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.330078125
+95	11	s_i_xx	it is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.3671875
+96	12	s_ab	this snack is impossible to see _ with a friend _	with,a,friend	True	20.7890625
+97	12	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+98	12	s_ax	this snack is impossible to see _ your hat _ with a friend	your,hat	False	14.59375
+99	12	s_xx	it is impossible to see _ your hat _ with a friend	your,hat	True	13.03125
+100	12	s_i_ab	this snack is impossible to see the bag that carried _ with a friend _	with,a,friend	False	28.0625
+101	12	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+102	12	s_i_ax	this snack is impossible to see the bag that carried _ your hat _ with a friend	your,hat	False	11.328125
+103	12	s_i_xx	it is impossible to see the bag that carried _ your hat _ with a friend	your,hat	True	10.4921875
+104	13	s_ab	this snack is impossible to see _ in the park _	in,the,park	True	18.9375
+105	13	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+106	13	s_ax	this snack is impossible to see _ your hat _ in the park	your,hat	False	14.59375
+107	13	s_xx	it is impossible to see _ your hat _ in the park	your,hat	True	13.03125
+108	13	s_i_ab	this snack is impossible to see the bag that carried _ in the park _	in,the,park	False	25.234375
+109	13	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+110	13	s_i_ax	this snack is impossible to see the bag that carried _ your hat _ in the park	your,hat	False	11.328125
+111	13	s_i_xx	it is impossible to see the bag that carried _ your hat _ in the park	your,hat	True	10.4921875
+112	14	s_ab	this snack is impossible to see _ on Saturdays _	on,Saturdays	True	20.875
+113	14	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+114	14	s_ax	this snack is impossible to see _ your hat _ on Saturdays	your,hat	False	14.59375
+115	14	s_xx	it is impossible to see _ your hat _ on Saturdays	your,hat	True	13.03125
+116	14	s_i_ab	this snack is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.3125
+117	14	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+118	14	s_i_ax	this snack is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.328125
+119	14	s_i_xx	it is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.4921875
+120	15	s_ab	this snack is impossible to see _ with a friend _	with,a,friend	True	20.7890625
+121	15	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+122	15	s_ax	this snack is impossible to see _ our keys _ with a friend	our,keys	False	24.0625
+123	15	s_xx	it is impossible to see _ our keys _ with a friend	our,keys	True	22.25
+124	15	s_i_ab	this snack is impossible to see the bag that carried _ with a friend _	with,a,friend	False	28.0625
+125	15	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+126	15	s_i_ax	this snack is impossible to see the bag that carried _ our keys _ with a friend	our,keys	False	20.125
+127	15	s_i_xx	it is impossible to see the bag that carried _ our keys _ with a friend	our,keys	True	19.5625
+128	16	s_ab	this snack is impossible to see _ in the park _	in,the,park	True	18.9375
+129	16	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+130	16	s_ax	this snack is impossible to see _ our keys _ in the park	our,keys	False	24.0625
+131	16	s_xx	it is impossible to see _ our keys _ in the park	our,keys	True	22.25
+132	16	s_i_ab	this snack is impossible to see the bag that carried _ in the park _	in,the,park	False	25.234375
+133	16	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+134	16	s_i_ax	this snack is impossible to see the bag that carried _ our keys _ in the park	our,keys	False	20.125
+135	16	s_i_xx	it is impossible to see the bag that carried _ our keys _ in the park	our,keys	True	19.5625
+136	17	s_ab	this snack is impossible to see _ on Saturdays _	on,Saturdays	True	20.875
+137	17	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+138	17	s_ax	this snack is impossible to see _ our keys _ on Saturdays	our,keys	False	24.0625
+139	17	s_xx	it is impossible to see _ our keys _ on Saturdays	our,keys	True	22.25
+140	17	s_i_ab	this snack is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.3125
+141	17	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+142	17	s_i_ax	this snack is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.125
+143	17	s_i_xx	it is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5625
+144	18	s_ab	this snack is impossible to lose _ with a friend _	with,a,friend	True	19.546875
+145	18	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+146	18	s_ax	this snack is impossible to lose _ the cheese _ with a friend	the,cheese	False	21.28125
+147	18	s_xx	it is impossible to lose _ the cheese _ with a friend	the,cheese	True	16.0390625
+148	18	s_i_ab	this snack is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	26.25
+149	18	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+150	18	s_i_ax	this snack is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	13.76953125
+151	18	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.51171875
+152	19	s_ab	this snack is impossible to lose _ in the park _	in,the,park	True	16.484375
+153	19	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+154	19	s_ax	this snack is impossible to lose _ the cheese _ in the park	the,cheese	False	21.28125
+155	19	s_xx	it is impossible to lose _ the cheese _ in the park	the,cheese	True	16.0390625
+156	19	s_i_ab	this snack is impossible to lose the bag that carried _ in the park _	in,the,park	False	24.078125
+157	19	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+158	19	s_i_ax	this snack is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	False	13.76953125
+159	19	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.51171875
+160	20	s_ab	this snack is impossible to lose _ on Saturdays _	on,Saturdays	True	17.90625
+161	20	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+162	20	s_ax	this snack is impossible to lose _ the cheese _ on Saturdays	the,cheese	False	21.28125
+163	20	s_xx	it is impossible to lose _ the cheese _ on Saturdays	the,cheese	True	16.0390625
+164	20	s_i_ab	this snack is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	26.8125
+165	20	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+166	20	s_i_ax	this snack is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.76953125
+167	20	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.51171875
+168	21	s_ab	this snack is impossible to lose _ with a friend _	with,a,friend	True	19.546875
+169	21	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+170	21	s_ax	this snack is impossible to lose _ your hat _ with a friend	your,hat	False	14.40625
+171	21	s_xx	it is impossible to lose _ your hat _ with a friend	your,hat	True	9.1328125
+172	21	s_i_ab	this snack is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	26.25
+173	21	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+174	21	s_i_ax	this snack is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.0859375
+175	21	s_i_xx	it is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	True	10.5703125
+176	22	s_ab	this snack is impossible to lose _ in the park _	in,the,park	True	16.484375
+177	22	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+178	22	s_ax	this snack is impossible to lose _ your hat _ in the park	your,hat	False	14.40625
+179	22	s_xx	it is impossible to lose _ your hat _ in the park	your,hat	True	9.1328125
+180	22	s_i_ab	this snack is impossible to lose the bag that carried _ in the park _	in,the,park	False	24.078125
+181	22	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+182	22	s_i_ax	this snack is impossible to lose the bag that carried _ your hat _ in the park	your,hat	False	11.0859375
+183	22	s_i_xx	it is impossible to lose the bag that carried _ your hat _ in the park	your,hat	True	10.5703125
+184	23	s_ab	this snack is impossible to lose _ on Saturdays _	on,Saturdays	True	17.90625
+185	23	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+186	23	s_ax	this snack is impossible to lose _ your hat _ on Saturdays	your,hat	False	14.40625
+187	23	s_xx	it is impossible to lose _ your hat _ on Saturdays	your,hat	True	9.1328125
+188	23	s_i_ab	this snack is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	26.8125
+189	23	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+190	23	s_i_ax	this snack is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.0859375
+191	23	s_i_xx	it is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	10.5703125
+192	24	s_ab	this snack is impossible to lose _ with a friend _	with,a,friend	True	19.546875
+193	24	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+194	24	s_ax	this snack is impossible to lose _ our keys _ with a friend	our,keys	False	22.5625
+195	24	s_xx	it is impossible to lose _ our keys _ with a friend	our,keys	True	19.1875
+196	24	s_i_ab	this snack is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	26.25
+197	24	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+198	24	s_i_ax	this snack is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.5
+199	24	s_i_xx	it is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.625
+200	25	s_ab	this snack is impossible to lose _ in the park _	in,the,park	True	16.484375
+201	25	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+202	25	s_ax	this snack is impossible to lose _ our keys _ in the park	our,keys	False	22.5625
+203	25	s_xx	it is impossible to lose _ our keys _ in the park	our,keys	True	19.1875
+204	25	s_i_ab	this snack is impossible to lose the bag that carried _ in the park _	in,the,park	False	24.078125
+205	25	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+206	25	s_i_ax	this snack is impossible to lose the bag that carried _ our keys _ in the park	our,keys	False	20.5
+207	25	s_i_xx	it is impossible to lose the bag that carried _ our keys _ in the park	our,keys	True	19.625
+208	26	s_ab	this snack is impossible to lose _ on Saturdays _	on,Saturdays	True	17.90625
+209	26	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+210	26	s_ax	this snack is impossible to lose _ our keys _ on Saturdays	our,keys	False	22.5625
+211	26	s_xx	it is impossible to lose _ our keys _ on Saturdays	our,keys	True	19.1875
+212	26	s_i_ab	this snack is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	26.8125
+213	26	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+214	26	s_i_ax	this snack is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.5
+215	26	s_i_xx	it is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.625
+216	27	s_ab	this snack is easy to find _ with a friend _	with,a,friend	True	21.625
+217	27	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+218	27	s_ax	this snack is easy to find _ the cheese _ with a friend	the,cheese	False	16.21875
+219	27	s_xx	it is easy to find _ the cheese _ with a friend	the,cheese	True	14.15625
+220	27	s_i_ab	this snack is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.953125
+221	27	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+222	27	s_i_ax	this snack is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	False	13.10546875
+223	27	s_i_xx	it is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.70703125
+224	28	s_ab	this snack is easy to find _ in the park _	in,the,park	True	17.515625
+225	28	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+226	28	s_ax	this snack is easy to find _ the cheese _ in the park	the,cheese	False	16.21875
+227	28	s_xx	it is easy to find _ the cheese _ in the park	the,cheese	True	14.15625
+228	28	s_i_ab	this snack is easy to find the bag that carried _ in the park _	in,the,park	False	24.71875
+229	28	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+230	28	s_i_ax	this snack is easy to find the bag that carried _ the cheese _ in the park	the,cheese	False	13.10546875
+231	28	s_i_xx	it is easy to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.70703125
+232	29	s_ab	this snack is easy to find _ on Saturdays _	on,Saturdays	True	19.34375
+233	29	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+234	29	s_ax	this snack is easy to find _ the cheese _ on Saturdays	the,cheese	False	16.21875
+235	29	s_xx	it is easy to find _ the cheese _ on Saturdays	the,cheese	True	14.15625
+236	29	s_i_ab	this snack is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.125
+237	29	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+238	29	s_i_ax	this snack is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.10546875
+239	29	s_i_xx	it is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.70703125
+240	30	s_ab	this snack is easy to find _ with a friend _	with,a,friend	True	21.625
+241	30	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+242	30	s_ax	this snack is easy to find _ your hat _ with a friend	your,hat	False	14.21875
+243	30	s_xx	it is easy to find _ your hat _ with a friend	your,hat	True	13.15625
+244	30	s_i_ab	this snack is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.953125
+245	30	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+246	30	s_i_ax	this snack is easy to find the bag that carried _ your hat _ with a friend	your,hat	False	10.9140625
+247	30	s_i_xx	it is easy to find the bag that carried _ your hat _ with a friend	your,hat	True	10.203125
+248	31	s_ab	this snack is easy to find _ in the park _	in,the,park	True	17.515625
+249	31	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+250	31	s_ax	this snack is easy to find _ your hat _ in the park	your,hat	False	14.21875
+251	31	s_xx	it is easy to find _ your hat _ in the park	your,hat	True	13.15625
+252	31	s_i_ab	this snack is easy to find the bag that carried _ in the park _	in,the,park	False	24.71875
+253	31	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+254	31	s_i_ax	this snack is easy to find the bag that carried _ your hat _ in the park	your,hat	False	10.9140625
+255	31	s_i_xx	it is easy to find the bag that carried _ your hat _ in the park	your,hat	True	10.203125
+256	32	s_ab	this snack is easy to find _ on Saturdays _	on,Saturdays	True	19.34375
+257	32	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+258	32	s_ax	this snack is easy to find _ your hat _ on Saturdays	your,hat	False	14.21875
+259	32	s_xx	it is easy to find _ your hat _ on Saturdays	your,hat	True	13.15625
+260	32	s_i_ab	this snack is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.125
+261	32	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+262	32	s_i_ax	this snack is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	False	10.9140625
+263	32	s_i_xx	it is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.203125
+264	33	s_ab	this snack is easy to find _ with a friend _	with,a,friend	True	21.625
+265	33	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+266	33	s_ax	this snack is easy to find _ our keys _ with a friend	our,keys	False	21.375
+267	33	s_xx	it is easy to find _ our keys _ with a friend	our,keys	True	19.5
+268	33	s_i_ab	this snack is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.953125
+269	33	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+270	33	s_i_ax	this snack is easy to find the bag that carried _ our keys _ with a friend	our,keys	False	20.0
+271	33	s_i_xx	it is easy to find the bag that carried _ our keys _ with a friend	our,keys	True	18.9375
+272	34	s_ab	this snack is easy to find _ in the park _	in,the,park	True	17.515625
+273	34	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+274	34	s_ax	this snack is easy to find _ our keys _ in the park	our,keys	False	21.375
+275	34	s_xx	it is easy to find _ our keys _ in the park	our,keys	True	19.5
+276	34	s_i_ab	this snack is easy to find the bag that carried _ in the park _	in,the,park	False	24.71875
+277	34	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+278	34	s_i_ax	this snack is easy to find the bag that carried _ our keys _ in the park	our,keys	False	20.0
+279	34	s_i_xx	it is easy to find the bag that carried _ our keys _ in the park	our,keys	True	18.9375
+280	35	s_ab	this snack is easy to find _ on Saturdays _	on,Saturdays	True	19.34375
+281	35	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+282	35	s_ax	this snack is easy to find _ our keys _ on Saturdays	our,keys	False	21.375
+283	35	s_xx	it is easy to find _ our keys _ on Saturdays	our,keys	True	19.5
+284	35	s_i_ab	this snack is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.125
+285	35	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+286	35	s_i_ax	this snack is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0
+287	35	s_i_xx	it is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	True	18.9375
+288	36	s_ab	this snack is easy to see _ with a friend _	with,a,friend	True	21.2421875
+289	36	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+290	36	s_ax	this snack is easy to see _ the cheese _ with a friend	the,cheese	False	17.34375
+291	36	s_xx	it is easy to see _ the cheese _ with a friend	the,cheese	True	16.09375
+292	36	s_i_ab	this snack is easy to see the bag that carried _ with a friend _	with,a,friend	False	26.66015625
+293	36	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+294	36	s_i_ax	this snack is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.08984375
+295	36	s_i_xx	it is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.5546875
+296	37	s_ab	this snack is easy to see _ in the park _	in,the,park	True	18.375
+297	37	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+298	37	s_ax	this snack is easy to see _ the cheese _ in the park	the,cheese	False	17.34375
+299	37	s_xx	it is easy to see _ the cheese _ in the park	the,cheese	True	16.09375
+300	37	s_i_ab	this snack is easy to see the bag that carried _ in the park _	in,the,park	False	25.234375
+301	37	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+302	37	s_i_ax	this snack is easy to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.08984375
+303	37	s_i_xx	it is easy to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.5546875
+304	38	s_ab	this snack is easy to see _ on Saturdays _	on,Saturdays	True	21.3125
+305	38	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+306	38	s_ax	this snack is easy to see _ the cheese _ on Saturdays	the,cheese	False	17.34375
+307	38	s_xx	it is easy to see _ the cheese _ on Saturdays	the,cheese	True	16.09375
+308	38	s_i_ab	this snack is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+309	38	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+310	38	s_i_ax	this snack is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.08984375
+311	38	s_i_xx	it is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.5546875
+312	39	s_ab	this snack is easy to see _ with a friend _	with,a,friend	True	21.2421875
+313	39	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+314	39	s_ax	this snack is easy to see _ your hat _ with a friend	your,hat	False	15.0625
+315	39	s_xx	it is easy to see _ your hat _ with a friend	your,hat	True	15.53125
+316	39	s_i_ab	this snack is easy to see the bag that carried _ with a friend _	with,a,friend	False	26.66015625
+317	39	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+318	39	s_i_ax	this snack is easy to see the bag that carried _ your hat _ with a friend	your,hat	False	10.90625
+319	39	s_i_xx	it is easy to see the bag that carried _ your hat _ with a friend	your,hat	True	10.3671875
+320	40	s_ab	this snack is easy to see _ in the park _	in,the,park	True	18.375
+321	40	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+322	40	s_ax	this snack is easy to see _ your hat _ in the park	your,hat	False	15.0625
+323	40	s_xx	it is easy to see _ your hat _ in the park	your,hat	True	15.53125
+324	40	s_i_ab	this snack is easy to see the bag that carried _ in the park _	in,the,park	False	25.234375
+325	40	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+326	40	s_i_ax	this snack is easy to see the bag that carried _ your hat _ in the park	your,hat	False	10.90625
+327	40	s_i_xx	it is easy to see the bag that carried _ your hat _ in the park	your,hat	True	10.3671875
+328	41	s_ab	this snack is easy to see _ on Saturdays _	on,Saturdays	True	21.3125
+329	41	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+330	41	s_ax	this snack is easy to see _ your hat _ on Saturdays	your,hat	False	15.0625
+331	41	s_xx	it is easy to see _ your hat _ on Saturdays	your,hat	True	15.53125
+332	41	s_i_ab	this snack is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+333	41	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+334	41	s_i_ax	this snack is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	False	10.90625
+335	41	s_i_xx	it is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.3671875
+336	42	s_ab	this snack is easy to see _ with a friend _	with,a,friend	True	21.2421875
+337	42	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+338	42	s_ax	this snack is easy to see _ our keys _ with a friend	our,keys	False	24.0
+339	42	s_xx	it is easy to see _ our keys _ with a friend	our,keys	True	23.1875
+340	42	s_i_ab	this snack is easy to see the bag that carried _ with a friend _	with,a,friend	False	26.66015625
+341	42	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+342	42	s_i_ax	this snack is easy to see the bag that carried _ our keys _ with a friend	our,keys	False	20.0
+343	42	s_i_xx	it is easy to see the bag that carried _ our keys _ with a friend	our,keys	True	19.25
+344	43	s_ab	this snack is easy to see _ in the park _	in,the,park	True	18.375
+345	43	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+346	43	s_ax	this snack is easy to see _ our keys _ in the park	our,keys	False	24.0
+347	43	s_xx	it is easy to see _ our keys _ in the park	our,keys	True	23.1875
+348	43	s_i_ab	this snack is easy to see the bag that carried _ in the park _	in,the,park	False	25.234375
+349	43	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+350	43	s_i_ax	this snack is easy to see the bag that carried _ our keys _ in the park	our,keys	False	20.0
+351	43	s_i_xx	it is easy to see the bag that carried _ our keys _ in the park	our,keys	True	19.25
+352	44	s_ab	this snack is easy to see _ on Saturdays _	on,Saturdays	True	21.3125
+353	44	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+354	44	s_ax	this snack is easy to see _ our keys _ on Saturdays	our,keys	False	24.0
+355	44	s_xx	it is easy to see _ our keys _ on Saturdays	our,keys	True	23.1875
+356	44	s_i_ab	this snack is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+357	44	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+358	44	s_i_ax	this snack is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0
+359	44	s_i_xx	it is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.25
+360	45	s_ab	this snack is easy to lose _ with a friend _	with,a,friend	True	19.4140625
+361	45	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+362	45	s_ax	this snack is easy to lose _ the cheese _ with a friend	the,cheese	False	19.46875
+363	45	s_xx	it is easy to lose _ the cheese _ with a friend	the,cheese	True	15.71875
+364	45	s_i_ab	this snack is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.265625
+365	45	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+366	45	s_i_ax	this snack is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	13.2734375
+367	45	s_i_xx	it is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.48828125
+368	46	s_ab	this snack is easy to lose _ in the park _	in,the,park	True	17.09375
+369	46	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+370	46	s_ax	this snack is easy to lose _ the cheese _ in the park	the,cheese	False	19.46875
+371	46	s_xx	it is easy to lose _ the cheese _ in the park	the,cheese	True	15.71875
+372	46	s_i_ab	this snack is easy to lose the bag that carried _ in the park _	in,the,park	False	25.484375
+373	46	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+374	46	s_i_ax	this snack is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	False	13.2734375
+375	46	s_i_xx	it is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.48828125
+376	47	s_ab	this snack is easy to lose _ on Saturdays _	on,Saturdays	True	18.03125
+377	47	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+378	47	s_ax	this snack is easy to lose _ the cheese _ on Saturdays	the,cheese	False	19.46875
+379	47	s_xx	it is easy to lose _ the cheese _ on Saturdays	the,cheese	True	15.71875
+380	47	s_i_ab	this snack is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.0625
+381	47	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+382	47	s_i_ax	this snack is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.2734375
+383	47	s_i_xx	it is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.48828125
+384	48	s_ab	this snack is easy to lose _ with a friend _	with,a,friend	True	19.4140625
+385	48	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+386	48	s_ax	this snack is easy to lose _ your hat _ with a friend	your,hat	False	13.78125
+387	48	s_xx	it is easy to lose _ your hat _ with a friend	your,hat	True	8.625
+388	48	s_i_ab	this snack is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.265625
+389	48	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+390	48	s_i_ax	this snack is easy to lose the bag that carried _ your hat _ with a friend	your,hat	False	10.7734375
+391	48	s_i_xx	it is easy to lose the bag that carried _ your hat _ with a friend	your,hat	True	10.484375
+392	49	s_ab	this snack is easy to lose _ in the park _	in,the,park	True	17.09375
+393	49	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+394	49	s_ax	this snack is easy to lose _ your hat _ in the park	your,hat	False	13.78125
+395	49	s_xx	it is easy to lose _ your hat _ in the park	your,hat	True	8.625
+396	49	s_i_ab	this snack is easy to lose the bag that carried _ in the park _	in,the,park	False	25.484375
+397	49	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+398	49	s_i_ax	this snack is easy to lose the bag that carried _ your hat _ in the park	your,hat	False	10.7734375
+399	49	s_i_xx	it is easy to lose the bag that carried _ your hat _ in the park	your,hat	True	10.484375
+400	50	s_ab	this snack is easy to lose _ on Saturdays _	on,Saturdays	True	18.03125
+401	50	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+402	50	s_ax	this snack is easy to lose _ your hat _ on Saturdays	your,hat	False	13.78125
+403	50	s_xx	it is easy to lose _ your hat _ on Saturdays	your,hat	True	8.625
+404	50	s_i_ab	this snack is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.0625
+405	50	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+406	50	s_i_ax	this snack is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	10.7734375
+407	50	s_i_xx	it is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	10.484375
+408	51	s_ab	this snack is easy to lose _ with a friend _	with,a,friend	True	19.4140625
+409	51	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+410	51	s_ax	this snack is easy to lose _ our keys _ with a friend	our,keys	False	22.125
+411	51	s_xx	it is easy to lose _ our keys _ with a friend	our,keys	True	18.3125
+412	51	s_i_ab	this snack is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.265625
+413	51	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+414	51	s_i_ax	this snack is easy to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.0
+415	51	s_i_xx	it is easy to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.4375
+416	52	s_ab	this snack is easy to lose _ in the park _	in,the,park	True	17.09375
+417	52	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+418	52	s_ax	this snack is easy to lose _ our keys _ in the park	our,keys	False	22.125
+419	52	s_xx	it is easy to lose _ our keys _ in the park	our,keys	True	18.3125
+420	52	s_i_ab	this snack is easy to lose the bag that carried _ in the park _	in,the,park	False	25.484375
+421	52	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+422	52	s_i_ax	this snack is easy to lose the bag that carried _ our keys _ in the park	our,keys	False	20.0
+423	52	s_i_xx	it is easy to lose the bag that carried _ our keys _ in the park	our,keys	True	19.4375
+424	53	s_ab	this snack is easy to lose _ on Saturdays _	on,Saturdays	True	18.03125
+425	53	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+426	53	s_ax	this snack is easy to lose _ our keys _ on Saturdays	our,keys	False	22.125
+427	53	s_xx	it is easy to lose _ our keys _ on Saturdays	our,keys	True	18.3125
+428	53	s_i_ab	this snack is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.0625
+429	53	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+430	53	s_i_ax	this snack is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0
+431	53	s_i_xx	it is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.4375
+432	54	s_ab	this snack is difficult to find _ with a friend _	with,a,friend	True	21.953125
+433	54	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+434	54	s_ax	this snack is difficult to find _ the cheese _ with a friend	the,cheese	False	16.78125
+435	54	s_xx	it is difficult to find _ the cheese _ with a friend	the,cheese	True	14.8125
+436	54	s_i_ab	this snack is difficult to find the bag that carried _ with a friend _	with,a,friend	False	27.9609375
+437	54	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+438	54	s_i_ax	this snack is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	False	13.20703125
+439	54	s_i_xx	it is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.4375
+440	55	s_ab	this snack is difficult to find _ in the park _	in,the,park	True	18.734375
+441	55	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+442	55	s_ax	this snack is difficult to find _ the cheese _ in the park	the,cheese	False	16.78125
+443	55	s_xx	it is difficult to find _ the cheese _ in the park	the,cheese	True	14.8125
+444	55	s_i_ab	this snack is difficult to find the bag that carried _ in the park _	in,the,park	False	24.796875
+445	55	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+446	55	s_i_ax	this snack is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	False	13.20703125
+447	55	s_i_xx	it is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.4375
+448	56	s_ab	this snack is difficult to find _ on Saturdays _	on,Saturdays	True	17.09375
+449	56	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+450	56	s_ax	this snack is difficult to find _ the cheese _ on Saturdays	the,cheese	False	16.78125
+451	56	s_xx	it is difficult to find _ the cheese _ on Saturdays	the,cheese	True	14.8125
+452	56	s_i_ab	this snack is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+453	56	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+454	56	s_i_ax	this snack is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.20703125
+455	56	s_i_xx	it is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.4375
+456	57	s_ab	this snack is difficult to find _ with a friend _	with,a,friend	True	21.953125
+457	57	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+458	57	s_ax	this snack is difficult to find _ your hat _ with a friend	your,hat	False	14.15625
+459	57	s_xx	it is difficult to find _ your hat _ with a friend	your,hat	True	12.40625
+460	57	s_i_ab	this snack is difficult to find the bag that carried _ with a friend _	with,a,friend	False	27.9609375
+461	57	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+462	57	s_i_ax	this snack is difficult to find the bag that carried _ your hat _ with a friend	your,hat	False	11.203125
+463	57	s_i_xx	it is difficult to find the bag that carried _ your hat _ with a friend	your,hat	True	10.375
+464	58	s_ab	this snack is difficult to find _ in the park _	in,the,park	True	18.734375
+465	58	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+466	58	s_ax	this snack is difficult to find _ your hat _ in the park	your,hat	False	14.15625
+467	58	s_xx	it is difficult to find _ your hat _ in the park	your,hat	True	12.40625
+468	58	s_i_ab	this snack is difficult to find the bag that carried _ in the park _	in,the,park	False	24.796875
+469	58	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+470	58	s_i_ax	this snack is difficult to find the bag that carried _ your hat _ in the park	your,hat	False	11.203125
+471	58	s_i_xx	it is difficult to find the bag that carried _ your hat _ in the park	your,hat	True	10.375
+472	59	s_ab	this snack is difficult to find _ on Saturdays _	on,Saturdays	True	17.09375
+473	59	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+474	59	s_ax	this snack is difficult to find _ your hat _ on Saturdays	your,hat	False	14.15625
+475	59	s_xx	it is difficult to find _ your hat _ on Saturdays	your,hat	True	12.40625
+476	59	s_i_ab	this snack is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+477	59	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+478	59	s_i_ax	this snack is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.203125
+479	59	s_i_xx	it is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.375
+480	60	s_ab	this snack is difficult to find _ with a friend _	with,a,friend	True	21.953125
+481	60	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+482	60	s_ax	this snack is difficult to find _ our keys _ with a friend	our,keys	False	21.0
+483	60	s_xx	it is difficult to find _ our keys _ with a friend	our,keys	True	19.875
+484	60	s_i_ab	this snack is difficult to find the bag that carried _ with a friend _	with,a,friend	False	27.9609375
+485	60	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+486	60	s_i_ax	this snack is difficult to find the bag that carried _ our keys _ with a friend	our,keys	False	20.25
+487	60	s_i_xx	it is difficult to find the bag that carried _ our keys _ with a friend	our,keys	True	19.5
+488	61	s_ab	this snack is difficult to find _ in the park _	in,the,park	True	18.734375
+489	61	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+490	61	s_ax	this snack is difficult to find _ our keys _ in the park	our,keys	False	21.0
+491	61	s_xx	it is difficult to find _ our keys _ in the park	our,keys	True	19.875
+492	61	s_i_ab	this snack is difficult to find the bag that carried _ in the park _	in,the,park	False	24.796875
+493	61	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+494	61	s_i_ax	this snack is difficult to find the bag that carried _ our keys _ in the park	our,keys	False	20.25
+495	61	s_i_xx	it is difficult to find the bag that carried _ our keys _ in the park	our,keys	True	19.5
+496	62	s_ab	this snack is difficult to find _ on Saturdays _	on,Saturdays	True	17.09375
+497	62	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+498	62	s_ax	this snack is difficult to find _ our keys _ on Saturdays	our,keys	False	21.0
+499	62	s_xx	it is difficult to find _ our keys _ on Saturdays	our,keys	True	19.875
+500	62	s_i_ab	this snack is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+501	62	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+502	62	s_i_ax	this snack is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.25
+503	62	s_i_xx	it is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5
+504	63	s_ab	this snack is difficult to see _ with a friend _	with,a,friend	True	20.484375
+505	63	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+506	63	s_ax	this snack is difficult to see _ the cheese _ with a friend	the,cheese	False	17.40625
+507	63	s_xx	it is difficult to see _ the cheese _ with a friend	the,cheese	True	15.5
+508	63	s_i_ab	this snack is difficult to see the bag that carried _ with a friend _	with,a,friend	False	28.42578125
+509	63	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+510	63	s_i_ax	this snack is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.076171875
+511	63	s_i_xx	it is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.3359375
+512	64	s_ab	this snack is difficult to see _ in the park _	in,the,park	True	18.53125
+513	64	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+514	64	s_ax	this snack is difficult to see _ the cheese _ in the park	the,cheese	False	17.40625
+515	64	s_xx	it is difficult to see _ the cheese _ in the park	the,cheese	True	15.5
+516	64	s_i_ab	this snack is difficult to see the bag that carried _ in the park _	in,the,park	False	25.53125
+517	64	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+518	64	s_i_ax	this snack is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.076171875
+519	64	s_i_xx	it is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.3359375
+520	65	s_ab	this snack is difficult to see _ on Saturdays _	on,Saturdays	True	20.09375
+521	65	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+522	65	s_ax	this snack is difficult to see _ the cheese _ on Saturdays	the,cheese	False	17.40625
+523	65	s_xx	it is difficult to see _ the cheese _ on Saturdays	the,cheese	True	15.5
+524	65	s_i_ab	this snack is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+525	65	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+526	65	s_i_ax	this snack is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.076171875
+527	65	s_i_xx	it is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.3359375
+528	66	s_ab	this snack is difficult to see _ with a friend _	with,a,friend	True	20.484375
+529	66	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+530	66	s_ax	this snack is difficult to see _ your hat _ with a friend	your,hat	False	14.0625
+531	66	s_xx	it is difficult to see _ your hat _ with a friend	your,hat	True	13.5625
+532	66	s_i_ab	this snack is difficult to see the bag that carried _ with a friend _	with,a,friend	False	28.42578125
+533	66	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+534	66	s_i_ax	this snack is difficult to see the bag that carried _ your hat _ with a friend	your,hat	False	11.078125
+535	66	s_i_xx	it is difficult to see the bag that carried _ your hat _ with a friend	your,hat	True	10.5859375
+536	67	s_ab	this snack is difficult to see _ in the park _	in,the,park	True	18.53125
+537	67	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+538	67	s_ax	this snack is difficult to see _ your hat _ in the park	your,hat	False	14.0625
+539	67	s_xx	it is difficult to see _ your hat _ in the park	your,hat	True	13.5625
+540	67	s_i_ab	this snack is difficult to see the bag that carried _ in the park _	in,the,park	False	25.53125
+541	67	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+542	67	s_i_ax	this snack is difficult to see the bag that carried _ your hat _ in the park	your,hat	False	11.078125
+543	67	s_i_xx	it is difficult to see the bag that carried _ your hat _ in the park	your,hat	True	10.5859375
+544	68	s_ab	this snack is difficult to see _ on Saturdays _	on,Saturdays	True	20.09375
+545	68	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+546	68	s_ax	this snack is difficult to see _ your hat _ on Saturdays	your,hat	False	14.0625
+547	68	s_xx	it is difficult to see _ your hat _ on Saturdays	your,hat	True	13.5625
+548	68	s_i_ab	this snack is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+549	68	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+550	68	s_i_ax	this snack is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.078125
+551	68	s_i_xx	it is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.5859375
+552	69	s_ab	this snack is difficult to see _ with a friend _	with,a,friend	True	20.484375
+553	69	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+554	69	s_ax	this snack is difficult to see _ our keys _ with a friend	our,keys	False	23.875
+555	69	s_xx	it is difficult to see _ our keys _ with a friend	our,keys	True	22.3125
+556	69	s_i_ab	this snack is difficult to see the bag that carried _ with a friend _	with,a,friend	False	28.42578125
+557	69	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+558	69	s_i_ax	this snack is difficult to see the bag that carried _ our keys _ with a friend	our,keys	False	20.1875
+559	69	s_i_xx	it is difficult to see the bag that carried _ our keys _ with a friend	our,keys	True	19.5625
+560	70	s_ab	this snack is difficult to see _ in the park _	in,the,park	True	18.53125
+561	70	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+562	70	s_ax	this snack is difficult to see _ our keys _ in the park	our,keys	False	23.875
+563	70	s_xx	it is difficult to see _ our keys _ in the park	our,keys	True	22.3125
+564	70	s_i_ab	this snack is difficult to see the bag that carried _ in the park _	in,the,park	False	25.53125
+565	70	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+566	70	s_i_ax	this snack is difficult to see the bag that carried _ our keys _ in the park	our,keys	False	20.1875
+567	70	s_i_xx	it is difficult to see the bag that carried _ our keys _ in the park	our,keys	True	19.5625
+568	71	s_ab	this snack is difficult to see _ on Saturdays _	on,Saturdays	True	20.09375
+569	71	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+570	71	s_ax	this snack is difficult to see _ our keys _ on Saturdays	our,keys	False	23.875
+571	71	s_xx	it is difficult to see _ our keys _ on Saturdays	our,keys	True	22.3125
+572	71	s_i_ab	this snack is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+573	71	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+574	71	s_i_ax	this snack is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.1875
+575	71	s_i_xx	it is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5625
+576	72	s_ab	this snack is difficult to lose _ with a friend _	with,a,friend	True	20.12890625
+577	72	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+578	72	s_ax	this snack is difficult to lose _ the cheese _ with a friend	the,cheese	False	21.21875
+579	72	s_xx	it is difficult to lose _ the cheese _ with a friend	the,cheese	True	16.5390625
+580	72	s_i_ab	this snack is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.20703125
+581	72	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+582	72	s_i_ax	this snack is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	13.65234375
+583	72	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.70703125
+584	73	s_ab	this snack is difficult to lose _ in the park _	in,the,park	True	17.1875
+585	73	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+586	73	s_ax	this snack is difficult to lose _ the cheese _ in the park	the,cheese	False	21.21875
+587	73	s_xx	it is difficult to lose _ the cheese _ in the park	the,cheese	True	16.5390625
+588	73	s_i_ab	this snack is difficult to lose the bag that carried _ in the park _	in,the,park	False	25.140625
+589	73	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+590	73	s_i_ax	this snack is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	False	13.65234375
+591	73	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.70703125
+592	74	s_ab	this snack is difficult to lose _ on Saturdays _	on,Saturdays	True	18.3125
+593	74	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+594	74	s_ax	this snack is difficult to lose _ the cheese _ on Saturdays	the,cheese	False	21.21875
+595	74	s_xx	it is difficult to lose _ the cheese _ on Saturdays	the,cheese	True	16.5390625
+596	74	s_i_ab	this snack is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+597	74	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+598	74	s_i_ax	this snack is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.65234375
+599	74	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.70703125
+600	75	s_ab	this snack is difficult to lose _ with a friend _	with,a,friend	True	20.12890625
+601	75	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+602	75	s_ax	this snack is difficult to lose _ your hat _ with a friend	your,hat	False	15.03125
+603	75	s_xx	it is difficult to lose _ your hat _ with a friend	your,hat	True	9.3203125
+604	75	s_i_ab	this snack is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.20703125
+605	75	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+606	75	s_i_ax	this snack is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.2734375
+607	75	s_i_xx	it is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	True	11.0234375
+608	76	s_ab	this snack is difficult to lose _ in the park _	in,the,park	True	17.1875
+609	76	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+610	76	s_ax	this snack is difficult to lose _ your hat _ in the park	your,hat	False	15.03125
+611	76	s_xx	it is difficult to lose _ your hat _ in the park	your,hat	True	9.3203125
+612	76	s_i_ab	this snack is difficult to lose the bag that carried _ in the park _	in,the,park	False	25.140625
+613	76	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+614	76	s_i_ax	this snack is difficult to lose the bag that carried _ your hat _ in the park	your,hat	False	11.2734375
+615	76	s_i_xx	it is difficult to lose the bag that carried _ your hat _ in the park	your,hat	True	11.0234375
+616	77	s_ab	this snack is difficult to lose _ on Saturdays _	on,Saturdays	True	18.3125
+617	77	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+618	77	s_ax	this snack is difficult to lose _ your hat _ on Saturdays	your,hat	False	15.03125
+619	77	s_xx	it is difficult to lose _ your hat _ on Saturdays	your,hat	True	9.3203125
+620	77	s_i_ab	this snack is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+621	77	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+622	77	s_i_ax	this snack is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.2734375
+623	77	s_i_xx	it is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	11.0234375
+624	78	s_ab	this snack is difficult to lose _ with a friend _	with,a,friend	True	20.12890625
+625	78	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+626	78	s_ax	this snack is difficult to lose _ our keys _ with a friend	our,keys	False	22.6875
+627	78	s_xx	it is difficult to lose _ our keys _ with a friend	our,keys	True	19.125
+628	78	s_i_ab	this snack is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.20703125
+629	78	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+630	78	s_i_ax	this snack is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.625
+631	78	s_i_xx	it is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.8125
+632	79	s_ab	this snack is difficult to lose _ in the park _	in,the,park	True	17.1875
+633	79	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+634	79	s_ax	this snack is difficult to lose _ our keys _ in the park	our,keys	False	22.6875
+635	79	s_xx	it is difficult to lose _ our keys _ in the park	our,keys	True	19.125
+636	79	s_i_ab	this snack is difficult to lose the bag that carried _ in the park _	in,the,park	False	25.140625
+637	79	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+638	79	s_i_ax	this snack is difficult to lose the bag that carried _ our keys _ in the park	our,keys	False	20.625
+639	79	s_i_xx	it is difficult to lose the bag that carried _ our keys _ in the park	our,keys	True	19.8125
+640	80	s_ab	this snack is difficult to lose _ on Saturdays _	on,Saturdays	True	18.3125
+641	80	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+642	80	s_ax	this snack is difficult to lose _ our keys _ on Saturdays	our,keys	False	22.6875
+643	80	s_xx	it is difficult to lose _ our keys _ on Saturdays	our,keys	True	19.125
+644	80	s_i_ab	this snack is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+645	80	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+646	80	s_i_ax	this snack is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.625
+647	80	s_i_xx	it is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.8125
+648	81	s_ab	the shoe is impossible to find _ with a friend _	with,a,friend	True	21.328125
+649	81	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+650	81	s_ax	the shoe is impossible to find _ the cheese _ with a friend	the,cheese	False	19.03125
+651	81	s_xx	it is impossible to find _ the cheese _ with a friend	the,cheese	True	14.515625
+652	81	s_i_ab	the shoe is impossible to find the bag that carried _ with a friend _	with,a,friend	False	21.40234375
+653	81	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+654	81	s_i_ax	the shoe is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	False	14.3203125
+655	81	s_i_xx	it is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.45703125
+656	82	s_ab	the shoe is impossible to find _ in the park _	in,the,park	True	18.6328125
+657	82	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+658	82	s_ax	the shoe is impossible to find _ the cheese _ in the park	the,cheese	False	19.03125
+659	82	s_xx	it is impossible to find _ the cheese _ in the park	the,cheese	True	14.515625
+660	82	s_i_ab	the shoe is impossible to find the bag that carried _ in the park _	in,the,park	False	20.40625
+661	82	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+662	82	s_i_ax	the shoe is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	False	14.3203125
+663	82	s_i_xx	it is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.45703125
+664	83	s_ab	the shoe is impossible to find _ on Saturdays _	on,Saturdays	True	18.03125
+665	83	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+666	83	s_ax	the shoe is impossible to find _ the cheese _ on Saturdays	the,cheese	False	19.03125
+667	83	s_xx	it is impossible to find _ the cheese _ on Saturdays	the,cheese	True	14.515625
+668	83	s_i_ab	the shoe is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	23.0625
+669	83	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+670	83	s_i_ax	the shoe is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.3203125
+671	83	s_i_xx	it is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.45703125
+672	84	s_ab	the shoe is impossible to find _ with a friend _	with,a,friend	True	21.328125
+673	84	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+674	84	s_ax	the shoe is impossible to find _ your hat _ with a friend	your,hat	False	14.96875
+675	84	s_xx	it is impossible to find _ your hat _ with a friend	your,hat	True	12.0625
+676	84	s_i_ab	the shoe is impossible to find the bag that carried _ with a friend _	with,a,friend	False	21.40234375
+677	84	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+678	84	s_i_ax	the shoe is impossible to find the bag that carried _ your hat _ with a friend	your,hat	False	11.1953125
+679	84	s_i_xx	it is impossible to find the bag that carried _ your hat _ with a friend	your,hat	True	10.2734375
+680	85	s_ab	the shoe is impossible to find _ in the park _	in,the,park	True	18.6328125
+681	85	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+682	85	s_ax	the shoe is impossible to find _ your hat _ in the park	your,hat	False	14.96875
+683	85	s_xx	it is impossible to find _ your hat _ in the park	your,hat	True	12.0625
+684	85	s_i_ab	the shoe is impossible to find the bag that carried _ in the park _	in,the,park	False	20.40625
+685	85	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+686	85	s_i_ax	the shoe is impossible to find the bag that carried _ your hat _ in the park	your,hat	False	11.1953125
+687	85	s_i_xx	it is impossible to find the bag that carried _ your hat _ in the park	your,hat	True	10.2734375
+688	86	s_ab	the shoe is impossible to find _ on Saturdays _	on,Saturdays	True	18.03125
+689	86	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+690	86	s_ax	the shoe is impossible to find _ your hat _ on Saturdays	your,hat	False	14.96875
+691	86	s_xx	it is impossible to find _ your hat _ on Saturdays	your,hat	True	12.0625
+692	86	s_i_ab	the shoe is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	23.0625
+693	86	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+694	86	s_i_ax	the shoe is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.1953125
+695	86	s_i_xx	it is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.2734375
+696	87	s_ab	the shoe is impossible to find _ with a friend _	with,a,friend	True	21.328125
+697	87	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+698	87	s_ax	the shoe is impossible to find _ our keys _ with a friend	our,keys	False	22.5
+699	87	s_xx	it is impossible to find _ our keys _ with a friend	our,keys	True	19.5
+700	87	s_i_ab	the shoe is impossible to find the bag that carried _ with a friend _	with,a,friend	False	21.40234375
+701	87	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+702	87	s_i_ax	the shoe is impossible to find the bag that carried _ our keys _ with a friend	our,keys	False	20.5
+703	87	s_i_xx	it is impossible to find the bag that carried _ our keys _ with a friend	our,keys	True	19.625
+704	88	s_ab	the shoe is impossible to find _ in the park _	in,the,park	True	18.6328125
+705	88	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+706	88	s_ax	the shoe is impossible to find _ our keys _ in the park	our,keys	False	22.5
+707	88	s_xx	it is impossible to find _ our keys _ in the park	our,keys	True	19.5
+708	88	s_i_ab	the shoe is impossible to find the bag that carried _ in the park _	in,the,park	False	20.40625
+709	88	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+710	88	s_i_ax	the shoe is impossible to find the bag that carried _ our keys _ in the park	our,keys	False	20.5
+711	88	s_i_xx	it is impossible to find the bag that carried _ our keys _ in the park	our,keys	True	19.625
+712	89	s_ab	the shoe is impossible to find _ on Saturdays _	on,Saturdays	True	18.03125
+713	89	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+714	89	s_ax	the shoe is impossible to find _ our keys _ on Saturdays	our,keys	False	22.5
+715	89	s_xx	it is impossible to find _ our keys _ on Saturdays	our,keys	True	19.5
+716	89	s_i_ab	the shoe is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	23.0625
+717	89	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+718	89	s_i_ax	the shoe is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.5
+719	89	s_i_xx	it is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	True	19.625
+720	90	s_ab	the shoe is impossible to see _ with a friend _	with,a,friend	True	19.8203125
+721	90	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+722	90	s_ax	the shoe is impossible to see _ the cheese _ with a friend	the,cheese	False	18.6875
+723	90	s_xx	it is impossible to see _ the cheese _ with a friend	the,cheese	True	14.34375
+724	90	s_i_ab	the shoe is impossible to see the bag that carried _ with a friend _	with,a,friend	False	20.5
+725	90	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+726	90	s_i_ax	the shoe is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	False	14.29296875
+727	90	s_i_xx	it is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.3671875
+728	91	s_ab	the shoe is impossible to see _ in the park _	in,the,park	True	17.7734375
+729	91	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+730	91	s_ax	the shoe is impossible to see _ the cheese _ in the park	the,cheese	False	18.6875
+731	91	s_xx	it is impossible to see _ the cheese _ in the park	the,cheese	True	14.34375
+732	91	s_i_ab	the shoe is impossible to see the bag that carried _ in the park _	in,the,park	False	19.703125
+733	91	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+734	91	s_i_ax	the shoe is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	False	14.29296875
+735	91	s_i_xx	it is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.3671875
+736	92	s_ab	the shoe is impossible to see _ on Saturdays _	on,Saturdays	True	19.1875
+737	92	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+738	92	s_ax	the shoe is impossible to see _ the cheese _ on Saturdays	the,cheese	False	18.6875
+739	92	s_xx	it is impossible to see _ the cheese _ on Saturdays	the,cheese	True	14.34375
+740	92	s_i_ab	the shoe is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	22.1875
+741	92	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+742	92	s_i_ax	the shoe is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.29296875
+743	92	s_i_xx	it is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.3671875
+744	93	s_ab	the shoe is impossible to see _ with a friend _	with,a,friend	True	19.8203125
+745	93	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+746	93	s_ax	the shoe is impossible to see _ your hat _ with a friend	your,hat	False	13.84375
+747	93	s_xx	it is impossible to see _ your hat _ with a friend	your,hat	True	13.03125
+748	93	s_i_ab	the shoe is impossible to see the bag that carried _ with a friend _	with,a,friend	False	20.5
+749	93	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+750	93	s_i_ax	the shoe is impossible to see the bag that carried _ your hat _ with a friend	your,hat	False	11.359375
+751	93	s_i_xx	it is impossible to see the bag that carried _ your hat _ with a friend	your,hat	True	10.4921875
+752	94	s_ab	the shoe is impossible to see _ in the park _	in,the,park	True	17.7734375
+753	94	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+754	94	s_ax	the shoe is impossible to see _ your hat _ in the park	your,hat	False	13.84375
+755	94	s_xx	it is impossible to see _ your hat _ in the park	your,hat	True	13.03125
+756	94	s_i_ab	the shoe is impossible to see the bag that carried _ in the park _	in,the,park	False	19.703125
+757	94	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+758	94	s_i_ax	the shoe is impossible to see the bag that carried _ your hat _ in the park	your,hat	False	11.359375
+759	94	s_i_xx	it is impossible to see the bag that carried _ your hat _ in the park	your,hat	True	10.4921875
+760	95	s_ab	the shoe is impossible to see _ on Saturdays _	on,Saturdays	True	19.1875
+761	95	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+762	95	s_ax	the shoe is impossible to see _ your hat _ on Saturdays	your,hat	False	13.84375
+763	95	s_xx	it is impossible to see _ your hat _ on Saturdays	your,hat	True	13.03125
+764	95	s_i_ab	the shoe is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	22.1875
+765	95	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+766	95	s_i_ax	the shoe is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.359375
+767	95	s_i_xx	it is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.4921875
+768	96	s_ab	the shoe is impossible to see _ with a friend _	with,a,friend	True	19.8203125
+769	96	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+770	96	s_ax	the shoe is impossible to see _ our keys _ with a friend	our,keys	False	23.75
+771	96	s_xx	it is impossible to see _ our keys _ with a friend	our,keys	True	22.25
+772	96	s_i_ab	the shoe is impossible to see the bag that carried _ with a friend _	with,a,friend	False	20.5
+773	96	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+774	96	s_i_ax	the shoe is impossible to see the bag that carried _ our keys _ with a friend	our,keys	False	20.5625
+775	96	s_i_xx	it is impossible to see the bag that carried _ our keys _ with a friend	our,keys	True	19.5625
+776	97	s_ab	the shoe is impossible to see _ in the park _	in,the,park	True	17.7734375
+777	97	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+778	97	s_ax	the shoe is impossible to see _ our keys _ in the park	our,keys	False	23.75
+779	97	s_xx	it is impossible to see _ our keys _ in the park	our,keys	True	22.25
+780	97	s_i_ab	the shoe is impossible to see the bag that carried _ in the park _	in,the,park	False	19.703125
+781	97	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+782	97	s_i_ax	the shoe is impossible to see the bag that carried _ our keys _ in the park	our,keys	False	20.5625
+783	97	s_i_xx	it is impossible to see the bag that carried _ our keys _ in the park	our,keys	True	19.5625
+784	98	s_ab	the shoe is impossible to see _ on Saturdays _	on,Saturdays	True	19.1875
+785	98	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+786	98	s_ax	the shoe is impossible to see _ our keys _ on Saturdays	our,keys	False	23.75
+787	98	s_xx	it is impossible to see _ our keys _ on Saturdays	our,keys	True	22.25
+788	98	s_i_ab	the shoe is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	22.1875
+789	98	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+790	98	s_i_ax	the shoe is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.5625
+791	98	s_i_xx	it is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5625
+792	99	s_ab	the shoe is impossible to lose _ with a friend _	with,a,friend	True	18.62109375
+793	99	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+794	99	s_ax	the shoe is impossible to lose _ the cheese _ with a friend	the,cheese	False	23.65625
+795	99	s_xx	it is impossible to lose _ the cheese _ with a friend	the,cheese	True	16.0390625
+796	99	s_i_ab	the shoe is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	20.31640625
+797	99	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+798	99	s_i_ax	the shoe is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	14.515625
+799	99	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.51171875
+800	100	s_ab	the shoe is impossible to lose _ in the park _	in,the,park	True	16.84375
+801	100	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+802	100	s_ax	the shoe is impossible to lose _ the cheese _ in the park	the,cheese	False	23.65625
+803	100	s_xx	it is impossible to lose _ the cheese _ in the park	the,cheese	True	16.0390625
+804	100	s_i_ab	the shoe is impossible to lose the bag that carried _ in the park _	in,the,park	False	19.796875
+805	100	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+806	100	s_i_ax	the shoe is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	False	14.515625
+807	100	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.51171875
+808	101	s_ab	the shoe is impossible to lose _ on Saturdays _	on,Saturdays	True	17.40625
+809	101	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+810	101	s_ax	the shoe is impossible to lose _ the cheese _ on Saturdays	the,cheese	False	23.65625
+811	101	s_xx	it is impossible to lose _ the cheese _ on Saturdays	the,cheese	True	16.0390625
+812	101	s_i_ab	the shoe is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	22.25
+813	101	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+814	101	s_i_ax	the shoe is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.515625
+815	101	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.51171875
+816	102	s_ab	the shoe is impossible to lose _ with a friend _	with,a,friend	True	18.62109375
+817	102	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+818	102	s_ax	the shoe is impossible to lose _ your hat _ with a friend	your,hat	False	17.3125
+819	102	s_xx	it is impossible to lose _ your hat _ with a friend	your,hat	True	9.1328125
+820	102	s_i_ab	the shoe is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	20.31640625
+821	102	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+822	102	s_i_ax	the shoe is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.390625
+823	102	s_i_xx	it is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	True	10.5703125
+824	103	s_ab	the shoe is impossible to lose _ in the park _	in,the,park	True	16.84375
+825	103	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+826	103	s_ax	the shoe is impossible to lose _ your hat _ in the park	your,hat	False	17.3125
+827	103	s_xx	it is impossible to lose _ your hat _ in the park	your,hat	True	9.1328125
+828	103	s_i_ab	the shoe is impossible to lose the bag that carried _ in the park _	in,the,park	False	19.796875
+829	103	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+830	103	s_i_ax	the shoe is impossible to lose the bag that carried _ your hat _ in the park	your,hat	False	11.390625
+831	103	s_i_xx	it is impossible to lose the bag that carried _ your hat _ in the park	your,hat	True	10.5703125
+832	104	s_ab	the shoe is impossible to lose _ on Saturdays _	on,Saturdays	True	17.40625
+833	104	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+834	104	s_ax	the shoe is impossible to lose _ your hat _ on Saturdays	your,hat	False	17.3125
+835	104	s_xx	it is impossible to lose _ your hat _ on Saturdays	your,hat	True	9.1328125
+836	104	s_i_ab	the shoe is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	22.25
+837	104	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+838	104	s_i_ax	the shoe is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.390625
+839	104	s_i_xx	it is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	10.5703125
+840	105	s_ab	the shoe is impossible to lose _ with a friend _	with,a,friend	True	18.62109375
+841	105	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+842	105	s_ax	the shoe is impossible to lose _ our keys _ with a friend	our,keys	False	24.375
+843	105	s_xx	it is impossible to lose _ our keys _ with a friend	our,keys	True	19.1875
+844	105	s_i_ab	the shoe is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	20.31640625
+845	105	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+846	105	s_i_ax	the shoe is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.4375
+847	105	s_i_xx	it is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.625
+848	106	s_ab	the shoe is impossible to lose _ in the park _	in,the,park	True	16.84375
+849	106	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+850	106	s_ax	the shoe is impossible to lose _ our keys _ in the park	our,keys	False	24.375
+851	106	s_xx	it is impossible to lose _ our keys _ in the park	our,keys	True	19.1875
+852	106	s_i_ab	the shoe is impossible to lose the bag that carried _ in the park _	in,the,park	False	19.796875
+853	106	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+854	106	s_i_ax	the shoe is impossible to lose the bag that carried _ our keys _ in the park	our,keys	False	20.4375
+855	106	s_i_xx	it is impossible to lose the bag that carried _ our keys _ in the park	our,keys	True	19.625
+856	107	s_ab	the shoe is impossible to lose _ on Saturdays _	on,Saturdays	True	17.40625
+857	107	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+858	107	s_ax	the shoe is impossible to lose _ our keys _ on Saturdays	our,keys	False	24.375
+859	107	s_xx	it is impossible to lose _ our keys _ on Saturdays	our,keys	True	19.1875
+860	107	s_i_ab	the shoe is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	22.25
+861	107	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+862	107	s_i_ax	the shoe is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.4375
+863	107	s_i_xx	it is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.625
+864	108	s_ab	the shoe is easy to find _ with a friend _	with,a,friend	True	21.3359375
+865	108	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+866	108	s_ax	the shoe is easy to find _ the cheese _ with a friend	the,cheese	False	17.03125
+867	108	s_xx	it is easy to find _ the cheese _ with a friend	the,cheese	True	14.15625
+868	108	s_i_ab	the shoe is easy to find the bag that carried _ with a friend _	with,a,friend	False	20.7265625
+869	108	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+870	108	s_i_ax	the shoe is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	False	14.25390625
+871	108	s_i_xx	it is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.70703125
+872	109	s_ab	the shoe is easy to find _ in the park _	in,the,park	True	17.0859375
+873	109	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+874	109	s_ax	the shoe is easy to find _ the cheese _ in the park	the,cheese	False	17.03125
+875	109	s_xx	it is easy to find _ the cheese _ in the park	the,cheese	True	14.15625
+876	109	s_i_ab	the shoe is easy to find the bag that carried _ in the park _	in,the,park	False	19.84375
+877	109	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+878	109	s_i_ax	the shoe is easy to find the bag that carried _ the cheese _ in the park	the,cheese	False	14.25390625
+879	109	s_i_xx	it is easy to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.70703125
+880	110	s_ab	the shoe is easy to find _ on Saturdays _	on,Saturdays	True	18.65625
+881	110	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+882	110	s_ax	the shoe is easy to find _ the cheese _ on Saturdays	the,cheese	False	17.03125
+883	110	s_xx	it is easy to find _ the cheese _ on Saturdays	the,cheese	True	14.15625
+884	110	s_i_ab	the shoe is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	22.625
+885	110	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+886	110	s_i_ax	the shoe is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.25390625
+887	110	s_i_xx	it is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.70703125
+888	111	s_ab	the shoe is easy to find _ with a friend _	with,a,friend	True	21.3359375
+889	111	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+890	111	s_ax	the shoe is easy to find _ your hat _ with a friend	your,hat	False	13.84375
+891	111	s_xx	it is easy to find _ your hat _ with a friend	your,hat	True	13.15625
+892	111	s_i_ab	the shoe is easy to find the bag that carried _ with a friend _	with,a,friend	False	20.7265625
+893	111	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+894	111	s_i_ax	the shoe is easy to find the bag that carried _ your hat _ with a friend	your,hat	False	11.0078125
+895	111	s_i_xx	it is easy to find the bag that carried _ your hat _ with a friend	your,hat	True	10.203125
+896	112	s_ab	the shoe is easy to find _ in the park _	in,the,park	True	17.0859375
+897	112	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+898	112	s_ax	the shoe is easy to find _ your hat _ in the park	your,hat	False	13.84375
+899	112	s_xx	it is easy to find _ your hat _ in the park	your,hat	True	13.15625
+900	112	s_i_ab	the shoe is easy to find the bag that carried _ in the park _	in,the,park	False	19.84375
+901	112	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+902	112	s_i_ax	the shoe is easy to find the bag that carried _ your hat _ in the park	your,hat	False	11.0078125
+903	112	s_i_xx	it is easy to find the bag that carried _ your hat _ in the park	your,hat	True	10.203125
+904	113	s_ab	the shoe is easy to find _ on Saturdays _	on,Saturdays	True	18.65625
+905	113	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+906	113	s_ax	the shoe is easy to find _ your hat _ on Saturdays	your,hat	False	13.84375
+907	113	s_xx	it is easy to find _ your hat _ on Saturdays	your,hat	True	13.15625
+908	113	s_i_ab	the shoe is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	22.625
+909	113	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+910	113	s_i_ax	the shoe is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.0078125
+911	113	s_i_xx	it is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.203125
+912	114	s_ab	the shoe is easy to find _ with a friend _	with,a,friend	True	21.3359375
+913	114	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+914	114	s_ax	the shoe is easy to find _ our keys _ with a friend	our,keys	False	21.75
+915	114	s_xx	it is easy to find _ our keys _ with a friend	our,keys	True	19.5
+916	114	s_i_ab	the shoe is easy to find the bag that carried _ with a friend _	with,a,friend	False	20.7265625
+917	114	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+918	114	s_i_ax	the shoe is easy to find the bag that carried _ our keys _ with a friend	our,keys	False	19.875
+919	114	s_i_xx	it is easy to find the bag that carried _ our keys _ with a friend	our,keys	True	18.9375
+920	115	s_ab	the shoe is easy to find _ in the park _	in,the,park	True	17.0859375
+921	115	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+922	115	s_ax	the shoe is easy to find _ our keys _ in the park	our,keys	False	21.75
+923	115	s_xx	it is easy to find _ our keys _ in the park	our,keys	True	19.5
+924	115	s_i_ab	the shoe is easy to find the bag that carried _ in the park _	in,the,park	False	19.84375
+925	115	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+926	115	s_i_ax	the shoe is easy to find the bag that carried _ our keys _ in the park	our,keys	False	19.875
+927	115	s_i_xx	it is easy to find the bag that carried _ our keys _ in the park	our,keys	True	18.9375
+928	116	s_ab	the shoe is easy to find _ on Saturdays _	on,Saturdays	True	18.65625
+929	116	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+930	116	s_ax	the shoe is easy to find _ our keys _ on Saturdays	our,keys	False	21.75
+931	116	s_xx	it is easy to find _ our keys _ on Saturdays	our,keys	True	19.5
+932	116	s_i_ab	the shoe is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	22.625
+933	116	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+934	116	s_i_ax	the shoe is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	False	19.875
+935	116	s_i_xx	it is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	True	18.9375
+936	117	s_ab	the shoe is easy to see _ with a friend _	with,a,friend	True	20.40625
+937	117	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+938	117	s_ax	the shoe is easy to see _ the cheese _ with a friend	the,cheese	False	18.0625
+939	117	s_xx	it is easy to see _ the cheese _ with a friend	the,cheese	True	16.09375
+940	117	s_i_ab	the shoe is easy to see the bag that carried _ with a friend _	with,a,friend	False	21.26953125
+941	117	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+942	117	s_i_ax	the shoe is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.96875
+943	117	s_i_xx	it is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.5546875
+944	118	s_ab	the shoe is easy to see _ in the park _	in,the,park	True	17.1015625
+945	118	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+946	118	s_ax	the shoe is easy to see _ the cheese _ in the park	the,cheese	False	18.0625
+947	118	s_xx	it is easy to see _ the cheese _ in the park	the,cheese	True	16.09375
+948	118	s_i_ab	the shoe is easy to see the bag that carried _ in the park _	in,the,park	False	20.65625
+949	118	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+950	118	s_i_ax	the shoe is easy to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.96875
+951	118	s_i_xx	it is easy to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.5546875
+952	119	s_ab	the shoe is easy to see _ on Saturdays _	on,Saturdays	True	19.875
+953	119	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+954	119	s_ax	the shoe is easy to see _ the cheese _ on Saturdays	the,cheese	False	18.0625
+955	119	s_xx	it is easy to see _ the cheese _ on Saturdays	the,cheese	True	16.09375
+956	119	s_i_ab	the shoe is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	23.25
+957	119	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+958	119	s_i_ax	the shoe is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.96875
+959	119	s_i_xx	it is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.5546875
+960	120	s_ab	the shoe is easy to see _ with a friend _	with,a,friend	True	20.40625
+961	120	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+962	120	s_ax	the shoe is easy to see _ your hat _ with a friend	your,hat	False	14.75
+963	120	s_xx	it is easy to see _ your hat _ with a friend	your,hat	True	15.53125
+964	120	s_i_ab	the shoe is easy to see the bag that carried _ with a friend _	with,a,friend	False	21.26953125
+965	120	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+966	120	s_i_ax	the shoe is easy to see the bag that carried _ your hat _ with a friend	your,hat	False	11.09375
+967	120	s_i_xx	it is easy to see the bag that carried _ your hat _ with a friend	your,hat	True	10.3671875
+968	121	s_ab	the shoe is easy to see _ in the park _	in,the,park	True	17.1015625
+969	121	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+970	121	s_ax	the shoe is easy to see _ your hat _ in the park	your,hat	False	14.75
+971	121	s_xx	it is easy to see _ your hat _ in the park	your,hat	True	15.53125
+972	121	s_i_ab	the shoe is easy to see the bag that carried _ in the park _	in,the,park	False	20.65625
+973	121	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+974	121	s_i_ax	the shoe is easy to see the bag that carried _ your hat _ in the park	your,hat	False	11.09375
+975	121	s_i_xx	it is easy to see the bag that carried _ your hat _ in the park	your,hat	True	10.3671875
+976	122	s_ab	the shoe is easy to see _ on Saturdays _	on,Saturdays	True	19.875
+977	122	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+978	122	s_ax	the shoe is easy to see _ your hat _ on Saturdays	your,hat	False	14.75
+979	122	s_xx	it is easy to see _ your hat _ on Saturdays	your,hat	True	15.53125
+980	122	s_i_ab	the shoe is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	23.25
+981	122	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+982	122	s_i_ax	the shoe is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.09375
+983	122	s_i_xx	it is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.3671875
+984	123	s_ab	the shoe is easy to see _ with a friend _	with,a,friend	True	20.40625
+985	123	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+986	123	s_ax	the shoe is easy to see _ our keys _ with a friend	our,keys	False	24.1875
+987	123	s_xx	it is easy to see _ our keys _ with a friend	our,keys	True	23.1875
+988	123	s_i_ab	the shoe is easy to see the bag that carried _ with a friend _	with,a,friend	False	21.26953125
+989	123	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+990	123	s_i_ax	the shoe is easy to see the bag that carried _ our keys _ with a friend	our,keys	False	20.0625
+991	123	s_i_xx	it is easy to see the bag that carried _ our keys _ with a friend	our,keys	True	19.25
+992	124	s_ab	the shoe is easy to see _ in the park _	in,the,park	True	17.1015625
+993	124	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+994	124	s_ax	the shoe is easy to see _ our keys _ in the park	our,keys	False	24.1875
+995	124	s_xx	it is easy to see _ our keys _ in the park	our,keys	True	23.1875
+996	124	s_i_ab	the shoe is easy to see the bag that carried _ in the park _	in,the,park	False	20.65625
+997	124	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+998	124	s_i_ax	the shoe is easy to see the bag that carried _ our keys _ in the park	our,keys	False	20.0625
+999	124	s_i_xx	it is easy to see the bag that carried _ our keys _ in the park	our,keys	True	19.25
+1000	125	s_ab	the shoe is easy to see _ on Saturdays _	on,Saturdays	True	19.875
+1001	125	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+1002	125	s_ax	the shoe is easy to see _ our keys _ on Saturdays	our,keys	False	24.1875
+1003	125	s_xx	it is easy to see _ our keys _ on Saturdays	our,keys	True	23.1875
+1004	125	s_i_ab	the shoe is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	23.25
+1005	125	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1006	125	s_i_ax	the shoe is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0625
+1007	125	s_i_xx	it is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.25
+1008	126	s_ab	the shoe is easy to lose _ with a friend _	with,a,friend	True	19.01953125
+1009	126	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+1010	126	s_ax	the shoe is easy to lose _ the cheese _ with a friend	the,cheese	False	22.5
+1011	126	s_xx	it is easy to lose _ the cheese _ with a friend	the,cheese	True	15.71875
+1012	126	s_i_ab	the shoe is easy to lose the bag that carried _ with a friend _	with,a,friend	False	21.28125
+1013	126	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+1014	126	s_i_ax	the shoe is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	14.1875
+1015	126	s_i_xx	it is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.48828125
+1016	127	s_ab	the shoe is easy to lose _ in the park _	in,the,park	True	17.828125
+1017	127	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+1018	127	s_ax	the shoe is easy to lose _ the cheese _ in the park	the,cheese	False	22.5
+1019	127	s_xx	it is easy to lose _ the cheese _ in the park	the,cheese	True	15.71875
+1020	127	s_i_ab	the shoe is easy to lose the bag that carried _ in the park _	in,the,park	False	20.921875
+1021	127	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+1022	127	s_i_ax	the shoe is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	False	14.1875
+1023	127	s_i_xx	it is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.48828125
+1024	128	s_ab	the shoe is easy to lose _ on Saturdays _	on,Saturdays	True	17.875
+1025	128	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+1026	128	s_ax	the shoe is easy to lose _ the cheese _ on Saturdays	the,cheese	False	22.5
+1027	128	s_xx	it is easy to lose _ the cheese _ on Saturdays	the,cheese	True	15.71875
+1028	128	s_i_ab	the shoe is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	23.125
+1029	128	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+1030	128	s_i_ax	the shoe is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.1875
+1031	128	s_i_xx	it is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.48828125
+1032	129	s_ab	the shoe is easy to lose _ with a friend _	with,a,friend	True	19.01953125
+1033	129	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+1034	129	s_ax	the shoe is easy to lose _ your hat _ with a friend	your,hat	False	16.375
+1035	129	s_xx	it is easy to lose _ your hat _ with a friend	your,hat	True	8.625
+1036	129	s_i_ab	the shoe is easy to lose the bag that carried _ with a friend _	with,a,friend	False	21.28125
+1037	129	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+1038	129	s_i_ax	the shoe is easy to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.375
+1039	129	s_i_xx	it is easy to lose the bag that carried _ your hat _ with a friend	your,hat	True	10.484375
+1040	130	s_ab	the shoe is easy to lose _ in the park _	in,the,park	True	17.828125
+1041	130	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+1042	130	s_ax	the shoe is easy to lose _ your hat _ in the park	your,hat	False	16.375
+1043	130	s_xx	it is easy to lose _ your hat _ in the park	your,hat	True	8.625
+1044	130	s_i_ab	the shoe is easy to lose the bag that carried _ in the park _	in,the,park	False	20.921875
+1045	130	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+1046	130	s_i_ax	the shoe is easy to lose the bag that carried _ your hat _ in the park	your,hat	False	11.375
+1047	130	s_i_xx	it is easy to lose the bag that carried _ your hat _ in the park	your,hat	True	10.484375
+1048	131	s_ab	the shoe is easy to lose _ on Saturdays _	on,Saturdays	True	17.875
+1049	131	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+1050	131	s_ax	the shoe is easy to lose _ your hat _ on Saturdays	your,hat	False	16.375
+1051	131	s_xx	it is easy to lose _ your hat _ on Saturdays	your,hat	True	8.625
+1052	131	s_i_ab	the shoe is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	23.125
+1053	131	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+1054	131	s_i_ax	the shoe is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.375
+1055	131	s_i_xx	it is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	10.484375
+1056	132	s_ab	the shoe is easy to lose _ with a friend _	with,a,friend	True	19.01953125
+1057	132	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+1058	132	s_ax	the shoe is easy to lose _ our keys _ with a friend	our,keys	False	24.25
+1059	132	s_xx	it is easy to lose _ our keys _ with a friend	our,keys	True	18.3125
+1060	132	s_i_ab	the shoe is easy to lose the bag that carried _ with a friend _	with,a,friend	False	21.28125
+1061	132	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+1062	132	s_i_ax	the shoe is easy to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.0
+1063	132	s_i_xx	it is easy to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.4375
+1064	133	s_ab	the shoe is easy to lose _ in the park _	in,the,park	True	17.828125
+1065	133	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+1066	133	s_ax	the shoe is easy to lose _ our keys _ in the park	our,keys	False	24.25
+1067	133	s_xx	it is easy to lose _ our keys _ in the park	our,keys	True	18.3125
+1068	133	s_i_ab	the shoe is easy to lose the bag that carried _ in the park _	in,the,park	False	20.921875
+1069	133	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+1070	133	s_i_ax	the shoe is easy to lose the bag that carried _ our keys _ in the park	our,keys	False	20.0
+1071	133	s_i_xx	it is easy to lose the bag that carried _ our keys _ in the park	our,keys	True	19.4375
+1072	134	s_ab	the shoe is easy to lose _ on Saturdays _	on,Saturdays	True	17.875
+1073	134	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+1074	134	s_ax	the shoe is easy to lose _ our keys _ on Saturdays	our,keys	False	24.25
+1075	134	s_xx	it is easy to lose _ our keys _ on Saturdays	our,keys	True	18.3125
+1076	134	s_i_ab	the shoe is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	23.125
+1077	134	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+1078	134	s_i_ax	the shoe is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0
+1079	134	s_i_xx	it is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.4375
+1080	135	s_ab	the shoe is difficult to find _ with a friend _	with,a,friend	True	21.3984375
+1081	135	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+1082	135	s_ax	the shoe is difficult to find _ the cheese _ with a friend	the,cheese	False	18.4375
+1083	135	s_xx	it is difficult to find _ the cheese _ with a friend	the,cheese	True	14.8125
+1084	135	s_i_ab	the shoe is difficult to find the bag that carried _ with a friend _	with,a,friend	False	22.125
+1085	135	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+1086	135	s_i_ax	the shoe is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	False	14.41796875
+1087	135	s_i_xx	it is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.4375
+1088	136	s_ab	the shoe is difficult to find _ in the park _	in,the,park	True	18.578125
+1089	136	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+1090	136	s_ax	the shoe is difficult to find _ the cheese _ in the park	the,cheese	False	18.4375
+1091	136	s_xx	it is difficult to find _ the cheese _ in the park	the,cheese	True	14.8125
+1092	136	s_i_ab	the shoe is difficult to find the bag that carried _ in the park _	in,the,park	False	20.984375
+1093	136	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+1094	136	s_i_ax	the shoe is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	False	14.41796875
+1095	136	s_i_xx	it is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.4375
+1096	137	s_ab	the shoe is difficult to find _ on Saturdays _	on,Saturdays	True	18.1875
+1097	137	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+1098	137	s_ax	the shoe is difficult to find _ the cheese _ on Saturdays	the,cheese	False	18.4375
+1099	137	s_xx	it is difficult to find _ the cheese _ on Saturdays	the,cheese	True	14.8125
+1100	137	s_i_ab	the shoe is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	23.6875
+1101	137	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1102	137	s_i_ax	the shoe is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.41796875
+1103	137	s_i_xx	it is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.4375
+1104	138	s_ab	the shoe is difficult to find _ with a friend _	with,a,friend	True	21.3984375
+1105	138	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+1106	138	s_ax	the shoe is difficult to find _ your hat _ with a friend	your,hat	False	14.1875
+1107	138	s_xx	it is difficult to find _ your hat _ with a friend	your,hat	True	12.40625
+1108	138	s_i_ab	the shoe is difficult to find the bag that carried _ with a friend _	with,a,friend	False	22.125
+1109	138	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+1110	138	s_i_ax	the shoe is difficult to find the bag that carried _ your hat _ with a friend	your,hat	False	11.2265625
+1111	138	s_i_xx	it is difficult to find the bag that carried _ your hat _ with a friend	your,hat	True	10.375
+1112	139	s_ab	the shoe is difficult to find _ in the park _	in,the,park	True	18.578125
+1113	139	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+1114	139	s_ax	the shoe is difficult to find _ your hat _ in the park	your,hat	False	14.1875
+1115	139	s_xx	it is difficult to find _ your hat _ in the park	your,hat	True	12.40625
+1116	139	s_i_ab	the shoe is difficult to find the bag that carried _ in the park _	in,the,park	False	20.984375
+1117	139	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+1118	139	s_i_ax	the shoe is difficult to find the bag that carried _ your hat _ in the park	your,hat	False	11.2265625
+1119	139	s_i_xx	it is difficult to find the bag that carried _ your hat _ in the park	your,hat	True	10.375
+1120	140	s_ab	the shoe is difficult to find _ on Saturdays _	on,Saturdays	True	18.1875
+1121	140	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+1122	140	s_ax	the shoe is difficult to find _ your hat _ on Saturdays	your,hat	False	14.1875
+1123	140	s_xx	it is difficult to find _ your hat _ on Saturdays	your,hat	True	12.40625
+1124	140	s_i_ab	the shoe is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	23.6875
+1125	140	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1126	140	s_i_ax	the shoe is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.2265625
+1127	140	s_i_xx	it is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.375
+1128	141	s_ab	the shoe is difficult to find _ with a friend _	with,a,friend	True	21.3984375
+1129	141	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+1130	141	s_ax	the shoe is difficult to find _ our keys _ with a friend	our,keys	False	21.75
+1131	141	s_xx	it is difficult to find _ our keys _ with a friend	our,keys	True	19.875
+1132	141	s_i_ab	the shoe is difficult to find the bag that carried _ with a friend _	with,a,friend	False	22.125
+1133	141	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+1134	141	s_i_ax	the shoe is difficult to find the bag that carried _ our keys _ with a friend	our,keys	False	20.625
+1135	141	s_i_xx	it is difficult to find the bag that carried _ our keys _ with a friend	our,keys	True	19.5
+1136	142	s_ab	the shoe is difficult to find _ in the park _	in,the,park	True	18.578125
+1137	142	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+1138	142	s_ax	the shoe is difficult to find _ our keys _ in the park	our,keys	False	21.75
+1139	142	s_xx	it is difficult to find _ our keys _ in the park	our,keys	True	19.875
+1140	142	s_i_ab	the shoe is difficult to find the bag that carried _ in the park _	in,the,park	False	20.984375
+1141	142	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+1142	142	s_i_ax	the shoe is difficult to find the bag that carried _ our keys _ in the park	our,keys	False	20.625
+1143	142	s_i_xx	it is difficult to find the bag that carried _ our keys _ in the park	our,keys	True	19.5
+1144	143	s_ab	the shoe is difficult to find _ on Saturdays _	on,Saturdays	True	18.1875
+1145	143	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+1146	143	s_ax	the shoe is difficult to find _ our keys _ on Saturdays	our,keys	False	21.75
+1147	143	s_xx	it is difficult to find _ our keys _ on Saturdays	our,keys	True	19.875
+1148	143	s_i_ab	the shoe is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	23.6875
+1149	143	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1150	143	s_i_ax	the shoe is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.625
+1151	143	s_i_xx	it is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5
+1152	144	s_ab	the shoe is difficult to see _ with a friend _	with,a,friend	True	19.78515625
+1153	144	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+1154	144	s_ax	the shoe is difficult to see _ the cheese _ with a friend	the,cheese	False	18.375
+1155	144	s_xx	it is difficult to see _ the cheese _ with a friend	the,cheese	True	15.5
+1156	144	s_i_ab	the shoe is difficult to see the bag that carried _ with a friend _	with,a,friend	False	22.8515625
+1157	144	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+1158	144	s_i_ax	the shoe is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	False	14.01171875
+1159	144	s_i_xx	it is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.3359375
+1160	145	s_ab	the shoe is difficult to see _ in the park _	in,the,park	True	17.4140625
+1161	145	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+1162	145	s_ax	the shoe is difficult to see _ the cheese _ in the park	the,cheese	False	18.375
+1163	145	s_xx	it is difficult to see _ the cheese _ in the park	the,cheese	True	15.5
+1164	145	s_i_ab	the shoe is difficult to see the bag that carried _ in the park _	in,the,park	False	21.921875
+1165	145	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+1166	145	s_i_ax	the shoe is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	False	14.01171875
+1167	145	s_i_xx	it is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.3359375
+1168	146	s_ab	the shoe is difficult to see _ on Saturdays _	on,Saturdays	True	19.0
+1169	146	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+1170	146	s_ax	the shoe is difficult to see _ the cheese _ on Saturdays	the,cheese	False	18.375
+1171	146	s_xx	it is difficult to see _ the cheese _ on Saturdays	the,cheese	True	15.5
+1172	146	s_i_ab	the shoe is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	24.1875
+1173	146	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+1174	146	s_i_ax	the shoe is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.01171875
+1175	146	s_i_xx	it is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.3359375
+1176	147	s_ab	the shoe is difficult to see _ with a friend _	with,a,friend	True	19.78515625
+1177	147	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+1178	147	s_ax	the shoe is difficult to see _ your hat _ with a friend	your,hat	False	13.71875
+1179	147	s_xx	it is difficult to see _ your hat _ with a friend	your,hat	True	13.5625
+1180	147	s_i_ab	the shoe is difficult to see the bag that carried _ with a friend _	with,a,friend	False	22.8515625
+1181	147	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+1182	147	s_i_ax	the shoe is difficult to see the bag that carried _ your hat _ with a friend	your,hat	False	11.328125
+1183	147	s_i_xx	it is difficult to see the bag that carried _ your hat _ with a friend	your,hat	True	10.5859375
+1184	148	s_ab	the shoe is difficult to see _ in the park _	in,the,park	True	17.4140625
+1185	148	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+1186	148	s_ax	the shoe is difficult to see _ your hat _ in the park	your,hat	False	13.71875
+1187	148	s_xx	it is difficult to see _ your hat _ in the park	your,hat	True	13.5625
+1188	148	s_i_ab	the shoe is difficult to see the bag that carried _ in the park _	in,the,park	False	21.921875
+1189	148	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+1190	148	s_i_ax	the shoe is difficult to see the bag that carried _ your hat _ in the park	your,hat	False	11.328125
+1191	148	s_i_xx	it is difficult to see the bag that carried _ your hat _ in the park	your,hat	True	10.5859375
+1192	149	s_ab	the shoe is difficult to see _ on Saturdays _	on,Saturdays	True	19.0
+1193	149	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+1194	149	s_ax	the shoe is difficult to see _ your hat _ on Saturdays	your,hat	False	13.71875
+1195	149	s_xx	it is difficult to see _ your hat _ on Saturdays	your,hat	True	13.5625
+1196	149	s_i_ab	the shoe is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	24.1875
+1197	149	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+1198	149	s_i_ax	the shoe is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.328125
+1199	149	s_i_xx	it is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.5859375
+1200	150	s_ab	the shoe is difficult to see _ with a friend _	with,a,friend	True	19.78515625
+1201	150	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+1202	150	s_ax	the shoe is difficult to see _ our keys _ with a friend	our,keys	False	23.5625
+1203	150	s_xx	it is difficult to see _ our keys _ with a friend	our,keys	True	22.3125
+1204	150	s_i_ab	the shoe is difficult to see the bag that carried _ with a friend _	with,a,friend	False	22.8515625
+1205	150	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+1206	150	s_i_ax	the shoe is difficult to see the bag that carried _ our keys _ with a friend	our,keys	False	20.5625
+1207	150	s_i_xx	it is difficult to see the bag that carried _ our keys _ with a friend	our,keys	True	19.5625
+1208	151	s_ab	the shoe is difficult to see _ in the park _	in,the,park	True	17.4140625
+1209	151	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+1210	151	s_ax	the shoe is difficult to see _ our keys _ in the park	our,keys	False	23.5625
+1211	151	s_xx	it is difficult to see _ our keys _ in the park	our,keys	True	22.3125
+1212	151	s_i_ab	the shoe is difficult to see the bag that carried _ in the park _	in,the,park	False	21.921875
+1213	151	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+1214	151	s_i_ax	the shoe is difficult to see the bag that carried _ our keys _ in the park	our,keys	False	20.5625
+1215	151	s_i_xx	it is difficult to see the bag that carried _ our keys _ in the park	our,keys	True	19.5625
+1216	152	s_ab	the shoe is difficult to see _ on Saturdays _	on,Saturdays	True	19.0
+1217	152	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+1218	152	s_ax	the shoe is difficult to see _ our keys _ on Saturdays	our,keys	False	23.5625
+1219	152	s_xx	it is difficult to see _ our keys _ on Saturdays	our,keys	True	22.3125
+1220	152	s_i_ab	the shoe is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	24.1875
+1221	152	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+1222	152	s_i_ax	the shoe is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.5625
+1223	152	s_i_xx	it is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5625
+1224	153	s_ab	the shoe is difficult to lose _ with a friend _	with,a,friend	True	19.232421875
+1225	153	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+1226	153	s_ax	the shoe is difficult to lose _ the cheese _ with a friend	the,cheese	False	23.0625
+1227	153	s_xx	it is difficult to lose _ the cheese _ with a friend	the,cheese	True	16.5390625
+1228	153	s_i_ab	the shoe is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	19.46875
+1229	153	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+1230	153	s_i_ax	the shoe is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	14.78125
+1231	153	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.70703125
+1232	154	s_ab	the shoe is difficult to lose _ in the park _	in,the,park	True	17.234375
+1233	154	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+1234	154	s_ax	the shoe is difficult to lose _ the cheese _ in the park	the,cheese	False	23.0625
+1235	154	s_xx	it is difficult to lose _ the cheese _ in the park	the,cheese	True	16.5390625
+1236	154	s_i_ab	the shoe is difficult to lose the bag that carried _ in the park _	in,the,park	False	19.125
+1237	154	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+1238	154	s_i_ax	the shoe is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	False	14.78125
+1239	154	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.70703125
+1240	155	s_ab	the shoe is difficult to lose _ on Saturdays _	on,Saturdays	True	17.875
+1241	155	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+1242	155	s_ax	the shoe is difficult to lose _ the cheese _ on Saturdays	the,cheese	False	23.0625
+1243	155	s_xx	it is difficult to lose _ the cheese _ on Saturdays	the,cheese	True	16.5390625
+1244	155	s_i_ab	the shoe is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	21.5625
+1245	155	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+1246	155	s_i_ax	the shoe is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.78125
+1247	155	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.70703125
+1248	156	s_ab	the shoe is difficult to lose _ with a friend _	with,a,friend	True	19.232421875
+1249	156	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+1250	156	s_ax	the shoe is difficult to lose _ your hat _ with a friend	your,hat	False	17.3125
+1251	156	s_xx	it is difficult to lose _ your hat _ with a friend	your,hat	True	9.3203125
+1252	156	s_i_ab	the shoe is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	19.46875
+1253	156	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+1254	156	s_i_ax	the shoe is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.65625
+1255	156	s_i_xx	it is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	True	11.0234375
+1256	157	s_ab	the shoe is difficult to lose _ in the park _	in,the,park	True	17.234375
+1257	157	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+1258	157	s_ax	the shoe is difficult to lose _ your hat _ in the park	your,hat	False	17.3125
+1259	157	s_xx	it is difficult to lose _ your hat _ in the park	your,hat	True	9.3203125
+1260	157	s_i_ab	the shoe is difficult to lose the bag that carried _ in the park _	in,the,park	False	19.125
+1261	157	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+1262	157	s_i_ax	the shoe is difficult to lose the bag that carried _ your hat _ in the park	your,hat	False	11.65625
+1263	157	s_i_xx	it is difficult to lose the bag that carried _ your hat _ in the park	your,hat	True	11.0234375
+1264	158	s_ab	the shoe is difficult to lose _ on Saturdays _	on,Saturdays	True	17.875
+1265	158	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+1266	158	s_ax	the shoe is difficult to lose _ your hat _ on Saturdays	your,hat	False	17.3125
+1267	158	s_xx	it is difficult to lose _ your hat _ on Saturdays	your,hat	True	9.3203125
+1268	158	s_i_ab	the shoe is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	21.5625
+1269	158	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+1270	158	s_i_ax	the shoe is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.65625
+1271	158	s_i_xx	it is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	11.0234375
+1272	159	s_ab	the shoe is difficult to lose _ with a friend _	with,a,friend	True	19.232421875
+1273	159	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+1274	159	s_ax	the shoe is difficult to lose _ our keys _ with a friend	our,keys	False	24.1875
+1275	159	s_xx	it is difficult to lose _ our keys _ with a friend	our,keys	True	19.125
+1276	159	s_i_ab	the shoe is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	19.46875
+1277	159	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+1278	159	s_i_ax	the shoe is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.625
+1279	159	s_i_xx	it is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.8125
+1280	160	s_ab	the shoe is difficult to lose _ in the park _	in,the,park	True	17.234375
+1281	160	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+1282	160	s_ax	the shoe is difficult to lose _ our keys _ in the park	our,keys	False	24.1875
+1283	160	s_xx	it is difficult to lose _ our keys _ in the park	our,keys	True	19.125
+1284	160	s_i_ab	the shoe is difficult to lose the bag that carried _ in the park _	in,the,park	False	19.125
+1285	160	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+1286	160	s_i_ax	the shoe is difficult to lose the bag that carried _ our keys _ in the park	our,keys	False	20.625
+1287	160	s_i_xx	it is difficult to lose the bag that carried _ our keys _ in the park	our,keys	True	19.8125
+1288	161	s_ab	the shoe is difficult to lose _ on Saturdays _	on,Saturdays	True	17.875
+1289	161	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+1290	161	s_ax	the shoe is difficult to lose _ our keys _ on Saturdays	our,keys	False	24.1875
+1291	161	s_xx	it is difficult to lose _ our keys _ on Saturdays	our,keys	True	19.125
+1292	161	s_i_ab	the shoe is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	21.5625
+1293	161	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+1294	161	s_i_ax	the shoe is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.625
+1295	161	s_i_xx	it is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.8125
+1296	162	s_ab	her book is impossible to find _ with a friend _	with,a,friend	True	21.01171875
+1297	162	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+1298	162	s_ax	her book is impossible to find _ the cheese _ with a friend	the,cheese	False	19.40625
+1299	162	s_xx	it is impossible to find _ the cheese _ with a friend	the,cheese	True	14.515625
+1300	162	s_i_ab	her book is impossible to find the bag that carried _ with a friend _	with,a,friend	False	26.71484375
+1301	162	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+1302	162	s_i_ax	her book is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	False	13.96484375
+1303	162	s_i_xx	it is impossible to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.45703125
+1304	163	s_ab	her book is impossible to find _ in the park _	in,the,park	True	17.9375
+1305	163	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+1306	163	s_ax	her book is impossible to find _ the cheese _ in the park	the,cheese	False	19.40625
+1307	163	s_xx	it is impossible to find _ the cheese _ in the park	the,cheese	True	14.515625
+1308	163	s_i_ab	her book is impossible to find the bag that carried _ in the park _	in,the,park	False	24.671875
+1309	163	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+1310	163	s_i_ax	her book is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	False	13.96484375
+1311	163	s_i_xx	it is impossible to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.45703125
+1312	164	s_ab	her book is impossible to find _ on Saturdays _	on,Saturdays	True	16.53125
+1313	164	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+1314	164	s_ax	her book is impossible to find _ the cheese _ on Saturdays	the,cheese	False	19.40625
+1315	164	s_xx	it is impossible to find _ the cheese _ on Saturdays	the,cheese	True	14.515625
+1316	164	s_i_ab	her book is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+1317	164	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+1318	164	s_i_ax	her book is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.96484375
+1319	164	s_i_xx	it is impossible to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.45703125
+1320	165	s_ab	her book is impossible to find _ with a friend _	with,a,friend	True	21.01171875
+1321	165	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+1322	165	s_ax	her book is impossible to find _ your hat _ with a friend	your,hat	False	15.03125
+1323	165	s_xx	it is impossible to find _ your hat _ with a friend	your,hat	True	12.0625
+1324	165	s_i_ab	her book is impossible to find the bag that carried _ with a friend _	with,a,friend	False	26.71484375
+1325	165	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+1326	165	s_i_ax	her book is impossible to find the bag that carried _ your hat _ with a friend	your,hat	False	11.3984375
+1327	165	s_i_xx	it is impossible to find the bag that carried _ your hat _ with a friend	your,hat	True	10.2734375
+1328	166	s_ab	her book is impossible to find _ in the park _	in,the,park	True	17.9375
+1329	166	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+1330	166	s_ax	her book is impossible to find _ your hat _ in the park	your,hat	False	15.03125
+1331	166	s_xx	it is impossible to find _ your hat _ in the park	your,hat	True	12.0625
+1332	166	s_i_ab	her book is impossible to find the bag that carried _ in the park _	in,the,park	False	24.671875
+1333	166	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+1334	166	s_i_ax	her book is impossible to find the bag that carried _ your hat _ in the park	your,hat	False	11.3984375
+1335	166	s_i_xx	it is impossible to find the bag that carried _ your hat _ in the park	your,hat	True	10.2734375
+1336	167	s_ab	her book is impossible to find _ on Saturdays _	on,Saturdays	True	16.53125
+1337	167	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+1338	167	s_ax	her book is impossible to find _ your hat _ on Saturdays	your,hat	False	15.03125
+1339	167	s_xx	it is impossible to find _ your hat _ on Saturdays	your,hat	True	12.0625
+1340	167	s_i_ab	her book is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+1341	167	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+1342	167	s_i_ax	her book is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.3984375
+1343	167	s_i_xx	it is impossible to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.2734375
+1344	168	s_ab	her book is impossible to find _ with a friend _	with,a,friend	True	21.01171875
+1345	168	s_xb	it is impossible to find _ with a friend _	with,a,friend	False	26.7265625
+1346	168	s_ax	her book is impossible to find _ our keys _ with a friend	our,keys	False	22.9375
+1347	168	s_xx	it is impossible to find _ our keys _ with a friend	our,keys	True	19.5
+1348	168	s_i_ab	her book is impossible to find the bag that carried _ with a friend _	with,a,friend	False	26.71484375
+1349	168	s_i_xb	it is impossible to find the bag that carried _ with a friend _	with,a,friend	False	27.3515625
+1350	168	s_i_ax	her book is impossible to find the bag that carried _ our keys _ with a friend	our,keys	False	20.25
+1351	168	s_i_xx	it is impossible to find the bag that carried _ our keys _ with a friend	our,keys	True	19.625
+1352	169	s_ab	her book is impossible to find _ in the park _	in,the,park	True	17.9375
+1353	169	s_xb	it is impossible to find _ in the park _	in,the,park	False	26.90625
+1354	169	s_ax	her book is impossible to find _ our keys _ in the park	our,keys	False	22.9375
+1355	169	s_xx	it is impossible to find _ our keys _ in the park	our,keys	True	19.5
+1356	169	s_i_ab	her book is impossible to find the bag that carried _ in the park _	in,the,park	False	24.671875
+1357	169	s_i_xb	it is impossible to find the bag that carried _ in the park _	in,the,park	False	24.828125
+1358	169	s_i_ax	her book is impossible to find the bag that carried _ our keys _ in the park	our,keys	False	20.25
+1359	169	s_i_xx	it is impossible to find the bag that carried _ our keys _ in the park	our,keys	True	19.625
+1360	170	s_ab	her book is impossible to find _ on Saturdays _	on,Saturdays	True	16.53125
+1361	170	s_xb	it is impossible to find _ on Saturdays _	on,Saturdays	False	24.9375
+1362	170	s_ax	her book is impossible to find _ our keys _ on Saturdays	our,keys	False	22.9375
+1363	170	s_xx	it is impossible to find _ our keys _ on Saturdays	our,keys	True	19.5
+1364	170	s_i_ab	her book is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+1365	170	s_i_xb	it is impossible to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+1366	170	s_i_ax	her book is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.25
+1367	170	s_i_xx	it is impossible to find the bag that carried _ our keys _ on Saturdays	our,keys	True	19.625
+1368	171	s_ab	her book is impossible to see _ with a friend _	with,a,friend	True	19.5234375
+1369	171	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+1370	171	s_ax	her book is impossible to see _ the cheese _ with a friend	the,cheese	False	19.21875
+1371	171	s_xx	it is impossible to see _ the cheese _ with a friend	the,cheese	True	14.34375
+1372	171	s_i_ab	her book is impossible to see the bag that carried _ with a friend _	with,a,friend	False	25.91796875
+1373	171	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+1374	171	s_i_ax	her book is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.91796875
+1375	171	s_i_xx	it is impossible to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.3671875
+1376	172	s_ab	her book is impossible to see _ in the park _	in,the,park	True	17.109375
+1377	172	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+1378	172	s_ax	her book is impossible to see _ the cheese _ in the park	the,cheese	False	19.21875
+1379	172	s_xx	it is impossible to see _ the cheese _ in the park	the,cheese	True	14.34375
+1380	172	s_i_ab	her book is impossible to see the bag that carried _ in the park _	in,the,park	False	24.78125
+1381	172	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+1382	172	s_i_ax	her book is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.91796875
+1383	172	s_i_xx	it is impossible to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.3671875
+1384	173	s_ab	her book is impossible to see _ on Saturdays _	on,Saturdays	True	17.03125
+1385	173	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+1386	173	s_ax	her book is impossible to see _ the cheese _ on Saturdays	the,cheese	False	19.21875
+1387	173	s_xx	it is impossible to see _ the cheese _ on Saturdays	the,cheese	True	14.34375
+1388	173	s_i_ab	her book is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.0
+1389	173	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+1390	173	s_i_ax	her book is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.91796875
+1391	173	s_i_xx	it is impossible to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.3671875
+1392	174	s_ab	her book is impossible to see _ with a friend _	with,a,friend	True	19.5234375
+1393	174	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+1394	174	s_ax	her book is impossible to see _ your hat _ with a friend	your,hat	False	15.0
+1395	174	s_xx	it is impossible to see _ your hat _ with a friend	your,hat	True	13.03125
+1396	174	s_i_ab	her book is impossible to see the bag that carried _ with a friend _	with,a,friend	False	25.91796875
+1397	174	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+1398	174	s_i_ax	her book is impossible to see the bag that carried _ your hat _ with a friend	your,hat	False	11.5390625
+1399	174	s_i_xx	it is impossible to see the bag that carried _ your hat _ with a friend	your,hat	True	10.4921875
+1400	175	s_ab	her book is impossible to see _ in the park _	in,the,park	True	17.109375
+1401	175	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+1402	175	s_ax	her book is impossible to see _ your hat _ in the park	your,hat	False	15.0
+1403	175	s_xx	it is impossible to see _ your hat _ in the park	your,hat	True	13.03125
+1404	175	s_i_ab	her book is impossible to see the bag that carried _ in the park _	in,the,park	False	24.78125
+1405	175	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+1406	175	s_i_ax	her book is impossible to see the bag that carried _ your hat _ in the park	your,hat	False	11.5390625
+1407	175	s_i_xx	it is impossible to see the bag that carried _ your hat _ in the park	your,hat	True	10.4921875
+1408	176	s_ab	her book is impossible to see _ on Saturdays _	on,Saturdays	True	17.03125
+1409	176	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+1410	176	s_ax	her book is impossible to see _ your hat _ on Saturdays	your,hat	False	15.0
+1411	176	s_xx	it is impossible to see _ your hat _ on Saturdays	your,hat	True	13.03125
+1412	176	s_i_ab	her book is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.0
+1413	176	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+1414	176	s_i_ax	her book is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.5390625
+1415	176	s_i_xx	it is impossible to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.4921875
+1416	177	s_ab	her book is impossible to see _ with a friend _	with,a,friend	True	19.5234375
+1417	177	s_xb	it is impossible to see _ with a friend _	with,a,friend	False	26.9140625
+1418	177	s_ax	her book is impossible to see _ our keys _ with a friend	our,keys	False	23.8125
+1419	177	s_xx	it is impossible to see _ our keys _ with a friend	our,keys	True	22.25
+1420	177	s_i_ab	her book is impossible to see the bag that carried _ with a friend _	with,a,friend	False	25.91796875
+1421	177	s_i_xb	it is impossible to see the bag that carried _ with a friend _	with,a,friend	False	27.7890625
+1422	177	s_i_ax	her book is impossible to see the bag that carried _ our keys _ with a friend	our,keys	False	20.0625
+1423	177	s_i_xx	it is impossible to see the bag that carried _ our keys _ with a friend	our,keys	True	19.5625
+1424	178	s_ab	her book is impossible to see _ in the park _	in,the,park	True	17.109375
+1425	178	s_xb	it is impossible to see _ in the park _	in,the,park	False	27.984375
+1426	178	s_ax	her book is impossible to see _ our keys _ in the park	our,keys	False	23.8125
+1427	178	s_xx	it is impossible to see _ our keys _ in the park	our,keys	True	22.25
+1428	178	s_i_ab	her book is impossible to see the bag that carried _ in the park _	in,the,park	False	24.78125
+1429	178	s_i_xb	it is impossible to see the bag that carried _ in the park _	in,the,park	False	26.0703125
+1430	178	s_i_ax	her book is impossible to see the bag that carried _ our keys _ in the park	our,keys	False	20.0625
+1431	178	s_i_xx	it is impossible to see the bag that carried _ our keys _ in the park	our,keys	True	19.5625
+1432	179	s_ab	her book is impossible to see _ on Saturdays _	on,Saturdays	True	17.03125
+1433	179	s_xb	it is impossible to see _ on Saturdays _	on,Saturdays	False	25.5625
+1434	179	s_ax	her book is impossible to see _ our keys _ on Saturdays	our,keys	False	23.8125
+1435	179	s_xx	it is impossible to see _ our keys _ on Saturdays	our,keys	True	22.25
+1436	179	s_i_ab	her book is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.0
+1437	179	s_i_xb	it is impossible to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+1438	179	s_i_ax	her book is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0625
+1439	179	s_i_xx	it is impossible to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5625
+1440	180	s_ab	her book is impossible to lose _ with a friend _	with,a,friend	True	19.10546875
+1441	180	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+1442	180	s_ax	her book is impossible to lose _ the cheese _ with a friend	the,cheese	False	24.28125
+1443	180	s_xx	it is impossible to lose _ the cheese _ with a friend	the,cheese	True	16.0390625
+1444	180	s_i_ab	her book is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	26.5
+1445	180	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+1446	180	s_i_ax	her book is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	14.00390625
+1447	180	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.51171875
+1448	181	s_ab	her book is impossible to lose _ in the park _	in,the,park	True	16.96875
+1449	181	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+1450	181	s_ax	her book is impossible to lose _ the cheese _ in the park	the,cheese	False	24.28125
+1451	181	s_xx	it is impossible to lose _ the cheese _ in the park	the,cheese	True	16.0390625
+1452	181	s_i_ab	her book is impossible to lose the bag that carried _ in the park _	in,the,park	False	25.625
+1453	181	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+1454	181	s_i_ax	her book is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	False	14.00390625
+1455	181	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.51171875
+1456	182	s_ab	her book is impossible to lose _ on Saturdays _	on,Saturdays	True	17.84375
+1457	182	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+1458	182	s_ax	her book is impossible to lose _ the cheese _ on Saturdays	the,cheese	False	24.28125
+1459	182	s_xx	it is impossible to lose _ the cheese _ on Saturdays	the,cheese	True	16.0390625
+1460	182	s_i_ab	her book is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.25
+1461	182	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+1462	182	s_i_ax	her book is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.00390625
+1463	182	s_i_xx	it is impossible to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.51171875
+1464	183	s_ab	her book is impossible to lose _ with a friend _	with,a,friend	True	19.10546875
+1465	183	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+1466	183	s_ax	her book is impossible to lose _ your hat _ with a friend	your,hat	False	17.3125
+1467	183	s_xx	it is impossible to lose _ your hat _ with a friend	your,hat	True	9.1328125
+1468	183	s_i_ab	her book is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	26.5
+1469	183	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+1470	183	s_i_ax	her book is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.5625
+1471	183	s_i_xx	it is impossible to lose the bag that carried _ your hat _ with a friend	your,hat	True	10.5703125
+1472	184	s_ab	her book is impossible to lose _ in the park _	in,the,park	True	16.96875
+1473	184	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+1474	184	s_ax	her book is impossible to lose _ your hat _ in the park	your,hat	False	17.3125
+1475	184	s_xx	it is impossible to lose _ your hat _ in the park	your,hat	True	9.1328125
+1476	184	s_i_ab	her book is impossible to lose the bag that carried _ in the park _	in,the,park	False	25.625
+1477	184	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+1478	184	s_i_ax	her book is impossible to lose the bag that carried _ your hat _ in the park	your,hat	False	11.5625
+1479	184	s_i_xx	it is impossible to lose the bag that carried _ your hat _ in the park	your,hat	True	10.5703125
+1480	185	s_ab	her book is impossible to lose _ on Saturdays _	on,Saturdays	True	17.84375
+1481	185	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+1482	185	s_ax	her book is impossible to lose _ your hat _ on Saturdays	your,hat	False	17.3125
+1483	185	s_xx	it is impossible to lose _ your hat _ on Saturdays	your,hat	True	9.1328125
+1484	185	s_i_ab	her book is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.25
+1485	185	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+1486	185	s_i_ax	her book is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.5625
+1487	185	s_i_xx	it is impossible to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	10.5703125
+1488	186	s_ab	her book is impossible to lose _ with a friend _	with,a,friend	True	19.10546875
+1489	186	s_xb	it is impossible to lose _ with a friend _	with,a,friend	False	27.4296875
+1490	186	s_ax	her book is impossible to lose _ our keys _ with a friend	our,keys	False	23.625
+1491	186	s_xx	it is impossible to lose _ our keys _ with a friend	our,keys	True	19.1875
+1492	186	s_i_ab	her book is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	26.5
+1493	186	s_i_xb	it is impossible to lose the bag that carried _ with a friend _	with,a,friend	False	27.80078125
+1494	186	s_i_ax	her book is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.3125
+1495	186	s_i_xx	it is impossible to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.625
+1496	187	s_ab	her book is impossible to lose _ in the park _	in,the,park	True	16.96875
+1497	187	s_xb	it is impossible to lose _ in the park _	in,the,park	False	26.125
+1498	187	s_ax	her book is impossible to lose _ our keys _ in the park	our,keys	False	23.625
+1499	187	s_xx	it is impossible to lose _ our keys _ in the park	our,keys	True	19.1875
+1500	187	s_i_ab	her book is impossible to lose the bag that carried _ in the park _	in,the,park	False	25.625
+1501	187	s_i_xb	it is impossible to lose the bag that carried _ in the park _	in,the,park	False	26.3125
+1502	187	s_i_ax	her book is impossible to lose the bag that carried _ our keys _ in the park	our,keys	False	20.3125
+1503	187	s_i_xx	it is impossible to lose the bag that carried _ our keys _ in the park	our,keys	True	19.625
+1504	188	s_ab	her book is impossible to lose _ on Saturdays _	on,Saturdays	True	17.84375
+1505	188	s_xb	it is impossible to lose _ on Saturdays _	on,Saturdays	False	24.6875
+1506	188	s_ax	her book is impossible to lose _ our keys _ on Saturdays	our,keys	False	23.625
+1507	188	s_xx	it is impossible to lose _ our keys _ on Saturdays	our,keys	True	19.1875
+1508	188	s_i_ab	her book is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.25
+1509	188	s_i_xb	it is impossible to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.5625
+1510	188	s_i_ax	her book is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.3125
+1511	188	s_i_xx	it is impossible to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.625
+1512	189	s_ab	her book is easy to find _ with a friend _	with,a,friend	True	21.0625
+1513	189	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+1514	189	s_ax	her book is easy to find _ the cheese _ with a friend	the,cheese	False	18.46875
+1515	189	s_xx	it is easy to find _ the cheese _ with a friend	the,cheese	True	14.15625
+1516	189	s_i_ab	her book is easy to find the bag that carried _ with a friend _	with,a,friend	False	23.03125
+1517	189	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+1518	189	s_i_ax	her book is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	False	14.05078125
+1519	189	s_i_xx	it is easy to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.70703125
+1520	190	s_ab	her book is easy to find _ in the park _	in,the,park	True	16.03125
+1521	190	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+1522	190	s_ax	her book is easy to find _ the cheese _ in the park	the,cheese	False	18.46875
+1523	190	s_xx	it is easy to find _ the cheese _ in the park	the,cheese	True	14.15625
+1524	190	s_i_ab	her book is easy to find the bag that carried _ in the park _	in,the,park	False	22.734375
+1525	190	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+1526	190	s_i_ax	her book is easy to find the bag that carried _ the cheese _ in the park	the,cheese	False	14.05078125
+1527	190	s_i_xx	it is easy to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.70703125
+1528	191	s_ab	her book is easy to find _ on Saturdays _	on,Saturdays	True	17.65625
+1529	191	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+1530	191	s_ax	her book is easy to find _ the cheese _ on Saturdays	the,cheese	False	18.46875
+1531	191	s_xx	it is easy to find _ the cheese _ on Saturdays	the,cheese	True	14.15625
+1532	191	s_i_ab	her book is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	25.25
+1533	191	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+1534	191	s_i_ax	her book is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.05078125
+1535	191	s_i_xx	it is easy to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.70703125
+1536	192	s_ab	her book is easy to find _ with a friend _	with,a,friend	True	21.0625
+1537	192	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+1538	192	s_ax	her book is easy to find _ your hat _ with a friend	your,hat	False	14.46875
+1539	192	s_xx	it is easy to find _ your hat _ with a friend	your,hat	True	13.15625
+1540	192	s_i_ab	her book is easy to find the bag that carried _ with a friend _	with,a,friend	False	23.03125
+1541	192	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+1542	192	s_i_ax	her book is easy to find the bag that carried _ your hat _ with a friend	your,hat	False	11.1796875
+1543	192	s_i_xx	it is easy to find the bag that carried _ your hat _ with a friend	your,hat	True	10.203125
+1544	193	s_ab	her book is easy to find _ in the park _	in,the,park	True	16.03125
+1545	193	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+1546	193	s_ax	her book is easy to find _ your hat _ in the park	your,hat	False	14.46875
+1547	193	s_xx	it is easy to find _ your hat _ in the park	your,hat	True	13.15625
+1548	193	s_i_ab	her book is easy to find the bag that carried _ in the park _	in,the,park	False	22.734375
+1549	193	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+1550	193	s_i_ax	her book is easy to find the bag that carried _ your hat _ in the park	your,hat	False	11.1796875
+1551	193	s_i_xx	it is easy to find the bag that carried _ your hat _ in the park	your,hat	True	10.203125
+1552	194	s_ab	her book is easy to find _ on Saturdays _	on,Saturdays	True	17.65625
+1553	194	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+1554	194	s_ax	her book is easy to find _ your hat _ on Saturdays	your,hat	False	14.46875
+1555	194	s_xx	it is easy to find _ your hat _ on Saturdays	your,hat	True	13.15625
+1556	194	s_i_ab	her book is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	25.25
+1557	194	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+1558	194	s_i_ax	her book is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.1796875
+1559	194	s_i_xx	it is easy to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.203125
+1560	195	s_ab	her book is easy to find _ with a friend _	with,a,friend	True	21.0625
+1561	195	s_xb	it is easy to find _ with a friend _	with,a,friend	False	27.1015625
+1562	195	s_ax	her book is easy to find _ our keys _ with a friend	our,keys	False	22.1875
+1563	195	s_xx	it is easy to find _ our keys _ with a friend	our,keys	True	19.5
+1564	195	s_i_ab	her book is easy to find the bag that carried _ with a friend _	with,a,friend	False	23.03125
+1565	195	s_i_xb	it is easy to find the bag that carried _ with a friend _	with,a,friend	False	26.27734375
+1566	195	s_i_ax	her book is easy to find the bag that carried _ our keys _ with a friend	our,keys	False	19.875
+1567	195	s_i_xx	it is easy to find the bag that carried _ our keys _ with a friend	our,keys	True	18.9375
+1568	196	s_ab	her book is easy to find _ in the park _	in,the,park	True	16.03125
+1569	196	s_xb	it is easy to find _ in the park _	in,the,park	False	25.484375
+1570	196	s_ax	her book is easy to find _ our keys _ in the park	our,keys	False	22.1875
+1571	196	s_xx	it is easy to find _ our keys _ in the park	our,keys	True	19.5
+1572	196	s_i_ab	her book is easy to find the bag that carried _ in the park _	in,the,park	False	22.734375
+1573	196	s_i_xb	it is easy to find the bag that carried _ in the park _	in,the,park	False	24.4140625
+1574	196	s_i_ax	her book is easy to find the bag that carried _ our keys _ in the park	our,keys	False	19.875
+1575	196	s_i_xx	it is easy to find the bag that carried _ our keys _ in the park	our,keys	True	18.9375
+1576	197	s_ab	her book is easy to find _ on Saturdays _	on,Saturdays	True	17.65625
+1577	197	s_xb	it is easy to find _ on Saturdays _	on,Saturdays	False	24.9375
+1578	197	s_ax	her book is easy to find _ our keys _ on Saturdays	our,keys	False	22.1875
+1579	197	s_xx	it is easy to find _ our keys _ on Saturdays	our,keys	True	19.5
+1580	197	s_i_ab	her book is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	25.25
+1581	197	s_i_xb	it is easy to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+1582	197	s_i_ax	her book is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	False	19.875
+1583	197	s_i_xx	it is easy to find the bag that carried _ our keys _ on Saturdays	our,keys	True	18.9375
+1584	198	s_ab	her book is easy to see _ with a friend _	with,a,friend	True	19.82421875
+1585	198	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+1586	198	s_ax	her book is easy to see _ the cheese _ with a friend	the,cheese	False	18.6875
+1587	198	s_xx	it is easy to see _ the cheese _ with a friend	the,cheese	True	16.09375
+1588	198	s_i_ab	her book is easy to see the bag that carried _ with a friend _	with,a,friend	False	23.4140625
+1589	198	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+1590	198	s_i_ax	her book is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.75
+1591	198	s_i_xx	it is easy to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.5546875
+1592	199	s_ab	her book is easy to see _ in the park _	in,the,park	True	17.1875
+1593	199	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+1594	199	s_ax	her book is easy to see _ the cheese _ in the park	the,cheese	False	18.6875
+1595	199	s_xx	it is easy to see _ the cheese _ in the park	the,cheese	True	16.09375
+1596	199	s_i_ab	her book is easy to see the bag that carried _ in the park _	in,the,park	False	23.6875
+1597	199	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+1598	199	s_i_ax	her book is easy to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.75
+1599	199	s_i_xx	it is easy to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.5546875
+1600	200	s_ab	her book is easy to see _ on Saturdays _	on,Saturdays	True	18.3125
+1601	200	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+1602	200	s_ax	her book is easy to see _ the cheese _ on Saturdays	the,cheese	False	18.6875
+1603	200	s_xx	it is easy to see _ the cheese _ on Saturdays	the,cheese	True	16.09375
+1604	200	s_i_ab	her book is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	25.5
+1605	200	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1606	200	s_i_ax	her book is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.75
+1607	200	s_i_xx	it is easy to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.5546875
+1608	201	s_ab	her book is easy to see _ with a friend _	with,a,friend	True	19.82421875
+1609	201	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+1610	201	s_ax	her book is easy to see _ your hat _ with a friend	your,hat	False	15.75
+1611	201	s_xx	it is easy to see _ your hat _ with a friend	your,hat	True	15.53125
+1612	201	s_i_ab	her book is easy to see the bag that carried _ with a friend _	with,a,friend	False	23.4140625
+1613	201	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+1614	201	s_i_ax	her book is easy to see the bag that carried _ your hat _ with a friend	your,hat	False	11.1875
+1615	201	s_i_xx	it is easy to see the bag that carried _ your hat _ with a friend	your,hat	True	10.3671875
+1616	202	s_ab	her book is easy to see _ in the park _	in,the,park	True	17.1875
+1617	202	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+1618	202	s_ax	her book is easy to see _ your hat _ in the park	your,hat	False	15.75
+1619	202	s_xx	it is easy to see _ your hat _ in the park	your,hat	True	15.53125
+1620	202	s_i_ab	her book is easy to see the bag that carried _ in the park _	in,the,park	False	23.6875
+1621	202	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+1622	202	s_i_ax	her book is easy to see the bag that carried _ your hat _ in the park	your,hat	False	11.1875
+1623	202	s_i_xx	it is easy to see the bag that carried _ your hat _ in the park	your,hat	True	10.3671875
+1624	203	s_ab	her book is easy to see _ on Saturdays _	on,Saturdays	True	18.3125
+1625	203	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+1626	203	s_ax	her book is easy to see _ your hat _ on Saturdays	your,hat	False	15.75
+1627	203	s_xx	it is easy to see _ your hat _ on Saturdays	your,hat	True	15.53125
+1628	203	s_i_ab	her book is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	25.5
+1629	203	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1630	203	s_i_ax	her book is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.1875
+1631	203	s_i_xx	it is easy to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.3671875
+1632	204	s_ab	her book is easy to see _ with a friend _	with,a,friend	True	19.82421875
+1633	204	s_xb	it is easy to see _ with a friend _	with,a,friend	False	26.2265625
+1634	204	s_ax	her book is easy to see _ our keys _ with a friend	our,keys	False	24.0625
+1635	204	s_xx	it is easy to see _ our keys _ with a friend	our,keys	True	23.1875
+1636	204	s_i_ab	her book is easy to see the bag that carried _ with a friend _	with,a,friend	False	23.4140625
+1637	204	s_i_xb	it is easy to see the bag that carried _ with a friend _	with,a,friend	False	27.10546875
+1638	204	s_i_ax	her book is easy to see the bag that carried _ our keys _ with a friend	our,keys	False	19.875
+1639	204	s_i_xx	it is easy to see the bag that carried _ our keys _ with a friend	our,keys	True	19.25
+1640	205	s_ab	her book is easy to see _ in the park _	in,the,park	True	17.1875
+1641	205	s_xb	it is easy to see _ in the park _	in,the,park	False	28.984375
+1642	205	s_ax	her book is easy to see _ our keys _ in the park	our,keys	False	24.0625
+1643	205	s_xx	it is easy to see _ our keys _ in the park	our,keys	True	23.1875
+1644	205	s_i_ab	her book is easy to see the bag that carried _ in the park _	in,the,park	False	23.6875
+1645	205	s_i_xb	it is easy to see the bag that carried _ in the park _	in,the,park	False	26.734375
+1646	205	s_i_ax	her book is easy to see the bag that carried _ our keys _ in the park	our,keys	False	19.875
+1647	205	s_i_xx	it is easy to see the bag that carried _ our keys _ in the park	our,keys	True	19.25
+1648	206	s_ab	her book is easy to see _ on Saturdays _	on,Saturdays	True	18.3125
+1649	206	s_xb	it is easy to see _ on Saturdays _	on,Saturdays	False	26.875
+1650	206	s_ax	her book is easy to see _ our keys _ on Saturdays	our,keys	False	24.0625
+1651	206	s_xx	it is easy to see _ our keys _ on Saturdays	our,keys	True	23.1875
+1652	206	s_i_ab	her book is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	25.5
+1653	206	s_i_xb	it is easy to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1654	206	s_i_ax	her book is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	False	19.875
+1655	206	s_i_xx	it is easy to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.25
+1656	207	s_ab	her book is easy to lose _ with a friend _	with,a,friend	True	19.328125
+1657	207	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+1658	207	s_ax	her book is easy to lose _ the cheese _ with a friend	the,cheese	False	23.1875
+1659	207	s_xx	it is easy to lose _ the cheese _ with a friend	the,cheese	True	15.71875
+1660	207	s_i_ab	her book is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.32421875
+1661	207	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+1662	207	s_i_ax	her book is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	13.9921875
+1663	207	s_i_xx	it is easy to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.48828125
+1664	208	s_ab	her book is easy to lose _ in the park _	in,the,park	True	18.09375
+1665	208	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+1666	208	s_ax	her book is easy to lose _ the cheese _ in the park	the,cheese	False	23.1875
+1667	208	s_xx	it is easy to lose _ the cheese _ in the park	the,cheese	True	15.71875
+1668	208	s_i_ab	her book is easy to lose the bag that carried _ in the park _	in,the,park	False	26.53125
+1669	208	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+1670	208	s_i_ax	her book is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	False	13.9921875
+1671	208	s_i_xx	it is easy to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.48828125
+1672	209	s_ab	her book is easy to lose _ on Saturdays _	on,Saturdays	True	18.3125
+1673	209	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+1674	209	s_ax	her book is easy to lose _ the cheese _ on Saturdays	the,cheese	False	23.1875
+1675	209	s_xx	it is easy to lose _ the cheese _ on Saturdays	the,cheese	True	15.71875
+1676	209	s_i_ab	her book is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.1875
+1677	209	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+1678	209	s_i_ax	her book is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.9921875
+1679	209	s_i_xx	it is easy to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.48828125
+1680	210	s_ab	her book is easy to lose _ with a friend _	with,a,friend	True	19.328125
+1681	210	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+1682	210	s_ax	her book is easy to lose _ your hat _ with a friend	your,hat	False	16.125
+1683	210	s_xx	it is easy to lose _ your hat _ with a friend	your,hat	True	8.625
+1684	210	s_i_ab	her book is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.32421875
+1685	210	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+1686	210	s_i_ax	her book is easy to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.3046875
+1687	210	s_i_xx	it is easy to lose the bag that carried _ your hat _ with a friend	your,hat	True	10.484375
+1688	211	s_ab	her book is easy to lose _ in the park _	in,the,park	True	18.09375
+1689	211	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+1690	211	s_ax	her book is easy to lose _ your hat _ in the park	your,hat	False	16.125
+1691	211	s_xx	it is easy to lose _ your hat _ in the park	your,hat	True	8.625
+1692	211	s_i_ab	her book is easy to lose the bag that carried _ in the park _	in,the,park	False	26.53125
+1693	211	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+1694	211	s_i_ax	her book is easy to lose the bag that carried _ your hat _ in the park	your,hat	False	11.3046875
+1695	211	s_i_xx	it is easy to lose the bag that carried _ your hat _ in the park	your,hat	True	10.484375
+1696	212	s_ab	her book is easy to lose _ on Saturdays _	on,Saturdays	True	18.3125
+1697	212	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+1698	212	s_ax	her book is easy to lose _ your hat _ on Saturdays	your,hat	False	16.125
+1699	212	s_xx	it is easy to lose _ your hat _ on Saturdays	your,hat	True	8.625
+1700	212	s_i_ab	her book is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.1875
+1701	212	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+1702	212	s_i_ax	her book is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.3046875
+1703	212	s_i_xx	it is easy to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	10.484375
+1704	213	s_ab	her book is easy to lose _ with a friend _	with,a,friend	True	19.328125
+1705	213	s_xb	it is easy to lose _ with a friend _	with,a,friend	False	27.25
+1706	213	s_ax	her book is easy to lose _ our keys _ with a friend	our,keys	False	23.375
+1707	213	s_xx	it is easy to lose _ our keys _ with a friend	our,keys	True	18.3125
+1708	213	s_i_ab	her book is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.32421875
+1709	213	s_i_xb	it is easy to lose the bag that carried _ with a friend _	with,a,friend	False	27.9453125
+1710	213	s_i_ax	her book is easy to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.0
+1711	213	s_i_xx	it is easy to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.4375
+1712	214	s_ab	her book is easy to lose _ in the park _	in,the,park	True	18.09375
+1713	214	s_xb	it is easy to lose _ in the park _	in,the,park	False	26.234375
+1714	214	s_ax	her book is easy to lose _ our keys _ in the park	our,keys	False	23.375
+1715	214	s_xx	it is easy to lose _ our keys _ in the park	our,keys	True	18.3125
+1716	214	s_i_ab	her book is easy to lose the bag that carried _ in the park _	in,the,park	False	26.53125
+1717	214	s_i_xb	it is easy to lose the bag that carried _ in the park _	in,the,park	False	26.6875
+1718	214	s_i_ax	her book is easy to lose the bag that carried _ our keys _ in the park	our,keys	False	20.0
+1719	214	s_i_xx	it is easy to lose the bag that carried _ our keys _ in the park	our,keys	True	19.4375
+1720	215	s_ab	her book is easy to lose _ on Saturdays _	on,Saturdays	True	18.3125
+1721	215	s_xb	it is easy to lose _ on Saturdays _	on,Saturdays	False	23.9375
+1722	215	s_ax	her book is easy to lose _ our keys _ on Saturdays	our,keys	False	23.375
+1723	215	s_xx	it is easy to lose _ our keys _ on Saturdays	our,keys	True	18.3125
+1724	215	s_i_ab	her book is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.1875
+1725	215	s_i_xb	it is easy to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.625
+1726	215	s_i_ax	her book is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0
+1727	215	s_i_xx	it is easy to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.4375
+1728	216	s_ab	her book is difficult to find _ with a friend _	with,a,friend	True	20.98828125
+1729	216	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+1730	216	s_ax	her book is difficult to find _ the cheese _ with a friend	the,cheese	False	18.03125
+1731	216	s_xx	it is difficult to find _ the cheese _ with a friend	the,cheese	True	14.8125
+1732	216	s_i_ab	her book is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.80078125
+1733	216	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+1734	216	s_i_ax	her book is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	False	13.98046875
+1735	216	s_i_xx	it is difficult to find the bag that carried _ the cheese _ with a friend	the,cheese	True	13.4375
+1736	217	s_ab	her book is difficult to find _ in the park _	in,the,park	True	17.65625
+1737	217	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+1738	217	s_ax	her book is difficult to find _ the cheese _ in the park	the,cheese	False	18.03125
+1739	217	s_xx	it is difficult to find _ the cheese _ in the park	the,cheese	True	14.8125
+1740	217	s_i_ab	her book is difficult to find the bag that carried _ in the park _	in,the,park	False	24.984375
+1741	217	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+1742	217	s_i_ax	her book is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	False	13.98046875
+1743	217	s_i_xx	it is difficult to find the bag that carried _ the cheese _ in the park	the,cheese	True	13.4375
+1744	218	s_ab	her book is difficult to find _ on Saturdays _	on,Saturdays	True	16.65625
+1745	218	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+1746	218	s_ax	her book is difficult to find _ the cheese _ on Saturdays	the,cheese	False	18.03125
+1747	218	s_xx	it is difficult to find _ the cheese _ on Saturdays	the,cheese	True	14.8125
+1748	218	s_i_ab	her book is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.9375
+1749	218	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1750	218	s_i_ax	her book is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.98046875
+1751	218	s_i_xx	it is difficult to find the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.4375
+1752	219	s_ab	her book is difficult to find _ with a friend _	with,a,friend	True	20.98828125
+1753	219	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+1754	219	s_ax	her book is difficult to find _ your hat _ with a friend	your,hat	False	14.09375
+1755	219	s_xx	it is difficult to find _ your hat _ with a friend	your,hat	True	12.40625
+1756	219	s_i_ab	her book is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.80078125
+1757	219	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+1758	219	s_i_ax	her book is difficult to find the bag that carried _ your hat _ with a friend	your,hat	False	11.2890625
+1759	219	s_i_xx	it is difficult to find the bag that carried _ your hat _ with a friend	your,hat	True	10.375
+1760	220	s_ab	her book is difficult to find _ in the park _	in,the,park	True	17.65625
+1761	220	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+1762	220	s_ax	her book is difficult to find _ your hat _ in the park	your,hat	False	14.09375
+1763	220	s_xx	it is difficult to find _ your hat _ in the park	your,hat	True	12.40625
+1764	220	s_i_ab	her book is difficult to find the bag that carried _ in the park _	in,the,park	False	24.984375
+1765	220	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+1766	220	s_i_ax	her book is difficult to find the bag that carried _ your hat _ in the park	your,hat	False	11.2890625
+1767	220	s_i_xx	it is difficult to find the bag that carried _ your hat _ in the park	your,hat	True	10.375
+1768	221	s_ab	her book is difficult to find _ on Saturdays _	on,Saturdays	True	16.65625
+1769	221	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+1770	221	s_ax	her book is difficult to find _ your hat _ on Saturdays	your,hat	False	14.09375
+1771	221	s_xx	it is difficult to find _ your hat _ on Saturdays	your,hat	True	12.40625
+1772	221	s_i_ab	her book is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.9375
+1773	221	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1774	221	s_i_ax	her book is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	False	11.2890625
+1775	221	s_i_xx	it is difficult to find the bag that carried _ your hat _ on Saturdays	your,hat	True	10.375
+1776	222	s_ab	her book is difficult to find _ with a friend _	with,a,friend	True	20.98828125
+1777	222	s_xb	it is difficult to find _ with a friend _	with,a,friend	False	27.0546875
+1778	222	s_ax	her book is difficult to find _ our keys _ with a friend	our,keys	False	21.25
+1779	222	s_xx	it is difficult to find _ our keys _ with a friend	our,keys	True	19.875
+1780	222	s_i_ab	her book is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.80078125
+1781	222	s_i_xb	it is difficult to find the bag that carried _ with a friend _	with,a,friend	False	26.90234375
+1782	222	s_i_ax	her book is difficult to find the bag that carried _ our keys _ with a friend	our,keys	False	20.125
+1783	222	s_i_xx	it is difficult to find the bag that carried _ our keys _ with a friend	our,keys	True	19.5
+1784	223	s_ab	her book is difficult to find _ in the park _	in,the,park	True	17.65625
+1785	223	s_xb	it is difficult to find _ in the park _	in,the,park	False	27.453125
+1786	223	s_ax	her book is difficult to find _ our keys _ in the park	our,keys	False	21.25
+1787	223	s_xx	it is difficult to find _ our keys _ in the park	our,keys	True	19.875
+1788	223	s_i_ab	her book is difficult to find the bag that carried _ in the park _	in,the,park	False	24.984375
+1789	223	s_i_xb	it is difficult to find the bag that carried _ in the park _	in,the,park	False	24.65625
+1790	223	s_i_ax	her book is difficult to find the bag that carried _ our keys _ in the park	our,keys	False	20.125
+1791	223	s_i_xx	it is difficult to find the bag that carried _ our keys _ in the park	our,keys	True	19.5
+1792	224	s_ab	her book is difficult to find _ on Saturdays _	on,Saturdays	True	16.65625
+1793	224	s_xb	it is difficult to find _ on Saturdays _	on,Saturdays	False	25.0625
+1794	224	s_ax	her book is difficult to find _ our keys _ on Saturdays	our,keys	False	21.25
+1795	224	s_xx	it is difficult to find _ our keys _ on Saturdays	our,keys	True	19.875
+1796	224	s_i_ab	her book is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	27.9375
+1797	224	s_i_xb	it is difficult to find the bag that carried _ on Saturdays _	on,Saturdays	False	28.5
+1798	224	s_i_ax	her book is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	False	20.125
+1799	224	s_i_xx	it is difficult to find the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5
+1800	225	s_ab	her book is difficult to see _ with a friend _	with,a,friend	True	19.5546875
+1801	225	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+1802	225	s_ax	her book is difficult to see _ the cheese _ with a friend	the,cheese	False	18.9375
+1803	225	s_xx	it is difficult to see _ the cheese _ with a friend	the,cheese	True	15.5
+1804	225	s_i_ab	her book is difficult to see the bag that carried _ with a friend _	with,a,friend	False	26.6796875
+1805	225	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+1806	225	s_i_ax	her book is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	False	13.796875
+1807	225	s_i_xx	it is difficult to see the bag that carried _ the cheese _ with a friend	the,cheese	True	13.3359375
+1808	226	s_ab	her book is difficult to see _ in the park _	in,the,park	True	16.90625
+1809	226	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+1810	226	s_ax	her book is difficult to see _ the cheese _ in the park	the,cheese	False	18.9375
+1811	226	s_xx	it is difficult to see _ the cheese _ in the park	the,cheese	True	15.5
+1812	226	s_i_ab	her book is difficult to see the bag that carried _ in the park _	in,the,park	False	25.78125
+1813	226	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+1814	226	s_i_ax	her book is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	False	13.796875
+1815	226	s_i_xx	it is difficult to see the bag that carried _ the cheese _ in the park	the,cheese	True	13.3359375
+1816	227	s_ab	her book is difficult to see _ on Saturdays _	on,Saturdays	True	17.6875
+1817	227	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+1818	227	s_ax	her book is difficult to see _ the cheese _ on Saturdays	the,cheese	False	18.9375
+1819	227	s_xx	it is difficult to see _ the cheese _ on Saturdays	the,cheese	True	15.5
+1820	227	s_i_ab	her book is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.75
+1821	227	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+1822	227	s_i_ax	her book is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	False	13.796875
+1823	227	s_i_xx	it is difficult to see the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.3359375
+1824	228	s_ab	her book is difficult to see _ with a friend _	with,a,friend	True	19.5546875
+1825	228	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+1826	228	s_ax	her book is difficult to see _ your hat _ with a friend	your,hat	False	14.8125
+1827	228	s_xx	it is difficult to see _ your hat _ with a friend	your,hat	True	13.5625
+1828	228	s_i_ab	her book is difficult to see the bag that carried _ with a friend _	with,a,friend	False	26.6796875
+1829	228	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+1830	228	s_i_ax	her book is difficult to see the bag that carried _ your hat _ with a friend	your,hat	False	11.296875
+1831	228	s_i_xx	it is difficult to see the bag that carried _ your hat _ with a friend	your,hat	True	10.5859375
+1832	229	s_ab	her book is difficult to see _ in the park _	in,the,park	True	16.90625
+1833	229	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+1834	229	s_ax	her book is difficult to see _ your hat _ in the park	your,hat	False	14.8125
+1835	229	s_xx	it is difficult to see _ your hat _ in the park	your,hat	True	13.5625
+1836	229	s_i_ab	her book is difficult to see the bag that carried _ in the park _	in,the,park	False	25.78125
+1837	229	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+1838	229	s_i_ax	her book is difficult to see the bag that carried _ your hat _ in the park	your,hat	False	11.296875
+1839	229	s_i_xx	it is difficult to see the bag that carried _ your hat _ in the park	your,hat	True	10.5859375
+1840	230	s_ab	her book is difficult to see _ on Saturdays _	on,Saturdays	True	17.6875
+1841	230	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+1842	230	s_ax	her book is difficult to see _ your hat _ on Saturdays	your,hat	False	14.8125
+1843	230	s_xx	it is difficult to see _ your hat _ on Saturdays	your,hat	True	13.5625
+1844	230	s_i_ab	her book is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.75
+1845	230	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+1846	230	s_i_ax	her book is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	False	11.296875
+1847	230	s_i_xx	it is difficult to see the bag that carried _ your hat _ on Saturdays	your,hat	True	10.5859375
+1848	231	s_ab	her book is difficult to see _ with a friend _	with,a,friend	True	19.5546875
+1849	231	s_xb	it is difficult to see _ with a friend _	with,a,friend	False	26.8203125
+1850	231	s_ax	her book is difficult to see _ our keys _ with a friend	our,keys	False	23.4375
+1851	231	s_xx	it is difficult to see _ our keys _ with a friend	our,keys	True	22.3125
+1852	231	s_i_ab	her book is difficult to see the bag that carried _ with a friend _	with,a,friend	False	26.6796875
+1853	231	s_i_xb	it is difficult to see the bag that carried _ with a friend _	with,a,friend	False	27.8359375
+1854	231	s_i_ax	her book is difficult to see the bag that carried _ our keys _ with a friend	our,keys	False	20.0625
+1855	231	s_i_xx	it is difficult to see the bag that carried _ our keys _ with a friend	our,keys	True	19.5625
+1856	232	s_ab	her book is difficult to see _ in the park _	in,the,park	True	16.90625
+1857	232	s_xb	it is difficult to see _ in the park _	in,the,park	False	28.546875
+1858	232	s_ax	her book is difficult to see _ our keys _ in the park	our,keys	False	23.4375
+1859	232	s_xx	it is difficult to see _ our keys _ in the park	our,keys	True	22.3125
+1860	232	s_i_ab	her book is difficult to see the bag that carried _ in the park _	in,the,park	False	25.78125
+1861	232	s_i_xb	it is difficult to see the bag that carried _ in the park _	in,the,park	False	26.5859375
+1862	232	s_i_ax	her book is difficult to see the bag that carried _ our keys _ in the park	our,keys	False	20.0625
+1863	232	s_i_xx	it is difficult to see the bag that carried _ our keys _ in the park	our,keys	True	19.5625
+1864	233	s_ab	her book is difficult to see _ on Saturdays _	on,Saturdays	True	17.6875
+1865	233	s_xb	it is difficult to see _ on Saturdays _	on,Saturdays	False	25.4375
+1866	233	s_ax	her book is difficult to see _ our keys _ on Saturdays	our,keys	False	23.4375
+1867	233	s_xx	it is difficult to see _ our keys _ on Saturdays	our,keys	True	22.3125
+1868	233	s_i_ab	her book is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	27.75
+1869	233	s_i_xb	it is difficult to see the bag that carried _ on Saturdays _	on,Saturdays	False	28.875
+1870	233	s_i_ax	her book is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	False	20.0625
+1871	233	s_i_xx	it is difficult to see the bag that carried _ our keys _ on Saturdays	our,keys	True	19.5625
+1872	234	s_ab	her book is difficult to lose _ with a friend _	with,a,friend	True	19.88671875
+1873	234	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+1874	234	s_ax	her book is difficult to lose _ the cheese _ with a friend	the,cheese	False	23.90625
+1875	234	s_xx	it is difficult to lose _ the cheese _ with a friend	the,cheese	True	16.5390625
+1876	234	s_i_ab	her book is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.16015625
+1877	234	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+1878	234	s_i_ax	her book is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	False	14.2734375
+1879	234	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ with a friend	the,cheese	True	13.70703125
+1880	235	s_ab	her book is difficult to lose _ in the park _	in,the,park	True	16.609375
+1881	235	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+1882	235	s_ax	her book is difficult to lose _ the cheese _ in the park	the,cheese	False	23.90625
+1883	235	s_xx	it is difficult to lose _ the cheese _ in the park	the,cheese	True	16.5390625
+1884	235	s_i_ab	her book is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.390625
+1885	235	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+1886	235	s_i_ax	her book is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	False	14.2734375
+1887	235	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ in the park	the,cheese	True	13.70703125
+1888	236	s_ab	her book is difficult to lose _ on Saturdays _	on,Saturdays	True	18.15625
+1889	236	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+1890	236	s_ax	her book is difficult to lose _ the cheese _ on Saturdays	the,cheese	False	23.90625
+1891	236	s_xx	it is difficult to lose _ the cheese _ on Saturdays	the,cheese	True	16.5390625
+1892	236	s_i_ab	her book is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+1893	236	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+1894	236	s_i_ax	her book is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	False	14.2734375
+1895	236	s_i_xx	it is difficult to lose the bag that carried _ the cheese _ on Saturdays	the,cheese	True	13.70703125
+1896	237	s_ab	her book is difficult to lose _ with a friend _	with,a,friend	True	19.88671875
+1897	237	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.8671875
+1898	237	s_ax	her book is difficult to lose _ your hat _ with a friend	your,hat	False	17.03125
+1899	237	s_xx	it is difficult to lose _ your hat _ with a friend	your,hat	True	9.3203125
+1900	237	s_i_ab	her book is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.16015625
+1901	237	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.875
+1902	237	s_i_ax	her book is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	False	11.7109375
+1903	237	s_i_xx	it is difficult to lose the bag that carried _ your hat _ with a friend	your,hat	True	11.0234375
+1904	238	s_ab	her book is difficult to lose _ in the park _	in,the,park	True	16.609375
+1905	238	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+1906	238	s_ax	her book is difficult to lose _ your hat _ in the park	your,hat	False	17.03125
+1907	238	s_xx	it is difficult to lose _ your hat _ in the park	your,hat	True	9.3203125
+1908	238	s_i_ab	her book is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.390625
+1909	238	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.921875
+1910	238	s_i_ax	her book is difficult to lose the bag that carried _ your hat _ in the park	your,hat	False	11.7109375
+1911	238	s_i_xx	it is difficult to lose the bag that carried _ your hat _ in the park	your,hat	True	11.0234375
+1912	239	s_ab	her book is difficult to lose _ on Saturdays _	on,Saturdays	True	18.15625
+1913	239	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+1914	239	s_ax	her book is difficult to lose _ your hat _ on Saturdays	your,hat	False	17.03125
+1915	239	s_xx	it is difficult to lose _ your hat _ on Saturdays	your,hat	True	9.3203125
+1916	239	s_i_ab	her book is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.8125
+1917	239	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.75
+1918	239	s_i_ax	her book is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	False	11.7109375
+1919	239	s_i_xx	it is difficult to lose the bag that carried _ your hat _ on Saturdays	your,hat	True	11.0234375
+1920	240	s_ab	her book is difficult to lose _ with a friend _	with,a,friend	True	19.6953125
+1921	240	s_xb	it is difficult to lose _ with a friend _	with,a,friend	False	27.859375
+1922	240	s_ax	her book is difficult to lose _ our keys _ with a friend	our,keys	False	23.6875
+1923	240	s_xx	it is difficult to lose _ our keys _ with a friend	our,keys	True	19.1875
+1924	240	s_i_ab	her book is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	26.87109375
+1925	240	s_i_xb	it is difficult to lose the bag that carried _ with a friend _	with,a,friend	False	27.98828125
+1926	240	s_i_ax	her book is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	False	20.375
+1927	240	s_i_xx	it is difficult to lose the bag that carried _ our keys _ with a friend	our,keys	True	19.75
+1928	241	s_ab	her book is difficult to lose _ in the park _	in,the,park	True	16.59375
+1929	241	s_xb	it is difficult to lose _ in the park _	in,the,park	False	26.59375
+1930	241	s_ax	her book is difficult to lose _ our keys _ in the park	our,keys	False	23.6875
+1931	241	s_xx	it is difficult to lose _ our keys _ in the park	our,keys	True	19.1875
+1932	241	s_i_ab	her book is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.125
+1933	241	s_i_xb	it is difficult to lose the bag that carried _ in the park _	in,the,park	False	26.96875
+1934	241	s_i_ax	her book is difficult to lose the bag that carried _ our keys _ in the park	our,keys	False	20.375
+1935	241	s_i_xx	it is difficult to lose the bag that carried _ our keys _ in the park	our,keys	True	19.75
+1936	242	s_ab	her book is difficult to lose _ on Saturdays _	on,Saturdays	True	18.15625
+1937	242	s_xb	it is difficult to lose _ on Saturdays _	on,Saturdays	False	24.9375
+1938	242	s_ax	her book is difficult to lose _ our keys _ on Saturdays	our,keys	False	23.6875
+1939	242	s_xx	it is difficult to lose _ our keys _ on Saturdays	our,keys	True	19.1875
+1940	242	s_i_ab	her book is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	27.625
+1941	242	s_i_xb	it is difficult to lose the bag that carried _ on Saturdays _	on,Saturdays	False	28.6875
+1942	242	s_i_ax	her book is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	False	20.375
+1943	242	s_i_xx	it is difficult to lose the bag that carried _ our keys _ on Saturdays	our,keys	True	19.75
