@@ -24,7 +24,8 @@ python train_tinker/HS_train.py
 # train a custom model 
 python train_tinker/HS_train.py --model_path /path/to/previous/model
 
-# model saved as train_tinker/weight_paths_model_HS.json
+# model saved as train_tinker/weight_paths_model_HS.json. Note that these are NOT the full weight files, instead
+# model weights are saved in Tinker storage. Use download_weights.py to download them.
 ```
 
 ## Evaluation

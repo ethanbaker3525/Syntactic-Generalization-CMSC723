@@ -1,3 +1,7 @@
+"""
+use Tinker API to download model weights from their storage
+"""
+
 from pathlib import Path
 import tinker
 import urllib.request
