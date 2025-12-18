@@ -5,12 +5,27 @@ Final project for UMD CS: CMSC723 Natural Language Processing; Fall 2025. This p
 Created by [Ethan Baker](ebaker35@umd.edu), [Daniel Kiely](dmkiely@umd.edu), [Annika Shankwitz](ashankwi@umd.edu), and [Chuanhai Xu](cxu12349@umd.edu)
 
 ## Data
+Run the following code to generate the hierarchical syntax tree dataset:
+```sh
+python Data/serialize.py
 
-TODO
+# data stored in Data/trees/brown_trees.tsv"
+```
 
 ## Training
+Run the following code to train models on the hierarchical syntax tree dataset:
+```sh
+# set Tinker API key
+export TINKER_API_KEY=your_api_key_here
 
-TODO
+# train baseline Llama-3.2-1B
+python train_tinker/HS_train.py
+
+# train a custom model 
+python train_tinker/HS_train.py --model_path /path/to/previous/model
+
+# model saved as train_tinker/weight_paths_model_HS.json
+```
 
 ## Evaluation
 
