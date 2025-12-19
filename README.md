@@ -12,6 +12,9 @@ python Data/serialize.py
 # data stored in Data/trees/brown_trees.tsv"
 ```
 
+The original filler-gap dependency data was sourced from [this repository](https://github.com/umd-psycholing/lm-syntactic-generalization). Our recovered training and testing splits of the filler-gap dependency data are located in Data/splits. 
+
+
 ## Training
 Run the following code to train models on the hierarchical syntax tree dataset:
 ```sh
