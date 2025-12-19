@@ -1,3 +1,4 @@
+import argparse
 import tinker
 from tinker import types
 from typing import List
@@ -103,10 +104,10 @@ def main(model_path=None):
     
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Syntactic Tree Training')
-    parser.add_argument('--model', type=str, required=False)
+    parser.add_argument('--model_path', type=str, required=False)
     args = parser.parse_args()
 
-    main(model_path=args.model)
+    main(model_path=args.model_path)
     
     
     

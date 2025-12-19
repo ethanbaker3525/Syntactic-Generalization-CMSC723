@@ -1,22 +1,24 @@
 # WARNING: FILE WAS RUN ON COLAB.
 # INPUT/OUTPUT FILEPATHS DO NOT NECESSARILY WORK WHEN RUN LOCALLY
 
+import argparse
 import torch
 import os
 import math
-from transformers import pipeline
 import torch.nn.functional as F
 from transformers import AutoTokenizer, AutoModelForCausalLM
-from huggingface_hub import login
 from tqdm import tqdm
 import pandas as pd
 from peft import PeftModel
-from datetime import datetime
 from google.colab import userdata
 
-cpt = True
+parser = argparse.ArgumentParser(description='Surprisal Evaluation')
+parser.add_argument('--HF_TOKEN', type=str, required=True)
+parser.add_argument('--cpt', action='store_true')
+args = parser.parse_args()
 
-hf_token = userdata.get("HF_TOKEN")
+cpt = args.cpt
+hf_token = args.HF_TOKEN
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
@@ -113,7 +115,7 @@ def batch_eval_all():
 
   files = ["eval_cleft.tsv", "eval_intro_topic.tsv", "eval_nointro_topic.tsv", "eval_tough.tsv", "eval_wh.tsv"]
 
-  output_directory = f"output"
+  output_directory = f"eval_output"
   if not os.path.exists(output_directory):
     os.makedirs(output_directory)
 

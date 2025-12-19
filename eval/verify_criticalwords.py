@@ -26,4 +26,4 @@ for name in os.listdir(splits_folder):
           raise Exception("Error")
         
 print("Everything checks out if no exceptions were raised and this prints")
-print(m)
+print(f"Max number of tokens: {m}")
